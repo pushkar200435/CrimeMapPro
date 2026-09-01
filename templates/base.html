@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Crime Prediction & Mapping System{% endblock %}</title>
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="brand-section">
+                <div class="brand-logo">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+                <span class="brand-title">CrimeMap Pro</span>
+            </div>
+            
+            <nav style="flex-grow: 1;">
+                <ul class="nav-menu">
+                    <li class="nav-item {% if request.path == '/' or request.path == '/dashboard' %}active{% endif %}">
+                        <a href="/dashboard">
+                            <i class="fa-solid fa-chart-line"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li class="nav-item {% if request.path == '/predict' %}active{% endif %}">
+                        <a href="/predict">
+                            <i class="fa-solid fa-brain"></i>
+                            <span>Predictions</span>
+                        </a>
+                    </li>
+                    <li class="nav-item {% if request.path == '/routes' %}active{% endif %}">
+                        <a href="/routes">
+                            <i class="fa-solid fa-route"></i>
+                            <span>Safe Routing</span>
+                        </a>
+                    </li>
+                    <li class="nav-item {% if request.path == '/map' %}active{% endif %}">
+                        <a href="/map">
+                            <i class="fa-solid fa-map-location-dot"></i>
+                            <span>Hotspot Map</span>
+                        </a>
+                    </li>
+                    <li class="nav-item {% if request.path == '/chatbot' %}active{% endif %}">
+                        <a href="/chatbot">
+                            <i class="fa-solid fa-robot"></i>
+                            <span>AI Chatbot</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <button class="theme-toggle-btn" id="theme-toggle">
+                    <i class="fa-solid fa-sun" id="theme-icon"></i>
+                    <span id="theme-text">Light Mode</span>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            
+            <header class="top-header">
+                <div class="page-title">
+                    <h1>{% block page_heading %}{% endblock %}</h1>
+                    <p>{% block page_subheading %}{% endblock %}</p>
+                </div>
+                <div class="header-actions">
+                    <span id="live-time" style="color: var(--text-muted); font-size: 0.9rem;"></span>
+                </div>
+            </header>
+
+            
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+
+    
+    <div id="toast-notification" class="toast">
+        <i class="" id="toast-icon"></i>
+        <span id="toast-message">Message goes here</span>
+    </div>
+
+    
+    <script>
+        // Theme switcher logic
+        const themeToggle = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+        const themeText = document.getElementById('theme-text');
+        const htmlElement = document.documentElement;
+
+        // Load saved theme
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        htmlElement.setAttribute('data-theme', savedTheme);
+        updateThemeUI(savedTheme);
+
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = htmlElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            htmlElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeUI(newTheme);
+        });
+
+        function updateThemeUI(theme) {
+            if (theme === 'light') {
+                themeIcon.className = 'fa-solid fa-moon';
+                themeText.textContent = 'Dark Mode';
+            } else {
+                themeIcon.className = 'fa-solid fa-sun';
+                themeText.textContent = 'Light Mode';
+            }
+        }
+
+        // Live Clock
+        function updateClock() {
+            const now = new Date();
+            const dateStr = now.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+            const timeStr = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false });
+            document.getElementById('live-time').innerHTML = `<i class="fa-regular fa-clock"></i> ${dateStr} ${timeStr}`;
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        // Toast Helper
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('toast-notification');
+            const icon = document.getElementById('toast-icon');
+            const msgSpan = document.getElementById('toast-message');
+            
+            toast.className = `toast show toast-${type}`;
+            msgSpan.textContent = message;
+            
+            if (type === 'success') {
+                icon.className = 'fa-solid fa-circle-check';
+            } else {
+                icon.className = 'fa-solid fa-circle-exclamation';
+            }
+            
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 4000);
+        }
+    </script>
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

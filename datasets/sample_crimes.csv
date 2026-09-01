@@ -1,0 +1,2001 @@
+Crime_ID,Crime_Type,Location,Latitude,Longitude,Date,Time,Area,Severity,Arrest_Made
+CRM-00001,Fraud,Downtown,34.064717,-118.251717,2024-11-19,11:05,Commercial,Low,0
+CRM-00002,Drug Offense,Parkside,34.096717,-118.216145,2025-11-14,06:29,Park,Medium,1
+CRM-00003,Assault,Downtown,34.041521,-118.248662,2025-11-17,19:17,Nightclub District,High,0
+CRM-00004,Assault,Parkside,34.090233,-118.199217,2024-06-29,03:45,Residential,High,0
+CRM-00005,Burglary,Industrial District,34.010161,-118.221630,2026-01-19,12:38,Transit Station,Medium,1
+CRM-00006,Theft,Westside,34.027543,-118.350716,2025-05-09,08:48,Residential,Low,0
+CRM-00007,Robbery,Harbor Area,33.730816,-118.270426,2025-02-16,14:35,Industrial,High,0
+CRM-00008,Theft,Suburbs,34.119448,-118.196496,2026-04-12,07:47,School Zone,High,0
+CRM-00009,Fraud,Parkside,34.093595,-118.191865,2024-12-17,10:07,Park,Low,1
+CRM-00010,Vandalism,Industrial District,34.025352,-118.233310,2025-04-19,17:01,Industrial,Low,0
+CRM-00011,Fraud,Eastside,34.029189,-118.192262,2026-04-23,06:50,Commercial,Low,1
+CRM-00012,Burglary,Uptown,34.082741,-118.289476,2025-04-29,04:07,Commercial,Medium,0
+CRM-00013,Shoplifting,Downtown,34.049737,-118.239403,2024-03-24,18:15,Commercial,Low,1
+CRM-00014,Assault,Westside,34.036956,-118.345818,2025-03-25,18:58,Transit Station,High,1
+CRM-00015,Shoplifting,Parkside,34.087217,-118.183489,2024-01-14,04:14,Residential,Low,0
+CRM-00016,Assault,Uptown,34.083824,-118.284435,2024-08-26,13:45,Park,Medium,0
+CRM-00017,Theft,Industrial District,34.012016,-118.220252,2025-08-16,02:34,Transit Station,Medium,0
+CRM-00018,Vandalism,Parkside,34.093434,-118.213598,2025-06-18,04:48,School Zone,Low,0
+CRM-00019,Shoplifting,Eastside,34.032877,-118.193451,2025-02-15,15:13,Commercial,Low,1
+CRM-00020,Burglary,Suburbs,34.127739,-118.182348,2026-04-24,10:24,Residential,Medium,0
+CRM-00021,Shoplifting,Parkside,34.087086,-118.202922,2026-05-20,04:27,School Zone,Low,0
+CRM-00022,Vandalism,Parkside,34.099055,-118.218387,2025-07-07,17:13,Park,Low,0
+CRM-00023,Burglary,Uptown,34.066983,-118.288748,2025-11-16,05:26,Park,Medium,0
+CRM-00024,Shoplifting,Suburbs,34.113612,-118.185932,2024-10-08,21:46,School Zone,Low,0
+CRM-00025,Burglary,Eastside,34.027735,-118.180261,2024-12-19,20:22,Residential,Medium,0
+CRM-00026,Shoplifting,Westside,34.040122,-118.352515,2024-09-20,17:00,Commercial,Low,1
+CRM-00027,Assault,Parkside,34.087459,-118.208253,2024-10-28,09:20,Park,High,1
+CRM-00028,Fraud,Downtown,34.048234,-118.246552,2025-09-10,12:56,Commercial,Low,0
+CRM-00029,Theft,Eastside,34.016266,-118.191925,2025-01-25,03:21,Residential,High,0
+CRM-00030,Shoplifting,Downtown,34.045092,-118.253181,2024-07-05,15:23,Nightclub District,Low,0
+CRM-00031,Vandalism,Harbor Area,33.754952,-118.246766,2025-02-24,16:29,Industrial,Low,0
+CRM-00032,Burglary,Eastside,34.042212,-118.196058,2024-11-30,11:33,Industrial,Low,0
+CRM-00033,Vandalism,Westside,34.027710,-118.346524,2024-11-18,04:45,Commercial,Low,0
+CRM-00034,Theft,Harbor Area,33.737216,-118.263697,2025-12-30,01:08,Transit Station,Medium,1
+CRM-00035,Vandalism,Suburbs,34.127541,-118.196979,2025-09-17,04:36,Park,Medium,0
+CRM-00036,Vandalism,Suburbs,34.141521,-118.185902,2026-04-12,04:47,Residential,Low,0
+CRM-00037,Theft,Industrial District,34.018358,-118.236632,2024-09-07,12:38,Transit Station,Medium,1
+CRM-00038,Shoplifting,Uptown,34.093518,-118.269240,2024-04-29,08:49,Commercial,Low,1
+CRM-00039,Assault,Uptown,34.088820,-118.259562,2024-02-13,23:20,Residential,High,1
+CRM-00040,Assault,Westside,34.052441,-118.354254,2024-10-06,01:23,Residential,High,1
+CRM-00041,Burglary,Uptown,34.077944,-118.284552,2026-05-24,17:08,Park,Medium,0
+CRM-00042,Shoplifting,Uptown,34.074615,-118.287446,2025-06-27,06:55,Commercial,Medium,1
+CRM-00043,Shoplifting,Industrial District,34.022044,-118.221695,2025-09-19,08:00,Industrial,Medium,1
+CRM-00044,Burglary,Suburbs,34.127760,-118.193312,2026-04-18,14:46,Park,Medium,1
+CRM-00045,Burglary,Industrial District,34.007068,-118.244657,2025-06-18,21:54,Industrial,High,0
+CRM-00046,Assault,Parkside,34.094754,-118.200219,2024-03-31,03:57,Residential,High,1
+CRM-00047,Assault,Downtown,34.045084,-118.248220,2026-02-10,02:20,Nightclub District,High,1
+CRM-00048,Vandalism,Parkside,34.098596,-118.196598,2026-01-04,06:40,Residential,Low,0
+CRM-00049,Shoplifting,Uptown,34.090942,-118.288451,2024-05-16,17:31,Park,Low,1
+CRM-00050,Fraud,Eastside,34.025927,-118.185110,2026-01-16,06:01,Industrial,Medium,1
+CRM-00051,Assault,Westside,34.031860,-118.338523,2024-06-28,09:18,Residential,High,1
+CRM-00052,Assault,Parkside,34.086747,-118.192200,2026-03-05,01:25,Park,High,1
+CRM-00053,Theft,Eastside,34.021096,-118.206521,2024-10-19,14:00,Commercial,Medium,0
+CRM-00054,Assault,Downtown,34.044222,-118.241632,2024-03-21,20:59,Commercial,High,0
+CRM-00055,Shoplifting,Parkside,34.080356,-118.206996,2025-09-29,13:16,Residential,Low,1
+CRM-00056,Theft,Downtown,34.053275,-118.247435,2025-05-15,11:07,Commercial,Medium,0
+CRM-00057,Drug Offense,Parkside,34.096781,-118.204848,2025-12-09,20:33,Park,Medium,1
+CRM-00058,Shoplifting,Eastside,34.032219,-118.182586,2024-05-25,13:37,Residential,Low,0
+CRM-00059,Burglary,Industrial District,34.002508,-118.227715,2026-05-09,13:44,Industrial,Medium,0
+CRM-00060,Theft,Westside,34.036606,-118.336638,2024-03-03,00:45,Commercial,Medium,0
+CRM-00061,Drug Offense,Uptown,34.083195,-118.281384,2025-06-22,07:42,Residential,Medium,1
+CRM-00062,Shoplifting,Eastside,34.047014,-118.201586,2026-03-22,19:45,Industrial,Low,1
+CRM-00063,Theft,Eastside,34.035873,-118.202458,2024-06-28,21:48,Industrial,High,0
+CRM-00064,Vandalism,Uptown,34.075956,-118.284381,2024-07-13,06:56,Commercial,Low,0
+CRM-00065,Theft,Westside,34.039715,-118.353510,2026-04-13,18:54,Residential,Medium,1
+CRM-00066,Theft,Uptown,34.083520,-118.286916,2024-06-26,15:22,Commercial,Low,0
+CRM-00067,Burglary,Uptown,34.072969,-118.286338,2025-08-04,06:11,Residential,Medium,1
+CRM-00068,Fraud,Parkside,34.103071,-118.187268,2025-08-19,06:38,Residential,Low,1
+CRM-00069,Assault,Harbor Area,33.741959,-118.257773,2024-03-26,00:11,Commercial,Medium,1
+CRM-00070,Vandalism,Westside,34.045917,-118.353059,2025-04-18,07:30,Commercial,Low,0
+CRM-00071,Fraud,Downtown,34.052279,-118.243365,2025-06-24,17:59,Commercial,Low,1
+CRM-00072,Shoplifting,Suburbs,34.123546,-118.188585,2025-10-16,06:37,School Zone,Low,0
+CRM-00073,Burglary,Westside,34.038534,-118.344389,2024-05-09,12:16,Transit Station,High,1
+CRM-00074,Assault,Suburbs,34.122036,-118.179156,2026-03-21,12:31,Park,High,0
+CRM-00075,Theft,Uptown,34.071263,-118.285870,2024-02-25,12:38,Residential,Medium,1
+CRM-00076,Shoplifting,Suburbs,34.134035,-118.187940,2026-05-27,04:31,School Zone,Low,1
+CRM-00077,Theft,Eastside,34.027199,-118.187902,2024-10-31,09:51,Commercial,High,0
+CRM-00078,Theft,Eastside,34.008819,-118.200546,2024-06-06,14:43,Industrial,Medium,0
+CRM-00079,Fraud,Downtown,34.049538,-118.240577,2025-02-16,22:24,Commercial,Low,0
+CRM-00080,Assault,Suburbs,34.108070,-118.180465,2024-02-27,07:59,Residential,Medium,0
+CRM-00081,Drug Offense,Uptown,34.089029,-118.288794,2025-03-11,13:34,Park,Medium,1
+CRM-00082,Burglary,Parkside,34.092100,-118.214510,2026-02-20,20:57,Residential,High,0
+CRM-00083,Burglary,Eastside,34.024187,-118.175175,2024-12-22,17:11,Industrial,Low,0
+CRM-00084,Robbery,Industrial District,34.003162,-118.234787,2025-01-27,12:11,Industrial,High,0
+CRM-00085,Fraud,Downtown,34.063250,-118.240277,2026-05-23,08:36,Nightclub District,Low,0
+CRM-00086,Assault,Parkside,34.091070,-118.212642,2025-01-13,02:05,School Zone,High,1
+CRM-00087,Theft,Uptown,34.081390,-118.282719,2025-10-11,00:34,Commercial,Medium,0
+CRM-00088,Theft,Suburbs,34.110148,-118.181860,2025-05-18,07:24,Residential,High,0
+CRM-00089,Theft,Parkside,34.093227,-118.219474,2025-12-10,14:24,School Zone,High,0
+CRM-00090,Vandalism,Industrial District,34.005170,-118.229167,2024-04-12,10:58,Transit Station,Medium,0
+CRM-00091,Drug Offense,Uptown,34.089788,-118.282522,2024-05-26,17:14,Residential,Low,1
+CRM-00092,Burglary,Suburbs,34.113817,-118.183062,2025-04-18,06:06,Residential,Low,0
+CRM-00093,Vandalism,Industrial District,34.019414,-118.231523,2024-01-26,18:57,Transit Station,Low,0
+CRM-00094,Theft,Suburbs,34.130454,-118.184211,2024-10-18,03:18,Park,Medium,0
+CRM-00095,Robbery,Parkside,34.098834,-118.199091,2025-11-27,01:35,Residential,High,0
+CRM-00096,Vandalism,Suburbs,34.133499,-118.173133,2024-09-19,09:09,School Zone,Medium,0
+CRM-00097,Assault,Suburbs,34.117768,-118.175228,2025-06-28,18:32,Residential,High,1
+CRM-00098,Fraud,Westside,34.043979,-118.347772,2024-03-21,16:54,Commercial,Low,1
+CRM-00099,Vandalism,Westside,34.042053,-118.361270,2026-01-24,13:28,Transit Station,Low,0
+CRM-00100,Fraud,Industrial District,33.992497,-118.219357,2025-12-28,10:52,Transit Station,Low,0
+CRM-00101,Burglary,Eastside,34.039384,-118.194081,2024-06-24,23:54,Industrial,High,0
+CRM-00102,Burglary,Eastside,34.031650,-118.187317,2024-07-05,14:37,Industrial,Low,0
+CRM-00103,Shoplifting,Eastside,34.028154,-118.206868,2025-11-02,18:44,Commercial,Low,0
+CRM-00104,Burglary,Industrial District,34.001806,-118.210593,2024-05-23,04:35,Industrial,Medium,0
+CRM-00105,Vandalism,Eastside,34.035302,-118.191460,2024-04-17,21:33,Industrial,Low,0
+CRM-00106,Fraud,Harbor Area,33.745530,-118.263181,2026-01-07,10:48,Transit Station,Low,0
+CRM-00107,Robbery,Downtown,34.036705,-118.256354,2025-12-30,11:02,Transit Station,High,1
+CRM-00108,Drug Offense,Uptown,34.090619,-118.292421,2025-05-17,18:59,Park,Medium,1
+CRM-00109,Assault,Industrial District,34.017882,-118.231617,2025-05-13,03:24,Transit Station,High,1
+CRM-00110,Vandalism,Parkside,34.098200,-118.200257,2026-04-20,16:07,School Zone,Low,1
+CRM-00111,Theft,Industrial District,34.002291,-118.218678,2024-08-16,02:37,Transit Station,Medium,0
+CRM-00112,Shoplifting,Parkside,34.088834,-118.194273,2024-10-11,18:50,School Zone,Low,0
+CRM-00113,Robbery,Parkside,34.090367,-118.201267,2024-05-09,07:50,Park,High,0
+CRM-00114,Drug Offense,Westside,34.047796,-118.344010,2025-02-25,17:20,Transit Station,High,1
+CRM-00115,Burglary,Industrial District,34.013207,-118.235729,2024-07-10,20:25,Industrial,Medium,0
+CRM-00116,Theft,Uptown,34.072536,-118.272719,2024-06-09,03:29,Park,Medium,0
+CRM-00117,Shoplifting,Uptown,34.077796,-118.279602,2025-06-10,22:06,Commercial,Medium,0
+CRM-00118,Vandalism,Eastside,34.042757,-118.185860,2025-06-23,22:27,Industrial,Medium,0
+CRM-00119,Vandalism,Uptown,34.081086,-118.285618,2024-11-23,17:24,Residential,Low,0
+CRM-00120,Burglary,Industrial District,34.015999,-118.214363,2024-12-27,05:18,Industrial,Medium,0
+CRM-00121,Fraud,Eastside,34.045718,-118.205019,2024-10-08,22:12,Residential,Low,1
+CRM-00122,Shoplifting,Harbor Area,33.737357,-118.267417,2024-01-04,22:40,Transit Station,Low,0
+CRM-00123,Robbery,Uptown,34.075940,-118.289440,2024-10-22,02:01,Park,Medium,0
+CRM-00124,Fraud,Westside,34.049759,-118.345108,2024-08-19,18:44,Residential,Low,0
+CRM-00125,Vandalism,Harbor Area,33.747298,-118.258738,2025-07-12,20:48,Commercial,Medium,0
+CRM-00126,Robbery,Uptown,34.088111,-118.285049,2024-02-14,05:32,Residential,High,0
+CRM-00127,Theft,Industrial District,34.014652,-118.220905,2026-03-16,04:17,Transit Station,Medium,0
+CRM-00128,Burglary,Eastside,34.044534,-118.192633,2024-04-28,17:07,Residential,Medium,0
+CRM-00129,Robbery,Downtown,34.049069,-118.248796,2024-06-09,08:00,Nightclub District,High,1
+CRM-00130,Theft,Uptown,34.092238,-118.270234,2025-02-21,02:00,Commercial,Medium,0
+CRM-00131,Vandalism,Suburbs,34.119535,-118.179628,2024-03-09,14:00,Residential,Low,0
+CRM-00132,Shoplifting,Eastside,34.032433,-118.192242,2024-09-10,18:33,Industrial,Medium,0
+CRM-00133,Theft,Westside,34.051956,-118.346170,2024-05-15,07:37,Commercial,Medium,0
+CRM-00134,Burglary,Industrial District,34.007778,-118.229858,2025-02-05,09:04,Industrial,Medium,0
+CRM-00135,Fraud,Industrial District,34.013050,-118.224024,2024-07-09,07:35,Industrial,Low,1
+CRM-00136,Fraud,Downtown,34.064070,-118.247418,2024-04-21,10:51,Nightclub District,Low,0
+CRM-00137,Assault,Westside,34.043395,-118.335898,2024-09-26,20:03,Commercial,High,1
+CRM-00138,Assault,Downtown,34.062756,-118.234440,2024-05-16,15:45,Nightclub District,Medium,1
+CRM-00139,Robbery,Suburbs,34.120915,-118.184603,2024-08-22,11:08,Park,High,1
+CRM-00140,Shoplifting,Harbor Area,33.756974,-118.254069,2026-04-23,18:19,Commercial,Low,0
+CRM-00141,Robbery,Industrial District,34.012395,-118.216720,2024-04-01,03:40,Transit Station,High,0
+CRM-00142,Vandalism,Suburbs,34.115548,-118.177430,2024-02-19,08:39,School Zone,Medium,0
+CRM-00143,Robbery,Parkside,34.099387,-118.199883,2024-02-29,02:39,Park,High,0
+CRM-00144,Assault,Uptown,34.079850,-118.275266,2026-03-07,04:08,Park,Medium,1
+CRM-00145,Burglary,Harbor Area,33.738130,-118.265952,2025-12-07,05:13,Industrial,Low,0
+CRM-00146,Assault,Eastside,34.025220,-118.187562,2025-05-05,22:35,Residential,High,0
+CRM-00147,Drug Offense,Westside,34.055578,-118.350022,2026-04-09,11:42,Transit Station,Low,1
+CRM-00148,Theft,Harbor Area,33.740266,-118.247654,2024-11-10,09:24,Industrial,Medium,0
+CRM-00149,Assault,Westside,34.052704,-118.340313,2024-03-17,03:41,Commercial,High,1
+CRM-00150,Vandalism,Suburbs,34.123729,-118.180951,2025-09-17,04:14,Park,Medium,0
+CRM-00151,Theft,Industrial District,34.014561,-118.229586,2025-02-23,01:00,Industrial,Medium,0
+CRM-00152,Vandalism,Industrial District,34.012671,-118.218956,2024-07-31,16:51,Industrial,Low,0
+CRM-00153,Fraud,Harbor Area,33.731990,-118.271310,2024-06-04,21:24,Commercial,Low,1
+CRM-00154,Theft,Suburbs,34.135709,-118.171776,2026-03-23,22:49,School Zone,Medium,1
+CRM-00155,Fraud,Eastside,34.031927,-118.188483,2025-05-13,08:05,Industrial,Low,0
+CRM-00156,Theft,Downtown,34.063867,-118.245270,2026-05-18,14:07,Commercial,Medium,0
+CRM-00157,Theft,Westside,34.049318,-118.345612,2025-01-09,04:04,Residential,Medium,0
+CRM-00158,Vandalism,Industrial District,34.022625,-118.227779,2025-02-21,22:31,Industrial,Low,0
+CRM-00159,Shoplifting,Suburbs,34.127304,-118.166773,2026-02-09,16:44,School Zone,Low,0
+CRM-00160,Robbery,Harbor Area,33.744822,-118.258564,2024-09-19,00:39,Transit Station,High,0
+CRM-00161,Vandalism,Industrial District,34.008927,-118.225465,2026-03-18,12:23,Industrial,Low,0
+CRM-00162,Assault,Eastside,34.029866,-118.188080,2025-01-26,09:01,Residential,High,1
+CRM-00163,Theft,Parkside,34.092279,-118.200679,2024-05-08,03:32,School Zone,Medium,0
+CRM-00164,Assault,Uptown,34.063026,-118.287155,2026-05-05,01:20,Residential,High,0
+CRM-00165,Assault,Westside,34.044922,-118.343349,2024-06-08,11:26,Residential,High,0
+CRM-00166,Theft,Eastside,34.025390,-118.202497,2024-07-07,20:31,Residential,Medium,0
+CRM-00167,Theft,Downtown,34.047245,-118.236072,2024-09-03,07:41,Transit Station,Medium,0
+CRM-00168,Robbery,Suburbs,34.121461,-118.188031,2024-06-05,01:30,Residential,High,1
+CRM-00169,Robbery,Eastside,34.045910,-118.187540,2025-09-22,00:06,Commercial,High,1
+CRM-00170,Assault,Suburbs,34.131931,-118.181782,2025-02-28,21:08,Park,High,0
+CRM-00171,Theft,Eastside,34.032668,-118.191651,2024-01-05,13:41,Industrial,High,0
+CRM-00172,Robbery,Industrial District,34.017628,-118.217816,2025-02-27,22:24,Transit Station,Medium,1
+CRM-00173,Vandalism,Suburbs,34.114768,-118.193462,2024-01-28,21:01,Residential,Low,0
+CRM-00174,Assault,Suburbs,34.131298,-118.170609,2024-02-21,19:45,Park,High,0
+CRM-00175,Robbery,Parkside,34.094404,-118.195615,2025-10-16,14:08,Park,High,1
+CRM-00176,Vandalism,Westside,34.046566,-118.339841,2024-04-08,07:23,Commercial,Medium,0
+CRM-00177,Assault,Harbor Area,33.749695,-118.273715,2025-09-15,03:36,Commercial,High,1
+CRM-00178,Burglary,Harbor Area,33.744313,-118.267598,2024-07-19,23:57,Industrial,Medium,0
+CRM-00179,Vandalism,Industrial District,34.023314,-118.230302,2025-05-28,23:15,Industrial,Low,0
+CRM-00180,Robbery,Uptown,34.092909,-118.283086,2026-03-28,13:47,Residential,High,1
+CRM-00181,Shoplifting,Downtown,34.048097,-118.246308,2025-04-22,18:49,Commercial,Low,0
+CRM-00182,Assault,Uptown,34.085847,-118.285633,2025-01-17,18:04,Park,High,1
+CRM-00183,Theft,Eastside,34.042664,-118.186169,2024-02-03,02:50,Industrial,Medium,0
+CRM-00184,Theft,Parkside,34.088419,-118.203550,2025-10-19,22:40,School Zone,Medium,0
+CRM-00185,Assault,Downtown,34.044226,-118.245516,2024-10-05,01:07,Commercial,Medium,1
+CRM-00186,Burglary,Uptown,34.101030,-118.283170,2025-05-07,19:54,Residential,Medium,0
+CRM-00187,Assault,Industrial District,34.014465,-118.221004,2025-03-16,00:43,Transit Station,High,1
+CRM-00188,Assault,Downtown,34.047812,-118.248475,2026-02-20,03:32,Nightclub District,High,1
+CRM-00189,Shoplifting,Harbor Area,33.749664,-118.260580,2025-01-07,19:20,Industrial,Medium,0
+CRM-00190,Fraud,Eastside,34.023785,-118.191555,2024-08-25,12:45,Commercial,Low,0
+CRM-00191,Fraud,Parkside,34.090823,-118.191003,2025-04-04,10:57,Park,Low,0
+CRM-00192,Shoplifting,Parkside,34.104416,-118.206349,2026-05-26,19:17,School Zone,Medium,0
+CRM-00193,Burglary,Industrial District,34.020158,-118.221593,2024-08-06,17:39,Transit Station,Medium,0
+CRM-00194,Theft,Suburbs,34.136420,-118.186050,2024-03-23,11:06,Residential,High,0
+CRM-00195,Theft,Suburbs,34.125990,-118.194317,2024-03-12,16:06,School Zone,Low,1
+CRM-00196,Theft,Eastside,34.042977,-118.195220,2025-01-16,09:48,Industrial,High,0
+CRM-00197,Fraud,Downtown,34.045957,-118.240029,2025-04-30,05:42,Commercial,Low,1
+CRM-00198,Fraud,Eastside,34.042709,-118.193325,2025-02-23,16:49,Industrial,Medium,0
+CRM-00199,Drug Offense,Parkside,34.093349,-118.209457,2025-01-29,22:38,Park,Medium,1
+CRM-00200,Theft,Eastside,34.030367,-118.196833,2025-11-19,06:07,Industrial,Medium,0
+CRM-00201,Vandalism,Parkside,34.093452,-118.196827,2024-04-15,23:14,Park,Low,0
+CRM-00202,Vandalism,Uptown,34.090113,-118.293613,2025-11-22,13:34,Park,Low,0
+CRM-00203,Drug Offense,Downtown,34.063634,-118.246645,2025-07-14,20:24,Commercial,Medium,1
+CRM-00204,Shoplifting,Industrial District,34.000969,-118.224142,2026-05-16,14:30,Industrial,Low,1
+CRM-00205,Burglary,Harbor Area,33.743156,-118.282078,2025-10-02,10:04,Transit Station,Medium,1
+CRM-00206,Fraud,Eastside,34.028726,-118.195542,2024-09-12,22:13,Commercial,Low,0
+CRM-00207,Theft,Harbor Area,33.743865,-118.256642,2026-01-31,01:26,Commercial,Medium,0
+CRM-00208,Assault,Harbor Area,33.731679,-118.266180,2024-02-03,14:07,Transit Station,High,1
+CRM-00209,Shoplifting,Eastside,34.029977,-118.192719,2025-07-20,06:01,Commercial,Low,0
+CRM-00210,Robbery,Harbor Area,33.743578,-118.257426,2025-05-11,00:07,Commercial,Medium,0
+CRM-00211,Fraud,Uptown,34.071366,-118.277337,2025-05-11,22:22,Commercial,Low,0
+CRM-00212,Fraud,Downtown,34.046757,-118.255259,2025-08-02,16:32,Commercial,Low,0
+CRM-00213,Shoplifting,Suburbs,34.117270,-118.176864,2024-03-12,05:28,School Zone,Low,0
+CRM-00214,Robbery,Suburbs,34.125028,-118.174451,2024-05-09,03:43,Park,High,0
+CRM-00215,Burglary,Uptown,34.103046,-118.276851,2024-03-16,14:35,Residential,Medium,0
+CRM-00216,Assault,Uptown,34.079860,-118.288857,2026-01-04,23:47,Park,Medium,1
+CRM-00217,Vandalism,Parkside,34.081976,-118.210368,2025-09-07,21:46,Park,Low,1
+CRM-00218,Theft,Parkside,34.078007,-118.215687,2025-05-20,11:35,School Zone,Medium,0
+CRM-00219,Drug Offense,Uptown,34.067318,-118.281200,2024-05-30,10:33,Park,Medium,1
+CRM-00220,Theft,Uptown,34.072049,-118.273188,2024-10-22,03:49,Residential,High,0
+CRM-00221,Shoplifting,Eastside,34.028093,-118.204595,2025-02-11,16:10,Commercial,Low,1
+CRM-00222,Vandalism,Industrial District,34.005366,-118.215710,2025-09-17,06:53,Industrial,Low,0
+CRM-00223,Burglary,Industrial District,34.001301,-118.240139,2025-02-23,06:32,Transit Station,Medium,0
+CRM-00224,Drug Offense,Uptown,34.087049,-118.282483,2025-08-03,23:21,Park,Medium,0
+CRM-00225,Shoplifting,Parkside,34.101171,-118.206252,2025-10-07,22:40,School Zone,Low,0
+CRM-00226,Shoplifting,Industrial District,34.014833,-118.220248,2025-12-25,20:27,Transit Station,Low,0
+CRM-00227,Assault,Downtown,34.057522,-118.253445,2025-01-02,00:19,Nightclub District,High,0
+CRM-00228,Drug Offense,Uptown,34.074762,-118.286876,2026-05-16,13:01,Park,Medium,0
+CRM-00229,Assault,Suburbs,34.125995,-118.179148,2025-02-07,03:43,School Zone,High,0
+CRM-00230,Assault,Uptown,34.077531,-118.283646,2024-06-18,02:41,Commercial,High,1
+CRM-00231,Theft,Suburbs,34.132899,-118.182423,2026-03-07,01:57,School Zone,Medium,0
+CRM-00232,Theft,Westside,34.039403,-118.344626,2026-04-06,05:43,Transit Station,Medium,0
+CRM-00233,Drug Offense,Industrial District,33.993686,-118.233546,2025-12-05,08:30,Industrial,Medium,1
+CRM-00234,Shoplifting,Suburbs,34.128059,-118.170117,2024-08-08,12:48,Residential,Low,1
+CRM-00235,Theft,Eastside,34.026088,-118.207050,2025-02-11,08:18,Commercial,Medium,0
+CRM-00236,Robbery,Downtown,34.035581,-118.221259,2025-08-29,04:29,Nightclub District,Medium,0
+CRM-00237,Shoplifting,Westside,34.035556,-118.333484,2024-06-26,16:38,Commercial,Low,1
+CRM-00238,Fraud,Eastside,34.030680,-118.182607,2024-06-10,06:30,Residential,Low,0
+CRM-00239,Vandalism,Parkside,34.084523,-118.207559,2025-03-18,10:40,School Zone,Low,0
+CRM-00240,Burglary,Industrial District,34.003880,-118.232978,2024-10-21,04:12,Transit Station,Medium,0
+CRM-00241,Robbery,Westside,34.040164,-118.344968,2025-09-11,10:32,Residential,Medium,0
+CRM-00242,Vandalism,Suburbs,34.126783,-118.190740,2025-12-28,19:05,School Zone,Low,0
+CRM-00243,Shoplifting,Parkside,34.091677,-118.213616,2025-10-02,16:39,Park,Low,1
+CRM-00244,Assault,Downtown,34.042548,-118.244299,2025-12-17,01:17,Commercial,High,1
+CRM-00245,Burglary,Downtown,34.067439,-118.251893,2024-11-10,10:55,Nightclub District,Low,0
+CRM-00246,Assault,Harbor Area,33.743763,-118.261492,2024-12-09,08:30,Industrial,High,1
+CRM-00247,Fraud,Westside,34.046741,-118.338518,2025-05-19,14:12,Residential,Low,0
+CRM-00248,Assault,Eastside,34.030241,-118.179267,2025-07-31,12:31,Residential,High,0
+CRM-00249,Vandalism,Industrial District,34.003980,-118.220950,2024-06-29,22:21,Transit Station,Low,1
+CRM-00250,Shoplifting,Downtown,34.036381,-118.248152,2024-04-17,17:50,Commercial,Medium,1
+CRM-00251,Shoplifting,Eastside,34.026458,-118.203914,2024-03-06,09:45,Commercial,Low,1
+CRM-00252,Drug Offense,Uptown,34.078466,-118.276429,2024-08-16,08:57,Residential,Medium,1
+CRM-00253,Drug Offense,Industrial District,34.021182,-118.218123,2024-06-13,07:17,Transit Station,Low,1
+CRM-00254,Shoplifting,Parkside,34.103188,-118.208543,2025-03-04,20:38,Residential,Low,0
+CRM-00255,Theft,Suburbs,34.113035,-118.177948,2024-06-05,16:11,School Zone,Medium,0
+CRM-00256,Assault,Harbor Area,33.750124,-118.264958,2025-06-18,19:18,Industrial,High,0
+CRM-00257,Theft,Suburbs,34.121799,-118.188281,2025-06-08,00:03,School Zone,High,0
+CRM-00258,Shoplifting,Downtown,34.041181,-118.252546,2025-12-11,13:00,Commercial,Low,1
+CRM-00259,Assault,Suburbs,34.124475,-118.203734,2024-11-07,08:00,Park,High,0
+CRM-00260,Theft,Parkside,34.104613,-118.222131,2025-03-25,13:38,Residential,Medium,0
+CRM-00261,Theft,Westside,34.053719,-118.338582,2024-11-18,06:35,Residential,High,0
+CRM-00262,Fraud,Industrial District,34.006148,-118.222720,2024-04-11,10:15,Transit Station,Low,1
+CRM-00263,Assault,Harbor Area,33.734090,-118.262824,2024-07-04,06:52,Transit Station,High,0
+CRM-00264,Theft,Harbor Area,33.752389,-118.269538,2025-03-21,02:50,Commercial,Medium,0
+CRM-00265,Theft,Industrial District,34.004952,-118.222441,2025-07-05,04:23,Industrial,Low,0
+CRM-00266,Vandalism,Parkside,34.096386,-118.191718,2025-11-28,23:43,Park,Low,1
+CRM-00267,Vandalism,Suburbs,34.138508,-118.189107,2024-01-22,08:46,School Zone,Low,0
+CRM-00268,Burglary,Westside,34.049662,-118.336257,2024-06-10,22:17,Transit Station,Medium,0
+CRM-00269,Assault,Uptown,34.089984,-118.288028,2024-11-16,03:38,Park,High,1
+CRM-00270,Theft,Parkside,34.093695,-118.213569,2024-04-06,23:14,School Zone,High,0
+CRM-00271,Theft,Harbor Area,33.727087,-118.268036,2024-08-31,05:57,Commercial,Medium,0
+CRM-00272,Vandalism,Downtown,34.054747,-118.255426,2024-01-04,21:30,Commercial,Medium,1
+CRM-00273,Burglary,Eastside,34.025747,-118.185596,2024-03-25,20:14,Commercial,High,0
+CRM-00274,Shoplifting,Uptown,34.087394,-118.279418,2024-08-21,11:54,Commercial,Low,0
+CRM-00275,Shoplifting,Suburbs,34.127786,-118.194072,2026-05-14,23:50,Residential,Low,1
+CRM-00276,Assault,Industrial District,34.017307,-118.235607,2024-03-20,01:33,Transit Station,High,0
+CRM-00277,Vandalism,Industrial District,34.018872,-118.226540,2025-05-06,20:20,Transit Station,Low,0
+CRM-00278,Robbery,Harbor Area,33.738831,-118.268318,2024-02-15,00:14,Transit Station,High,0
+CRM-00279,Theft,Parkside,34.085589,-118.203345,2024-08-17,12:33,School Zone,Medium,0
+CRM-00280,Robbery,Uptown,34.082681,-118.287494,2024-08-23,23:01,Commercial,High,1
+CRM-00281,Shoplifting,Downtown,34.054768,-118.249570,2024-08-29,14:35,Commercial,Low,0
+CRM-00282,Robbery,Westside,34.045290,-118.330687,2026-05-07,07:29,Residential,High,0
+CRM-00283,Drug Offense,Uptown,34.076580,-118.287900,2026-02-18,15:17,Park,High,1
+CRM-00284,Vandalism,Uptown,34.087042,-118.281069,2024-06-22,19:18,Commercial,Low,0
+CRM-00285,Vandalism,Eastside,34.038212,-118.203634,2025-09-06,12:00,Residential,Low,0
+CRM-00286,Robbery,Westside,34.048041,-118.351195,2025-01-31,02:36,Transit Station,High,0
+CRM-00287,Burglary,Westside,34.027679,-118.344976,2024-05-12,09:26,Transit Station,High,0
+CRM-00288,Fraud,Uptown,34.075532,-118.275145,2025-12-22,23:41,Commercial,Low,0
+CRM-00289,Burglary,Downtown,34.065525,-118.239121,2025-08-06,21:48,Transit Station,Low,0
+CRM-00290,Drug Offense,Industrial District,34.007317,-118.219806,2024-02-12,06:21,Transit Station,Medium,1
+CRM-00291,Fraud,Eastside,34.025343,-118.202315,2024-10-07,16:54,Commercial,Low,0
+CRM-00292,Drug Offense,Industrial District,34.011125,-118.222212,2024-11-09,05:08,Transit Station,Medium,1
+CRM-00293,Fraud,Eastside,34.025256,-118.184587,2025-11-10,13:04,Industrial,Low,1
+CRM-00294,Robbery,Downtown,34.059619,-118.244921,2024-09-16,14:47,Nightclub District,High,0
+CRM-00295,Vandalism,Downtown,34.046372,-118.236062,2024-05-17,18:16,Nightclub District,Low,0
+CRM-00296,Fraud,Downtown,34.062499,-118.235536,2024-01-04,05:52,Commercial,Low,0
+CRM-00297,Theft,Industrial District,33.998707,-118.228954,2025-08-18,08:36,Transit Station,Medium,0
+CRM-00298,Shoplifting,Industrial District,34.007129,-118.233722,2024-06-08,06:29,Transit Station,Low,1
+CRM-00299,Theft,Downtown,34.053677,-118.237226,2024-07-11,10:29,Nightclub District,Medium,0
+CRM-00300,Vandalism,Parkside,34.086753,-118.203833,2024-01-17,19:48,School Zone,Low,0
+CRM-00301,Shoplifting,Uptown,34.087073,-118.291247,2024-07-05,09:00,Commercial,Low,1
+CRM-00302,Vandalism,Parkside,34.092112,-118.198264,2026-02-07,15:51,School Zone,Low,0
+CRM-00303,Shoplifting,Downtown,34.057740,-118.239513,2025-12-17,18:08,Commercial,Low,0
+CRM-00304,Burglary,Uptown,34.081368,-118.281843,2025-06-18,19:20,Commercial,Medium,1
+CRM-00305,Theft,Eastside,34.029825,-118.202110,2025-06-29,23:08,Industrial,Medium,0
+CRM-00306,Theft,Westside,34.050509,-118.352531,2026-04-25,08:32,Transit Station,Medium,0
+CRM-00307,Shoplifting,Harbor Area,33.733079,-118.267104,2025-03-23,09:46,Commercial,Low,1
+CRM-00308,Fraud,Westside,34.032046,-118.323440,2024-08-01,12:12,Residential,Low,1
+CRM-00309,Drug Offense,Uptown,34.077243,-118.260783,2025-08-11,13:34,Park,Medium,1
+CRM-00310,Assault,Suburbs,34.130636,-118.183634,2025-01-24,05:12,Residential,High,1
+CRM-00311,Robbery,Uptown,34.093532,-118.273115,2024-08-01,15:58,Residential,High,0
+CRM-00312,Vandalism,Harbor Area,33.740139,-118.260230,2024-03-08,20:05,Industrial,Low,0
+CRM-00313,Vandalism,Suburbs,34.122180,-118.186602,2024-01-22,10:30,School Zone,Medium,0
+CRM-00314,Theft,Suburbs,34.132036,-118.183527,2025-05-12,08:20,School Zone,Medium,0
+CRM-00315,Theft,Uptown,34.080129,-118.281784,2024-03-12,16:49,Residential,High,0
+CRM-00316,Theft,Westside,34.024696,-118.349935,2025-06-28,00:24,Residential,Medium,0
+CRM-00317,Vandalism,Parkside,34.077096,-118.210283,2025-04-05,22:26,Residential,Low,0
+CRM-00318,Drug Offense,Industrial District,34.003958,-118.228586,2025-07-16,09:25,Transit Station,Medium,1
+CRM-00319,Shoplifting,Harbor Area,33.750436,-118.259635,2025-10-27,11:18,Industrial,Low,0
+CRM-00320,Theft,Westside,34.053886,-118.344805,2026-03-23,01:49,Transit Station,High,0
+CRM-00321,Theft,Eastside,34.035643,-118.195560,2024-12-17,12:54,Commercial,High,0
+CRM-00322,Vandalism,Suburbs,34.127783,-118.180874,2024-08-18,10:24,Park,Low,0
+CRM-00323,Shoplifting,Harbor Area,33.733892,-118.262410,2024-03-26,09:41,Transit Station,Low,1
+CRM-00324,Theft,Parkside,34.086524,-118.203319,2025-06-23,08:13,School Zone,High,0
+CRM-00325,Assault,Harbor Area,33.741907,-118.259868,2025-03-03,17:42,Transit Station,High,0
+CRM-00326,Burglary,Downtown,34.048395,-118.240458,2026-03-16,19:46,Commercial,Medium,0
+CRM-00327,Robbery,Downtown,34.058527,-118.242303,2025-10-04,01:12,Transit Station,High,0
+CRM-00328,Theft,Downtown,34.042894,-118.229780,2025-07-24,21:37,Nightclub District,Low,0
+CRM-00329,Shoplifting,Suburbs,34.129425,-118.181386,2024-01-14,06:22,Residential,Low,0
+CRM-00330,Shoplifting,Downtown,34.042460,-118.248627,2025-12-11,10:14,Transit Station,Low,0
+CRM-00331,Theft,Parkside,34.093972,-118.202202,2025-01-03,05:33,Residential,Medium,0
+CRM-00332,Burglary,Harbor Area,33.733502,-118.258265,2026-05-03,09:35,Industrial,High,0
+CRM-00333,Robbery,Eastside,34.025016,-118.184203,2025-09-06,22:51,Residential,High,1
+CRM-00334,Theft,Uptown,34.099761,-118.279176,2026-02-06,04:44,Residential,High,0
+CRM-00335,Vandalism,Westside,34.050611,-118.360847,2026-03-27,21:38,Commercial,Medium,0
+CRM-00336,Vandalism,Industrial District,34.022062,-118.233846,2025-05-07,05:50,Industrial,Low,0
+CRM-00337,Theft,Uptown,34.093339,-118.279788,2025-02-19,01:19,Park,High,0
+CRM-00338,Theft,Suburbs,34.115508,-118.174428,2025-10-02,02:48,Park,Medium,0
+CRM-00339,Shoplifting,Parkside,34.090516,-118.188265,2025-08-25,23:11,Residential,Low,1
+CRM-00340,Theft,Westside,34.034607,-118.358566,2025-10-31,16:52,Commercial,Medium,0
+CRM-00341,Robbery,Eastside,34.045341,-118.215089,2024-02-15,01:43,Industrial,High,1
+CRM-00342,Drug Offense,Downtown,34.054685,-118.249711,2024-11-26,08:33,Nightclub District,Medium,1
+CRM-00343,Theft,Eastside,34.039541,-118.187437,2026-02-23,03:40,Commercial,Medium,0
+CRM-00344,Assault,Eastside,34.039967,-118.191346,2024-02-12,09:19,Residential,High,0
+CRM-00345,Shoplifting,Uptown,34.099572,-118.271924,2024-01-17,09:16,Commercial,Low,1
+CRM-00346,Theft,Westside,34.034491,-118.340692,2025-01-13,20:01,Residential,Medium,0
+CRM-00347,Assault,Uptown,34.090443,-118.282850,2024-02-25,00:43,Park,High,0
+CRM-00348,Theft,Westside,34.031399,-118.345161,2025-04-30,14:27,Commercial,Medium,0
+CRM-00349,Vandalism,Eastside,34.021221,-118.191797,2026-05-08,13:24,Industrial,Low,0
+CRM-00350,Assault,Harbor Area,33.754599,-118.265360,2024-11-07,00:05,Transit Station,High,1
+CRM-00351,Shoplifting,Harbor Area,33.745302,-118.264041,2025-05-26,08:51,Industrial,Low,1
+CRM-00352,Drug Offense,Downtown,34.056926,-118.254777,2025-12-06,20:44,Commercial,Medium,1
+CRM-00353,Drug Offense,Uptown,34.076798,-118.285892,2026-03-15,14:11,Residential,Medium,1
+CRM-00354,Drug Offense,Eastside,34.028549,-118.178737,2026-02-23,07:00,Residential,Medium,1
+CRM-00355,Theft,Suburbs,34.114899,-118.179203,2025-01-04,07:35,School Zone,Medium,0
+CRM-00356,Drug Offense,Suburbs,34.123641,-118.173083,2024-08-24,10:52,Residential,Low,1
+CRM-00357,Assault,Westside,34.018390,-118.333514,2025-11-01,14:30,Residential,Medium,1
+CRM-00358,Robbery,Industrial District,34.014191,-118.218928,2026-02-26,19:22,Transit Station,High,0
+CRM-00359,Theft,Parkside,34.102881,-118.205268,2025-11-02,05:44,Park,Medium,1
+CRM-00360,Assault,Harbor Area,33.734270,-118.268282,2026-02-04,06:50,Commercial,High,1
+CRM-00361,Theft,Industrial District,34.026564,-118.227514,2025-06-02,08:06,Transit Station,High,0
+CRM-00362,Shoplifting,Westside,34.057555,-118.348141,2024-10-30,23:41,Transit Station,Low,1
+CRM-00363,Robbery,Harbor Area,33.730768,-118.264917,2024-08-09,20:34,Commercial,High,0
+CRM-00364,Assault,Westside,34.042985,-118.347955,2024-07-18,02:43,Residential,High,1
+CRM-00365,Theft,Uptown,34.075804,-118.278328,2025-09-07,10:59,Commercial,High,0
+CRM-00366,Robbery,Industrial District,33.995861,-118.226961,2024-04-15,08:41,Industrial,High,0
+CRM-00367,Theft,Suburbs,34.126850,-118.188811,2025-06-21,03:46,Residential,Medium,0
+CRM-00368,Fraud,Uptown,34.072842,-118.288096,2024-04-30,06:23,Park,Low,1
+CRM-00369,Assault,Industrial District,34.013025,-118.236180,2024-01-12,15:51,Transit Station,High,1
+CRM-00370,Assault,Uptown,34.082868,-118.280720,2025-09-21,03:07,Residential,High,1
+CRM-00371,Vandalism,Westside,34.041248,-118.341772,2026-04-02,06:51,Commercial,Low,0
+CRM-00372,Vandalism,Suburbs,34.126837,-118.200978,2024-09-14,11:14,School Zone,Medium,0
+CRM-00373,Drug Offense,Parkside,34.110929,-118.196292,2026-01-14,18:13,Residential,Low,0
+CRM-00374,Theft,Uptown,34.078486,-118.283272,2025-06-20,02:18,Commercial,Medium,0
+CRM-00375,Theft,Uptown,34.082358,-118.280185,2026-04-10,02:35,Commercial,Medium,0
+CRM-00376,Theft,Eastside,34.031120,-118.190607,2024-03-10,12:11,Commercial,High,0
+CRM-00377,Robbery,Westside,34.043200,-118.339703,2025-07-01,14:37,Transit Station,High,0
+CRM-00378,Robbery,Parkside,34.093724,-118.201036,2024-12-17,07:55,Residential,Medium,0
+CRM-00379,Fraud,Eastside,34.023956,-118.207304,2025-07-07,11:41,Commercial,Low,1
+CRM-00380,Burglary,Industrial District,34.001581,-118.223080,2025-04-26,06:57,Industrial,Medium,0
+CRM-00381,Vandalism,Parkside,34.077953,-118.200759,2025-04-30,05:32,School Zone,Low,1
+CRM-00382,Fraud,Westside,34.032090,-118.351680,2025-09-05,13:37,Residential,Medium,0
+CRM-00383,Drug Offense,Harbor Area,33.751172,-118.256706,2025-05-21,10:50,Industrial,High,1
+CRM-00384,Theft,Suburbs,34.119660,-118.174029,2025-11-28,22:15,School Zone,Medium,0
+CRM-00385,Shoplifting,Uptown,34.082367,-118.290722,2025-05-21,11:53,Commercial,Low,1
+CRM-00386,Theft,Suburbs,34.115459,-118.194484,2024-04-05,22:06,School Zone,Medium,0
+CRM-00387,Drug Offense,Suburbs,34.124607,-118.194553,2024-08-04,13:23,Residential,Medium,1
+CRM-00388,Assault,Westside,34.023470,-118.343540,2024-10-02,04:44,Commercial,High,1
+CRM-00389,Fraud,Uptown,34.086599,-118.291824,2025-06-04,05:41,Park,Low,0
+CRM-00390,Vandalism,Suburbs,34.127370,-118.176584,2026-01-23,17:56,Residential,Low,0
+CRM-00391,Drug Offense,Downtown,34.060649,-118.244394,2025-08-10,22:44,Commercial,Medium,1
+CRM-00392,Robbery,Uptown,34.083808,-118.289366,2024-06-19,20:25,Residential,High,0
+CRM-00393,Shoplifting,Uptown,34.078969,-118.280338,2025-02-22,20:06,Commercial,Low,0
+CRM-00394,Assault,Downtown,34.041857,-118.261221,2024-05-01,08:03,Commercial,Medium,0
+CRM-00395,Drug Offense,Westside,34.043279,-118.341096,2026-02-07,16:00,Residential,Medium,1
+CRM-00396,Fraud,Industrial District,34.015737,-118.232164,2024-10-13,20:29,Transit Station,Low,1
+CRM-00397,Theft,Downtown,34.046271,-118.237049,2025-12-06,02:40,Transit Station,Medium,0
+CRM-00398,Assault,Downtown,34.034243,-118.245408,2025-05-18,09:05,Transit Station,High,1
+CRM-00399,Theft,Suburbs,34.128457,-118.200636,2026-04-01,19:06,School Zone,Low,0
+CRM-00400,Theft,Industrial District,34.012616,-118.235208,2025-02-05,02:32,Transit Station,High,0
+CRM-00401,Burglary,Eastside,34.032961,-118.186728,2024-06-28,04:53,Commercial,Medium,0
+CRM-00402,Theft,Harbor Area,33.746501,-118.260816,2024-06-01,02:18,Commercial,High,0
+CRM-00403,Vandalism,Industrial District,34.007884,-118.215560,2024-04-27,09:00,Transit Station,Medium,0
+CRM-00404,Drug Offense,Industrial District,34.013795,-118.222172,2026-02-23,08:26,Industrial,Medium,1
+CRM-00405,Burglary,Industrial District,34.007902,-118.247874,2025-02-22,05:30,Transit Station,Medium,1
+CRM-00406,Robbery,Suburbs,34.127471,-118.176835,2025-02-04,11:43,Residential,High,0
+CRM-00407,Theft,Industrial District,34.000406,-118.214741,2025-07-18,04:52,Industrial,High,0
+CRM-00408,Robbery,Downtown,34.049039,-118.243098,2025-05-31,11:18,Transit Station,High,0
+CRM-00409,Assault,Parkside,34.107883,-118.200525,2025-10-16,16:09,Park,High,1
+CRM-00410,Assault,Harbor Area,33.760003,-118.268514,2025-07-29,00:24,Commercial,High,0
+CRM-00411,Theft,Industrial District,34.002819,-118.226854,2024-12-23,00:22,Transit Station,Medium,0
+CRM-00412,Robbery,Harbor Area,33.751863,-118.277726,2024-10-14,15:11,Transit Station,High,0
+CRM-00413,Theft,Downtown,34.043951,-118.249080,2025-10-18,00:58,Nightclub District,Medium,0
+CRM-00414,Theft,Westside,34.015553,-118.353070,2025-06-09,17:42,Residential,Medium,0
+CRM-00415,Drug Offense,Parkside,34.087713,-118.199617,2025-11-26,18:37,Park,High,1
+CRM-00416,Theft,Downtown,34.059001,-118.240713,2024-07-02,20:25,Nightclub District,High,1
+CRM-00417,Theft,Suburbs,34.123047,-118.178336,2025-11-01,06:14,School Zone,Medium,0
+CRM-00418,Shoplifting,Uptown,34.084238,-118.294058,2024-02-09,14:06,Commercial,Low,0
+CRM-00419,Shoplifting,Parkside,34.090774,-118.206491,2025-08-21,10:41,School Zone,Low,0
+CRM-00420,Burglary,Westside,34.034876,-118.331428,2026-02-20,05:09,Residential,Medium,1
+CRM-00421,Burglary,Downtown,34.048964,-118.240054,2025-08-20,08:06,Transit Station,Medium,1
+CRM-00422,Shoplifting,Downtown,34.040602,-118.249288,2024-12-04,16:23,Commercial,Low,1
+CRM-00423,Fraud,Westside,34.044028,-118.341090,2025-12-23,11:20,Residential,Low,1
+CRM-00424,Shoplifting,Westside,34.055272,-118.342529,2026-04-17,18:02,Commercial,Medium,0
+CRM-00425,Robbery,Eastside,34.028353,-118.187706,2024-12-24,06:50,Commercial,High,0
+CRM-00426,Shoplifting,Downtown,34.053696,-118.236254,2026-01-23,14:00,Commercial,Low,0
+CRM-00427,Drug Offense,Suburbs,34.112962,-118.186215,2024-09-15,15:56,Park,Low,1
+CRM-00428,Drug Offense,Eastside,34.034304,-118.184974,2024-10-03,20:51,Residential,Medium,1
+CRM-00429,Theft,Industrial District,34.010772,-118.225831,2025-01-29,03:22,Industrial,Medium,0
+CRM-00430,Drug Offense,Parkside,34.092680,-118.180853,2024-03-11,08:40,Residential,High,1
+CRM-00431,Assault,Harbor Area,33.738047,-118.275381,2026-03-07,14:27,Industrial,High,0
+CRM-00432,Theft,Suburbs,34.121851,-118.173985,2024-05-23,17:17,Residential,Medium,0
+CRM-00433,Shoplifting,Westside,34.036406,-118.342049,2024-10-11,05:26,Residential,Low,0
+CRM-00434,Vandalism,Parkside,34.099482,-118.188666,2025-01-29,07:33,School Zone,Low,0
+CRM-00435,Vandalism,Parkside,34.099847,-118.207855,2024-07-14,21:24,Park,Low,0
+CRM-00436,Fraud,Parkside,34.082958,-118.201174,2025-06-19,09:58,Park,Low,0
+CRM-00437,Shoplifting,Uptown,34.081486,-118.287416,2024-02-09,14:04,Commercial,Low,1
+CRM-00438,Theft,Eastside,34.017324,-118.178502,2024-12-25,08:38,Industrial,Medium,0
+CRM-00439,Shoplifting,Suburbs,34.114434,-118.187041,2025-03-17,10:13,Residential,Low,0
+CRM-00440,Theft,Downtown,34.060080,-118.248672,2025-06-28,20:17,Nightclub District,Medium,0
+CRM-00441,Burglary,Westside,34.043011,-118.344923,2024-06-07,05:09,Transit Station,High,0
+CRM-00442,Theft,Industrial District,34.006469,-118.225882,2025-10-03,11:21,Transit Station,Medium,0
+CRM-00443,Theft,Westside,34.049684,-118.341115,2025-07-14,15:40,Transit Station,Medium,0
+CRM-00444,Drug Offense,Uptown,34.077375,-118.276019,2026-05-30,07:56,Park,High,1
+CRM-00445,Assault,Eastside,34.033212,-118.189194,2024-02-01,06:13,Residential,High,0
+CRM-00446,Vandalism,Uptown,34.072418,-118.296666,2025-06-10,06:29,Residential,Low,1
+CRM-00447,Vandalism,Uptown,34.074967,-118.289282,2024-11-18,04:50,Park,Low,1
+CRM-00448,Assault,Industrial District,34.012217,-118.230106,2025-02-18,00:22,Industrial,High,0
+CRM-00449,Fraud,Harbor Area,33.749003,-118.263791,2024-11-04,14:59,Transit Station,Low,0
+CRM-00450,Drug Offense,Eastside,34.034119,-118.189960,2024-06-26,22:11,Commercial,Medium,1
+CRM-00451,Burglary,Suburbs,34.126684,-118.178262,2024-07-13,07:31,Park,High,0
+CRM-00452,Shoplifting,Eastside,34.038141,-118.185614,2026-04-15,13:31,Industrial,Low,0
+CRM-00453,Fraud,Downtown,34.046285,-118.243222,2025-06-04,10:00,Nightclub District,Low,1
+CRM-00454,Drug Offense,Suburbs,34.119229,-118.190220,2025-08-04,13:25,Park,Medium,1
+CRM-00455,Burglary,Eastside,34.027306,-118.186450,2026-01-14,20:58,Industrial,Medium,0
+CRM-00456,Theft,Parkside,34.085785,-118.210326,2025-02-07,02:18,Park,Medium,0
+CRM-00457,Robbery,Westside,34.035897,-118.350966,2025-08-03,06:36,Commercial,High,0
+CRM-00458,Burglary,Industrial District,34.008076,-118.237597,2024-01-12,22:09,Industrial,Medium,0
+CRM-00459,Theft,Eastside,34.031980,-118.187066,2024-10-21,23:39,Industrial,Medium,0
+CRM-00460,Theft,Eastside,34.055307,-118.199679,2024-06-13,12:52,Commercial,Medium,0
+CRM-00461,Assault,Downtown,34.058864,-118.247754,2025-11-28,09:47,Nightclub District,High,0
+CRM-00462,Burglary,Eastside,34.024844,-118.193514,2025-08-20,21:47,Residential,High,0
+CRM-00463,Drug Offense,Parkside,34.092404,-118.206830,2025-10-01,18:47,Park,Medium,1
+CRM-00464,Assault,Uptown,34.084695,-118.284963,2025-01-11,03:54,Park,Medium,0
+CRM-00465,Theft,Suburbs,34.108502,-118.186426,2024-02-02,11:38,Residential,Medium,0
+CRM-00466,Assault,Uptown,34.081887,-118.279742,2024-04-01,03:08,Commercial,High,1
+CRM-00467,Assault,Downtown,34.050058,-118.245164,2025-03-05,06:40,Nightclub District,Medium,1
+CRM-00468,Theft,Westside,34.044125,-118.341638,2026-05-02,09:12,Commercial,Medium,0
+CRM-00469,Drug Offense,Uptown,34.080114,-118.287521,2025-10-11,07:10,Park,Medium,1
+CRM-00470,Assault,Industrial District,34.022204,-118.229752,2025-05-26,10:39,Industrial,High,0
+CRM-00471,Vandalism,Parkside,34.101472,-118.211000,2025-10-30,14:55,School Zone,Low,0
+CRM-00472,Drug Offense,Downtown,34.044264,-118.228066,2025-09-17,07:54,Nightclub District,Medium,1
+CRM-00473,Theft,Parkside,34.093051,-118.203301,2024-10-29,23:51,Residential,Medium,0
+CRM-00474,Assault,Parkside,34.089919,-118.210472,2025-10-28,03:19,Park,High,0
+CRM-00475,Shoplifting,Uptown,34.085679,-118.291585,2025-10-29,14:51,Commercial,Low,0
+CRM-00476,Shoplifting,Suburbs,34.119871,-118.173822,2026-02-01,15:49,School Zone,Low,0
+CRM-00477,Robbery,Parkside,34.090087,-118.196008,2024-08-05,07:21,Residential,High,1
+CRM-00478,Robbery,Industrial District,34.009775,-118.216597,2025-04-03,03:22,Transit Station,High,1
+CRM-00479,Burglary,Uptown,34.077301,-118.284812,2026-04-27,06:41,Park,Medium,0
+CRM-00480,Robbery,Eastside,34.047941,-118.213124,2025-08-14,17:04,Residential,Medium,1
+CRM-00481,Drug Offense,Eastside,34.039786,-118.195564,2025-03-19,10:36,Industrial,High,1
+CRM-00482,Fraud,Harbor Area,33.729760,-118.256909,2026-03-18,12:36,Transit Station,Low,0
+CRM-00483,Theft,Suburbs,34.127594,-118.181488,2026-04-28,08:24,School Zone,Medium,1
+CRM-00484,Vandalism,Suburbs,34.123130,-118.187907,2025-02-10,22:26,Park,Low,0
+CRM-00485,Robbery,Eastside,34.032152,-118.202226,2024-11-30,07:05,Residential,High,1
+CRM-00486,Vandalism,Harbor Area,33.750010,-118.262680,2025-08-20,17:21,Industrial,Low,0
+CRM-00487,Shoplifting,Harbor Area,33.738431,-118.262108,2025-07-12,13:32,Industrial,Low,1
+CRM-00488,Theft,Parkside,34.086876,-118.213100,2026-01-29,22:15,Residential,Medium,0
+CRM-00489,Robbery,Harbor Area,33.731761,-118.255896,2026-03-04,03:54,Commercial,High,0
+CRM-00490,Theft,Suburbs,34.104563,-118.176577,2025-01-02,02:50,Park,High,0
+CRM-00491,Theft,Industrial District,34.017347,-118.229211,2026-04-07,01:49,Transit Station,High,0
+CRM-00492,Shoplifting,Uptown,34.083828,-118.283915,2025-03-21,16:22,Commercial,Low,0
+CRM-00493,Vandalism,Westside,34.050549,-118.349378,2026-03-21,21:23,Transit Station,Low,0
+CRM-00494,Burglary,Parkside,34.082776,-118.204471,2025-08-08,11:24,Residential,Medium,0
+CRM-00495,Theft,Harbor Area,33.733928,-118.273968,2025-09-08,07:15,Commercial,Medium,0
+CRM-00496,Theft,Industrial District,34.015594,-118.201122,2024-11-03,21:11,Industrial,High,1
+CRM-00497,Assault,Uptown,34.087313,-118.287795,2025-10-26,09:15,Residential,High,1
+CRM-00498,Burglary,Industrial District,33.999971,-118.229391,2024-09-07,22:47,Industrial,Medium,0
+CRM-00499,Drug Offense,Suburbs,34.119268,-118.193128,2025-02-01,04:36,Residential,Medium,1
+CRM-00500,Fraud,Westside,34.045025,-118.345650,2024-12-26,17:14,Transit Station,Low,0
+CRM-00501,Theft,Downtown,34.048368,-118.241451,2024-02-28,22:24,Commercial,Medium,0
+CRM-00502,Vandalism,Eastside,34.033286,-118.201264,2025-06-11,19:45,Industrial,Medium,0
+CRM-00503,Theft,Westside,34.052107,-118.330130,2025-12-08,17:25,Residential,Medium,0
+CRM-00504,Drug Offense,Suburbs,34.119503,-118.184994,2025-03-12,19:45,Park,Low,1
+CRM-00505,Shoplifting,Eastside,34.031748,-118.194965,2024-04-04,18:43,Commercial,Low,0
+CRM-00506,Vandalism,Harbor Area,33.755564,-118.286908,2024-04-18,08:04,Commercial,Low,0
+CRM-00507,Vandalism,Uptown,34.081606,-118.299194,2025-07-27,23:44,Park,Low,0
+CRM-00508,Drug Offense,Downtown,34.060780,-118.246214,2024-03-11,19:55,Commercial,Medium,1
+CRM-00509,Theft,Suburbs,34.138773,-118.184996,2024-06-16,07:02,Residential,Low,1
+CRM-00510,Fraud,Eastside,34.035876,-118.197226,2024-01-14,08:12,Industrial,Low,0
+CRM-00511,Burglary,Industrial District,34.009268,-118.226908,2024-01-27,04:53,Industrial,Medium,0
+CRM-00512,Fraud,Uptown,34.075223,-118.294499,2024-05-11,09:06,Residential,Low,1
+CRM-00513,Drug Offense,Westside,34.047420,-118.341062,2025-11-02,14:14,Transit Station,Medium,1
+CRM-00514,Shoplifting,Harbor Area,33.742107,-118.257754,2025-12-16,11:24,Commercial,Low,0
+CRM-00515,Theft,Industrial District,34.001787,-118.221662,2025-07-18,18:32,Industrial,Medium,0
+CRM-00516,Robbery,Harbor Area,33.743669,-118.267807,2025-11-13,00:31,Industrial,Medium,0
+CRM-00517,Theft,Industrial District,34.023039,-118.207987,2024-06-19,02:09,Industrial,Medium,0
+CRM-00518,Theft,Parkside,34.099391,-118.207286,2025-11-16,02:35,Park,Medium,0
+CRM-00519,Burglary,Industrial District,33.994521,-118.227651,2025-05-07,15:27,Industrial,Medium,0
+CRM-00520,Shoplifting,Uptown,34.091479,-118.285347,2025-02-11,10:51,Commercial,Low,0
+CRM-00521,Assault,Parkside,34.098902,-118.200386,2024-09-25,05:03,Residential,High,1
+CRM-00522,Theft,Harbor Area,33.732815,-118.268437,2025-02-07,10:47,Industrial,Medium,0
+CRM-00523,Shoplifting,Industrial District,34.014876,-118.212882,2026-05-02,20:43,Transit Station,Low,0
+CRM-00524,Shoplifting,Parkside,34.083307,-118.194381,2024-06-11,05:54,Park,Low,0
+CRM-00525,Vandalism,Industrial District,34.009306,-118.225887,2024-05-20,22:04,Transit Station,Low,1
+CRM-00526,Shoplifting,Eastside,34.016966,-118.183981,2025-11-08,07:06,Industrial,Low,1
+CRM-00527,Theft,Uptown,34.082513,-118.288441,2024-04-07,12:33,Commercial,Medium,0
+CRM-00528,Fraud,Downtown,34.055959,-118.242443,2025-04-11,22:12,Transit Station,Medium,0
+CRM-00529,Assault,Industrial District,33.998754,-118.209587,2025-09-12,23:55,Transit Station,High,1
+CRM-00530,Theft,Uptown,34.079540,-118.277581,2024-06-12,05:46,Park,Medium,0
+CRM-00531,Shoplifting,Parkside,34.090069,-118.208839,2025-10-16,07:25,School Zone,Low,1
+CRM-00532,Vandalism,Harbor Area,33.728327,-118.267711,2026-03-09,08:27,Transit Station,Low,0
+CRM-00533,Assault,Industrial District,34.023831,-118.231373,2026-05-25,09:28,Industrial,High,1
+CRM-00534,Theft,Westside,34.039562,-118.345767,2025-02-11,22:16,Residential,Medium,1
+CRM-00535,Drug Offense,Westside,34.049093,-118.327545,2025-05-05,08:49,Commercial,Medium,1
+CRM-00536,Theft,Harbor Area,33.741512,-118.269929,2026-04-08,03:54,Industrial,High,0
+CRM-00537,Fraud,Westside,34.056712,-118.349792,2024-07-22,14:08,Transit Station,Medium,0
+CRM-00538,Theft,Industrial District,34.013748,-118.219924,2024-09-30,03:47,Transit Station,Medium,0
+CRM-00539,Assault,Industrial District,34.007587,-118.222391,2024-05-29,01:33,Transit Station,High,1
+CRM-00540,Burglary,Eastside,34.020613,-118.194518,2026-04-23,05:48,Residential,Medium,0
+CRM-00541,Drug Offense,Uptown,34.078408,-118.289624,2026-04-25,22:38,Residential,Medium,1
+CRM-00542,Fraud,Industrial District,34.018928,-118.234330,2026-01-27,15:29,Industrial,Low,0
+CRM-00543,Fraud,Uptown,34.094621,-118.288995,2024-07-13,18:54,Residential,Low,0
+CRM-00544,Theft,Parkside,34.082798,-118.188643,2024-01-10,17:54,School Zone,Medium,0
+CRM-00545,Fraud,Uptown,34.068641,-118.285780,2025-12-05,12:35,Commercial,Medium,0
+CRM-00546,Shoplifting,Harbor Area,33.750046,-118.270093,2025-08-19,18:03,Commercial,Low,0
+CRM-00547,Theft,Eastside,34.042054,-118.186434,2024-11-22,14:16,Commercial,High,0
+CRM-00548,Robbery,Westside,34.041702,-118.343576,2025-06-16,08:37,Residential,High,1
+CRM-00549,Fraud,Parkside,34.089096,-118.201423,2025-12-16,20:12,Residential,Low,0
+CRM-00550,Burglary,Harbor Area,33.743504,-118.262537,2025-01-23,19:48,Industrial,Medium,0
+CRM-00551,Drug Offense,Harbor Area,33.754190,-118.253217,2024-08-09,06:19,Industrial,Low,1
+CRM-00552,Fraud,Industrial District,34.004919,-118.223119,2026-04-01,20:38,Transit Station,Low,0
+CRM-00553,Shoplifting,Industrial District,34.020163,-118.221148,2024-01-09,12:26,Transit Station,Low,0
+CRM-00554,Assault,Uptown,34.077262,-118.294648,2025-03-01,03:10,Residential,Medium,1
+CRM-00555,Vandalism,Downtown,34.046713,-118.249362,2025-03-09,14:20,Transit Station,Low,0
+CRM-00556,Theft,Suburbs,34.117768,-118.197372,2025-01-08,09:42,Residential,Low,0
+CRM-00557,Fraud,Harbor Area,33.741658,-118.266866,2024-08-08,06:44,Commercial,Medium,1
+CRM-00558,Vandalism,Parkside,34.093166,-118.200271,2024-02-20,14:25,School Zone,Low,0
+CRM-00559,Fraud,Suburbs,34.109012,-118.176124,2024-07-23,20:36,Residential,Low,0
+CRM-00560,Theft,Industrial District,34.020201,-118.232256,2025-12-18,17:28,Transit Station,Medium,0
+CRM-00561,Fraud,Downtown,34.047525,-118.246128,2024-08-11,23:44,Commercial,Low,0
+CRM-00562,Theft,Westside,34.037944,-118.354087,2025-09-10,02:30,Commercial,Low,0
+CRM-00563,Drug Offense,Downtown,34.058875,-118.237993,2025-01-06,22:36,Commercial,High,1
+CRM-00564,Assault,Parkside,34.087304,-118.198136,2026-04-16,12:28,Park,Medium,0
+CRM-00565,Fraud,Downtown,34.049331,-118.243339,2025-06-07,12:41,Transit Station,Low,0
+CRM-00566,Robbery,Westside,34.038989,-118.353358,2024-10-06,19:51,Commercial,High,0
+CRM-00567,Theft,Suburbs,34.125489,-118.183714,2024-02-02,20:45,Residential,Medium,0
+CRM-00568,Robbery,Downtown,34.045775,-118.249382,2026-02-03,02:18,Nightclub District,High,0
+CRM-00569,Assault,Harbor Area,33.730341,-118.265987,2025-10-20,04:04,Commercial,High,1
+CRM-00570,Burglary,Westside,34.043916,-118.336457,2024-04-30,19:08,Residential,High,0
+CRM-00571,Vandalism,Industrial District,34.009907,-118.223995,2025-10-23,11:22,Industrial,Low,1
+CRM-00572,Fraud,Westside,34.048980,-118.328181,2025-03-28,05:45,Transit Station,Low,0
+CRM-00573,Assault,Eastside,34.025742,-118.184985,2024-08-21,12:48,Industrial,High,1
+CRM-00574,Burglary,Industrial District,34.001802,-118.221316,2025-08-09,18:05,Transit Station,High,0
+CRM-00575,Burglary,Eastside,34.033817,-118.199469,2024-11-26,05:53,Industrial,Medium,0
+CRM-00576,Robbery,Eastside,34.032071,-118.179958,2025-07-01,22:50,Residential,Medium,0
+CRM-00577,Assault,Harbor Area,33.746551,-118.270518,2024-06-21,03:09,Industrial,High,0
+CRM-00578,Drug Offense,Harbor Area,33.745187,-118.255447,2025-07-29,09:26,Industrial,Medium,1
+CRM-00579,Assault,Suburbs,34.125439,-118.192476,2024-11-14,01:28,Park,High,0
+CRM-00580,Shoplifting,Westside,34.029886,-118.338124,2024-02-03,20:40,Commercial,Low,1
+CRM-00581,Assault,Westside,34.028701,-118.346612,2024-08-22,15:05,Residential,High,1
+CRM-00582,Vandalism,Eastside,34.034661,-118.203136,2026-05-29,04:15,Commercial,Low,0
+CRM-00583,Fraud,Uptown,34.074805,-118.300197,2026-01-17,18:35,Commercial,Low,0
+CRM-00584,Robbery,Uptown,34.085553,-118.277859,2024-04-04,06:37,Commercial,High,0
+CRM-00585,Drug Offense,Suburbs,34.112648,-118.185563,2026-05-16,20:32,Park,Medium,0
+CRM-00586,Robbery,Uptown,34.084454,-118.289955,2026-04-16,15:12,Park,High,0
+CRM-00587,Theft,Parkside,34.091297,-118.198634,2026-05-03,02:56,Park,Medium,0
+CRM-00588,Assault,Harbor Area,33.752524,-118.261794,2025-11-21,02:02,Commercial,High,1
+CRM-00589,Shoplifting,Westside,34.033278,-118.343827,2025-08-27,11:06,Commercial,Low,1
+CRM-00590,Theft,Suburbs,34.114020,-118.179167,2025-08-31,15:27,Residential,High,1
+CRM-00591,Burglary,Eastside,34.036621,-118.207968,2025-08-25,04:50,Industrial,Medium,0
+CRM-00592,Robbery,Westside,34.040297,-118.324590,2024-05-12,13:45,Transit Station,High,1
+CRM-00593,Theft,Parkside,34.094296,-118.211788,2025-08-01,02:06,School Zone,Medium,0
+CRM-00594,Burglary,Suburbs,34.133218,-118.172627,2026-05-31,22:24,Residential,High,0
+CRM-00595,Burglary,Industrial District,34.022720,-118.233615,2024-02-08,10:17,Industrial,Medium,0
+CRM-00596,Shoplifting,Uptown,34.075919,-118.281473,2026-02-08,13:32,Commercial,Medium,0
+CRM-00597,Theft,Westside,34.025462,-118.345972,2025-05-09,12:22,Commercial,High,1
+CRM-00598,Drug Offense,Eastside,34.040426,-118.193668,2026-04-04,15:07,Industrial,Medium,0
+CRM-00599,Vandalism,Downtown,34.062392,-118.241306,2025-12-26,18:17,Nightclub District,Low,0
+CRM-00600,Burglary,Industrial District,34.019359,-118.221436,2025-02-11,04:59,Transit Station,Medium,0
+CRM-00601,Theft,Eastside,34.034304,-118.208153,2025-09-16,18:07,Commercial,High,0
+CRM-00602,Theft,Downtown,34.035521,-118.247845,2024-07-26,21:43,Nightclub District,Medium,0
+CRM-00603,Fraud,Downtown,34.057035,-118.239114,2024-03-24,14:17,Commercial,Low,0
+CRM-00604,Theft,Parkside,34.093088,-118.205106,2025-08-12,06:53,Residential,Medium,0
+CRM-00605,Burglary,Harbor Area,33.734713,-118.275474,2024-07-15,08:49,Commercial,Medium,0
+CRM-00606,Vandalism,Uptown,34.088652,-118.279513,2024-03-14,05:35,Commercial,Low,1
+CRM-00607,Shoplifting,Industrial District,33.993043,-118.216935,2024-09-29,16:02,Transit Station,Medium,1
+CRM-00608,Fraud,Westside,34.045464,-118.350823,2026-04-15,10:15,Commercial,Low,0
+CRM-00609,Shoplifting,Parkside,34.078293,-118.200093,2025-06-22,14:41,School Zone,Medium,0
+CRM-00610,Theft,Downtown,34.054067,-118.248617,2026-04-29,11:08,Commercial,Medium,0
+CRM-00611,Robbery,Industrial District,34.022367,-118.225424,2024-09-02,16:49,Transit Station,High,1
+CRM-00612,Assault,Harbor Area,33.737251,-118.254234,2024-03-06,20:49,Transit Station,Medium,0
+CRM-00613,Vandalism,Harbor Area,33.743863,-118.259759,2025-11-24,10:03,Industrial,Low,0
+CRM-00614,Burglary,Uptown,34.087113,-118.276558,2024-02-24,14:53,Residential,High,0
+CRM-00615,Shoplifting,Harbor Area,33.732810,-118.251828,2026-03-03,15:08,Commercial,Medium,0
+CRM-00616,Vandalism,Uptown,34.088201,-118.276722,2025-05-22,16:54,Park,Low,0
+CRM-00617,Theft,Harbor Area,33.750177,-118.269732,2025-11-20,22:58,Commercial,Medium,0
+CRM-00618,Theft,Eastside,34.042738,-118.210608,2026-02-02,23:31,Commercial,High,0
+CRM-00619,Drug Offense,Uptown,34.082115,-118.285177,2025-03-28,20:00,Park,Medium,1
+CRM-00620,Vandalism,Westside,34.051116,-118.334010,2025-10-24,21:27,Residential,Medium,0
+CRM-00621,Burglary,Industrial District,34.010248,-118.241053,2025-02-07,20:49,Industrial,Medium,0
+CRM-00622,Assault,Harbor Area,33.751614,-118.254070,2025-09-15,02:14,Transit Station,High,0
+CRM-00623,Fraud,Parkside,34.095694,-118.214672,2024-11-08,17:54,Residential,Low,1
+CRM-00624,Robbery,Parkside,34.087006,-118.195640,2025-04-28,01:30,Park,High,0
+CRM-00625,Drug Offense,Suburbs,34.123186,-118.188007,2025-09-28,05:42,Park,Medium,0
+CRM-00626,Drug Offense,Westside,34.029984,-118.344027,2026-02-14,09:16,Transit Station,Medium,0
+CRM-00627,Burglary,Downtown,34.049895,-118.232021,2024-04-06,06:01,Nightclub District,Medium,0
+CRM-00628,Assault,Harbor Area,33.742509,-118.274228,2025-06-11,02:49,Commercial,High,0
+CRM-00629,Vandalism,Industrial District,34.020358,-118.222409,2026-03-17,10:22,Industrial,Low,0
+CRM-00630,Theft,Parkside,34.102119,-118.198239,2026-03-28,23:11,School Zone,Medium,0
+CRM-00631,Robbery,Harbor Area,33.732201,-118.286560,2024-08-13,02:03,Industrial,High,0
+CRM-00632,Assault,Uptown,34.083297,-118.272695,2024-05-04,22:18,Residential,High,0
+CRM-00633,Drug Offense,Industrial District,34.003964,-118.213602,2025-01-24,12:45,Transit Station,Medium,1
+CRM-00634,Vandalism,Eastside,34.039356,-118.181678,2024-06-25,05:12,Residential,Low,0
+CRM-00635,Fraud,Industrial District,34.001595,-118.223539,2026-03-28,07:02,Industrial,Low,0
+CRM-00636,Assault,Harbor Area,33.744408,-118.261915,2024-04-19,02:45,Transit Station,High,1
+CRM-00637,Vandalism,Uptown,34.073982,-118.283669,2025-10-08,22:24,Residential,Low,0
+CRM-00638,Robbery,Eastside,34.034262,-118.189724,2024-10-26,23:09,Residential,Medium,0
+CRM-00639,Burglary,Industrial District,34.018687,-118.229697,2025-10-21,20:24,Transit Station,Medium,0
+CRM-00640,Assault,Parkside,34.081903,-118.201382,2026-02-09,01:37,Park,High,1
+CRM-00641,Theft,Industrial District,34.011834,-118.230571,2025-06-13,02:34,Industrial,Medium,0
+CRM-00642,Burglary,Harbor Area,33.748768,-118.248720,2024-11-22,13:25,Transit Station,High,0
+CRM-00643,Shoplifting,Eastside,34.029900,-118.185077,2025-07-10,09:14,Residential,Medium,0
+CRM-00644,Theft,Westside,34.039753,-118.356492,2024-12-21,02:17,Commercial,Medium,1
+CRM-00645,Vandalism,Eastside,34.031440,-118.197226,2025-01-10,05:02,Commercial,Low,0
+CRM-00646,Shoplifting,Uptown,34.077135,-118.301164,2025-11-02,15:59,Commercial,Low,0
+CRM-00647,Vandalism,Westside,34.044759,-118.342835,2025-05-19,16:18,Transit Station,Medium,0
+CRM-00648,Burglary,Industrial District,34.013671,-118.230652,2026-01-21,18:59,Industrial,Medium,0
+CRM-00649,Burglary,Eastside,34.023450,-118.183566,2024-10-14,22:05,Commercial,Medium,0
+CRM-00650,Assault,Suburbs,34.118707,-118.187557,2025-04-14,03:17,Residential,High,0
+CRM-00651,Vandalism,Parkside,34.096115,-118.185567,2026-05-23,21:12,School Zone,Low,1
+CRM-00652,Drug Offense,Parkside,34.088041,-118.200308,2025-03-29,18:10,Park,Medium,1
+CRM-00653,Fraud,Eastside,34.038382,-118.191432,2026-05-24,08:33,Industrial,Low,0
+CRM-00654,Robbery,Eastside,34.027251,-118.191767,2025-01-19,17:24,Industrial,High,0
+CRM-00655,Theft,Industrial District,34.013681,-118.214057,2025-01-25,02:01,Transit Station,Medium,0
+CRM-00656,Theft,Downtown,34.032140,-118.237451,2025-06-26,01:30,Commercial,Medium,0
+CRM-00657,Robbery,Industrial District,34.016222,-118.218699,2024-09-15,17:15,Transit Station,High,0
+CRM-00658,Shoplifting,Uptown,34.076502,-118.281258,2024-09-14,17:27,Park,Medium,0
+CRM-00659,Shoplifting,Westside,34.047776,-118.335698,2024-08-01,09:11,Commercial,Low,0
+CRM-00660,Shoplifting,Suburbs,34.129557,-118.181353,2024-07-26,23:37,School Zone,Medium,0
+CRM-00661,Drug Offense,Parkside,34.095991,-118.216541,2024-09-08,21:32,Park,Medium,1
+CRM-00662,Burglary,Parkside,34.086794,-118.190895,2026-04-22,07:20,Residential,High,0
+CRM-00663,Burglary,Uptown,34.075476,-118.297466,2024-12-21,19:32,Commercial,Medium,0
+CRM-00664,Theft,Suburbs,34.127170,-118.179664,2024-09-04,15:09,School Zone,Medium,0
+CRM-00665,Shoplifting,Harbor Area,33.761273,-118.280960,2026-03-29,21:18,Commercial,Low,0
+CRM-00666,Theft,Industrial District,34.012985,-118.235823,2025-07-13,07:42,Industrial,Medium,1
+CRM-00667,Vandalism,Suburbs,34.120554,-118.183924,2025-04-11,10:04,Residential,Medium,0
+CRM-00668,Theft,Industrial District,34.015208,-118.219984,2025-11-10,00:01,Industrial,High,0
+CRM-00669,Robbery,Suburbs,34.115428,-118.175034,2025-02-03,14:08,Residential,Medium,1
+CRM-00670,Theft,Harbor Area,33.747048,-118.262136,2024-05-19,01:53,Transit Station,High,0
+CRM-00671,Assault,Downtown,34.051640,-118.244454,2025-02-27,01:45,Nightclub District,High,1
+CRM-00672,Assault,Suburbs,34.124712,-118.183879,2026-03-26,06:03,Residential,Medium,1
+CRM-00673,Robbery,Downtown,34.059987,-118.239519,2025-01-16,20:08,Commercial,High,0
+CRM-00674,Fraud,Westside,34.030471,-118.342009,2025-08-30,08:44,Residential,Low,0
+CRM-00675,Robbery,Parkside,34.107089,-118.196547,2026-01-24,15:08,Park,Medium,0
+CRM-00676,Theft,Uptown,34.081555,-118.292642,2025-01-21,22:20,Residential,Low,0
+CRM-00677,Shoplifting,Uptown,34.083450,-118.282586,2025-11-18,15:19,Residential,Medium,0
+CRM-00678,Assault,Westside,34.038268,-118.363348,2024-12-17,00:54,Transit Station,High,0
+CRM-00679,Theft,Parkside,34.102908,-118.205699,2024-11-29,00:32,Park,Medium,0
+CRM-00680,Shoplifting,Eastside,34.018886,-118.201008,2026-01-15,18:15,Industrial,Low,1
+CRM-00681,Assault,Industrial District,34.011623,-118.221526,2024-12-18,11:53,Transit Station,High,0
+CRM-00682,Robbery,Eastside,34.019090,-118.202581,2025-06-27,20:34,Commercial,High,1
+CRM-00683,Shoplifting,Harbor Area,33.751071,-118.265693,2026-02-10,10:43,Commercial,Low,0
+CRM-00684,Shoplifting,Eastside,34.032732,-118.194778,2024-07-25,12:58,Commercial,Low,0
+CRM-00685,Drug Offense,Industrial District,33.999041,-118.202445,2025-06-03,08:03,Transit Station,Medium,1
+CRM-00686,Fraud,Downtown,34.042956,-118.252358,2025-01-13,08:16,Nightclub District,Low,1
+CRM-00687,Shoplifting,Suburbs,34.126659,-118.161324,2026-01-30,22:27,School Zone,Low,1
+CRM-00688,Burglary,Westside,34.041231,-118.334242,2024-11-20,21:19,Residential,Medium,0
+CRM-00689,Robbery,Suburbs,34.118151,-118.188674,2024-12-07,02:46,Park,Medium,0
+CRM-00690,Robbery,Suburbs,34.112629,-118.178580,2025-11-09,05:32,Park,High,1
+CRM-00691,Burglary,Westside,34.043420,-118.347287,2024-07-20,21:28,Residential,Medium,0
+CRM-00692,Drug Offense,Downtown,34.058449,-118.243811,2025-01-20,06:36,Transit Station,Medium,1
+CRM-00693,Burglary,Industrial District,33.999521,-118.232206,2026-01-16,11:53,Industrial,Medium,0
+CRM-00694,Theft,Parkside,34.090086,-118.211356,2026-01-13,03:10,Park,Medium,0
+CRM-00695,Assault,Eastside,34.031632,-118.188713,2026-05-15,00:40,Industrial,Medium,1
+CRM-00696,Burglary,Westside,34.032223,-118.340874,2025-01-26,21:51,Transit Station,Medium,0
+CRM-00697,Assault,Parkside,34.102772,-118.191202,2025-03-16,05:41,Residential,High,0
+CRM-00698,Fraud,Downtown,34.063213,-118.250104,2024-02-12,06:01,Commercial,Medium,0
+CRM-00699,Vandalism,Industrial District,34.010841,-118.228417,2025-03-02,12:18,Transit Station,Low,0
+CRM-00700,Robbery,Parkside,34.086246,-118.198461,2025-09-12,12:16,Residential,Medium,0
+CRM-00701,Vandalism,Parkside,34.102961,-118.192454,2025-09-08,10:03,School Zone,Low,0
+CRM-00702,Assault,Uptown,34.087206,-118.277594,2024-02-09,21:28,Park,High,1
+CRM-00703,Assault,Westside,34.032091,-118.341837,2024-08-06,21:55,Commercial,Medium,0
+CRM-00704,Drug Offense,Suburbs,34.125476,-118.175262,2024-08-10,23:30,Park,Medium,1
+CRM-00705,Shoplifting,Suburbs,34.108389,-118.193726,2024-09-03,22:44,School Zone,Low,1
+CRM-00706,Fraud,Suburbs,34.118731,-118.177339,2025-08-28,15:18,Residential,Low,0
+CRM-00707,Theft,Industrial District,34.020889,-118.218840,2024-09-11,14:52,Industrial,Medium,0
+CRM-00708,Theft,Eastside,34.030332,-118.191935,2025-03-13,04:15,Residential,Medium,0
+CRM-00709,Robbery,Uptown,34.073720,-118.285721,2024-06-13,22:27,Commercial,High,0
+CRM-00710,Theft,Westside,34.039445,-118.357624,2026-05-06,01:57,Residential,Medium,0
+CRM-00711,Drug Offense,Parkside,34.099975,-118.196230,2024-10-30,05:52,Residential,High,1
+CRM-00712,Theft,Parkside,34.097473,-118.204353,2024-05-04,06:13,School Zone,Medium,0
+CRM-00713,Shoplifting,Uptown,34.080673,-118.287489,2025-08-25,04:25,Residential,Low,0
+CRM-00714,Burglary,Industrial District,34.025244,-118.221826,2024-08-30,21:18,Industrial,Medium,0
+CRM-00715,Robbery,Eastside,34.035160,-118.191643,2025-02-03,08:35,Industrial,Medium,0
+CRM-00716,Assault,Downtown,34.061499,-118.238964,2025-08-27,00:34,Commercial,High,0
+CRM-00717,Vandalism,Industrial District,34.014111,-118.222396,2025-03-05,21:12,Industrial,Medium,0
+CRM-00718,Burglary,Harbor Area,33.737347,-118.264528,2025-10-25,06:49,Transit Station,Medium,0
+CRM-00719,Shoplifting,Industrial District,34.024012,-118.222209,2026-04-05,09:07,Transit Station,Medium,1
+CRM-00720,Shoplifting,Eastside,34.033139,-118.186119,2025-05-27,21:17,Commercial,Medium,1
+CRM-00721,Fraud,Downtown,34.046817,-118.241655,2026-05-20,11:01,Commercial,Low,0
+CRM-00722,Robbery,Eastside,34.045952,-118.198541,2024-03-11,06:59,Industrial,High,1
+CRM-00723,Assault,Eastside,34.033806,-118.193238,2025-11-28,00:01,Industrial,High,0
+CRM-00724,Shoplifting,Parkside,34.076971,-118.200483,2026-03-01,10:05,School Zone,Low,0
+CRM-00725,Robbery,Harbor Area,33.744812,-118.271925,2026-03-27,19:56,Commercial,High,0
+CRM-00726,Shoplifting,Industrial District,34.013155,-118.228614,2024-08-05,13:33,Industrial,Medium,0
+CRM-00727,Fraud,Westside,34.036543,-118.341375,2024-04-11,08:43,Commercial,Low,0
+CRM-00728,Vandalism,Parkside,34.079909,-118.215161,2026-04-18,15:17,Park,Medium,0
+CRM-00729,Shoplifting,Industrial District,33.995293,-118.217234,2025-04-23,07:23,Industrial,Medium,0
+CRM-00730,Theft,Industrial District,34.011820,-118.224438,2024-09-09,15:02,Industrial,Medium,0
+CRM-00731,Fraud,Downtown,34.049841,-118.227451,2024-11-14,18:49,Transit Station,Medium,0
+CRM-00732,Fraud,Industrial District,34.022653,-118.230623,2024-10-12,08:29,Transit Station,Medium,0
+CRM-00733,Robbery,Eastside,34.028437,-118.183682,2025-06-22,13:54,Residential,High,0
+CRM-00734,Assault,Uptown,34.081826,-118.286779,2025-04-10,07:06,Residential,High,0
+CRM-00735,Theft,Westside,34.045523,-118.342389,2025-08-17,15:35,Transit Station,Medium,0
+CRM-00736,Theft,Eastside,34.036369,-118.198562,2026-03-01,06:52,Residential,Low,0
+CRM-00737,Shoplifting,Parkside,34.079768,-118.209171,2024-05-30,04:53,School Zone,Low,0
+CRM-00738,Assault,Eastside,34.018600,-118.195827,2025-07-23,02:33,Commercial,High,1
+CRM-00739,Vandalism,Uptown,34.090239,-118.285438,2024-11-20,19:06,Park,Low,0
+CRM-00740,Robbery,Eastside,34.032699,-118.186016,2025-11-07,00:58,Residential,High,0
+CRM-00741,Assault,Westside,34.044169,-118.342931,2025-10-17,02:28,Commercial,High,0
+CRM-00742,Vandalism,Suburbs,34.116594,-118.191577,2024-11-15,21:36,Park,Low,0
+CRM-00743,Drug Offense,Downtown,34.066557,-118.253733,2024-10-23,12:44,Transit Station,Low,1
+CRM-00744,Drug Offense,Industrial District,34.019411,-118.236651,2026-03-11,11:12,Transit Station,Medium,1
+CRM-00745,Vandalism,Uptown,34.079892,-118.285707,2026-05-24,08:46,Commercial,Medium,0
+CRM-00746,Vandalism,Harbor Area,33.751444,-118.263194,2026-04-16,05:34,Industrial,Low,0
+CRM-00747,Robbery,Westside,34.035188,-118.346411,2026-02-16,06:24,Commercial,High,1
+CRM-00748,Vandalism,Suburbs,34.122032,-118.178401,2025-10-19,12:22,Residential,Low,0
+CRM-00749,Shoplifting,Eastside,34.024444,-118.190969,2024-08-11,09:46,Commercial,Low,0
+CRM-00750,Vandalism,Eastside,34.031369,-118.196833,2025-11-19,06:44,Commercial,Low,0
+CRM-00751,Assault,Uptown,34.082155,-118.293617,2024-10-03,11:10,Residential,High,1
+CRM-00752,Theft,Suburbs,34.117001,-118.193755,2025-04-08,13:06,School Zone,Medium,0
+CRM-00753,Assault,Suburbs,34.141135,-118.193506,2025-07-14,18:47,Residential,High,0
+CRM-00754,Theft,Parkside,34.088909,-118.200778,2026-05-06,00:53,School Zone,Medium,0
+CRM-00755,Vandalism,Westside,34.038947,-118.350176,2026-02-23,10:12,Residential,Low,0
+CRM-00756,Robbery,Westside,34.066793,-118.345798,2026-04-30,07:59,Commercial,High,0
+CRM-00757,Theft,Suburbs,34.108616,-118.180916,2024-07-18,13:31,Park,Low,0
+CRM-00758,Burglary,Westside,34.041708,-118.344197,2026-03-22,22:37,Transit Station,Low,0
+CRM-00759,Robbery,Uptown,34.088739,-118.288985,2026-01-01,02:03,Commercial,High,0
+CRM-00760,Robbery,Downtown,34.053745,-118.242276,2024-04-25,11:22,Nightclub District,Medium,0
+CRM-00761,Theft,Downtown,34.052015,-118.241298,2024-04-19,15:42,Commercial,High,0
+CRM-00762,Shoplifting,Parkside,34.076141,-118.205747,2024-10-24,17:10,Park,Medium,1
+CRM-00763,Theft,Harbor Area,33.737909,-118.248906,2025-05-27,03:32,Commercial,Medium,1
+CRM-00764,Assault,Uptown,34.070520,-118.282119,2024-04-22,03:25,Residential,High,1
+CRM-00765,Assault,Suburbs,34.107148,-118.194032,2026-05-11,02:50,Residential,High,1
+CRM-00766,Theft,Parkside,34.103056,-118.206664,2026-02-17,17:28,Residential,Medium,0
+CRM-00767,Theft,Uptown,34.080420,-118.286917,2025-11-01,18:15,Residential,Medium,0
+CRM-00768,Theft,Downtown,34.048903,-118.228140,2025-07-21,06:04,Commercial,Medium,0
+CRM-00769,Drug Offense,Uptown,34.084341,-118.292464,2024-01-14,16:13,Park,Low,1
+CRM-00770,Theft,Downtown,34.051725,-118.242523,2025-02-05,18:49,Commercial,High,0
+CRM-00771,Theft,Eastside,34.017630,-118.187420,2025-09-27,14:56,Industrial,Medium,0
+CRM-00772,Shoplifting,Suburbs,34.129084,-118.176155,2024-07-06,20:37,School Zone,Low,0
+CRM-00773,Vandalism,Industrial District,34.011768,-118.213373,2024-12-19,14:00,Industrial,Medium,0
+CRM-00774,Theft,Industrial District,33.995157,-118.229759,2026-02-28,00:46,Transit Station,Medium,0
+CRM-00775,Drug Offense,Downtown,34.044368,-118.247544,2024-05-15,06:08,Transit Station,High,1
+CRM-00776,Robbery,Downtown,34.048784,-118.226958,2025-06-04,10:48,Nightclub District,High,0
+CRM-00777,Assault,Uptown,34.076515,-118.278714,2024-11-19,03:10,Residential,High,1
+CRM-00778,Vandalism,Suburbs,34.116848,-118.182769,2024-06-20,06:48,Residential,Low,0
+CRM-00779,Theft,Eastside,34.022334,-118.188948,2026-05-18,00:26,Industrial,Medium,0
+CRM-00780,Theft,Parkside,34.101263,-118.207735,2025-10-15,15:46,Residential,Medium,0
+CRM-00781,Robbery,Downtown,34.050951,-118.233096,2025-01-18,10:21,Transit Station,High,1
+CRM-00782,Theft,Uptown,34.083246,-118.283970,2025-03-28,17:15,Residential,High,0
+CRM-00783,Shoplifting,Downtown,34.056223,-118.259733,2024-01-09,16:22,Commercial,Low,1
+CRM-00784,Shoplifting,Suburbs,34.107264,-118.181385,2024-08-03,11:00,Park,Medium,1
+CRM-00785,Theft,Downtown,34.052268,-118.248684,2026-04-26,12:53,Transit Station,Medium,0
+CRM-00786,Theft,Westside,34.044232,-118.352541,2024-01-13,18:35,Transit Station,Medium,0
+CRM-00787,Assault,Harbor Area,33.738980,-118.258556,2025-01-28,02:44,Industrial,High,1
+CRM-00788,Drug Offense,Eastside,34.030090,-118.195522,2025-08-02,19:02,Commercial,High,1
+CRM-00789,Burglary,Harbor Area,33.737117,-118.254399,2024-12-20,22:31,Transit Station,Medium,1
+CRM-00790,Vandalism,Westside,34.038397,-118.354648,2024-09-07,04:22,Residential,Low,0
+CRM-00791,Shoplifting,Westside,34.032057,-118.347819,2024-04-13,11:30,Transit Station,Low,1
+CRM-00792,Theft,Eastside,34.046706,-118.196783,2024-02-19,08:50,Residential,Medium,0
+CRM-00793,Theft,Parkside,34.087668,-118.199507,2026-04-06,13:38,School Zone,Medium,0
+CRM-00794,Burglary,Harbor Area,33.742343,-118.262151,2025-11-22,04:52,Industrial,High,0
+CRM-00795,Theft,Eastside,34.025578,-118.195406,2025-03-23,02:23,Residential,Medium,0
+CRM-00796,Theft,Suburbs,34.108495,-118.176761,2026-03-15,10:04,School Zone,Medium,0
+CRM-00797,Shoplifting,Suburbs,34.130919,-118.176909,2025-02-03,19:46,School Zone,Low,1
+CRM-00798,Assault,Harbor Area,33.747977,-118.273520,2025-07-28,00:06,Industrial,High,0
+CRM-00799,Burglary,Suburbs,34.115917,-118.192658,2024-07-16,07:14,Residential,High,0
+CRM-00800,Assault,Uptown,34.077237,-118.294723,2025-12-20,23:18,Park,Medium,1
+CRM-00801,Theft,Uptown,34.092491,-118.285694,2025-11-05,21:00,Residential,Medium,1
+CRM-00802,Theft,Parkside,34.083808,-118.197357,2025-01-24,03:14,Residential,High,0
+CRM-00803,Assault,Downtown,34.047188,-118.238929,2024-06-30,10:58,Nightclub District,High,1
+CRM-00804,Vandalism,Suburbs,34.132603,-118.175963,2024-03-05,06:29,Residential,Low,0
+CRM-00805,Shoplifting,Eastside,34.053102,-118.194491,2025-08-07,13:19,Industrial,Low,0
+CRM-00806,Shoplifting,Suburbs,34.115114,-118.201561,2024-03-23,15:59,Residential,Low,1
+CRM-00807,Assault,Eastside,34.036252,-118.183793,2025-02-26,06:28,Residential,High,0
+CRM-00808,Theft,Parkside,34.090955,-118.223715,2025-01-01,15:07,Park,High,0
+CRM-00809,Theft,Industrial District,34.003626,-118.226636,2024-09-07,08:47,Transit Station,Medium,0
+CRM-00810,Assault,Eastside,34.029328,-118.195976,2024-10-23,03:02,Residential,High,1
+CRM-00811,Theft,Industrial District,34.011605,-118.236581,2025-09-14,11:41,Industrial,Medium,0
+CRM-00812,Vandalism,Westside,34.031044,-118.337777,2026-01-22,04:54,Residential,Low,0
+CRM-00813,Vandalism,Suburbs,34.134007,-118.180275,2026-03-18,08:06,School Zone,Low,1
+CRM-00814,Theft,Eastside,34.034677,-118.201114,2025-07-31,23:16,Commercial,Medium,0
+CRM-00815,Theft,Uptown,34.081094,-118.273847,2024-12-14,11:11,Commercial,High,0
+CRM-00816,Assault,Westside,34.038691,-118.345258,2025-12-04,06:42,Transit Station,High,0
+CRM-00817,Robbery,Eastside,34.027344,-118.205762,2026-01-18,13:36,Residential,High,0
+CRM-00818,Assault,Suburbs,34.118327,-118.190113,2025-06-22,18:13,Park,Medium,1
+CRM-00819,Drug Offense,Suburbs,34.120691,-118.192572,2024-03-08,22:56,Park,Low,1
+CRM-00820,Theft,Harbor Area,33.737948,-118.283259,2024-07-27,00:00,Transit Station,Medium,1
+CRM-00821,Shoplifting,Parkside,34.078220,-118.190437,2025-12-13,18:39,School Zone,Low,1
+CRM-00822,Shoplifting,Uptown,34.076901,-118.278104,2025-03-24,12:07,Residential,Low,0
+CRM-00823,Shoplifting,Uptown,34.074480,-118.295404,2026-04-12,13:27,Residential,Low,0
+CRM-00824,Assault,Harbor Area,33.753399,-118.244116,2024-01-28,07:49,Transit Station,High,0
+CRM-00825,Vandalism,Parkside,34.101064,-118.187467,2025-01-12,06:30,Park,Low,0
+CRM-00826,Assault,Uptown,34.082510,-118.277049,2025-05-19,22:17,Park,High,1
+CRM-00827,Robbery,Westside,34.045540,-118.337384,2024-04-22,13:07,Transit Station,High,0
+CRM-00828,Drug Offense,Industrial District,34.014832,-118.225348,2024-06-27,18:23,Transit Station,Low,1
+CRM-00829,Assault,Eastside,34.021817,-118.181559,2026-01-08,00:39,Commercial,High,1
+CRM-00830,Burglary,Harbor Area,33.745186,-118.266806,2025-11-20,21:58,Transit Station,Medium,1
+CRM-00831,Vandalism,Industrial District,34.013512,-118.225187,2024-04-29,11:13,Industrial,Low,0
+CRM-00832,Theft,Suburbs,34.127402,-118.158699,2026-02-13,02:58,Residential,Medium,0
+CRM-00833,Robbery,Suburbs,34.124275,-118.192406,2024-06-05,03:17,Residential,High,0
+CRM-00834,Vandalism,Westside,34.039326,-118.349722,2024-12-07,15:17,Transit Station,Low,0
+CRM-00835,Robbery,Westside,34.045717,-118.339033,2025-09-17,02:21,Commercial,High,1
+CRM-00836,Shoplifting,Industrial District,34.002210,-118.224534,2024-12-04,18:07,Industrial,Low,1
+CRM-00837,Vandalism,Suburbs,34.127326,-118.179484,2026-05-11,20:38,Residential,Medium,1
+CRM-00838,Robbery,Suburbs,34.132499,-118.186953,2025-08-04,12:09,Residential,High,0
+CRM-00839,Fraud,Downtown,34.034226,-118.236219,2025-10-06,04:00,Nightclub District,Low,1
+CRM-00840,Burglary,Westside,34.039419,-118.356612,2025-06-08,16:28,Transit Station,Low,0
+CRM-00841,Theft,Parkside,34.089485,-118.212720,2024-07-25,22:08,School Zone,Medium,0
+CRM-00842,Robbery,Harbor Area,33.740271,-118.274923,2024-03-31,10:54,Industrial,High,0
+CRM-00843,Robbery,Suburbs,34.114004,-118.180201,2025-01-15,10:51,Residential,Medium,0
+CRM-00844,Vandalism,Harbor Area,33.754660,-118.257429,2026-03-20,04:41,Industrial,Medium,0
+CRM-00845,Vandalism,Suburbs,34.107342,-118.185585,2025-06-03,11:46,Park,Low,0
+CRM-00846,Vandalism,Uptown,34.067446,-118.278556,2025-07-07,17:04,Residential,Low,1
+CRM-00847,Drug Offense,Westside,34.056304,-118.339550,2024-05-02,21:40,Transit Station,Medium,1
+CRM-00848,Assault,Parkside,34.097114,-118.202968,2025-08-24,03:57,School Zone,High,0
+CRM-00849,Robbery,Parkside,34.075192,-118.206577,2024-07-30,17:04,Park,High,0
+CRM-00850,Theft,Downtown,34.049754,-118.245065,2026-03-22,16:54,Transit Station,Medium,0
+CRM-00851,Shoplifting,Suburbs,34.137181,-118.180160,2025-07-21,19:49,School Zone,Low,0
+CRM-00852,Assault,Downtown,34.062375,-118.243188,2025-11-17,02:46,Nightclub District,High,0
+CRM-00853,Shoplifting,Uptown,34.081939,-118.268488,2024-06-03,09:37,Commercial,Medium,1
+CRM-00854,Assault,Eastside,34.044135,-118.201368,2026-05-28,00:55,Commercial,Medium,1
+CRM-00855,Theft,Suburbs,34.110547,-118.180179,2026-03-23,17:05,School Zone,Medium,0
+CRM-00856,Vandalism,Suburbs,34.127262,-118.179026,2024-05-08,15:05,Park,Low,0
+CRM-00857,Drug Offense,Downtown,34.049580,-118.245701,2024-10-17,21:04,Commercial,Medium,1
+CRM-00858,Theft,Uptown,34.086256,-118.269108,2024-04-02,15:08,Residential,Medium,0
+CRM-00859,Assault,Westside,34.037686,-118.329589,2025-12-18,01:50,Residential,High,0
+CRM-00860,Burglary,Westside,34.041362,-118.347817,2025-08-11,13:26,Transit Station,High,0
+CRM-00861,Assault,Uptown,34.084872,-118.276050,2025-06-04,01:02,Park,Medium,0
+CRM-00862,Vandalism,Harbor Area,33.732610,-118.261441,2024-03-23,20:50,Commercial,Low,0
+CRM-00863,Fraud,Uptown,34.091782,-118.281909,2024-12-16,14:03,Commercial,Low,0
+CRM-00864,Vandalism,Uptown,34.082834,-118.282716,2026-01-07,07:02,Residential,Low,0
+CRM-00865,Robbery,Westside,34.040003,-118.344419,2025-04-20,05:47,Transit Station,High,0
+CRM-00866,Robbery,Harbor Area,33.722564,-118.247712,2024-06-16,22:32,Transit Station,High,0
+CRM-00867,Theft,Parkside,34.090257,-118.198938,2025-12-08,00:17,School Zone,High,0
+CRM-00868,Vandalism,Suburbs,34.132377,-118.171079,2024-12-10,22:25,Park,Low,0
+CRM-00869,Fraud,Parkside,34.092428,-118.197225,2024-07-06,12:26,Park,Low,0
+CRM-00870,Shoplifting,Harbor Area,33.741245,-118.272707,2025-02-07,04:08,Transit Station,Low,1
+CRM-00871,Burglary,Downtown,34.055254,-118.243939,2024-10-09,05:50,Nightclub District,Medium,1
+CRM-00872,Shoplifting,Industrial District,34.013419,-118.218418,2024-07-02,18:57,Industrial,Low,1
+CRM-00873,Vandalism,Parkside,34.080824,-118.201458,2024-07-10,13:29,Park,Low,0
+CRM-00874,Fraud,Industrial District,34.004847,-118.235610,2024-11-05,15:48,Transit Station,Low,1
+CRM-00875,Shoplifting,Westside,34.065287,-118.339708,2025-01-24,12:35,Residential,Low,0
+CRM-00876,Theft,Downtown,34.047618,-118.238873,2025-02-02,16:02,Commercial,High,0
+CRM-00877,Theft,Parkside,34.098456,-118.212421,2025-07-20,01:10,School Zone,High,0
+CRM-00878,Drug Offense,Suburbs,34.135719,-118.180031,2024-04-29,07:08,Residential,Medium,1
+CRM-00879,Assault,Uptown,34.096196,-118.284223,2025-12-01,23:30,Commercial,High,1
+CRM-00880,Fraud,Suburbs,34.132359,-118.172256,2026-06-01,09:26,Residential,Low,1
+CRM-00881,Burglary,Parkside,34.087399,-118.193526,2025-11-07,09:19,Park,Medium,0
+CRM-00882,Robbery,Westside,34.043473,-118.335558,2025-09-12,18:41,Residential,Medium,1
+CRM-00883,Theft,Eastside,34.030028,-118.185958,2025-07-17,03:11,Industrial,Low,0
+CRM-00884,Burglary,Harbor Area,33.753570,-118.251140,2024-02-09,04:04,Industrial,Medium,0
+CRM-00885,Theft,Downtown,34.047912,-118.247372,2025-12-23,20:46,Transit Station,High,0
+CRM-00886,Burglary,Eastside,34.021855,-118.198159,2024-03-18,04:14,Industrial,High,0
+CRM-00887,Theft,Parkside,34.092126,-118.200062,2025-05-21,15:29,School Zone,High,0
+CRM-00888,Vandalism,Downtown,34.049130,-118.258765,2026-03-04,08:13,Commercial,Low,0
+CRM-00889,Shoplifting,Suburbs,34.114866,-118.179317,2025-09-09,06:26,Park,Medium,0
+CRM-00890,Robbery,Suburbs,34.112105,-118.179603,2024-09-16,01:56,Residential,Medium,0
+CRM-00891,Vandalism,Parkside,34.084520,-118.197287,2024-09-04,09:22,Park,Low,0
+CRM-00892,Shoplifting,Suburbs,34.129289,-118.174395,2024-09-22,08:54,School Zone,Low,0
+CRM-00893,Theft,Suburbs,34.117907,-118.181306,2025-08-04,00:51,Park,High,0
+CRM-00894,Burglary,Harbor Area,33.732218,-118.266509,2024-05-20,23:40,Commercial,Medium,0
+CRM-00895,Theft,Downtown,34.057459,-118.222074,2025-08-11,00:17,Commercial,Medium,0
+CRM-00896,Robbery,Industrial District,34.010392,-118.220364,2025-01-31,15:34,Industrial,High,0
+CRM-00897,Vandalism,Parkside,34.092996,-118.201077,2026-04-25,13:27,Residential,Medium,0
+CRM-00898,Fraud,Uptown,34.077858,-118.279794,2024-09-14,18:59,Commercial,Low,0
+CRM-00899,Theft,Parkside,34.085789,-118.212244,2025-02-01,08:50,Residential,Medium,0
+CRM-00900,Robbery,Westside,34.050970,-118.349304,2024-08-26,05:03,Commercial,High,0
+CRM-00901,Vandalism,Downtown,34.048275,-118.240180,2024-10-06,04:30,Transit Station,Medium,1
+CRM-00902,Assault,Industrial District,34.011677,-118.225155,2025-01-04,03:28,Industrial,High,1
+CRM-00903,Drug Offense,Eastside,34.016778,-118.180018,2025-04-09,19:49,Residential,Medium,1
+CRM-00904,Theft,Industrial District,34.017094,-118.213256,2024-05-07,10:43,Industrial,Medium,0
+CRM-00905,Theft,Harbor Area,33.735627,-118.253244,2025-04-20,00:34,Commercial,Medium,1
+CRM-00906,Theft,Eastside,34.031916,-118.185475,2025-10-25,05:36,Industrial,Medium,0
+CRM-00907,Assault,Westside,34.058424,-118.353477,2026-04-14,11:04,Transit Station,Medium,1
+CRM-00908,Vandalism,Suburbs,34.123695,-118.181367,2026-01-02,23:50,Park,Low,1
+CRM-00909,Fraud,Industrial District,34.007482,-118.230630,2024-06-19,06:45,Transit Station,Low,0
+CRM-00910,Vandalism,Industrial District,34.020477,-118.222506,2026-02-24,18:59,Transit Station,Low,0
+CRM-00911,Robbery,Uptown,34.076440,-118.277693,2024-03-28,13:58,Residential,High,0
+CRM-00912,Theft,Westside,34.050602,-118.345948,2026-04-09,02:53,Commercial,High,0
+CRM-00913,Fraud,Westside,34.048490,-118.346214,2025-08-03,05:07,Transit Station,Medium,0
+CRM-00914,Theft,Suburbs,34.120264,-118.184521,2024-06-20,12:55,Park,Medium,0
+CRM-00915,Drug Offense,Parkside,34.092738,-118.212187,2024-09-23,04:41,Park,Medium,1
+CRM-00916,Robbery,Parkside,34.095449,-118.199833,2025-02-04,17:53,Park,High,0
+CRM-00917,Theft,Westside,34.048453,-118.336943,2025-01-29,07:12,Residential,Medium,0
+CRM-00918,Assault,Suburbs,34.110441,-118.193834,2026-05-29,04:25,Park,High,1
+CRM-00919,Shoplifting,Industrial District,34.020838,-118.237064,2026-04-20,21:57,Transit Station,Low,0
+CRM-00920,Fraud,Uptown,34.071091,-118.274918,2025-03-08,09:28,Residential,Low,1
+CRM-00921,Theft,Suburbs,34.118814,-118.187870,2026-03-01,03:55,Residential,Medium,0
+CRM-00922,Burglary,Parkside,34.073964,-118.197745,2024-02-09,12:55,Park,Medium,1
+CRM-00923,Theft,Eastside,34.036235,-118.183572,2025-02-15,02:55,Industrial,Low,0
+CRM-00924,Fraud,Suburbs,34.120542,-118.178164,2024-07-14,21:06,Residential,Low,0
+CRM-00925,Shoplifting,Suburbs,34.112597,-118.188298,2025-08-12,13:01,Residential,Medium,0
+CRM-00926,Assault,Eastside,34.039825,-118.195033,2025-04-15,11:43,Residential,High,0
+CRM-00927,Assault,Harbor Area,33.741146,-118.272686,2025-11-07,01:31,Commercial,High,1
+CRM-00928,Drug Offense,Downtown,34.056588,-118.249046,2025-11-19,22:30,Transit Station,Medium,1
+CRM-00929,Drug Offense,Uptown,34.083595,-118.269881,2024-08-14,23:16,Park,Low,1
+CRM-00930,Drug Offense,Downtown,34.054603,-118.222559,2025-02-02,18:48,Nightclub District,Medium,1
+CRM-00931,Fraud,Harbor Area,33.746716,-118.267379,2024-02-06,12:56,Commercial,Low,0
+CRM-00932,Theft,Suburbs,34.126030,-118.188194,2026-05-20,03:01,Park,High,0
+CRM-00933,Theft,Harbor Area,33.741862,-118.266347,2025-05-11,06:12,Industrial,Medium,0
+CRM-00934,Shoplifting,Uptown,34.078646,-118.279955,2026-03-13,10:39,Residential,Medium,0
+CRM-00935,Fraud,Industrial District,34.015023,-118.226158,2025-03-10,14:58,Industrial,Low,0
+CRM-00936,Theft,Downtown,34.056862,-118.251119,2024-02-03,16:57,Commercial,Medium,0
+CRM-00937,Shoplifting,Harbor Area,33.736125,-118.268854,2024-11-08,13:44,Transit Station,Low,1
+CRM-00938,Shoplifting,Harbor Area,33.745827,-118.267498,2025-12-12,14:16,Commercial,Low,0
+CRM-00939,Assault,Harbor Area,33.742941,-118.268812,2025-12-16,17:49,Industrial,High,1
+CRM-00940,Theft,Uptown,34.080626,-118.285314,2024-08-23,17:29,Commercial,Low,0
+CRM-00941,Theft,Downtown,34.062626,-118.248073,2024-05-19,10:42,Transit Station,Medium,0
+CRM-00942,Robbery,Uptown,34.090412,-118.273336,2025-02-02,03:40,Commercial,High,0
+CRM-00943,Robbery,Parkside,34.095428,-118.196076,2024-11-25,02:22,School Zone,High,0
+CRM-00944,Burglary,Industrial District,34.005957,-118.225342,2026-05-25,21:04,Transit Station,Medium,0
+CRM-00945,Shoplifting,Downtown,34.068435,-118.249224,2025-03-06,08:47,Commercial,Low,0
+CRM-00946,Assault,Downtown,34.050812,-118.243052,2026-05-14,14:42,Nightclub District,High,1
+CRM-00947,Shoplifting,Suburbs,34.111059,-118.186872,2025-11-19,18:15,School Zone,Low,0
+CRM-00948,Vandalism,Eastside,34.027173,-118.201800,2025-05-16,21:19,Industrial,Medium,0
+CRM-00949,Burglary,Downtown,34.043515,-118.256684,2024-03-28,05:51,Nightclub District,Medium,0
+CRM-00950,Drug Offense,Westside,34.047872,-118.342056,2025-08-02,08:08,Commercial,High,1
+CRM-00951,Burglary,Parkside,34.086421,-118.195713,2024-09-22,15:36,Residential,Medium,0
+CRM-00952,Shoplifting,Suburbs,34.108715,-118.180351,2025-07-01,12:02,School Zone,Low,1
+CRM-00953,Vandalism,Eastside,34.044916,-118.195204,2024-06-17,07:20,Residential,Low,0
+CRM-00954,Assault,Uptown,34.063655,-118.288195,2024-10-14,07:34,Park,High,1
+CRM-00955,Theft,Industrial District,34.017536,-118.222981,2024-07-31,02:35,Transit Station,Medium,0
+CRM-00956,Burglary,Harbor Area,33.735987,-118.268144,2024-05-25,07:45,Industrial,Medium,0
+CRM-00957,Assault,Harbor Area,33.746822,-118.271609,2024-03-13,00:16,Industrial,High,0
+CRM-00958,Drug Offense,Parkside,34.087578,-118.207670,2024-04-28,15:33,Park,High,1
+CRM-00959,Assault,Industrial District,34.015956,-118.226732,2025-11-18,15:49,Industrial,High,1
+CRM-00960,Vandalism,Downtown,34.050883,-118.256304,2025-11-26,22:35,Transit Station,Low,0
+CRM-00961,Vandalism,Westside,34.053182,-118.360151,2024-02-19,13:35,Residential,Low,0
+CRM-00962,Burglary,Harbor Area,33.750536,-118.263081,2026-02-16,12:54,Transit Station,Medium,0
+CRM-00963,Assault,Parkside,34.088644,-118.197862,2025-08-05,01:58,School Zone,Medium,0
+CRM-00964,Robbery,Westside,34.037795,-118.349841,2024-08-19,04:01,Residential,High,0
+CRM-00965,Shoplifting,Uptown,34.089662,-118.278898,2025-09-18,07:31,Commercial,Low,1
+CRM-00966,Drug Offense,Suburbs,34.133286,-118.177277,2025-11-30,11:47,Park,Medium,0
+CRM-00967,Shoplifting,Harbor Area,33.731750,-118.260381,2026-01-04,19:11,Industrial,Low,1
+CRM-00968,Fraud,Suburbs,34.122488,-118.190396,2025-03-01,15:16,Residential,Medium,0
+CRM-00969,Drug Offense,Industrial District,34.011262,-118.213986,2026-02-05,10:53,Transit Station,High,1
+CRM-00970,Theft,Uptown,34.088606,-118.281205,2024-08-30,00:57,Park,High,0
+CRM-00971,Theft,Downtown,34.055477,-118.227022,2025-10-20,21:10,Commercial,Low,0
+CRM-00972,Drug Offense,Uptown,34.088505,-118.294226,2026-03-31,07:58,Residential,Medium,0
+CRM-00973,Assault,Parkside,34.083627,-118.209667,2025-03-03,00:19,Residential,High,1
+CRM-00974,Robbery,Uptown,34.078628,-118.292825,2025-09-16,21:45,Commercial,High,0
+CRM-00975,Assault,Downtown,34.047082,-118.251026,2024-09-25,22:48,Commercial,High,1
+CRM-00976,Shoplifting,Westside,34.038109,-118.342261,2026-03-24,11:42,Commercial,Low,1
+CRM-00977,Robbery,Industrial District,34.019851,-118.215540,2024-06-07,15:01,Industrial,High,1
+CRM-00978,Theft,Parkside,34.095374,-118.207179,2025-05-23,13:07,School Zone,Medium,0
+CRM-00979,Vandalism,Eastside,34.041828,-118.196705,2026-05-10,15:18,Industrial,Low,0
+CRM-00980,Theft,Suburbs,34.123563,-118.174884,2025-12-03,01:40,Residential,Medium,0
+CRM-00981,Theft,Suburbs,34.116226,-118.187729,2025-01-10,04:20,School Zone,Medium,0
+CRM-00982,Theft,Harbor Area,33.745365,-118.258704,2025-10-23,11:55,Commercial,Medium,0
+CRM-00983,Assault,Uptown,34.088836,-118.273699,2024-05-11,01:21,Commercial,Medium,1
+CRM-00984,Assault,Suburbs,34.121295,-118.191950,2025-12-12,05:16,Park,High,0
+CRM-00985,Shoplifting,Westside,34.055931,-118.347387,2026-04-17,16:57,Transit Station,Low,0
+CRM-00986,Drug Offense,Uptown,34.076715,-118.289472,2025-03-24,05:15,Residential,High,1
+CRM-00987,Assault,Westside,34.031999,-118.351587,2024-11-03,02:38,Residential,High,0
+CRM-00988,Theft,Industrial District,34.013907,-118.221348,2025-04-11,02:43,Transit Station,Medium,0
+CRM-00989,Burglary,Westside,34.047035,-118.342583,2024-05-21,23:08,Residential,High,0
+CRM-00990,Burglary,Parkside,34.088567,-118.203235,2025-01-07,06:53,Park,Medium,0
+CRM-00991,Fraud,Eastside,34.039221,-118.198218,2025-07-28,09:12,Industrial,Low,0
+CRM-00992,Theft,Eastside,34.008753,-118.184593,2025-02-08,11:44,Residential,Low,1
+CRM-00993,Shoplifting,Parkside,34.096421,-118.196288,2026-04-24,23:16,Residential,Low,1
+CRM-00994,Shoplifting,Parkside,34.085855,-118.211902,2025-06-01,06:40,School Zone,Low,0
+CRM-00995,Shoplifting,Industrial District,34.010450,-118.225413,2024-09-14,09:13,Industrial,Low,0
+CRM-00996,Burglary,Industrial District,34.008079,-118.218192,2025-04-28,23:45,Transit Station,Low,0
+CRM-00997,Shoplifting,Downtown,34.046984,-118.234228,2024-04-22,20:17,Transit Station,Low,1
+CRM-00998,Drug Offense,Uptown,34.089898,-118.292435,2025-11-15,20:29,Residential,Low,1
+CRM-00999,Theft,Industrial District,34.012002,-118.222825,2025-03-25,15:52,Industrial,Low,0
+CRM-01000,Robbery,Harbor Area,33.761657,-118.254730,2025-01-09,08:58,Transit Station,High,1
+CRM-01001,Theft,Suburbs,34.123097,-118.188068,2024-08-12,02:54,School Zone,High,0
+CRM-01002,Robbery,Eastside,34.026009,-118.188777,2024-04-24,02:50,Residential,High,0
+CRM-01003,Assault,Eastside,34.043679,-118.206124,2024-08-30,01:37,Residential,High,1
+CRM-01004,Theft,Industrial District,34.006078,-118.199694,2025-04-27,18:10,Industrial,Medium,0
+CRM-01005,Shoplifting,Suburbs,34.143126,-118.189793,2025-02-09,20:03,School Zone,Low,0
+CRM-01006,Shoplifting,Harbor Area,33.759692,-118.255765,2024-04-20,10:01,Industrial,Low,1
+CRM-01007,Theft,Eastside,34.034551,-118.184618,2025-07-09,19:47,Residential,Medium,0
+CRM-01008,Shoplifting,Uptown,34.077193,-118.293570,2024-10-08,12:55,Commercial,Low,1
+CRM-01009,Shoplifting,Suburbs,34.108575,-118.171625,2024-11-10,14:39,School Zone,Low,0
+CRM-01010,Assault,Parkside,34.087883,-118.202687,2025-05-12,03:59,Park,Medium,0
+CRM-01011,Theft,Westside,34.043382,-118.338696,2025-02-08,05:13,Commercial,Medium,0
+CRM-01012,Burglary,Industrial District,34.012513,-118.216305,2024-02-03,10:01,Transit Station,Medium,0
+CRM-01013,Shoplifting,Uptown,34.093448,-118.274264,2026-04-09,16:15,Park,Medium,0
+CRM-01014,Assault,Parkside,34.083114,-118.202118,2026-05-29,16:42,Park,High,1
+CRM-01015,Fraud,Uptown,34.078697,-118.275126,2024-08-22,10:02,Park,Low,0
+CRM-01016,Assault,Uptown,34.085822,-118.280469,2024-12-05,03:44,Commercial,High,1
+CRM-01017,Robbery,Parkside,34.097295,-118.189759,2024-08-19,02:33,School Zone,High,0
+CRM-01018,Vandalism,Parkside,34.084771,-118.205192,2025-08-09,12:39,School Zone,Medium,0
+CRM-01019,Robbery,Uptown,34.084248,-118.292465,2025-12-27,07:19,Residential,High,1
+CRM-01020,Assault,Downtown,34.050739,-118.241477,2024-12-12,03:16,Commercial,Medium,1
+CRM-01021,Theft,Downtown,34.056472,-118.249979,2024-06-26,03:39,Commercial,Medium,1
+CRM-01022,Theft,Parkside,34.090846,-118.188749,2025-08-14,03:18,Residential,Medium,1
+CRM-01023,Shoplifting,Parkside,34.091752,-118.211296,2025-06-16,18:43,Residential,Medium,1
+CRM-01024,Drug Offense,Eastside,34.035557,-118.183948,2025-07-07,10:59,Residential,Medium,1
+CRM-01025,Drug Offense,Harbor Area,33.739094,-118.251496,2024-02-27,10:35,Transit Station,Medium,1
+CRM-01026,Drug Offense,Eastside,34.033303,-118.204309,2025-09-22,07:10,Residential,High,1
+CRM-01027,Fraud,Uptown,34.065731,-118.275265,2026-03-08,17:40,Park,Low,0
+CRM-01028,Vandalism,Suburbs,34.137870,-118.188394,2025-10-22,23:42,Park,Low,0
+CRM-01029,Vandalism,Parkside,34.078688,-118.209911,2025-09-14,18:32,School Zone,Low,0
+CRM-01030,Shoplifting,Westside,34.039994,-118.332030,2024-03-07,09:17,Commercial,Low,1
+CRM-01031,Burglary,Harbor Area,33.740155,-118.265825,2025-10-17,13:34,Industrial,High,0
+CRM-01032,Theft,Harbor Area,33.750388,-118.256627,2025-09-07,09:28,Commercial,Medium,0
+CRM-01033,Assault,Downtown,34.044974,-118.231801,2024-01-06,02:36,Commercial,Medium,1
+CRM-01034,Fraud,Harbor Area,33.732839,-118.273499,2024-05-13,16:38,Commercial,Medium,0
+CRM-01035,Drug Offense,Eastside,34.041994,-118.192853,2026-05-06,07:32,Residential,Medium,1
+CRM-01036,Shoplifting,Parkside,34.087054,-118.200984,2026-05-28,22:48,School Zone,Low,0
+CRM-01037,Shoplifting,Westside,34.047777,-118.341089,2025-04-28,12:31,Commercial,Low,1
+CRM-01038,Robbery,Downtown,34.054942,-118.238444,2025-10-29,08:17,Transit Station,Medium,0
+CRM-01039,Shoplifting,Harbor Area,33.739378,-118.254125,2025-07-25,06:26,Industrial,Low,0
+CRM-01040,Theft,Parkside,34.074311,-118.217786,2025-06-26,17:48,School Zone,Medium,0
+CRM-01041,Vandalism,Eastside,34.032719,-118.196399,2024-08-05,21:06,Residential,Low,0
+CRM-01042,Shoplifting,Suburbs,34.143162,-118.189895,2025-04-03,13:17,School Zone,Low,0
+CRM-01043,Theft,Eastside,34.034116,-118.191899,2024-08-19,02:39,Residential,Medium,0
+CRM-01044,Robbery,Parkside,34.089665,-118.203088,2024-12-01,14:10,Park,High,0
+CRM-01045,Shoplifting,Eastside,34.039491,-118.188986,2024-10-10,07:28,Residential,Low,1
+CRM-01046,Shoplifting,Downtown,34.049875,-118.246830,2025-06-29,18:27,Commercial,Medium,0
+CRM-01047,Assault,Eastside,34.020964,-118.186587,2026-01-09,08:00,Residential,High,0
+CRM-01048,Shoplifting,Parkside,34.110300,-118.195676,2024-05-17,13:39,School Zone,Low,0
+CRM-01049,Theft,Eastside,34.031215,-118.192221,2024-07-24,02:02,Industrial,High,0
+CRM-01050,Theft,Industrial District,34.008537,-118.227310,2026-03-07,06:45,Industrial,Medium,0
+CRM-01051,Drug Offense,Downtown,34.051565,-118.221629,2025-08-17,13:41,Nightclub District,Medium,1
+CRM-01052,Theft,Eastside,34.039134,-118.196228,2025-07-24,14:55,Commercial,Medium,0
+CRM-01053,Robbery,Harbor Area,33.725976,-118.281381,2024-04-09,07:18,Transit Station,High,0
+CRM-01054,Drug Offense,Industrial District,34.006225,-118.223575,2024-04-07,15:30,Industrial,Medium,1
+CRM-01055,Shoplifting,Harbor Area,33.749718,-118.247964,2024-05-27,11:22,Commercial,Low,0
+CRM-01056,Burglary,Harbor Area,33.754729,-118.267470,2026-02-21,13:38,Transit Station,Medium,0
+CRM-01057,Fraud,Uptown,34.073676,-118.287271,2024-08-29,15:47,Commercial,Low,0
+CRM-01058,Theft,Suburbs,34.128395,-118.182135,2025-04-07,06:10,School Zone,Medium,0
+CRM-01059,Vandalism,Parkside,34.093038,-118.208595,2025-12-11,21:52,School Zone,Low,1
+CRM-01060,Theft,Harbor Area,33.743178,-118.258309,2024-04-21,10:12,Transit Station,High,0
+CRM-01061,Theft,Uptown,34.076492,-118.287961,2024-04-16,01:25,Commercial,High,1
+CRM-01062,Fraud,Parkside,34.094896,-118.208884,2024-10-06,14:49,Residential,Medium,0
+CRM-01063,Theft,Suburbs,34.118873,-118.192554,2025-08-21,15:30,School Zone,Medium,0
+CRM-01064,Burglary,Harbor Area,33.749106,-118.273689,2025-09-15,22:51,Industrial,Medium,0
+CRM-01065,Theft,Eastside,34.041904,-118.185004,2025-10-09,15:15,Commercial,Medium,0
+CRM-01066,Drug Offense,Industrial District,34.015795,-118.214531,2025-03-30,04:56,Transit Station,High,1
+CRM-01067,Shoplifting,Eastside,34.022240,-118.207436,2024-06-12,17:19,Commercial,Low,0
+CRM-01068,Burglary,Harbor Area,33.738692,-118.273273,2026-01-03,18:34,Industrial,Medium,0
+CRM-01069,Robbery,Harbor Area,33.740571,-118.254066,2025-11-23,05:03,Commercial,High,0
+CRM-01070,Shoplifting,Parkside,34.087398,-118.187581,2026-02-28,15:24,Residential,Low,1
+CRM-01071,Fraud,Westside,34.048686,-118.336121,2025-07-01,21:41,Transit Station,Low,0
+CRM-01072,Robbery,Industrial District,34.021042,-118.210746,2025-06-12,06:30,Transit Station,Medium,0
+CRM-01073,Shoplifting,Parkside,34.081350,-118.221968,2025-09-11,09:14,Park,Medium,1
+CRM-01074,Fraud,Industrial District,34.008527,-118.214615,2025-03-01,07:33,Transit Station,Medium,0
+CRM-01075,Shoplifting,Suburbs,34.131499,-118.175065,2025-12-12,07:29,Park,Medium,1
+CRM-01076,Drug Offense,Downtown,34.054780,-118.236488,2026-03-07,06:04,Transit Station,High,1
+CRM-01077,Vandalism,Uptown,34.063929,-118.296333,2025-01-09,20:18,Park,Low,1
+CRM-01078,Vandalism,Industrial District,34.014206,-118.216528,2024-07-16,08:18,Transit Station,Low,0
+CRM-01079,Shoplifting,Uptown,34.088173,-118.281083,2025-12-24,16:04,Park,Low,0
+CRM-01080,Drug Offense,Parkside,34.094547,-118.209289,2024-11-18,14:15,Residential,Medium,0
+CRM-01081,Assault,Westside,34.042194,-118.343044,2024-08-02,18:03,Transit Station,High,0
+CRM-01082,Burglary,Westside,34.043337,-118.359154,2025-03-09,12:03,Residential,Low,0
+CRM-01083,Robbery,Harbor Area,33.746256,-118.256544,2024-06-17,18:03,Transit Station,High,0
+CRM-01084,Assault,Westside,34.037839,-118.348698,2024-02-19,15:33,Residential,High,0
+CRM-01085,Robbery,Industrial District,34.004816,-118.232402,2024-01-03,07:13,Industrial,High,1
+CRM-01086,Theft,Downtown,34.055697,-118.249804,2024-08-17,00:59,Nightclub District,Medium,0
+CRM-01087,Vandalism,Suburbs,34.126511,-118.191014,2026-05-11,18:24,Residential,Medium,0
+CRM-01088,Robbery,Westside,34.048063,-118.342663,2025-08-16,20:39,Residential,High,0
+CRM-01089,Vandalism,Harbor Area,33.749053,-118.271019,2025-01-29,12:22,Transit Station,Low,0
+CRM-01090,Theft,Harbor Area,33.734243,-118.255733,2024-03-21,00:18,Transit Station,Medium,0
+CRM-01091,Fraud,Harbor Area,33.752999,-118.260959,2025-12-22,10:44,Commercial,Medium,1
+CRM-01092,Burglary,Harbor Area,33.733301,-118.275283,2026-05-22,07:21,Transit Station,Medium,0
+CRM-01093,Fraud,Harbor Area,33.742924,-118.264484,2025-02-14,14:35,Commercial,Low,0
+CRM-01094,Robbery,Suburbs,34.122876,-118.192556,2025-08-16,01:09,Residential,High,0
+CRM-01095,Shoplifting,Parkside,34.089045,-118.212829,2025-04-28,09:31,Park,Low,0
+CRM-01096,Assault,Downtown,34.041090,-118.239334,2025-10-10,00:17,Commercial,High,0
+CRM-01097,Assault,Suburbs,34.119387,-118.192731,2025-02-04,04:36,Park,Medium,1
+CRM-01098,Drug Offense,Uptown,34.086177,-118.284349,2024-02-22,08:09,Park,Medium,0
+CRM-01099,Robbery,Downtown,34.056859,-118.235518,2024-04-02,00:58,Transit Station,High,0
+CRM-01100,Assault,Suburbs,34.115685,-118.176101,2024-05-08,07:51,Residential,Medium,0
+CRM-01101,Shoplifting,Westside,34.047790,-118.347783,2026-01-18,10:40,Commercial,Low,0
+CRM-01102,Fraud,Westside,34.036742,-118.342554,2025-08-14,22:40,Commercial,Medium,0
+CRM-01103,Assault,Harbor Area,33.737678,-118.258132,2025-05-28,15:02,Industrial,High,0
+CRM-01104,Fraud,Industrial District,34.020087,-118.226505,2026-02-20,08:26,Industrial,Low,1
+CRM-01105,Burglary,Uptown,34.082173,-118.291605,2024-12-31,06:08,Park,High,0
+CRM-01106,Theft,Suburbs,34.130343,-118.180398,2024-04-17,08:50,School Zone,Medium,0
+CRM-01107,Assault,Uptown,34.082604,-118.283785,2026-03-23,02:59,Residential,High,1
+CRM-01108,Theft,Industrial District,34.002124,-118.222749,2024-05-25,02:21,Industrial,High,1
+CRM-01109,Robbery,Parkside,34.103752,-118.200702,2025-05-29,05:14,Residential,Medium,0
+CRM-01110,Burglary,Industrial District,34.013088,-118.221048,2026-02-16,09:12,Transit Station,Medium,0
+CRM-01111,Robbery,Industrial District,34.002913,-118.215224,2024-08-09,01:18,Transit Station,High,0
+CRM-01112,Shoplifting,Suburbs,34.112233,-118.188781,2024-12-22,20:38,School Zone,Low,1
+CRM-01113,Theft,Eastside,34.037503,-118.193458,2025-04-06,07:08,Commercial,Medium,0
+CRM-01114,Burglary,Eastside,34.041344,-118.196074,2024-09-23,14:23,Residential,Medium,0
+CRM-01115,Theft,Westside,34.043203,-118.348857,2025-07-04,11:57,Residential,High,0
+CRM-01116,Vandalism,Parkside,34.088581,-118.208558,2025-04-21,12:42,School Zone,Medium,0
+CRM-01117,Theft,Suburbs,34.129542,-118.188842,2024-10-23,16:30,School Zone,Medium,0
+CRM-01118,Shoplifting,Downtown,34.049888,-118.241457,2025-06-02,14:13,Commercial,Low,0
+CRM-01119,Shoplifting,Suburbs,34.114190,-118.189029,2026-02-25,13:20,Residential,Low,1
+CRM-01120,Robbery,Westside,34.050498,-118.356700,2024-09-21,00:56,Commercial,High,0
+CRM-01121,Vandalism,Industrial District,34.029847,-118.219556,2026-01-22,06:32,Industrial,Medium,0
+CRM-01122,Assault,Suburbs,34.115749,-118.184662,2025-10-23,20:54,Residential,High,0
+CRM-01123,Theft,Parkside,34.090631,-118.197687,2024-10-22,00:35,Residential,Medium,0
+CRM-01124,Assault,Suburbs,34.134672,-118.186408,2026-01-21,00:39,School Zone,High,0
+CRM-01125,Theft,Eastside,34.031439,-118.201234,2025-01-03,02:43,Commercial,Medium,0
+CRM-01126,Assault,Downtown,34.052317,-118.248398,2024-07-28,07:58,Nightclub District,High,1
+CRM-01127,Burglary,Industrial District,34.022008,-118.216849,2024-03-19,22:14,Industrial,Low,0
+CRM-01128,Shoplifting,Suburbs,34.120025,-118.185307,2025-04-13,10:21,Residential,Low,1
+CRM-01129,Theft,Uptown,34.088346,-118.287478,2025-08-05,02:09,Commercial,Medium,0
+CRM-01130,Vandalism,Suburbs,34.136560,-118.187202,2024-08-07,06:35,Park,Low,0
+CRM-01131,Robbery,Parkside,34.099739,-118.208071,2025-09-20,02:45,Park,Medium,0
+CRM-01132,Drug Offense,Industrial District,34.013348,-118.223908,2026-02-18,19:38,Industrial,Medium,1
+CRM-01133,Assault,Downtown,34.062126,-118.235676,2025-03-04,02:15,Commercial,High,0
+CRM-01134,Theft,Harbor Area,33.753811,-118.265595,2026-04-30,20:21,Industrial,Medium,1
+CRM-01135,Theft,Eastside,34.039251,-118.203063,2024-06-18,12:36,Commercial,High,0
+CRM-01136,Assault,Harbor Area,33.734344,-118.256063,2026-04-19,17:16,Industrial,Medium,0
+CRM-01137,Robbery,Parkside,34.084205,-118.206898,2025-05-20,07:58,Park,High,0
+CRM-01138,Drug Offense,Uptown,34.086355,-118.278487,2025-03-02,04:34,Commercial,Medium,1
+CRM-01139,Drug Offense,Eastside,34.032699,-118.187550,2025-01-21,09:51,Industrial,Low,1
+CRM-01140,Robbery,Uptown,34.086182,-118.279627,2025-10-07,02:03,Park,Medium,0
+CRM-01141,Assault,Parkside,34.085354,-118.188633,2024-12-25,14:15,Park,High,1
+CRM-01142,Assault,Industrial District,34.007175,-118.223416,2026-01-17,07:56,Industrial,High,0
+CRM-01143,Fraud,Westside,34.039372,-118.347116,2024-05-28,11:52,Transit Station,Medium,0
+CRM-01144,Shoplifting,Harbor Area,33.739567,-118.249547,2024-10-07,11:12,Commercial,Low,0
+CRM-01145,Robbery,Uptown,34.089975,-118.290425,2024-08-13,02:53,Residential,High,1
+CRM-01146,Shoplifting,Harbor Area,33.735227,-118.264754,2025-09-05,12:37,Commercial,Low,0
+CRM-01147,Shoplifting,Parkside,34.073586,-118.205052,2026-04-04,08:07,Residential,Low,0
+CRM-01148,Assault,Westside,34.042726,-118.338780,2026-03-05,18:46,Transit Station,High,1
+CRM-01149,Theft,Suburbs,34.115863,-118.163541,2025-05-23,20:14,School Zone,High,0
+CRM-01150,Theft,Eastside,34.032294,-118.194737,2026-04-27,01:16,Residential,Medium,0
+CRM-01151,Theft,Industrial District,34.019657,-118.217975,2024-12-10,18:02,Industrial,High,0
+CRM-01152,Burglary,Uptown,34.081970,-118.276180,2025-07-30,05:09,Commercial,Medium,0
+CRM-01153,Theft,Parkside,34.100673,-118.216050,2026-05-11,12:47,School Zone,Medium,0
+CRM-01154,Drug Offense,Parkside,34.083670,-118.204390,2025-03-15,18:22,Park,Low,1
+CRM-01155,Drug Offense,Downtown,34.059380,-118.244336,2025-10-06,22:28,Transit Station,High,1
+CRM-01156,Robbery,Downtown,34.047653,-118.245103,2025-08-15,06:54,Nightclub District,High,0
+CRM-01157,Vandalism,Parkside,34.084973,-118.188352,2025-03-09,23:47,Park,Low,0
+CRM-01158,Shoplifting,Uptown,34.097093,-118.284253,2025-04-04,17:19,Residential,Low,0
+CRM-01159,Assault,Downtown,34.039882,-118.238695,2025-12-07,09:18,Nightclub District,High,0
+CRM-01160,Assault,Industrial District,34.011261,-118.233735,2025-09-06,03:53,Industrial,Medium,1
+CRM-01161,Shoplifting,Downtown,34.051728,-118.236653,2026-03-03,15:56,Nightclub District,Low,0
+CRM-01162,Robbery,Uptown,34.081921,-118.274889,2024-05-25,14:01,Residential,High,1
+CRM-01163,Theft,Industrial District,34.023812,-118.232720,2024-02-11,19:20,Industrial,High,0
+CRM-01164,Robbery,Industrial District,34.013250,-118.235845,2024-07-05,04:08,Transit Station,High,0
+CRM-01165,Burglary,Eastside,34.027394,-118.190842,2025-12-14,18:12,Residential,Medium,0
+CRM-01166,Assault,Eastside,34.032928,-118.196387,2025-09-05,00:01,Commercial,High,1
+CRM-01167,Burglary,Eastside,34.041808,-118.188231,2025-06-10,13:47,Industrial,Medium,0
+CRM-01168,Robbery,Suburbs,34.120154,-118.179100,2024-03-20,14:28,Park,High,0
+CRM-01169,Drug Offense,Downtown,34.052280,-118.241890,2025-03-06,20:29,Commercial,Medium,1
+CRM-01170,Robbery,Parkside,34.099680,-118.210773,2024-03-11,16:23,Park,Medium,1
+CRM-01171,Assault,Uptown,34.086669,-118.286371,2026-04-06,19:20,Residential,High,1
+CRM-01172,Assault,Harbor Area,33.728026,-118.265154,2025-06-15,10:09,Transit Station,High,1
+CRM-01173,Burglary,Parkside,34.091018,-118.209528,2024-11-17,14:25,Residential,Medium,1
+CRM-01174,Assault,Eastside,34.039277,-118.195904,2025-07-13,10:06,Residential,High,1
+CRM-01175,Assault,Westside,34.031430,-118.334881,2024-02-12,00:37,Commercial,Medium,0
+CRM-01176,Robbery,Industrial District,34.006272,-118.225126,2024-06-19,15:32,Industrial,High,1
+CRM-01177,Shoplifting,Harbor Area,33.744948,-118.267405,2025-02-12,22:54,Commercial,Low,0
+CRM-01178,Fraud,Eastside,34.042314,-118.192419,2024-02-29,19:34,Residential,Low,0
+CRM-01179,Shoplifting,Downtown,34.046131,-118.240684,2024-08-13,06:28,Nightclub District,Low,0
+CRM-01180,Burglary,Uptown,34.080724,-118.290395,2024-05-12,07:29,Commercial,Medium,0
+CRM-01181,Robbery,Downtown,34.049980,-118.245703,2024-03-25,04:25,Transit Station,High,0
+CRM-01182,Shoplifting,Suburbs,34.101930,-118.197778,2024-09-03,08:27,Residential,Low,0
+CRM-01183,Fraud,Harbor Area,33.752105,-118.266896,2026-05-02,08:34,Transit Station,Low,0
+CRM-01184,Assault,Harbor Area,33.763233,-118.272246,2025-03-12,01:50,Industrial,High,1
+CRM-01185,Assault,Eastside,34.025763,-118.179411,2024-08-04,01:42,Industrial,Medium,1
+CRM-01186,Burglary,Industrial District,34.014158,-118.229443,2025-04-19,05:11,Transit Station,Medium,0
+CRM-01187,Shoplifting,Industrial District,34.000781,-118.228344,2024-09-13,14:52,Industrial,Low,0
+CRM-01188,Shoplifting,Industrial District,34.010835,-118.220949,2024-11-11,11:10,Transit Station,Low,1
+CRM-01189,Theft,Parkside,34.094031,-118.197404,2024-01-25,00:44,School Zone,Low,0
+CRM-01190,Theft,Downtown,34.051877,-118.251853,2024-04-16,17:55,Commercial,Low,0
+CRM-01191,Shoplifting,Eastside,34.036524,-118.201104,2024-04-10,12:05,Commercial,Low,1
+CRM-01192,Robbery,Parkside,34.092513,-118.200657,2024-12-17,01:32,Park,High,0
+CRM-01193,Assault,Westside,34.041147,-118.347778,2026-04-13,06:34,Commercial,Medium,1
+CRM-01194,Drug Offense,Uptown,34.083729,-118.300023,2025-12-31,16:47,Residential,High,1
+CRM-01195,Fraud,Industrial District,34.026619,-118.222941,2024-10-03,06:04,Transit Station,Low,1
+CRM-01196,Fraud,Westside,34.046021,-118.339460,2025-08-29,23:37,Transit Station,Low,1
+CRM-01197,Theft,Downtown,34.056834,-118.239096,2024-11-19,21:02,Nightclub District,Medium,0
+CRM-01198,Robbery,Uptown,34.074215,-118.287364,2024-02-15,08:00,Commercial,Medium,0
+CRM-01199,Vandalism,Industrial District,34.014274,-118.233583,2025-05-17,04:59,Industrial,Medium,0
+CRM-01200,Theft,Suburbs,34.115892,-118.195223,2025-04-13,22:42,Residential,Medium,1
+CRM-01201,Burglary,Suburbs,34.128655,-118.167811,2025-01-19,09:22,Residential,Medium,0
+CRM-01202,Shoplifting,Eastside,34.043775,-118.199736,2024-06-17,16:21,Industrial,Low,1
+CRM-01203,Burglary,Eastside,34.043465,-118.191194,2026-04-23,05:48,Residential,Medium,0
+CRM-01204,Theft,Westside,34.062754,-118.346357,2024-05-26,09:52,Commercial,Medium,0
+CRM-01205,Assault,Downtown,34.050275,-118.254511,2025-08-05,18:55,Transit Station,High,1
+CRM-01206,Shoplifting,Harbor Area,33.736866,-118.255696,2026-02-01,06:53,Transit Station,Low,0
+CRM-01207,Assault,Suburbs,34.121885,-118.173160,2025-02-06,20:32,Residential,High,1
+CRM-01208,Assault,Suburbs,34.122461,-118.186111,2024-11-05,21:06,Park,High,0
+CRM-01209,Theft,Downtown,34.057132,-118.251985,2026-03-07,00:37,Commercial,Medium,0
+CRM-01210,Assault,Downtown,34.065994,-118.239373,2025-09-20,15:28,Transit Station,High,0
+CRM-01211,Drug Offense,Eastside,34.042011,-118.181204,2026-03-25,14:02,Residential,Medium,0
+CRM-01212,Vandalism,Harbor Area,33.733571,-118.263584,2025-01-09,21:36,Industrial,Low,0
+CRM-01213,Vandalism,Uptown,34.086419,-118.279292,2024-06-29,23:29,Park,Low,1
+CRM-01214,Burglary,Harbor Area,33.742433,-118.268299,2024-03-20,22:42,Industrial,High,0
+CRM-01215,Vandalism,Suburbs,34.119102,-118.199798,2024-01-09,15:26,School Zone,Medium,0
+CRM-01216,Vandalism,Parkside,34.100853,-118.199982,2025-05-24,10:57,School Zone,Low,0
+CRM-01217,Burglary,Harbor Area,33.752467,-118.278184,2026-05-04,20:41,Industrial,High,1
+CRM-01218,Shoplifting,Uptown,34.089889,-118.291299,2026-04-19,15:09,Commercial,Low,0
+CRM-01219,Theft,Eastside,34.030797,-118.212265,2025-06-18,03:56,Commercial,Low,0
+CRM-01220,Burglary,Westside,34.051316,-118.334312,2024-10-06,05:16,Transit Station,Medium,0
+CRM-01221,Shoplifting,Uptown,34.091448,-118.282055,2026-03-10,14:37,Residential,Low,1
+CRM-01222,Theft,Parkside,34.083759,-118.199787,2025-02-19,06:13,Residential,Low,0
+CRM-01223,Vandalism,Industrial District,34.014002,-118.231492,2025-08-20,14:49,Transit Station,Low,1
+CRM-01224,Fraud,Westside,34.043082,-118.351512,2025-07-02,05:48,Commercial,Low,1
+CRM-01225,Burglary,Harbor Area,33.741277,-118.274133,2024-10-08,21:57,Industrial,Low,0
+CRM-01226,Assault,Suburbs,34.121317,-118.173482,2024-02-21,22:59,Residential,High,1
+CRM-01227,Burglary,Downtown,34.046085,-118.244156,2026-01-13,08:11,Commercial,Medium,0
+CRM-01228,Vandalism,Industrial District,34.017228,-118.203022,2024-06-28,22:40,Industrial,Medium,0
+CRM-01229,Theft,Downtown,34.057823,-118.253204,2025-02-19,07:32,Commercial,Medium,1
+CRM-01230,Theft,Downtown,34.052276,-118.252145,2024-01-11,00:58,Commercial,Medium,0
+CRM-01231,Theft,Parkside,34.081793,-118.215296,2024-10-23,06:48,School Zone,Medium,1
+CRM-01232,Fraud,Uptown,34.086822,-118.285985,2024-06-13,12:55,Residential,Low,0
+CRM-01233,Assault,Eastside,34.018135,-118.192109,2024-04-12,02:34,Industrial,Medium,1
+CRM-01234,Shoplifting,Eastside,34.042179,-118.193055,2025-11-26,13:01,Commercial,Low,0
+CRM-01235,Shoplifting,Downtown,34.042779,-118.255529,2025-04-26,13:05,Commercial,Low,0
+CRM-01236,Burglary,Eastside,34.021802,-118.191032,2025-08-04,23:10,Industrial,Low,0
+CRM-01237,Assault,Parkside,34.104100,-118.216028,2024-01-13,00:10,Park,High,1
+CRM-01238,Theft,Westside,34.046203,-118.333882,2024-02-26,01:47,Transit Station,Medium,0
+CRM-01239,Burglary,Eastside,34.033074,-118.188980,2026-03-02,23:54,Industrial,High,1
+CRM-01240,Shoplifting,Downtown,34.059901,-118.224046,2026-03-30,12:16,Commercial,Low,0
+CRM-01241,Robbery,Parkside,34.081785,-118.199774,2024-05-06,02:47,Park,High,1
+CRM-01242,Assault,Parkside,34.106620,-118.198382,2025-08-14,03:47,Residential,High,0
+CRM-01243,Drug Offense,Uptown,34.085391,-118.282946,2024-03-12,21:31,Park,Medium,1
+CRM-01244,Vandalism,Westside,34.047005,-118.342520,2024-06-15,23:08,Commercial,Low,1
+CRM-01245,Theft,Harbor Area,33.747572,-118.266882,2025-06-03,19:45,Commercial,Medium,0
+CRM-01246,Robbery,Harbor Area,33.736834,-118.268923,2024-11-16,06:56,Transit Station,High,0
+CRM-01247,Vandalism,Suburbs,34.111351,-118.189578,2025-05-08,17:19,School Zone,Low,0
+CRM-01248,Shoplifting,Uptown,34.069067,-118.276717,2026-02-03,17:40,Commercial,Low,0
+CRM-01249,Shoplifting,Harbor Area,33.745440,-118.263028,2024-04-29,07:19,Transit Station,Low,0
+CRM-01250,Theft,Westside,34.044395,-118.341653,2025-07-24,09:43,Residential,Medium,1
+CRM-01251,Drug Offense,Industrial District,34.006964,-118.232028,2025-04-12,12:11,Transit Station,Low,1
+CRM-01252,Drug Offense,Harbor Area,33.755714,-118.266792,2026-03-23,06:44,Industrial,High,1
+CRM-01253,Assault,Industrial District,34.011624,-118.213568,2026-05-08,03:40,Transit Station,High,1
+CRM-01254,Robbery,Industrial District,34.013408,-118.226271,2026-01-09,05:54,Transit Station,High,0
+CRM-01255,Fraud,Industrial District,34.010536,-118.228335,2025-11-29,06:54,Transit Station,Low,1
+CRM-01256,Shoplifting,Parkside,34.086395,-118.189896,2024-02-07,21:09,Residential,Medium,0
+CRM-01257,Theft,Harbor Area,33.730704,-118.255519,2025-06-21,01:04,Commercial,Low,0
+CRM-01258,Fraud,Uptown,34.083070,-118.295143,2026-05-23,10:24,Commercial,Low,0
+CRM-01259,Assault,Industrial District,34.008219,-118.225836,2026-04-10,10:55,Industrial,Medium,0
+CRM-01260,Shoplifting,Suburbs,34.122433,-118.186354,2024-03-08,15:10,School Zone,Low,1
+CRM-01261,Theft,Suburbs,34.114366,-118.196270,2025-09-13,19:28,Residential,Medium,0
+CRM-01262,Drug Offense,Uptown,34.082043,-118.280633,2025-06-22,20:09,Park,Medium,1
+CRM-01263,Drug Offense,Downtown,34.048827,-118.243948,2024-12-02,13:42,Transit Station,Medium,1
+CRM-01264,Shoplifting,Suburbs,34.117547,-118.172774,2024-06-20,13:04,School Zone,Low,0
+CRM-01265,Robbery,Uptown,34.077908,-118.281489,2025-07-28,02:32,Commercial,High,0
+CRM-01266,Shoplifting,Suburbs,34.122491,-118.187381,2025-04-09,15:24,Residential,Low,1
+CRM-01267,Theft,Westside,34.051884,-118.344762,2024-06-07,17:24,Commercial,Medium,0
+CRM-01268,Assault,Uptown,34.070875,-118.276255,2025-04-12,11:52,Park,High,1
+CRM-01269,Fraud,Eastside,34.040673,-118.181508,2025-12-05,12:01,Industrial,Low,0
+CRM-01270,Theft,Eastside,34.035884,-118.192038,2025-09-16,00:51,Commercial,Medium,0
+CRM-01271,Fraud,Westside,34.040299,-118.333108,2024-01-28,10:25,Commercial,Low,1
+CRM-01272,Assault,Uptown,34.077336,-118.296405,2024-10-20,01:08,Park,Medium,0
+CRM-01273,Vandalism,Uptown,34.090338,-118.283854,2025-06-02,15:29,Park,Low,0
+CRM-01274,Shoplifting,Suburbs,34.109186,-118.189367,2024-03-25,16:44,Park,Low,0
+CRM-01275,Burglary,Uptown,34.092287,-118.283321,2024-01-05,12:43,Park,Medium,0
+CRM-01276,Fraud,Uptown,34.079369,-118.289219,2025-12-29,13:07,Residential,Low,0
+CRM-01277,Theft,Uptown,34.080497,-118.300025,2025-01-05,02:56,Park,Medium,0
+CRM-01278,Fraud,Harbor Area,33.730096,-118.275636,2024-05-12,20:52,Transit Station,Medium,0
+CRM-01279,Fraud,Downtown,34.056111,-118.246757,2024-01-06,08:31,Nightclub District,Medium,0
+CRM-01280,Theft,Suburbs,34.126072,-118.184840,2025-02-14,12:54,Residential,High,1
+CRM-01281,Robbery,Eastside,34.039731,-118.196985,2024-08-21,02:43,Residential,Medium,0
+CRM-01282,Assault,Industrial District,34.006942,-118.220738,2024-01-21,13:54,Industrial,Medium,1
+CRM-01283,Theft,Suburbs,34.111864,-118.185285,2025-01-22,17:10,School Zone,Low,0
+CRM-01284,Assault,Uptown,34.090723,-118.293582,2025-09-14,05:25,Residential,High,0
+CRM-01285,Robbery,Downtown,34.044400,-118.244150,2025-03-17,18:08,Nightclub District,High,0
+CRM-01286,Vandalism,Industrial District,34.009114,-118.219125,2024-09-23,16:53,Industrial,Low,0
+CRM-01287,Theft,Parkside,34.111346,-118.215870,2024-02-15,07:45,School Zone,Medium,0
+CRM-01288,Burglary,Suburbs,34.132608,-118.193066,2024-08-17,13:58,Residential,Medium,1
+CRM-01289,Vandalism,Industrial District,34.007679,-118.233994,2024-12-14,22:50,Industrial,Low,0
+CRM-01290,Vandalism,Suburbs,34.125179,-118.187168,2024-06-20,09:11,Residential,Low,0
+CRM-01291,Fraud,Suburbs,34.125826,-118.195146,2024-03-26,07:32,Park,Low,0
+CRM-01292,Shoplifting,Parkside,34.094160,-118.207599,2024-07-20,06:31,Park,Low,1
+CRM-01293,Vandalism,Downtown,34.058492,-118.239140,2024-10-03,04:31,Nightclub District,Low,0
+CRM-01294,Theft,Parkside,34.090785,-118.203691,2025-08-29,22:27,Residential,High,1
+CRM-01295,Fraud,Industrial District,34.001381,-118.229633,2025-12-20,06:00,Transit Station,Low,0
+CRM-01296,Shoplifting,Downtown,34.035422,-118.250571,2025-04-07,12:35,Nightclub District,Low,0
+CRM-01297,Shoplifting,Westside,34.037136,-118.340562,2024-10-15,22:42,Commercial,Medium,0
+CRM-01298,Robbery,Westside,34.055245,-118.349233,2024-09-06,19:07,Commercial,High,1
+CRM-01299,Shoplifting,Eastside,34.028057,-118.205274,2026-01-10,07:52,Commercial,Medium,0
+CRM-01300,Fraud,Downtown,34.058530,-118.255097,2024-09-09,09:51,Commercial,Medium,0
+CRM-01301,Theft,Westside,34.040748,-118.341740,2024-06-05,10:43,Commercial,Low,0
+CRM-01302,Assault,Downtown,34.054064,-118.242086,2025-01-18,11:17,Transit Station,High,0
+CRM-01303,Fraud,Eastside,34.038121,-118.197026,2024-03-18,14:47,Industrial,Low,0
+CRM-01304,Theft,Eastside,34.025566,-118.201672,2025-03-20,03:49,Commercial,Medium,0
+CRM-01305,Theft,Parkside,34.092386,-118.210110,2024-02-13,15:41,School Zone,High,0
+CRM-01306,Shoplifting,Westside,34.049004,-118.343960,2024-10-21,15:07,Residential,Medium,1
+CRM-01307,Assault,Industrial District,34.014817,-118.232327,2024-01-12,10:12,Transit Station,High,0
+CRM-01308,Vandalism,Industrial District,34.022194,-118.229475,2025-03-20,10:34,Transit Station,Low,0
+CRM-01309,Assault,Downtown,34.051231,-118.226436,2024-05-29,03:54,Nightclub District,High,1
+CRM-01310,Theft,Westside,34.043044,-118.348992,2025-11-30,23:06,Transit Station,Medium,0
+CRM-01311,Assault,Suburbs,34.121798,-118.185039,2025-08-24,10:48,Park,High,1
+CRM-01312,Drug Offense,Parkside,34.097005,-118.208817,2024-07-17,21:32,Park,Medium,1
+CRM-01313,Robbery,Eastside,34.041436,-118.200571,2026-03-25,01:30,Residential,High,0
+CRM-01314,Burglary,Westside,34.043437,-118.347445,2026-03-19,07:07,Transit Station,High,0
+CRM-01315,Shoplifting,Parkside,34.078078,-118.212002,2025-10-20,17:54,School Zone,Low,0
+CRM-01316,Vandalism,Westside,34.028217,-118.320616,2025-03-11,08:04,Transit Station,Medium,0
+CRM-01317,Fraud,Westside,34.026962,-118.354414,2025-03-04,13:43,Commercial,Low,1
+CRM-01318,Shoplifting,Eastside,34.030640,-118.193747,2024-08-16,10:01,Commercial,Low,1
+CRM-01319,Assault,Uptown,34.066788,-118.293306,2026-01-28,08:34,Residential,High,0
+CRM-01320,Shoplifting,Downtown,34.045655,-118.240689,2025-05-25,09:41,Commercial,Low,0
+CRM-01321,Theft,Westside,34.042204,-118.351651,2024-09-19,18:09,Commercial,Medium,0
+CRM-01322,Drug Offense,Uptown,34.078611,-118.280404,2026-01-07,22:41,Park,High,1
+CRM-01323,Assault,Uptown,34.088438,-118.277189,2026-02-20,00:03,Commercial,High,1
+CRM-01324,Shoplifting,Harbor Area,33.738768,-118.261108,2026-01-31,11:08,Commercial,Low,0
+CRM-01325,Shoplifting,Uptown,34.094168,-118.281752,2025-12-31,09:26,Commercial,Low,1
+CRM-01326,Theft,Downtown,34.063761,-118.242765,2025-10-02,09:24,Commercial,High,0
+CRM-01327,Fraud,Eastside,34.033128,-118.191840,2024-11-06,08:25,Residential,Low,0
+CRM-01328,Shoplifting,Parkside,34.089839,-118.214569,2026-03-02,17:10,Residential,Low,1
+CRM-01329,Shoplifting,Eastside,34.039530,-118.192043,2026-04-13,16:07,Commercial,Low,0
+CRM-01330,Robbery,Westside,34.026210,-118.338355,2026-02-15,10:25,Residential,High,1
+CRM-01331,Drug Offense,Uptown,34.074281,-118.265852,2026-05-12,16:26,Park,Medium,1
+CRM-01332,Robbery,Uptown,34.066678,-118.273923,2025-10-20,06:27,Commercial,Medium,0
+CRM-01333,Shoplifting,Eastside,34.027934,-118.198875,2024-06-24,07:01,Residential,Low,1
+CRM-01334,Assault,Eastside,34.029044,-118.183800,2025-01-02,21:52,Residential,High,0
+CRM-01335,Fraud,Harbor Area,33.751651,-118.268216,2024-05-29,15:28,Industrial,Low,0
+CRM-01336,Vandalism,Harbor Area,33.754784,-118.250674,2025-09-26,20:47,Transit Station,Low,0
+CRM-01337,Assault,Suburbs,34.118703,-118.185719,2026-04-29,15:25,Park,Medium,1
+CRM-01338,Shoplifting,Uptown,34.080150,-118.289955,2024-02-28,09:13,Residential,Low,1
+CRM-01339,Shoplifting,Parkside,34.089236,-118.204026,2026-05-11,12:44,School Zone,Low,0
+CRM-01340,Theft,Parkside,34.089921,-118.210658,2025-09-10,13:54,School Zone,Low,0
+CRM-01341,Robbery,Westside,34.039786,-118.334852,2025-02-22,03:35,Residential,High,0
+CRM-01342,Vandalism,Westside,34.042850,-118.344049,2025-04-29,23:07,Commercial,Low,0
+CRM-01343,Burglary,Harbor Area,33.750501,-118.271645,2025-02-24,23:17,Industrial,Medium,0
+CRM-01344,Drug Offense,Downtown,34.036414,-118.253358,2024-05-15,14:45,Nightclub District,High,1
+CRM-01345,Theft,Parkside,34.079559,-118.217245,2026-04-25,05:09,School Zone,Medium,0
+CRM-01346,Shoplifting,Uptown,34.080674,-118.281060,2026-01-20,20:12,Commercial,Low,1
+CRM-01347,Theft,Uptown,34.086746,-118.276342,2025-07-17,02:05,Residential,Low,0
+CRM-01348,Theft,Suburbs,34.123160,-118.170089,2025-06-29,02:41,Residential,Medium,0
+CRM-01349,Theft,Eastside,34.029960,-118.193389,2025-07-03,17:20,Residential,High,0
+CRM-01350,Burglary,Eastside,34.028719,-118.198745,2024-01-27,06:47,Commercial,Medium,0
+CRM-01351,Drug Offense,Eastside,34.036209,-118.184718,2025-12-25,18:37,Residential,Medium,1
+CRM-01352,Assault,Eastside,34.028597,-118.184883,2026-01-27,11:02,Residential,Medium,1
+CRM-01353,Assault,Eastside,34.035593,-118.195817,2025-07-08,16:17,Industrial,Medium,1
+CRM-01354,Shoplifting,Westside,34.031131,-118.331839,2024-04-30,09:10,Commercial,Low,1
+CRM-01355,Robbery,Westside,34.035051,-118.340421,2025-11-16,07:17,Transit Station,High,1
+CRM-01356,Fraud,Uptown,34.080125,-118.284255,2024-01-17,21:41,Commercial,Medium,1
+CRM-01357,Assault,Downtown,34.049685,-118.253641,2025-05-25,20:14,Commercial,High,1
+CRM-01358,Assault,Westside,34.048570,-118.360944,2026-01-02,01:33,Transit Station,High,1
+CRM-01359,Burglary,Suburbs,34.118066,-118.177934,2025-07-08,07:29,Park,Medium,0
+CRM-01360,Drug Offense,Uptown,34.082130,-118.278236,2026-04-04,12:50,Park,Medium,1
+CRM-01361,Robbery,Uptown,34.081991,-118.273128,2024-01-11,06:12,Residential,High,0
+CRM-01362,Vandalism,Parkside,34.098150,-118.209468,2025-06-07,09:15,Park,Low,0
+CRM-01363,Fraud,Downtown,34.051738,-118.250446,2026-05-19,06:09,Transit Station,Low,0
+CRM-01364,Vandalism,Suburbs,34.136198,-118.180239,2025-12-17,18:56,Park,Low,1
+CRM-01365,Shoplifting,Downtown,34.054937,-118.238726,2025-01-27,10:48,Commercial,Low,0
+CRM-01366,Fraud,Downtown,34.050438,-118.260450,2024-10-04,12:27,Transit Station,Low,1
+CRM-01367,Shoplifting,Suburbs,34.112011,-118.191419,2025-01-07,09:17,Park,Low,0
+CRM-01368,Fraud,Westside,34.042479,-118.347196,2024-08-10,11:00,Commercial,Low,0
+CRM-01369,Fraud,Eastside,34.032241,-118.181333,2025-09-06,09:06,Residential,Low,0
+CRM-01370,Assault,Harbor Area,33.735041,-118.261043,2025-08-21,22:08,Commercial,High,0
+CRM-01371,Vandalism,Parkside,34.099504,-118.198296,2025-06-21,21:52,Park,Medium,0
+CRM-01372,Assault,Uptown,34.083278,-118.296693,2025-02-14,21:31,Park,High,0
+CRM-01373,Robbery,Downtown,34.045009,-118.240627,2025-01-18,04:50,Transit Station,High,0
+CRM-01374,Drug Offense,Industrial District,34.025079,-118.224710,2025-08-31,20:14,Transit Station,Low,1
+CRM-01375,Robbery,Industrial District,34.000290,-118.215848,2024-05-14,06:01,Industrial,High,1
+CRM-01376,Fraud,Harbor Area,33.755709,-118.267522,2025-10-20,12:31,Transit Station,Medium,1
+CRM-01377,Vandalism,Suburbs,34.129236,-118.182311,2025-07-12,18:52,Park,Medium,0
+CRM-01378,Fraud,Uptown,34.085091,-118.284357,2025-12-09,08:58,Park,Medium,0
+CRM-01379,Vandalism,Parkside,34.097309,-118.212877,2025-11-13,21:08,Residential,Low,0
+CRM-01380,Theft,Eastside,34.017467,-118.204974,2025-04-02,18:08,Residential,Medium,0
+CRM-01381,Burglary,Uptown,34.087390,-118.286807,2026-02-02,17:28,Park,High,0
+CRM-01382,Theft,Westside,34.047982,-118.360017,2025-11-25,12:41,Transit Station,High,0
+CRM-01383,Shoplifting,Westside,34.051272,-118.346848,2024-11-02,12:53,Commercial,Low,0
+CRM-01384,Theft,Industrial District,34.015613,-118.217918,2025-07-10,01:52,Industrial,Medium,0
+CRM-01385,Theft,Uptown,34.074267,-118.267946,2024-10-18,19:17,Residential,Medium,0
+CRM-01386,Vandalism,Harbor Area,33.752163,-118.259521,2025-06-10,07:59,Transit Station,Low,1
+CRM-01387,Vandalism,Westside,34.045535,-118.343821,2024-05-31,08:36,Transit Station,Low,0
+CRM-01388,Robbery,Harbor Area,33.734530,-118.264541,2024-01-03,19:46,Industrial,High,0
+CRM-01389,Shoplifting,Harbor Area,33.748704,-118.270290,2024-04-06,10:47,Commercial,Low,0
+CRM-01390,Shoplifting,Westside,34.037117,-118.357041,2025-08-25,16:19,Commercial,Low,1
+CRM-01391,Assault,Westside,34.038898,-118.344391,2024-06-08,08:28,Residential,High,1
+CRM-01392,Fraud,Harbor Area,33.734593,-118.251379,2025-01-20,09:23,Commercial,Low,0
+CRM-01393,Fraud,Downtown,34.060725,-118.252284,2024-01-24,04:21,Transit Station,Low,0
+CRM-01394,Shoplifting,Westside,34.050587,-118.344997,2026-04-24,15:53,Commercial,Medium,1
+CRM-01395,Theft,Suburbs,34.119518,-118.183306,2026-03-12,21:25,School Zone,Low,0
+CRM-01396,Theft,Industrial District,34.003033,-118.235297,2026-05-16,21:04,Transit Station,High,0
+CRM-01397,Shoplifting,Industrial District,34.016657,-118.221484,2024-09-25,15:30,Industrial,Medium,0
+CRM-01398,Burglary,Industrial District,34.011075,-118.216565,2026-04-25,18:02,Industrial,Medium,0
+CRM-01399,Vandalism,Eastside,34.035070,-118.189818,2024-09-15,22:27,Industrial,Low,0
+CRM-01400,Burglary,Harbor Area,33.736263,-118.274116,2024-12-04,08:12,Transit Station,Medium,0
+CRM-01401,Theft,Industrial District,34.026188,-118.222875,2025-11-09,08:45,Transit Station,Medium,1
+CRM-01402,Burglary,Harbor Area,33.743232,-118.260751,2025-11-14,23:22,Transit Station,Low,0
+CRM-01403,Drug Offense,Industrial District,34.006805,-118.224792,2025-01-26,10:31,Transit Station,High,1
+CRM-01404,Theft,Harbor Area,33.745636,-118.261159,2025-10-04,18:13,Transit Station,Medium,0
+CRM-01405,Drug Offense,Uptown,34.079467,-118.289970,2025-05-10,17:08,Residential,Medium,1
+CRM-01406,Burglary,Eastside,34.036557,-118.175508,2024-12-03,12:18,Industrial,Medium,0
+CRM-01407,Assault,Uptown,34.081994,-118.296024,2025-02-22,02:23,Residential,Medium,1
+CRM-01408,Vandalism,Industrial District,33.999019,-118.223871,2024-06-20,19:03,Industrial,Low,0
+CRM-01409,Robbery,Industrial District,34.009382,-118.221257,2025-04-05,05:46,Transit Station,High,0
+CRM-01410,Theft,Industrial District,34.013010,-118.232720,2024-08-31,00:54,Industrial,Medium,0
+CRM-01411,Theft,Parkside,34.097370,-118.199574,2024-03-30,17:34,School Zone,High,1
+CRM-01412,Shoplifting,Industrial District,34.021991,-118.230023,2024-09-03,15:55,Industrial,Low,1
+CRM-01413,Assault,Uptown,34.081932,-118.290342,2025-03-31,23:33,Commercial,High,1
+CRM-01414,Theft,Suburbs,34.121968,-118.179449,2025-08-03,23:12,School Zone,Medium,0
+CRM-01415,Shoplifting,Uptown,34.094037,-118.283233,2025-06-30,05:37,Park,Medium,0
+CRM-01416,Theft,Downtown,34.050889,-118.241629,2026-04-10,00:00,Nightclub District,Medium,1
+CRM-01417,Shoplifting,Uptown,34.078036,-118.289783,2024-10-21,16:30,Park,Low,1
+CRM-01418,Theft,Eastside,34.037189,-118.193073,2024-07-05,19:31,Commercial,Medium,0
+CRM-01419,Drug Offense,Industrial District,34.013800,-118.220823,2024-03-27,18:33,Transit Station,Medium,1
+CRM-01420,Theft,Eastside,34.022968,-118.187939,2024-03-28,02:53,Residential,Medium,0
+CRM-01421,Shoplifting,Eastside,34.038899,-118.192977,2025-04-28,23:32,Commercial,Low,0
+CRM-01422,Fraud,Eastside,34.019564,-118.188673,2024-02-20,14:45,Commercial,Medium,1
+CRM-01423,Shoplifting,Harbor Area,33.732701,-118.266074,2026-05-18,20:20,Transit Station,Low,1
+CRM-01424,Drug Offense,Harbor Area,33.733869,-118.243147,2024-01-07,06:01,Industrial,Medium,1
+CRM-01425,Theft,Industrial District,34.009919,-118.226580,2025-12-05,20:53,Industrial,Medium,0
+CRM-01426,Shoplifting,Westside,34.035134,-118.349349,2024-03-24,14:07,Commercial,Low,1
+CRM-01427,Robbery,Harbor Area,33.745002,-118.263971,2024-05-10,08:19,Transit Station,High,0
+CRM-01428,Theft,Eastside,34.028974,-118.212545,2025-09-11,18:44,Industrial,High,0
+CRM-01429,Shoplifting,Uptown,34.078831,-118.283776,2025-02-02,04:22,Commercial,Low,0
+CRM-01430,Drug Offense,Westside,34.039792,-118.345538,2024-08-02,04:22,Transit Station,High,1
+CRM-01431,Shoplifting,Parkside,34.086349,-118.199534,2025-05-12,11:23,Residential,Low,1
+CRM-01432,Assault,Eastside,34.042996,-118.200433,2025-03-13,02:48,Industrial,High,1
+CRM-01433,Vandalism,Westside,34.039539,-118.359144,2024-04-14,07:51,Residential,Low,0
+CRM-01434,Robbery,Downtown,34.056274,-118.229112,2024-07-04,13:30,Nightclub District,High,1
+CRM-01435,Assault,Parkside,34.098109,-118.214590,2026-03-17,02:40,Residential,High,1
+CRM-01436,Fraud,Harbor Area,33.755002,-118.267187,2026-05-26,13:46,Transit Station,Medium,0
+CRM-01437,Theft,Parkside,34.099126,-118.191624,2025-07-19,02:08,School Zone,Medium,0
+CRM-01438,Burglary,Westside,34.039843,-118.356157,2024-06-06,21:17,Residential,Medium,0
+CRM-01439,Assault,Uptown,34.087085,-118.292836,2024-08-10,03:46,Park,High,1
+CRM-01440,Assault,Downtown,34.039594,-118.236492,2025-02-23,16:30,Transit Station,High,1
+CRM-01441,Burglary,Industrial District,34.022786,-118.222187,2024-04-18,14:21,Transit Station,Medium,0
+CRM-01442,Robbery,Suburbs,34.118135,-118.198071,2024-12-17,16:23,Residential,High,0
+CRM-01443,Vandalism,Suburbs,34.117450,-118.201888,2024-05-05,15:00,Park,Low,0
+CRM-01444,Theft,Harbor Area,33.754150,-118.263558,2026-02-04,09:20,Commercial,High,0
+CRM-01445,Fraud,Industrial District,34.006815,-118.227566,2025-07-22,08:19,Transit Station,Low,0
+CRM-01446,Shoplifting,Harbor Area,33.738496,-118.269393,2026-02-25,15:29,Industrial,Low,0
+CRM-01447,Theft,Parkside,34.077484,-118.196014,2026-04-01,12:31,School Zone,High,0
+CRM-01448,Robbery,Harbor Area,33.744524,-118.270325,2025-06-26,17:15,Transit Station,High,1
+CRM-01449,Vandalism,Harbor Area,33.733832,-118.260466,2025-12-02,05:48,Industrial,Low,0
+CRM-01450,Assault,Suburbs,34.121131,-118.175948,2024-06-09,01:36,Park,High,1
+CRM-01451,Theft,Westside,34.035817,-118.343679,2024-12-22,12:21,Commercial,Low,0
+CRM-01452,Vandalism,Downtown,34.055010,-118.230656,2024-07-10,21:31,Commercial,Low,0
+CRM-01453,Assault,Eastside,34.035422,-118.180748,2024-02-16,02:22,Commercial,High,0
+CRM-01454,Assault,Suburbs,34.125746,-118.175208,2025-08-28,04:46,Park,High,1
+CRM-01455,Vandalism,Uptown,34.084570,-118.282529,2026-03-12,19:38,Park,Low,0
+CRM-01456,Fraud,Industrial District,34.011014,-118.226683,2024-04-17,14:15,Transit Station,Low,0
+CRM-01457,Assault,Industrial District,34.019494,-118.229432,2026-05-02,02:59,Industrial,High,1
+CRM-01458,Burglary,Downtown,34.047691,-118.248015,2025-03-29,08:34,Nightclub District,Medium,0
+CRM-01459,Assault,Uptown,34.085574,-118.275272,2024-05-10,18:13,Park,High,1
+CRM-01460,Robbery,Uptown,34.083913,-118.290832,2025-10-26,12:48,Park,High,0
+CRM-01461,Burglary,Eastside,34.056245,-118.204078,2025-09-02,09:36,Industrial,Medium,0
+CRM-01462,Fraud,Harbor Area,33.738696,-118.263183,2025-04-26,17:56,Commercial,Low,0
+CRM-01463,Robbery,Westside,34.048427,-118.354630,2026-04-06,04:41,Transit Station,High,0
+CRM-01464,Theft,Parkside,34.092205,-118.223644,2024-04-04,08:18,School Zone,High,0
+CRM-01465,Theft,Downtown,34.050097,-118.254742,2024-11-06,21:41,Transit Station,High,0
+CRM-01466,Vandalism,Industrial District,34.004160,-118.217395,2025-04-07,14:08,Industrial,Low,0
+CRM-01467,Vandalism,Industrial District,34.001275,-118.218431,2025-05-21,12:51,Industrial,Low,0
+CRM-01468,Burglary,Industrial District,34.003681,-118.227379,2025-10-23,15:50,Industrial,Medium,1
+CRM-01469,Fraud,Harbor Area,33.733086,-118.268697,2024-08-08,18:48,Commercial,Medium,1
+CRM-01470,Theft,Westside,34.040651,-118.346506,2025-03-12,00:16,Residential,Medium,0
+CRM-01471,Theft,Eastside,34.030624,-118.199559,2025-02-13,01:14,Residential,Medium,1
+CRM-01472,Assault,Eastside,34.032026,-118.188473,2025-07-04,03:10,Commercial,High,1
+CRM-01473,Assault,Uptown,34.087459,-118.291115,2024-01-29,06:23,Residential,Medium,0
+CRM-01474,Fraud,Downtown,34.059908,-118.243941,2025-05-02,22:58,Transit Station,Low,0
+CRM-01475,Drug Offense,Harbor Area,33.744022,-118.264388,2025-01-12,10:02,Transit Station,Medium,1
+CRM-01476,Drug Offense,Downtown,34.056254,-118.249774,2024-12-26,13:30,Transit Station,Medium,1
+CRM-01477,Vandalism,Parkside,34.097325,-118.217980,2025-10-06,22:50,Residential,Low,0
+CRM-01478,Burglary,Industrial District,34.018150,-118.228687,2024-07-12,09:18,Transit Station,Medium,0
+CRM-01479,Vandalism,Harbor Area,33.738757,-118.280026,2024-07-03,04:40,Commercial,Low,1
+CRM-01480,Robbery,Uptown,34.079222,-118.279526,2026-05-29,00:56,Commercial,Medium,0
+CRM-01481,Vandalism,Harbor Area,33.733656,-118.260510,2025-09-01,21:21,Commercial,Medium,1
+CRM-01482,Assault,Uptown,34.085284,-118.283261,2026-01-31,00:27,Residential,High,1
+CRM-01483,Fraud,Eastside,34.029357,-118.202650,2025-07-18,09:44,Commercial,Low,1
+CRM-01484,Burglary,Uptown,34.081744,-118.283535,2024-02-03,04:20,Commercial,Medium,0
+CRM-01485,Vandalism,Westside,34.034388,-118.339733,2024-01-11,07:50,Transit Station,Low,0
+CRM-01486,Burglary,Eastside,34.026143,-118.195483,2025-11-17,14:08,Industrial,Medium,0
+CRM-01487,Vandalism,Industrial District,34.019649,-118.212040,2026-01-04,21:28,Industrial,Low,0
+CRM-01488,Vandalism,Downtown,34.066086,-118.243597,2025-12-04,07:49,Commercial,Low,1
+CRM-01489,Assault,Suburbs,34.119512,-118.197736,2024-05-16,15:34,Residential,High,1
+CRM-01490,Shoplifting,Parkside,34.098079,-118.200893,2024-10-05,17:13,Residential,Low,1
+CRM-01491,Assault,Industrial District,34.027961,-118.222496,2024-12-22,03:13,Industrial,High,0
+CRM-01492,Robbery,Industrial District,34.004181,-118.226627,2026-03-11,11:06,Industrial,High,0
+CRM-01493,Theft,Downtown,34.050959,-118.236110,2025-04-24,01:51,Commercial,Medium,0
+CRM-01494,Theft,Harbor Area,33.749894,-118.265954,2024-01-30,02:51,Transit Station,Medium,0
+CRM-01495,Assault,Downtown,34.053427,-118.246540,2026-02-23,01:34,Commercial,High,0
+CRM-01496,Assault,Uptown,34.078577,-118.297822,2025-04-09,00:10,Residential,High,0
+CRM-01497,Shoplifting,Suburbs,34.113800,-118.193979,2026-03-25,08:44,School Zone,Low,0
+CRM-01498,Theft,Uptown,34.080627,-118.279435,2026-01-25,02:12,Commercial,High,1
+CRM-01499,Theft,Uptown,34.080474,-118.282604,2026-02-07,03:01,Park,High,0
+CRM-01500,Theft,Westside,34.035242,-118.348122,2025-09-19,02:04,Transit Station,Medium,0
+CRM-01501,Shoplifting,Eastside,34.039114,-118.198794,2024-08-05,11:21,Commercial,Low,0
+CRM-01502,Vandalism,Suburbs,34.130440,-118.187193,2024-01-17,05:22,School Zone,Low,0
+CRM-01503,Theft,Industrial District,34.021108,-118.226942,2024-01-03,16:21,Industrial,Medium,0
+CRM-01504,Robbery,Harbor Area,33.731550,-118.263949,2024-05-20,02:57,Industrial,High,1
+CRM-01505,Vandalism,Westside,34.056593,-118.361516,2025-02-12,08:18,Commercial,Low,0
+CRM-01506,Theft,Parkside,34.087556,-118.200595,2024-07-27,13:59,School Zone,High,0
+CRM-01507,Assault,Uptown,34.079044,-118.281335,2024-04-20,10:21,Park,High,1
+CRM-01508,Theft,Eastside,34.030679,-118.203540,2025-06-08,18:13,Residential,Medium,0
+CRM-01509,Theft,Uptown,34.083884,-118.274537,2025-01-11,07:01,Park,High,0
+CRM-01510,Assault,Eastside,34.024869,-118.185740,2024-01-23,07:06,Commercial,High,1
+CRM-01511,Drug Offense,Uptown,34.085526,-118.280045,2024-09-24,15:42,Residential,Low,1
+CRM-01512,Fraud,Suburbs,34.132515,-118.177384,2026-03-26,16:42,Park,Medium,0
+CRM-01513,Drug Offense,Eastside,34.031182,-118.180900,2026-05-23,17:08,Industrial,Medium,1
+CRM-01514,Drug Offense,Westside,34.043233,-118.335224,2024-09-07,13:12,Transit Station,High,1
+CRM-01515,Shoplifting,Suburbs,34.122981,-118.182182,2024-02-29,08:05,Park,Low,1
+CRM-01516,Robbery,Eastside,34.041813,-118.189786,2025-04-05,21:15,Commercial,High,0
+CRM-01517,Robbery,Suburbs,34.118238,-118.187923,2024-10-19,02:08,School Zone,High,0
+CRM-01518,Theft,Eastside,34.043258,-118.186878,2025-06-25,05:30,Industrial,Medium,1
+CRM-01519,Theft,Downtown,34.061777,-118.248376,2026-03-11,11:49,Commercial,Medium,0
+CRM-01520,Theft,Harbor Area,33.739542,-118.252970,2025-04-23,20:56,Industrial,Medium,1
+CRM-01521,Theft,Westside,34.042900,-118.353575,2025-03-08,15:20,Transit Station,Medium,0
+CRM-01522,Vandalism,Eastside,34.041939,-118.193836,2025-12-26,04:45,Commercial,Medium,0
+CRM-01523,Shoplifting,Eastside,34.019724,-118.184760,2024-11-29,09:38,Commercial,Medium,0
+CRM-01524,Vandalism,Suburbs,34.132610,-118.177510,2026-05-20,14:19,School Zone,Low,0
+CRM-01525,Vandalism,Industrial District,34.014060,-118.218456,2025-01-03,13:42,Transit Station,Medium,0
+CRM-01526,Drug Offense,Uptown,34.077335,-118.289480,2025-07-11,07:39,Park,Medium,1
+CRM-01527,Drug Offense,Suburbs,34.126758,-118.179806,2024-11-08,12:47,Park,Medium,1
+CRM-01528,Assault,Eastside,34.019289,-118.192247,2025-09-06,00:22,Residential,High,0
+CRM-01529,Robbery,Eastside,34.030942,-118.193075,2025-06-13,00:23,Industrial,High,1
+CRM-01530,Theft,Suburbs,34.110811,-118.186350,2026-02-28,18:46,School Zone,Medium,0
+CRM-01531,Vandalism,Suburbs,34.123234,-118.171995,2026-05-20,10:16,School Zone,Low,1
+CRM-01532,Burglary,Downtown,34.043958,-118.248547,2024-02-13,04:30,Transit Station,High,0
+CRM-01533,Burglary,Industrial District,34.021472,-118.221153,2025-08-09,13:30,Industrial,Low,0
+CRM-01534,Shoplifting,Parkside,34.090038,-118.202946,2024-07-18,18:12,School Zone,Low,0
+CRM-01535,Drug Offense,Uptown,34.086335,-118.270255,2025-08-21,06:11,Residential,Medium,1
+CRM-01536,Theft,Suburbs,34.124332,-118.177535,2024-10-16,14:05,Park,Medium,0
+CRM-01537,Robbery,Harbor Area,33.743178,-118.261217,2026-04-20,01:31,Industrial,High,0
+CRM-01538,Robbery,Eastside,34.034477,-118.199041,2024-10-11,20:09,Commercial,Medium,0
+CRM-01539,Shoplifting,Eastside,34.034624,-118.187467,2026-05-02,18:11,Commercial,Medium,0
+CRM-01540,Assault,Suburbs,34.120363,-118.182462,2025-07-16,17:40,Park,High,1
+CRM-01541,Fraud,Downtown,34.054546,-118.241598,2024-01-12,15:52,Commercial,Low,0
+CRM-01542,Fraud,Westside,34.028005,-118.334264,2024-07-29,23:12,Residential,Low,1
+CRM-01543,Vandalism,Suburbs,34.141774,-118.173486,2025-05-15,13:51,Park,Low,0
+CRM-01544,Theft,Eastside,34.028719,-118.202993,2025-02-14,11:22,Residential,Medium,0
+CRM-01545,Robbery,Suburbs,34.115853,-118.186926,2025-06-30,03:50,School Zone,High,0
+CRM-01546,Shoplifting,Downtown,34.049816,-118.234225,2025-02-07,15:09,Nightclub District,Low,0
+CRM-01547,Theft,Downtown,34.054430,-118.233593,2025-09-09,01:16,Commercial,High,0
+CRM-01548,Vandalism,Industrial District,34.017425,-118.234551,2024-04-25,06:53,Transit Station,Low,1
+CRM-01549,Drug Offense,Uptown,34.081833,-118.288525,2024-07-22,18:37,Park,Medium,0
+CRM-01550,Theft,Uptown,34.068558,-118.276593,2024-04-22,14:23,Park,Medium,0
+CRM-01551,Shoplifting,Harbor Area,33.744228,-118.261830,2024-08-21,11:14,Transit Station,Low,0
+CRM-01552,Burglary,Industrial District,34.025216,-118.216523,2024-10-24,17:04,Industrial,High,0
+CRM-01553,Assault,Industrial District,34.014248,-118.220208,2024-08-17,06:28,Industrial,High,0
+CRM-01554,Assault,Parkside,34.091025,-118.204424,2025-05-19,17:04,Park,High,0
+CRM-01555,Shoplifting,Eastside,34.040220,-118.188260,2026-02-23,22:23,Commercial,Low,1
+CRM-01556,Theft,Eastside,34.029357,-118.193837,2025-11-01,04:20,Industrial,Low,0
+CRM-01557,Theft,Suburbs,34.132623,-118.186011,2026-04-18,08:08,Park,Medium,0
+CRM-01558,Robbery,Westside,34.031362,-118.334889,2024-06-21,17:28,Transit Station,High,0
+CRM-01559,Theft,Westside,34.041418,-118.339726,2025-06-30,01:40,Residential,Medium,0
+CRM-01560,Vandalism,Harbor Area,33.720597,-118.268997,2024-05-20,06:53,Commercial,Medium,0
+CRM-01561,Theft,Suburbs,34.117463,-118.189549,2025-08-18,03:35,Park,Medium,0
+CRM-01562,Shoplifting,Westside,34.040273,-118.344898,2024-10-09,10:15,Commercial,Low,1
+CRM-01563,Fraud,Westside,34.020415,-118.349448,2025-07-23,10:31,Commercial,Low,0
+CRM-01564,Fraud,Industrial District,34.016430,-118.221178,2024-07-03,09:06,Industrial,Low,1
+CRM-01565,Drug Offense,Parkside,34.088248,-118.203411,2026-05-04,04:24,Park,Medium,1
+CRM-01566,Shoplifting,Uptown,34.081397,-118.279026,2024-01-01,10:24,Commercial,Low,1
+CRM-01567,Vandalism,Eastside,34.020187,-118.202207,2024-02-12,20:35,Commercial,Low,0
+CRM-01568,Burglary,Harbor Area,33.745824,-118.265699,2025-10-06,09:23,Transit Station,Medium,0
+CRM-01569,Drug Offense,Uptown,34.078353,-118.304674,2025-07-08,15:02,Park,Medium,1
+CRM-01570,Theft,Parkside,34.085317,-118.201533,2024-11-05,15:47,School Zone,Medium,0
+CRM-01571,Theft,Uptown,34.084927,-118.274094,2025-06-03,12:32,Commercial,Medium,0
+CRM-01572,Assault,Parkside,34.088706,-118.208967,2024-01-03,11:42,Park,High,0
+CRM-01573,Robbery,Eastside,34.040482,-118.191091,2024-06-09,07:13,Residential,High,0
+CRM-01574,Vandalism,Suburbs,34.120119,-118.173057,2026-03-04,09:19,School Zone,Low,0
+CRM-01575,Assault,Downtown,34.056005,-118.234474,2025-10-22,10:25,Transit Station,Medium,1
+CRM-01576,Fraud,Uptown,34.073864,-118.268650,2024-07-24,13:29,Park,Low,0
+CRM-01577,Vandalism,Suburbs,34.117218,-118.190227,2025-04-26,22:20,School Zone,Low,0
+CRM-01578,Vandalism,Downtown,34.051009,-118.260176,2025-06-21,09:45,Nightclub District,Low,1
+CRM-01579,Theft,Suburbs,34.119560,-118.170826,2024-08-04,00:43,School Zone,Medium,0
+CRM-01580,Fraud,Downtown,34.063986,-118.234539,2025-01-24,10:52,Transit Station,Low,1
+CRM-01581,Shoplifting,Downtown,34.059468,-118.243981,2025-07-18,18:28,Commercial,Low,1
+CRM-01582,Assault,Parkside,34.091105,-118.216530,2024-10-25,10:11,Residential,High,1
+CRM-01583,Assault,Industrial District,34.014660,-118.235123,2025-05-22,06:13,Transit Station,High,1
+CRM-01584,Fraud,Uptown,34.090756,-118.289899,2024-04-09,06:08,Commercial,Low,0
+CRM-01585,Burglary,Downtown,34.054012,-118.243106,2025-09-22,22:54,Commercial,Medium,0
+CRM-01586,Theft,Harbor Area,33.744571,-118.272904,2025-12-11,22:34,Commercial,High,0
+CRM-01587,Theft,Downtown,34.048599,-118.242485,2026-05-17,00:44,Nightclub District,Medium,0
+CRM-01588,Assault,Downtown,34.049953,-118.236525,2026-05-27,03:29,Transit Station,High,0
+CRM-01589,Vandalism,Eastside,34.034374,-118.186818,2026-04-11,12:39,Residential,Low,0
+CRM-01590,Theft,Eastside,34.018792,-118.197743,2025-08-04,21:04,Residential,Medium,0
+CRM-01591,Shoplifting,Harbor Area,33.736522,-118.273686,2026-01-09,09:04,Transit Station,Low,1
+CRM-01592,Robbery,Parkside,34.088144,-118.199446,2024-04-12,14:06,Residential,Medium,0
+CRM-01593,Assault,Industrial District,34.009843,-118.226205,2024-06-27,21:32,Transit Station,Medium,0
+CRM-01594,Theft,Parkside,34.110249,-118.192511,2024-05-23,02:19,Residential,Medium,0
+CRM-01595,Shoplifting,Industrial District,34.015291,-118.228624,2025-09-29,07:38,Industrial,Low,0
+CRM-01596,Drug Offense,Industrial District,34.018055,-118.215585,2024-05-17,11:07,Industrial,Medium,1
+CRM-01597,Assault,Harbor Area,33.744641,-118.271055,2025-02-06,02:20,Transit Station,High,1
+CRM-01598,Robbery,Parkside,34.075926,-118.206668,2025-03-13,06:27,Park,High,0
+CRM-01599,Theft,Westside,34.052733,-118.334521,2025-02-06,09:01,Transit Station,Medium,0
+CRM-01600,Assault,Suburbs,34.123432,-118.180906,2025-07-03,00:10,Residential,High,1
+CRM-01601,Vandalism,Uptown,34.093738,-118.286190,2025-04-14,22:56,Park,Low,0
+CRM-01602,Fraud,Westside,34.039996,-118.348858,2025-09-12,23:45,Transit Station,Medium,1
+CRM-01603,Assault,Westside,34.046446,-118.335662,2025-06-12,11:19,Transit Station,High,1
+CRM-01604,Vandalism,Eastside,34.031980,-118.184646,2025-11-25,11:11,Residential,Low,0
+CRM-01605,Fraud,Eastside,34.033912,-118.184049,2025-05-18,22:59,Residential,Low,0
+CRM-01606,Assault,Westside,34.048450,-118.340468,2024-12-24,02:33,Commercial,High,0
+CRM-01607,Assault,Parkside,34.087202,-118.205853,2024-10-11,00:57,School Zone,Medium,1
+CRM-01608,Shoplifting,Suburbs,34.129034,-118.181588,2024-02-17,05:07,Residential,Low,0
+CRM-01609,Vandalism,Downtown,34.061302,-118.237303,2025-06-19,19:16,Nightclub District,Medium,1
+CRM-01610,Burglary,Uptown,34.086523,-118.288708,2025-01-22,21:18,Commercial,Medium,0
+CRM-01611,Fraud,Industrial District,34.025546,-118.218960,2024-07-30,14:44,Industrial,Low,0
+CRM-01612,Theft,Harbor Area,33.745521,-118.260177,2024-04-27,10:02,Transit Station,Medium,0
+CRM-01613,Robbery,Westside,34.039921,-118.334453,2025-11-28,05:17,Transit Station,High,0
+CRM-01614,Fraud,Suburbs,34.134324,-118.180559,2025-06-14,23:40,Residential,Low,0
+CRM-01615,Assault,Westside,34.032099,-118.346461,2025-02-03,01:51,Transit Station,High,1
+CRM-01616,Theft,Eastside,34.028006,-118.196007,2024-06-02,11:47,Commercial,Medium,0
+CRM-01617,Assault,Industrial District,34.001860,-118.206960,2025-08-10,07:24,Transit Station,High,0
+CRM-01618,Theft,Parkside,34.083182,-118.196461,2025-11-22,09:37,Park,Medium,0
+CRM-01619,Burglary,Harbor Area,33.739242,-118.275907,2024-08-09,07:39,Commercial,Medium,1
+CRM-01620,Theft,Industrial District,34.006492,-118.223227,2025-01-19,23:07,Industrial,High,0
+CRM-01621,Vandalism,Parkside,34.091994,-118.201849,2025-12-07,04:35,Park,Low,0
+CRM-01622,Fraud,Eastside,34.032250,-118.192403,2024-02-18,17:57,Commercial,Low,0
+CRM-01623,Robbery,Parkside,34.101546,-118.196349,2025-01-30,06:11,Residential,High,1
+CRM-01624,Drug Offense,Downtown,34.044796,-118.232199,2025-01-18,19:53,Transit Station,Medium,1
+CRM-01625,Drug Offense,Suburbs,34.120330,-118.185702,2025-05-03,05:25,Park,Medium,1
+CRM-01626,Burglary,Harbor Area,33.752017,-118.273034,2024-05-15,21:58,Commercial,Low,0
+CRM-01627,Shoplifting,Westside,34.042350,-118.355116,2026-05-18,15:21,Transit Station,Low,1
+CRM-01628,Vandalism,Parkside,34.107317,-118.196168,2024-06-10,14:40,School Zone,Medium,1
+CRM-01629,Assault,Uptown,34.099494,-118.283575,2025-08-28,00:27,Commercial,High,1
+CRM-01630,Robbery,Suburbs,34.124727,-118.184145,2024-09-13,09:50,Residential,High,1
+CRM-01631,Theft,Uptown,34.085149,-118.294910,2025-05-19,03:50,Park,High,0
+CRM-01632,Theft,Uptown,34.087569,-118.297184,2026-02-09,21:22,Residential,Medium,0
+CRM-01633,Vandalism,Eastside,34.024674,-118.189351,2024-08-01,17:26,Residential,Low,0
+CRM-01634,Fraud,Westside,34.048035,-118.350041,2026-01-06,08:01,Commercial,Medium,1
+CRM-01635,Vandalism,Parkside,34.096097,-118.200468,2024-02-17,13:56,School Zone,Low,0
+CRM-01636,Fraud,Industrial District,34.005755,-118.218359,2025-05-07,20:02,Transit Station,Low,0
+CRM-01637,Burglary,Parkside,34.088761,-118.200487,2026-01-11,06:21,Residential,Medium,1
+CRM-01638,Assault,Industrial District,34.010183,-118.223572,2025-08-28,01:46,Industrial,High,1
+CRM-01639,Vandalism,Eastside,34.018984,-118.195494,2024-08-16,14:00,Residential,Low,0
+CRM-01640,Theft,Suburbs,34.124017,-118.177751,2024-06-02,00:01,Park,High,0
+CRM-01641,Assault,Industrial District,34.017480,-118.225113,2024-05-08,01:40,Transit Station,High,0
+CRM-01642,Vandalism,Westside,34.038011,-118.345098,2025-12-25,23:47,Commercial,Medium,0
+CRM-01643,Vandalism,Suburbs,34.127401,-118.184826,2024-02-16,08:21,Residential,Low,0
+CRM-01644,Vandalism,Industrial District,34.013176,-118.209003,2026-05-24,16:38,Transit Station,Low,1
+CRM-01645,Vandalism,Suburbs,34.117031,-118.184204,2025-01-12,20:14,School Zone,Medium,0
+CRM-01646,Theft,Suburbs,34.118602,-118.197490,2024-02-27,08:56,Residential,Low,0
+CRM-01647,Theft,Uptown,34.094181,-118.288448,2024-08-23,13:12,Residential,Medium,0
+CRM-01648,Drug Offense,Suburbs,34.118546,-118.193249,2025-08-30,11:24,Park,High,1
+CRM-01649,Assault,Suburbs,34.118999,-118.182810,2024-09-03,19:34,Residential,Medium,0
+CRM-01650,Robbery,Westside,34.030524,-118.347067,2024-01-14,14:15,Residential,High,1
+CRM-01651,Assault,Westside,34.035906,-118.342340,2024-08-22,01:46,Transit Station,High,1
+CRM-01652,Burglary,Industrial District,34.020191,-118.213179,2025-12-12,21:13,Industrial,Medium,0
+CRM-01653,Burglary,Suburbs,34.118111,-118.184922,2024-07-23,10:49,Residential,Medium,0
+CRM-01654,Vandalism,Eastside,34.033474,-118.192972,2025-10-10,07:29,Residential,Low,0
+CRM-01655,Shoplifting,Downtown,34.058384,-118.245310,2025-07-17,20:20,Commercial,Low,0
+CRM-01656,Burglary,Westside,34.039498,-118.350350,2025-11-13,09:01,Residential,Medium,0
+CRM-01657,Theft,Parkside,34.089111,-118.207678,2026-01-30,19:19,Residential,Medium,0
+CRM-01658,Vandalism,Industrial District,34.005906,-118.227126,2025-03-04,16:11,Transit Station,Low,0
+CRM-01659,Theft,Parkside,34.097140,-118.197599,2026-04-09,09:20,School Zone,High,0
+CRM-01660,Burglary,Westside,34.041094,-118.345084,2025-08-17,16:01,Transit Station,Medium,0
+CRM-01661,Fraud,Westside,34.049725,-118.343977,2024-12-29,06:46,Transit Station,Low,0
+CRM-01662,Vandalism,Industrial District,33.994945,-118.228107,2024-06-18,21:10,Industrial,Low,0
+CRM-01663,Assault,Suburbs,34.121845,-118.190638,2025-05-31,14:19,Park,High,1
+CRM-01664,Robbery,Parkside,34.097300,-118.199865,2024-11-28,00:18,Park,Medium,0
+CRM-01665,Vandalism,Westside,34.052761,-118.334981,2025-10-09,07:20,Transit Station,Low,0
+CRM-01666,Theft,Parkside,34.092328,-118.208286,2024-10-08,08:46,School Zone,Medium,0
+CRM-01667,Assault,Parkside,34.120397,-118.206607,2026-01-02,05:21,Residential,High,1
+CRM-01668,Fraud,Parkside,34.095735,-118.189772,2026-03-25,18:59,Residential,Low,0
+CRM-01669,Assault,Harbor Area,33.744242,-118.253211,2026-01-31,04:02,Commercial,High,1
+CRM-01670,Theft,Industrial District,34.001926,-118.216936,2024-06-09,19:11,Industrial,Medium,0
+CRM-01671,Drug Offense,Industrial District,34.011398,-118.222482,2024-03-10,15:59,Transit Station,Medium,0
+CRM-01672,Fraud,Suburbs,34.123378,-118.174983,2026-02-18,08:28,Residential,Low,0
+CRM-01673,Vandalism,Industrial District,34.009953,-118.211815,2025-01-21,05:11,Industrial,Low,0
+CRM-01674,Theft,Industrial District,33.997643,-118.216553,2025-10-08,21:59,Industrial,Low,0
+CRM-01675,Shoplifting,Uptown,34.087799,-118.274545,2024-04-29,07:00,Residential,Low,0
+CRM-01676,Drug Offense,Uptown,34.077575,-118.299371,2024-12-09,15:31,Park,Medium,0
+CRM-01677,Theft,Industrial District,34.026656,-118.201121,2024-12-10,02:58,Industrial,Medium,0
+CRM-01678,Robbery,Harbor Area,33.744874,-118.270154,2025-10-01,05:22,Commercial,High,0
+CRM-01679,Shoplifting,Uptown,34.075428,-118.279698,2026-01-18,13:44,Commercial,Low,0
+CRM-01680,Assault,Downtown,34.054247,-118.225841,2026-01-10,02:17,Nightclub District,High,1
+CRM-01681,Vandalism,Industrial District,33.990344,-118.235539,2025-12-30,05:26,Industrial,Low,0
+CRM-01682,Theft,Parkside,34.078200,-118.194276,2025-10-11,01:43,Residential,High,0
+CRM-01683,Robbery,Westside,34.034537,-118.342889,2026-02-26,09:01,Transit Station,High,0
+CRM-01684,Assault,Suburbs,34.125504,-118.168046,2025-07-10,00:31,Park,High,1
+CRM-01685,Assault,Downtown,34.034089,-118.245518,2024-07-30,02:34,Nightclub District,High,0
+CRM-01686,Theft,Parkside,34.096707,-118.220091,2026-05-21,00:56,School Zone,Medium,0
+CRM-01687,Theft,Downtown,34.045195,-118.236608,2025-02-25,00:44,Commercial,Medium,0
+CRM-01688,Theft,Parkside,34.084551,-118.205119,2024-10-25,12:05,Park,High,0
+CRM-01689,Burglary,Industrial District,34.014037,-118.227533,2025-04-07,06:15,Transit Station,Medium,0
+CRM-01690,Drug Offense,Westside,34.051354,-118.350378,2025-11-03,05:09,Commercial,Medium,1
+CRM-01691,Theft,Westside,34.046389,-118.344576,2025-07-16,11:04,Commercial,Medium,0
+CRM-01692,Theft,Eastside,34.029829,-118.192438,2025-08-09,09:45,Commercial,Medium,0
+CRM-01693,Assault,Industrial District,34.016003,-118.235380,2024-06-01,03:44,Industrial,High,0
+CRM-01694,Theft,Suburbs,34.120257,-118.175610,2025-10-21,02:34,Residential,Medium,0
+CRM-01695,Fraud,Uptown,34.071529,-118.278264,2026-01-05,04:25,Residential,Low,0
+CRM-01696,Fraud,Downtown,34.050372,-118.233781,2024-01-09,11:00,Commercial,Low,0
+CRM-01697,Assault,Parkside,34.084904,-118.215718,2026-03-14,05:29,Residential,High,1
+CRM-01698,Burglary,Industrial District,34.017071,-118.228620,2024-04-02,20:23,Industrial,Medium,1
+CRM-01699,Assault,Suburbs,34.124027,-118.171503,2025-06-02,19:10,Park,High,1
+CRM-01700,Assault,Industrial District,34.016072,-118.222795,2024-04-18,03:50,Transit Station,Medium,0
+CRM-01701,Shoplifting,Downtown,34.050374,-118.257109,2025-03-07,14:40,Nightclub District,Low,0
+CRM-01702,Burglary,Eastside,34.022942,-118.199082,2025-09-10,05:13,Industrial,Medium,0
+CRM-01703,Theft,Suburbs,34.110014,-118.177982,2025-12-23,14:36,Park,Medium,0
+CRM-01704,Vandalism,Uptown,34.082299,-118.280162,2025-11-20,12:41,Residential,Low,0
+CRM-01705,Fraud,Eastside,34.026859,-118.192668,2025-01-08,17:12,Commercial,Low,1
+CRM-01706,Assault,Harbor Area,33.745481,-118.253785,2024-07-07,09:14,Industrial,High,1
+CRM-01707,Drug Offense,Uptown,34.079263,-118.291139,2025-05-10,22:52,Commercial,High,1
+CRM-01708,Assault,Harbor Area,33.739729,-118.262713,2025-04-16,12:52,Transit Station,High,0
+CRM-01709,Shoplifting,Parkside,34.104630,-118.191937,2025-05-11,22:31,School Zone,Low,0
+CRM-01710,Shoplifting,Westside,34.039967,-118.336394,2024-11-23,07:40,Residential,Low,1
+CRM-01711,Theft,Downtown,34.052635,-118.264782,2025-11-05,07:05,Transit Station,Medium,1
+CRM-01712,Theft,Eastside,34.033210,-118.182514,2024-01-06,04:37,Industrial,Medium,0
+CRM-01713,Assault,Westside,34.050370,-118.330080,2025-04-19,13:13,Residential,High,1
+CRM-01714,Shoplifting,Suburbs,34.118025,-118.166944,2025-11-11,07:34,Park,Low,1
+CRM-01715,Burglary,Harbor Area,33.755430,-118.288643,2025-06-23,06:00,Commercial,Medium,0
+CRM-01716,Robbery,Westside,34.053136,-118.346878,2025-10-28,11:37,Residential,High,0
+CRM-01717,Robbery,Eastside,34.021671,-118.194411,2024-07-12,00:54,Residential,Medium,0
+CRM-01718,Theft,Harbor Area,33.727921,-118.254331,2025-11-06,18:58,Transit Station,Low,0
+CRM-01719,Vandalism,Downtown,34.051725,-118.228877,2025-10-31,12:43,Nightclub District,Medium,0
+CRM-01720,Assault,Parkside,34.075184,-118.212140,2024-12-09,00:34,Park,Medium,0
+CRM-01721,Vandalism,Eastside,34.014177,-118.202036,2024-11-27,07:18,Commercial,Low,0
+CRM-01722,Theft,Harbor Area,33.744941,-118.278890,2024-11-05,02:21,Commercial,Medium,0
+CRM-01723,Theft,Uptown,34.095813,-118.283109,2026-02-03,04:11,Commercial,Medium,0
+CRM-01724,Shoplifting,Eastside,34.016903,-118.196997,2026-01-17,10:04,Industrial,Medium,0
+CRM-01725,Shoplifting,Harbor Area,33.740849,-118.270673,2026-03-19,07:03,Transit Station,Low,0
+CRM-01726,Fraud,Downtown,34.052060,-118.258822,2026-02-26,04:00,Nightclub District,Low,0
+CRM-01727,Shoplifting,Downtown,34.046666,-118.252819,2025-12-26,22:00,Commercial,Low,1
+CRM-01728,Assault,Harbor Area,33.746165,-118.264043,2025-12-30,03:03,Industrial,High,1
+CRM-01729,Robbery,Eastside,34.031241,-118.186695,2026-03-20,22:38,Residential,High,1
+CRM-01730,Burglary,Downtown,34.057204,-118.258981,2026-04-19,15:27,Nightclub District,Medium,0
+CRM-01731,Robbery,Downtown,34.045381,-118.255035,2025-04-23,15:55,Transit Station,High,0
+CRM-01732,Vandalism,Uptown,34.081353,-118.289056,2024-02-27,08:58,Residential,Low,0
+CRM-01733,Assault,Eastside,34.025242,-118.196120,2025-10-11,01:21,Residential,High,1
+CRM-01734,Theft,Eastside,34.040660,-118.186618,2026-03-05,06:30,Residential,High,1
+CRM-01735,Fraud,Downtown,34.053141,-118.228937,2024-12-12,08:12,Nightclub District,Low,1
+CRM-01736,Drug Offense,Suburbs,34.130241,-118.186651,2024-05-24,15:40,Park,Medium,1
+CRM-01737,Shoplifting,Parkside,34.087192,-118.196736,2026-05-11,07:38,Park,Low,1
+CRM-01738,Robbery,Industrial District,34.011520,-118.217478,2025-03-30,01:29,Transit Station,High,0
+CRM-01739,Assault,Downtown,34.057440,-118.237028,2025-10-21,01:01,Commercial,High,1
+CRM-01740,Robbery,Westside,34.044938,-118.344585,2025-09-08,10:10,Transit Station,High,0
+CRM-01741,Assault,Industrial District,34.009993,-118.230790,2025-01-28,11:55,Industrial,High,1
+CRM-01742,Assault,Uptown,34.080997,-118.281364,2026-04-29,22:38,Commercial,High,1
+CRM-01743,Assault,Eastside,34.037810,-118.196647,2025-01-29,10:47,Residential,High,1
+CRM-01744,Fraud,Downtown,34.045768,-118.241892,2024-12-01,10:40,Commercial,Medium,0
+CRM-01745,Assault,Suburbs,34.109636,-118.171255,2026-01-27,13:22,Park,High,1
+CRM-01746,Theft,Westside,34.045471,-118.344064,2025-12-04,00:51,Residential,Medium,0
+CRM-01747,Shoplifting,Uptown,34.082449,-118.277423,2025-07-31,06:32,Commercial,Medium,0
+CRM-01748,Vandalism,Suburbs,34.133625,-118.207432,2024-09-17,23:42,Park,Low,0
+CRM-01749,Drug Offense,Industrial District,34.015884,-118.220370,2025-10-29,23:15,Transit Station,High,1
+CRM-01750,Burglary,Suburbs,34.111132,-118.170453,2024-01-13,05:19,Residential,Medium,0
+CRM-01751,Drug Offense,Suburbs,34.124669,-118.191642,2024-05-20,14:44,Park,High,0
+CRM-01752,Robbery,Parkside,34.099028,-118.197867,2026-05-22,14:30,Park,High,1
+CRM-01753,Fraud,Westside,34.032918,-118.357206,2026-04-16,13:18,Commercial,Low,0
+CRM-01754,Shoplifting,Industrial District,34.008963,-118.241244,2024-02-23,07:21,Industrial,Medium,0
+CRM-01755,Drug Offense,Industrial District,33.999084,-118.227209,2024-04-27,07:01,Industrial,Medium,1
+CRM-01756,Assault,Parkside,34.080971,-118.207387,2025-05-18,00:16,School Zone,Medium,1
+CRM-01757,Theft,Parkside,34.092646,-118.188006,2024-05-30,08:38,Park,Medium,0
+CRM-01758,Fraud,Industrial District,34.012229,-118.234595,2026-03-17,13:14,Industrial,Medium,0
+CRM-01759,Assault,Eastside,34.032355,-118.197504,2025-08-21,01:18,Commercial,High,0
+CRM-01760,Shoplifting,Downtown,34.044729,-118.249434,2025-06-11,06:18,Commercial,Low,0
+CRM-01761,Vandalism,Eastside,34.038471,-118.201022,2025-07-04,15:31,Residential,Low,0
+CRM-01762,Vandalism,Suburbs,34.116181,-118.173185,2024-03-17,10:44,School Zone,Low,1
+CRM-01763,Theft,Industrial District,34.004047,-118.221667,2024-02-11,17:37,Transit Station,High,0
+CRM-01764,Theft,Downtown,34.051075,-118.231373,2024-03-22,21:43,Transit Station,High,0
+CRM-01765,Theft,Downtown,34.065622,-118.235142,2024-06-15,13:07,Commercial,Medium,0
+CRM-01766,Drug Offense,Industrial District,34.014548,-118.228415,2024-03-18,14:06,Transit Station,Low,1
+CRM-01767,Theft,Downtown,34.045448,-118.245882,2024-05-13,03:46,Transit Station,Medium,0
+CRM-01768,Fraud,Industrial District,34.013097,-118.216690,2025-01-06,05:59,Transit Station,Low,0
+CRM-01769,Fraud,Uptown,34.085659,-118.282661,2025-10-17,14:22,Commercial,Low,0
+CRM-01770,Theft,Parkside,34.096174,-118.211691,2025-10-11,16:14,School Zone,Medium,0
+CRM-01771,Assault,Harbor Area,33.745278,-118.268826,2024-04-21,00:55,Transit Station,High,0
+CRM-01772,Drug Offense,Uptown,34.102610,-118.290793,2024-11-13,18:59,Park,Medium,1
+CRM-01773,Robbery,Westside,34.042892,-118.351877,2025-09-21,06:23,Transit Station,High,0
+CRM-01774,Robbery,Suburbs,34.142092,-118.175303,2026-02-13,12:21,Park,High,0
+CRM-01775,Assault,Harbor Area,33.743298,-118.257399,2025-08-31,00:13,Commercial,High,1
+CRM-01776,Drug Offense,Parkside,34.093377,-118.209993,2025-09-01,18:20,Residential,High,1
+CRM-01777,Robbery,Suburbs,34.110821,-118.172582,2026-04-20,01:02,Park,High,0
+CRM-01778,Fraud,Uptown,34.077780,-118.292000,2024-01-06,16:53,Park,Low,1
+CRM-01779,Assault,Westside,34.044952,-118.341133,2025-12-16,11:55,Transit Station,Medium,0
+CRM-01780,Fraud,Westside,34.036799,-118.351736,2024-01-08,13:29,Residential,Low,0
+CRM-01781,Theft,Harbor Area,33.754503,-118.275431,2024-02-26,17:56,Transit Station,High,0
+CRM-01782,Theft,Parkside,34.088243,-118.206154,2024-11-20,00:51,School Zone,Medium,0
+CRM-01783,Vandalism,Suburbs,34.129903,-118.183838,2025-10-10,21:57,Park,Medium,0
+CRM-01784,Theft,Downtown,34.055988,-118.245351,2025-01-13,21:01,Nightclub District,Medium,1
+CRM-01785,Assault,Uptown,34.069818,-118.282876,2025-02-09,21:27,Park,High,1
+CRM-01786,Theft,Industrial District,34.002549,-118.212205,2026-01-30,01:03,Industrial,Medium,0
+CRM-01787,Assault,Downtown,34.046962,-118.243071,2024-10-18,03:48,Nightclub District,High,0
+CRM-01788,Vandalism,Parkside,34.089996,-118.208948,2024-07-10,21:17,Park,Low,0
+CRM-01789,Robbery,Industrial District,34.013121,-118.215117,2026-04-20,15:34,Industrial,High,0
+CRM-01790,Theft,Westside,34.042270,-118.324650,2024-08-04,16:33,Commercial,Medium,0
+CRM-01791,Assault,Suburbs,34.118676,-118.184709,2024-10-12,01:25,Park,High,1
+CRM-01792,Fraud,Downtown,34.054939,-118.238462,2024-03-31,18:00,Commercial,Low,0
+CRM-01793,Robbery,Downtown,34.067994,-118.249582,2024-10-25,01:07,Nightclub District,High,0
+CRM-01794,Assault,Suburbs,34.121106,-118.180422,2025-01-06,01:07,School Zone,Medium,0
+CRM-01795,Robbery,Downtown,34.069528,-118.233320,2025-07-06,09:31,Nightclub District,High,0
+CRM-01796,Vandalism,Harbor Area,33.737446,-118.277541,2025-07-02,23:33,Industrial,Low,0
+CRM-01797,Vandalism,Uptown,34.080588,-118.287539,2024-01-18,23:38,Residential,Low,0
+CRM-01798,Burglary,Harbor Area,33.736313,-118.258860,2025-04-14,20:23,Industrial,Medium,0
+CRM-01799,Burglary,Eastside,34.019664,-118.202124,2024-11-26,10:25,Industrial,High,0
+CRM-01800,Theft,Westside,34.043638,-118.347476,2025-01-11,12:15,Residential,Medium,0
+CRM-01801,Vandalism,Suburbs,34.118941,-118.190832,2025-07-06,12:09,Park,Medium,0
+CRM-01802,Theft,Industrial District,34.008397,-118.208089,2025-10-01,02:37,Industrial,Medium,0
+CRM-01803,Vandalism,Parkside,34.105628,-118.200145,2024-12-04,04:12,Park,Low,1
+CRM-01804,Robbery,Eastside,34.039111,-118.195099,2024-04-13,16:47,Industrial,Medium,0
+CRM-01805,Assault,Harbor Area,33.740638,-118.268849,2025-11-13,07:00,Industrial,High,1
+CRM-01806,Theft,Harbor Area,33.740317,-118.274671,2024-12-01,02:41,Industrial,Medium,0
+CRM-01807,Shoplifting,Eastside,34.016640,-118.201175,2025-01-06,10:46,Commercial,Medium,1
+CRM-01808,Theft,Uptown,34.073698,-118.265548,2026-01-14,02:04,Commercial,Medium,0
+CRM-01809,Drug Offense,Parkside,34.102930,-118.195499,2026-03-02,20:47,Park,Medium,1
+CRM-01810,Robbery,Eastside,34.023568,-118.193778,2025-09-19,02:02,Industrial,High,1
+CRM-01811,Drug Offense,Westside,34.050685,-118.346351,2025-04-15,06:01,Commercial,Medium,1
+CRM-01812,Vandalism,Harbor Area,33.735050,-118.277243,2025-03-26,07:38,Transit Station,Low,0
+CRM-01813,Fraud,Suburbs,34.124323,-118.187195,2024-01-24,05:37,Residential,Low,0
+CRM-01814,Assault,Suburbs,34.126530,-118.172316,2024-11-03,00:22,School Zone,High,1
+CRM-01815,Robbery,Eastside,34.021541,-118.191298,2025-02-02,00:09,Industrial,High,1
+CRM-01816,Vandalism,Uptown,34.079095,-118.293123,2024-05-21,05:32,Residential,Low,1
+CRM-01817,Burglary,Eastside,34.037844,-118.180097,2025-03-03,13:49,Residential,Medium,0
+CRM-01818,Robbery,Eastside,34.021094,-118.207901,2025-10-29,19:07,Commercial,High,0
+CRM-01819,Shoplifting,Eastside,34.015073,-118.185351,2026-03-22,15:59,Commercial,Low,1
+CRM-01820,Theft,Industrial District,34.004511,-118.238445,2026-01-28,02:28,Transit Station,High,0
+CRM-01821,Assault,Harbor Area,33.759012,-118.261695,2024-03-07,22:04,Commercial,High,1
+CRM-01822,Drug Offense,Eastside,34.028544,-118.197041,2025-09-13,04:39,Commercial,Medium,0
+CRM-01823,Vandalism,Eastside,34.027276,-118.183193,2026-03-17,20:39,Industrial,Medium,0
+CRM-01824,Shoplifting,Eastside,34.035216,-118.197336,2024-02-22,17:22,Commercial,Low,0
+CRM-01825,Theft,Uptown,34.092407,-118.274407,2024-10-01,03:41,Park,Medium,1
+CRM-01826,Assault,Harbor Area,33.741909,-118.270858,2025-11-22,03:59,Transit Station,High,1
+CRM-01827,Fraud,Harbor Area,33.733203,-118.260435,2025-12-29,11:01,Commercial,Low,0
+CRM-01828,Theft,Suburbs,34.124299,-118.180383,2025-06-25,13:28,School Zone,Medium,1
+CRM-01829,Robbery,Parkside,34.089239,-118.197799,2026-05-13,17:17,Residential,High,1
+CRM-01830,Shoplifting,Suburbs,34.122990,-118.184355,2024-06-11,11:27,School Zone,Low,1
+CRM-01831,Burglary,Downtown,34.053464,-118.240025,2025-08-16,05:07,Transit Station,Medium,0
+CRM-01832,Vandalism,Downtown,34.045706,-118.248613,2025-12-20,19:51,Nightclub District,Low,0
+CRM-01833,Assault,Parkside,34.099231,-118.214880,2026-05-03,05:28,Residential,High,1
+CRM-01834,Assault,Eastside,34.030177,-118.185534,2024-05-29,02:09,Commercial,High,0
+CRM-01835,Theft,Suburbs,34.106002,-118.196925,2024-05-06,22:40,Residential,Medium,0
+CRM-01836,Assault,Westside,34.038889,-118.352339,2025-12-26,17:22,Residential,High,0
+CRM-01837,Robbery,Harbor Area,33.738421,-118.260284,2025-03-14,21:40,Transit Station,High,0
+CRM-01838,Robbery,Westside,34.047083,-118.337037,2025-08-04,11:57,Residential,High,0
+CRM-01839,Assault,Suburbs,34.120993,-118.187633,2026-03-01,17:21,Residential,Medium,1
+CRM-01840,Vandalism,Suburbs,34.138817,-118.180470,2025-06-06,12:34,School Zone,Low,0
+CRM-01841,Shoplifting,Westside,34.026166,-118.350957,2025-01-13,04:13,Commercial,Medium,0
+CRM-01842,Drug Offense,Harbor Area,33.750854,-118.262815,2024-11-25,04:59,Transit Station,Medium,1
+CRM-01843,Vandalism,Suburbs,34.129192,-118.179019,2025-01-23,13:26,School Zone,Low,0
+CRM-01844,Theft,Industrial District,34.006678,-118.213852,2025-11-26,03:50,Transit Station,Medium,0
+CRM-01845,Assault,Westside,34.049772,-118.332828,2025-02-25,03:07,Transit Station,High,1
+CRM-01846,Theft,Parkside,34.081503,-118.215283,2025-11-09,02:13,School Zone,Medium,1
+CRM-01847,Assault,Harbor Area,33.733475,-118.246566,2025-12-02,01:03,Commercial,Medium,1
+CRM-01848,Vandalism,Industrial District,34.023489,-118.227514,2026-05-23,05:28,Transit Station,Low,0
+CRM-01849,Shoplifting,Uptown,34.068996,-118.279815,2024-12-29,16:03,Commercial,Low,1
+CRM-01850,Assault,Eastside,34.046116,-118.199329,2025-06-26,23:45,Commercial,Medium,0
+CRM-01851,Burglary,Westside,34.039453,-118.343117,2024-03-17,09:59,Residential,Low,0
+CRM-01852,Fraud,Suburbs,34.134624,-118.182608,2025-05-09,04:58,Residential,Low,0
+CRM-01853,Fraud,Harbor Area,33.743839,-118.268541,2024-03-13,17:13,Commercial,Low,0
+CRM-01854,Vandalism,Industrial District,34.013107,-118.217932,2024-12-02,20:19,Industrial,Low,0
+CRM-01855,Robbery,Industrial District,34.020436,-118.214438,2024-05-28,02:57,Transit Station,High,1
+CRM-01856,Theft,Uptown,34.081748,-118.282282,2025-10-06,10:30,Commercial,Low,0
+CRM-01857,Assault,Downtown,34.039863,-118.239176,2025-11-08,02:44,Transit Station,High,1
+CRM-01858,Fraud,Downtown,34.051601,-118.256390,2024-11-07,23:09,Commercial,Low,1
+CRM-01859,Burglary,Uptown,34.084077,-118.284560,2025-02-24,07:49,Park,Medium,0
+CRM-01860,Robbery,Industrial District,34.010367,-118.239268,2026-04-20,08:48,Industrial,Medium,0
+CRM-01861,Assault,Harbor Area,33.745076,-118.266585,2025-09-05,22:15,Transit Station,High,0
+CRM-01862,Fraud,Eastside,34.029041,-118.193092,2024-03-29,15:06,Residential,Low,0
+CRM-01863,Theft,Parkside,34.089163,-118.215067,2025-03-24,00:05,Residential,High,1
+CRM-01864,Theft,Harbor Area,33.743903,-118.270014,2024-08-14,02:09,Industrial,High,0
+CRM-01865,Burglary,Industrial District,34.017119,-118.214454,2025-11-26,08:26,Industrial,Low,0
+CRM-01866,Robbery,Westside,34.043272,-118.344881,2025-06-11,03:24,Transit Station,Medium,1
+CRM-01867,Vandalism,Harbor Area,33.743562,-118.274154,2024-06-12,18:05,Transit Station,Low,0
+CRM-01868,Burglary,Industrial District,34.012107,-118.218602,2025-01-16,13:30,Industrial,Medium,0
+CRM-01869,Assault,Industrial District,34.002806,-118.225363,2026-03-24,01:14,Industrial,High,0
+CRM-01870,Burglary,Downtown,34.048691,-118.243227,2025-05-04,21:38,Commercial,Medium,1
+CRM-01871,Vandalism,Uptown,34.063769,-118.277600,2025-07-04,13:26,Residential,Low,0
+CRM-01872,Drug Offense,Uptown,34.094818,-118.280555,2024-08-26,22:25,Park,High,1
+CRM-01873,Shoplifting,Uptown,34.097058,-118.283470,2024-06-25,11:48,Commercial,Low,1
+CRM-01874,Burglary,Eastside,34.017464,-118.196195,2026-02-01,17:50,Industrial,Medium,0
+CRM-01875,Drug Offense,Suburbs,34.124271,-118.177222,2025-08-15,23:39,Park,Medium,1
+CRM-01876,Assault,Harbor Area,33.748554,-118.267686,2025-06-20,03:04,Industrial,High,1
+CRM-01877,Robbery,Industrial District,34.015857,-118.223714,2024-10-09,01:39,Industrial,High,0
+CRM-01878,Shoplifting,Parkside,34.089876,-118.210238,2025-07-25,14:25,Residential,Low,0
+CRM-01879,Fraud,Industrial District,34.018143,-118.224059,2026-03-28,19:10,Transit Station,Low,0
+CRM-01880,Assault,Industrial District,34.011368,-118.222874,2024-08-19,02:55,Industrial,High,1
+CRM-01881,Assault,Parkside,34.079276,-118.208667,2025-02-18,08:35,Residential,High,0
+CRM-01882,Drug Offense,Industrial District,34.020392,-118.222413,2024-05-11,06:46,Transit Station,Medium,1
+CRM-01883,Theft,Industrial District,34.021063,-118.226922,2026-04-27,18:42,Transit Station,Medium,0
+CRM-01884,Vandalism,Uptown,34.082114,-118.284663,2024-03-23,23:35,Park,Low,0
+CRM-01885,Vandalism,Suburbs,34.138081,-118.181255,2025-06-26,17:07,Park,Low,0
+CRM-01886,Drug Offense,Downtown,34.048176,-118.242145,2025-01-16,06:44,Nightclub District,Medium,0
+CRM-01887,Theft,Parkside,34.078002,-118.198001,2024-07-13,02:14,Park,Medium,0
+CRM-01888,Vandalism,Parkside,34.088549,-118.210581,2024-11-14,13:15,Park,Low,0
+CRM-01889,Shoplifting,Suburbs,34.126835,-118.181122,2024-01-29,14:56,School Zone,Low,0
+CRM-01890,Fraud,Eastside,34.018857,-118.196645,2025-04-11,18:22,Residential,Low,0
+CRM-01891,Assault,Eastside,34.021775,-118.199345,2024-03-07,01:37,Residential,High,1
+CRM-01892,Fraud,Harbor Area,33.744793,-118.276754,2026-03-31,12:51,Commercial,Low,1
+CRM-01893,Robbery,Uptown,34.087554,-118.297923,2025-04-29,11:45,Park,Medium,0
+CRM-01894,Shoplifting,Industrial District,34.008179,-118.223794,2025-06-14,12:58,Industrial,Low,0
+CRM-01895,Drug Offense,Downtown,34.053814,-118.244078,2024-09-02,19:25,Transit Station,Medium,1
+CRM-01896,Shoplifting,Westside,34.043479,-118.347406,2024-02-10,22:05,Transit Station,Low,0
+CRM-01897,Fraud,Harbor Area,33.729810,-118.265139,2025-04-08,21:12,Transit Station,Low,0
+CRM-01898,Fraud,Downtown,34.054305,-118.240588,2025-07-19,08:51,Transit Station,Medium,0
+CRM-01899,Theft,Harbor Area,33.746694,-118.257130,2026-04-25,15:12,Commercial,Medium,0
+CRM-01900,Robbery,Suburbs,34.113452,-118.182403,2025-08-10,03:23,School Zone,Medium,0
+CRM-01901,Drug Offense,Eastside,34.019701,-118.197502,2025-07-24,14:20,Residential,Medium,1
+CRM-01902,Shoplifting,Harbor Area,33.736389,-118.268419,2025-12-20,18:08,Commercial,Low,1
+CRM-01903,Burglary,Eastside,34.026904,-118.197042,2024-02-20,06:24,Residential,High,0
+CRM-01904,Burglary,Uptown,34.072884,-118.274578,2025-03-03,07:34,Commercial,Medium,0
+CRM-01905,Shoplifting,Downtown,34.059186,-118.243430,2026-01-16,16:33,Commercial,Low,0
+CRM-01906,Theft,Downtown,34.053789,-118.241731,2024-08-10,02:46,Nightclub District,Medium,1
+CRM-01907,Shoplifting,Parkside,34.079525,-118.190065,2026-03-13,06:46,School Zone,Low,0
+CRM-01908,Fraud,Suburbs,34.110368,-118.188150,2025-02-02,14:25,Park,Low,0
+CRM-01909,Shoplifting,Downtown,34.053434,-118.239863,2026-01-03,18:38,Commercial,Low,0
+CRM-01910,Shoplifting,Parkside,34.096860,-118.209019,2025-06-17,05:11,Residential,Low,0
+CRM-01911,Vandalism,Parkside,34.097789,-118.221343,2026-01-08,07:16,School Zone,Medium,0
+CRM-01912,Assault,Harbor Area,33.756371,-118.261567,2024-11-26,09:28,Industrial,High,1
+CRM-01913,Burglary,Harbor Area,33.738751,-118.260971,2026-01-10,19:36,Industrial,High,0
+CRM-01914,Shoplifting,Downtown,34.044403,-118.249959,2025-03-26,11:58,Commercial,Medium,0
+CRM-01915,Robbery,Suburbs,34.119595,-118.177139,2025-04-04,09:42,Park,High,0
+CRM-01916,Robbery,Harbor Area,33.742136,-118.274417,2025-12-22,20:49,Transit Station,High,1
+CRM-01917,Theft,Westside,34.043062,-118.344136,2025-08-31,22:37,Transit Station,Medium,0
+CRM-01918,Vandalism,Downtown,34.060703,-118.252893,2024-05-15,16:57,Nightclub District,Low,1
+CRM-01919,Assault,Parkside,34.096042,-118.213736,2024-04-05,07:31,Park,High,1
+CRM-01920,Drug Offense,Uptown,34.083013,-118.280975,2026-03-07,21:54,Park,Medium,1
+CRM-01921,Drug Offense,Uptown,34.078261,-118.276731,2025-09-26,11:06,Residential,High,1
+CRM-01922,Robbery,Westside,34.048601,-118.356576,2025-09-18,04:27,Residential,High,1
+CRM-01923,Theft,Uptown,34.071134,-118.294433,2025-10-12,09:15,Residential,Medium,0
+CRM-01924,Vandalism,Parkside,34.085290,-118.207080,2025-09-22,11:30,Park,Low,0
+CRM-01925,Shoplifting,Industrial District,34.009590,-118.227888,2025-12-07,21:22,Transit Station,Low,0
+CRM-01926,Theft,Uptown,34.076240,-118.289712,2026-03-05,12:09,Commercial,Medium,1
+CRM-01927,Shoplifting,Uptown,34.092332,-118.289645,2026-02-11,20:24,Residential,Medium,0
+CRM-01928,Burglary,Harbor Area,33.739515,-118.258471,2024-05-09,20:36,Industrial,High,1
+CRM-01929,Shoplifting,Uptown,34.095706,-118.284336,2025-02-11,18:45,Residential,Low,0
+CRM-01930,Drug Offense,Eastside,34.022100,-118.202524,2024-04-15,05:45,Residential,Medium,1
+CRM-01931,Theft,Downtown,34.051707,-118.254567,2025-09-01,01:11,Commercial,Medium,0
+CRM-01932,Theft,Eastside,34.019109,-118.192241,2026-04-24,05:22,Residential,High,0
+CRM-01933,Fraud,Downtown,34.049203,-118.247775,2025-06-06,05:53,Transit Station,Medium,1
+CRM-01934,Drug Offense,Parkside,34.095912,-118.198361,2026-04-26,18:57,Park,Medium,1
+CRM-01935,Fraud,Uptown,34.078537,-118.280019,2024-11-25,04:34,Residential,Low,0
+CRM-01936,Vandalism,Parkside,34.089689,-118.193284,2025-04-19,17:17,School Zone,Medium,0
+CRM-01937,Burglary,Harbor Area,33.740453,-118.257200,2025-12-29,06:22,Commercial,High,0
+CRM-01938,Vandalism,Harbor Area,33.742011,-118.260670,2025-08-21,07:28,Industrial,Low,0
+CRM-01939,Burglary,Harbor Area,33.733327,-118.274609,2024-06-06,14:05,Transit Station,Medium,0
+CRM-01940,Vandalism,Uptown,34.076267,-118.270667,2025-09-12,04:35,Residential,Low,0
+CRM-01941,Burglary,Harbor Area,33.768817,-118.252802,2025-09-22,23:06,Commercial,Medium,1
+CRM-01942,Assault,Downtown,34.057616,-118.234525,2024-06-14,06:09,Commercial,Medium,1
+CRM-01943,Theft,Harbor Area,33.753790,-118.258890,2024-05-28,02:35,Industrial,Medium,1
+CRM-01944,Theft,Downtown,34.067122,-118.244711,2025-10-23,14:18,Commercial,Medium,0
+CRM-01945,Robbery,Eastside,34.026628,-118.178475,2024-10-19,08:32,Residential,High,0
+CRM-01946,Burglary,Suburbs,34.124683,-118.191834,2026-05-30,13:34,Residential,High,0
+CRM-01947,Theft,Uptown,34.083319,-118.265529,2025-04-10,03:42,Park,Medium,0
+CRM-01948,Burglary,Westside,34.051408,-118.339387,2025-02-26,15:17,Residential,Medium,0
+CRM-01949,Burglary,Eastside,34.034621,-118.194491,2026-04-11,05:20,Industrial,Medium,0
+CRM-01950,Burglary,Eastside,34.036443,-118.194346,2024-06-29,21:27,Industrial,Medium,0
+CRM-01951,Theft,Suburbs,34.123920,-118.188761,2026-02-10,12:29,School Zone,High,0
+CRM-01952,Burglary,Eastside,34.030286,-118.195310,2024-06-16,22:41,Industrial,Medium,0
+CRM-01953,Fraud,Industrial District,34.021944,-118.219307,2025-05-09,09:55,Transit Station,Low,0
+CRM-01954,Shoplifting,Westside,34.051593,-118.343986,2024-03-26,16:40,Commercial,Low,1
+CRM-01955,Fraud,Harbor Area,33.756284,-118.262541,2025-01-13,21:17,Transit Station,Low,0
+CRM-01956,Robbery,Parkside,34.089242,-118.199441,2026-05-06,00:51,Residential,High,0
+CRM-01957,Drug Offense,Westside,34.032441,-118.340267,2024-04-29,13:45,Residential,Medium,1
+CRM-01958,Burglary,Westside,34.037010,-118.345962,2025-01-15,16:28,Residential,Medium,0
+CRM-01959,Theft,Harbor Area,33.741721,-118.248759,2025-12-01,03:06,Transit Station,Medium,0
+CRM-01960,Burglary,Downtown,34.043853,-118.253330,2024-12-01,14:55,Transit Station,Low,0
+CRM-01961,Theft,Harbor Area,33.742063,-118.266475,2025-01-15,15:53,Industrial,Medium,1
+CRM-01962,Theft,Uptown,34.073449,-118.285862,2025-04-24,02:39,Residential,Medium,0
+CRM-01963,Vandalism,Eastside,34.035468,-118.209879,2024-05-30,04:56,Industrial,Low,0
+CRM-01964,Vandalism,Suburbs,34.129624,-118.170217,2024-09-22,18:41,Park,Low,0
+CRM-01965,Theft,Harbor Area,33.741981,-118.260787,2025-07-11,08:05,Industrial,Medium,0
+CRM-01966,Assault,Uptown,34.080165,-118.283940,2025-04-02,03:51,Residential,High,1
+CRM-01967,Assault,Suburbs,34.116413,-118.178037,2025-02-22,06:40,Park,High,0
+CRM-01968,Theft,Harbor Area,33.734341,-118.264922,2024-07-18,16:43,Transit Station,Medium,1
+CRM-01969,Vandalism,Eastside,34.034509,-118.188359,2024-10-20,22:46,Residential,Low,0
+CRM-01970,Fraud,Downtown,34.055545,-118.253832,2025-04-01,08:45,Transit Station,Low,1
+CRM-01971,Drug Offense,Westside,34.046140,-118.341736,2026-03-25,15:17,Residential,Medium,0
+CRM-01972,Fraud,Uptown,34.085166,-118.290974,2024-02-07,11:36,Park,Medium,0
+CRM-01973,Drug Offense,Westside,34.044904,-118.344824,2024-07-19,04:41,Commercial,High,1
+CRM-01974,Vandalism,Uptown,34.081143,-118.293531,2024-01-19,22:46,Commercial,Medium,0
+CRM-01975,Robbery,Suburbs,34.122286,-118.176699,2024-04-16,12:32,Park,High,0
+CRM-01976,Shoplifting,Parkside,34.079363,-118.203953,2024-12-25,09:33,School Zone,Medium,1
+CRM-01977,Burglary,Westside,34.029701,-118.349681,2024-06-03,06:55,Commercial,Medium,0
+CRM-01978,Fraud,Harbor Area,33.738901,-118.254001,2025-05-24,15:04,Transit Station,Low,0
+CRM-01979,Drug Offense,Uptown,34.084650,-118.299960,2025-09-19,20:56,Park,Medium,1
+CRM-01980,Fraud,Industrial District,34.004792,-118.216998,2025-07-30,11:57,Transit Station,Low,0
+CRM-01981,Theft,Uptown,34.078758,-118.279147,2026-05-17,17:33,Commercial,Medium,1
+CRM-01982,Assault,Parkside,34.090492,-118.196573,2026-01-16,00:45,School Zone,Medium,0
+CRM-01983,Burglary,Harbor Area,33.756474,-118.266458,2024-08-26,19:28,Industrial,Medium,1
+CRM-01984,Drug Offense,Parkside,34.098367,-118.183859,2024-09-26,22:03,Park,Medium,1
+CRM-01985,Burglary,Uptown,34.066020,-118.284624,2024-12-06,10:48,Park,Medium,0
+CRM-01986,Shoplifting,Uptown,34.077441,-118.278715,2025-06-14,14:20,Park,Low,0
+CRM-01987,Assault,Industrial District,34.008699,-118.215465,2026-05-25,00:47,Industrial,High,0
+CRM-01988,Burglary,Uptown,34.094784,-118.287930,2024-08-14,10:48,Park,High,0
+CRM-01989,Assault,Harbor Area,33.738043,-118.268220,2025-08-04,00:21,Commercial,High,1
+CRM-01990,Burglary,Eastside,34.038161,-118.204995,2025-10-31,09:00,Residential,Medium,0
+CRM-01991,Assault,Downtown,34.058114,-118.238609,2024-01-21,01:19,Transit Station,High,1
+CRM-01992,Drug Offense,Industrial District,34.014970,-118.227384,2025-08-04,20:23,Transit Station,Low,1
+CRM-01993,Assault,Eastside,34.025540,-118.182623,2024-06-22,06:54,Residential,High,0
+CRM-01994,Vandalism,Harbor Area,33.752102,-118.263533,2024-04-11,07:34,Industrial,Low,0
+CRM-01995,Theft,Westside,34.037358,-118.345820,2026-01-27,20:12,Transit Station,Medium,0
+CRM-01996,Shoplifting,Westside,34.036570,-118.341945,2024-12-08,12:00,Residential,Low,0
+CRM-01997,Robbery,Eastside,34.028881,-118.212293,2024-10-14,03:27,Residential,High,0
+CRM-01998,Shoplifting,Harbor Area,33.748258,-118.266082,2025-07-02,14:24,Commercial,Medium,0
+CRM-01999,Robbery,Industrial District,34.019638,-118.214418,2024-09-23,10:51,Transit Station,High,0
+CRM-02000,Shoplifting,Suburbs,34.120228,-118.193072,2024-10-18,15:15,School Zone,Low,1

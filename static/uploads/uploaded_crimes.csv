@@ -1,0 +1,2001 @@
+Crime_ID,Crime_Type,Location,Latitude,Longitude,Date,Time,Area,Severity,Arrest_Made
+1,POCSO Cases,Agra,27.1705,77.996801,04-04-2024,06:28:01,Bus Stand Area,4,Yes
+2,Cyber Crime,Agra,27.202087,77.985492,25-09-2023,20:53:46,Railway Colony,4,Yes
+3,Hurt,Agra,27.202695,77.985221,27-07-2023,13:34:52,Bus Stand Area,2,No
+4,Drug Offenses,Agra,27.148032,77.99652,06-10-2023,09:55:34,City Center,4,No
+5,Cheating,Agra,27.175761,77.980458,29-07-2023,17:31:52,New Township,3,No
+6,Auto Theft,Agra,27.16291,78.028014,22-10-2024,20:23:23,City Center,3,No
+7,Burglary,Agra,27.173264,77.97975,06-06-2023,07:39:09,Railway Colony,2,No
+8,Drug Offenses,Ahmedabad,23.021907,72.584406,15-11-2024,02:36:23,Peripheral Zone,3,Yes
+9,Auto Theft,Ahmedabad,23.027862,72.596413,23-04-2023,14:20:42,Peripheral Zone,2,No
+10,Burglary,Ahmedabad,23.028164,72.547738,03-08-2024,08:30:35,Town Center,2,No
+11,Riots,Ahmedabad,22.997324,72.562847,30-12-2024,17:55:51,Town Center,4,Yes
+12,Cyber Crime,Ahmedabad,23.031806,72.549311,03-07-2024,07:09:15,Town Center,3,No
+13,Theft,Ahmedabad,23.010332,72.59749,13-10-2023,20:20:30,Town Center,3,No
+14,Drug Offenses,Ahmedabad,23.023054,72.563344,19-03-2024,20:02:53,Peripheral Zone,4,Yes
+15,Sexual Harassment,Ahmedabad,22.993048,72.584583,08-09-2023,02:32:32,Municipal Area,4,No
+16,Theft,Ahmedabad,23.04184,72.559767,24-06-2023,15:35:30,Town Center,2,No
+17,Sexual Harassment,Ahmedabad,22.99612,72.556919,12-09-2024,20:41:45,Municipal Area,3,No
+18,Criminal Breach of Trust,Ahmedabad,22.99359,72.56731,20-06-2024,20:14:18,Peripheral Zone,2,No
+19,Criminal Breach of Trust,Ahmedabad,23.01401,72.572642,11-08-2024,05:52:51,Town Center,2,No
+20,Arson,Ahmedabad,23.002304,72.558618,26-07-2024,19:13:45,Peripheral Zone,4,No
+21,Drug Offenses,Ahmedabad,23.02783,72.567987,25-11-2023,17:26:30,Peripheral Zone,5,Yes
+22,Gambling,Ahmedabad,23.011919,72.575174,13-12-2024,08:05:40,Town Center,1,No
+23,Burglary,Ahmedabad,23.050903,72.584534,01-08-2023,05:06:54,Town Center,2,No
+24,Drug Offenses,Ahmedabad,23.027287,72.595181,01-03-2023,14:24:06,Town Center,4,Yes
+25,Counterfeiting,Ahmedabad,23.041136,72.594735,20-10-2024,21:07:27,Peripheral Zone,4,Yes
+26,Cyber Crime,Ahmedabad,23.001046,72.599306,18-03-2024,16:43:27,Municipal Area,4,No
+27,Cyber Crime,Ahmedabad,22.998565,72.55871,10-11-2024,13:57:42,Municipal Area,4,No
+28,Sexual Harassment,Ahmedabad,23.039881,72.567588,22-11-2024,07:13:34,Town Center,4,Yes
+29,Auto Theft,Ahmedabad,23.025075,72.588359,27-06-2024,19:54:02,Town Center,3,Yes
+30,Arson,Ahmedabad,23.035523,72.582623,13-03-2024,01:49:19,Municipal Area,4,Yes
+31,Cyber Crime,Ahmedabad,23.028627,72.581607,25-12-2023,13:54:38,Peripheral Zone,3,No
+32,Criminal Breach of Trust,Ahmedabad,23.020082,72.559081,17-07-2024,01:20:01,Municipal Area,1,No
+33,Theft,Ahmedabad,23.05035,72.548764,02-11-2024,10:35:31,Municipal Area,3,Yes
+34,Auto Theft,Ahmedabad,23.013972,72.59685,27-08-2024,02:54:21,Peripheral Zone,2,No
+35,Riots,Ahmedabad,23.007927,72.575403,24-09-2024,18:32:30,Municipal Area,3,No
+36,Drug Offenses,Ahmedabad,22.999846,72.564302,08-08-2023,04:38:11,Municipal Area,3,Yes
+37,Counterfeiting,Ahmedabad,23.042516,72.560193,12-08-2023,03:04:10,Town Center,3,No
+38,Hurt,Ahmedabad,23.006938,72.578175,04-08-2024,11:47:34,Town Center,2,No
+39,Counterfeiting,Ahmedabad,23.037801,72.546806,08-06-2023,04:25:35,Town Center,3,No
+40,Counterfeiting,Ahmedabad,23.011568,72.543131,04-11-2024,09:10:45,Town Center,3,Yes
+41,Cyber Crime,Amritsar,31.632266,74.885276,29-07-2024,13:49:25,Peripheral Zone,3,No
+42,Counterfeiting,Amritsar,31.647931,74.898187,11-10-2023,15:12:45,Town Center,3,No
+43,Arson,Amritsar,31.614318,74.866628,18-05-2024,16:10:42,Municipal Area,5,No
+44,Arson,Asansol,23.658785,86.981932,21-02-2023,08:57:06,Municipal Area,4,Yes
+45,Robbery,Asansol,23.658984,86.99672,20-01-2024,07:01:23,Town Center,4,No
+46,POCSO Cases,Asansol,23.673475,86.968442,13-11-2024,00:25:45,Town Center,4,Yes
+47,Auto Theft,Asansol,23.676132,87.01033,14-06-2023,02:30:52,Municipal Area,3,Yes
+48,Sexual Harassment,Asansol,23.689841,86.953773,23-08-2023,13:38:48,Peripheral Zone,4,No
+49,Counterfeiting,Aurangabad,19.875236,75.329062,04-09-2024,09:25:58,Peripheral Zone,3,No
+50,Cheating,Aurangabad,19.900991,75.31333,27-09-2023,10:34:37,Peripheral Zone,2,No
+51,Sexual Harassment,Aurangabad,19.899247,75.345708,15-05-2024,06:44:27,Municipal Area,3,Yes
+52,Criminal Breach of Trust,Aurangabad,19.863562,75.360952,26-06-2024,06:15:21,Peripheral Zone,2,No
+53,Burglary,Aurangabad,19.866834,75.314129,05-09-2024,13:34:51,Municipal Area,3,No
+54,Riots,Aurangabad,19.87883,75.318669,27-03-2024,14:28:57,Peripheral Zone,5,Yes
+55,Arson,Bengaluru,12.98464,77.612216,09-11-2023,20:08:21,Suburb,5,No
+56,Auto Theft,Bengaluru,12.994555,77.591017,02-02-2023,09:48:52,Downtown,3,No
+57,Gambling,Bengaluru,12.998832,77.577626,02-04-2023,06:26:50,Commercial District,1,No
+58,Kidnapping,Bengaluru,13.000488,77.609419,16-04-2023,14:39:19,Market Area,4,No
+59,Burglary,Bengaluru,12.983861,77.589823,10-03-2023,16:55:22,Residential Zone,3,Yes
+60,Arson,Bengaluru,12.996581,77.588719,30-03-2024,02:07:46,Residential Zone,4,Yes
+61,Auto Theft,Bengaluru,12.964103,77.579839,12-03-2024,20:54:22,Market Area,4,No
+62,Cheating,Bengaluru,12.953731,77.603378,12-01-2024,23:10:00,Market Area,1,No
+63,POCSO Cases,Bengaluru,12.992698,77.611215,18-08-2023,12:30:32,Market Area,5,Yes
+64,Riots,Bengaluru,12.979093,77.62123,13-11-2023,22:14:19,Residential Zone,4,Yes
+65,Cyber Crime,Bengaluru,12.968282,77.599716,09-03-2024,08:15:33,Downtown,2,Yes
+66,Cyber Crime,Bengaluru,12.990801,77.5962,09-07-2024,03:47:48,Suburb,2,No
+67,Cyber Crime,Bengaluru,12.956975,77.575387,27-06-2024,19:39:05,Downtown,2,No
+68,Arson,Bengaluru,13.000772,77.612367,02-01-2023,10:49:21,Downtown,4,No
+69,POCSO Cases,Bengaluru,12.978668,77.608332,10-12-2024,02:49:29,Residential Zone,5,Yes
+70,Gambling,Bengaluru,12.987479,77.605615,21-11-2024,03:13:19,Industrial Area,1,No
+71,Counterfeiting,Bengaluru,12.9512,77.566577,31-08-2023,17:24:43,Suburb,3,Yes
+72,Cyber Crime,Bengaluru,12.968838,77.601612,10-12-2023,13:52:05,Downtown,2,No
+73,Criminal Breach of Trust,Bengaluru,12.97324,77.619408,17-02-2024,19:46:53,Commercial District,3,Yes
+74,Burglary,Bengaluru,12.997959,77.57528,08-02-2023,07:37:33,Commercial District,3,No
+75,Burglary,Bengaluru,12.962773,77.611543,24-10-2023,06:26:14,Downtown,3,No
+76,Theft,Bengaluru,12.957001,77.620367,23-10-2023,22:54:20,Industrial Area,1,No
+77,Counterfeiting,Bengaluru,12.947769,77.592495,28-02-2024,07:44:04,Commercial District,2,No
+78,Cheating,Bengaluru,12.982269,77.567331,16-04-2024,00:48:42,Industrial Area,1,No
+79,Counterfeiting,Bengaluru,12.989468,77.613943,21-05-2024,11:48:04,Suburb,3,No
+80,Theft,Bengaluru,12.961756,77.573661,21-01-2024,20:49:27,Residential Zone,2,No
+81,Arson,Bengaluru,12.996688,77.571032,10-08-2024,03:56:00,Residential Zone,4,No
+82,Sexual Harassment,Bengaluru,12.972931,77.571039,10-04-2023,22:31:13,Market Area,4,No
+83,Riots,Bengaluru,12.991969,77.62409,17-07-2023,16:14:43,Residential Zone,4,No
+84,Drug Offenses,Bengaluru,12.985,77.594983,06-01-2023,07:42:22,Residential Zone,4,Yes
+85,Sexual Harassment,Bengaluru,12.953907,77.600309,30-01-2024,04:38:18,Residential Zone,5,Yes
+86,Arson,Bengaluru,12.952957,77.621821,15-10-2023,21:20:55,Downtown,4,Yes
+87,Sexual Harassment,Bengaluru,12.958789,77.585682,25-10-2024,22:33:36,Market Area,3,No
+88,POCSO Cases,Bengaluru,12.983938,77.602932,28-02-2023,04:21:35,Market Area,4,Yes
+89,Kidnapping,Bengaluru,12.989659,77.573952,07-07-2024,14:29:50,Commercial District,3,Yes
+90,Counterfeiting,Bengaluru,12.995821,77.608417,01-04-2023,01:31:22,Suburb,3,Yes
+91,Criminal Breach of Trust,Bengaluru,12.967361,77.572739,02-05-2024,20:36:34,Commercial District,2,No
+92,Theft,Bengaluru,12.99601,77.593255,15-02-2024,10:34:18,Suburb,1,No
+93,Counterfeiting,Bengaluru,12.997616,77.578615,24-03-2024,00:28:26,Downtown,4,No
+94,Drug Offenses,Bengaluru,12.984015,77.582886,24-06-2023,13:52:39,Residential Zone,4,Yes
+95,Cheating,Bengaluru,12.967693,77.607543,14-07-2023,17:35:19,Suburb,2,No
+96,Cyber Crime,Bengaluru,12.956495,77.602946,08-06-2023,13:36:42,Commercial District,4,No
+97,Gambling,Bengaluru,12.983723,77.61881,13-11-2023,23:18:34,Industrial Area,1,No
+98,Burglary,Bengaluru,12.956008,77.613293,28-06-2024,19:11:09,Commercial District,4,Yes
+99,Drug Offenses,Bengaluru,12.974443,77.577535,11-03-2024,10:50:38,Residential Zone,4,Yes
+100,Cheating,Bengaluru,12.964938,77.621073,29-08-2024,22:33:30,Downtown,2,No
+101,Riots,Bengaluru,12.964167,77.615138,23-12-2024,01:34:40,Downtown,4,Yes
+102,Riots,Bhopal,23.257886,77.437318,29-08-2024,17:55:44,Town Center,4,No
+103,Burglary,Bhopal,23.263358,77.434689,14-05-2023,17:39:57,Municipal Area,3,No
+104,Arson,Bhopal,23.289779,77.404514,08-08-2023,00:26:10,Peripheral Zone,3,No
+105,Sexual Harassment,Bhopal,23.253534,77.41941,06-11-2023,02:10:05,Peripheral Zone,3,Yes
+106,Theft,Bhopal,23.267226,77.431016,01-12-2024,14:45:24,Town Center,2,No
+107,Burglary,Bhopal,23.259012,77.406488,31-12-2024,18:26:08,Municipal Area,3,No
+108,Auto Theft,Bhopal,23.278624,77.42355,28-04-2024,07:48:23,Municipal Area,3,Yes
+109,Counterfeiting,Bhopal,23.233463,77.411195,03-04-2024,00:10:14,Town Center,3,No
+110,Counterfeiting,Bhopal,23.273964,77.421383,10-02-2023,10:16:39,Municipal Area,2,No
+111,Sexual Harassment,Bhopal,23.231764,77.420487,06-08-2023,23:25:56,Municipal Area,3,Yes
+112,Burglary,Bhopal,23.240335,77.408668,18-12-2024,23:07:30,Town Center,3,Yes
+113,Counterfeiting,Bhopal,23.267986,77.404057,15-10-2024,11:17:51,Town Center,3,No
+114,Burglary,Bhopal,23.262311,77.418505,10-07-2024,00:56:14,Town Center,3,No
+115,Auto Theft,Bhopal,23.265245,77.436228,19-12-2024,07:11:04,Municipal Area,4,Yes
+116,Cyber Crime,Bhopal,23.284585,77.438892,20-02-2024,10:55:49,Town Center,4,Yes
+117,Burglary,Bhopal,23.278009,77.427896,27-12-2024,09:46:59,Town Center,3,No
+118,Cheating,Bhopal,23.269475,77.400062,14-10-2023,02:19:12,Peripheral Zone,1,No
+119,Burglary,Chandigarh City,30.746232,76.794611,28-06-2024,04:01:48,Town Center,3,No
+120,Sexual Harassment,Chandigarh City,30.709488,76.774388,24-04-2023,23:10:39,Peripheral Zone,4,No
+121,Drug Offenses,Chandigarh City,30.723749,76.788484,25-01-2023,15:23:48,Town Center,3,No
+122,Counterfeiting,Chennai,13.076448,80.266521,14-11-2024,15:07:24,Downtown,2,Yes
+123,Burglary,Chennai,13.05519,80.267574,17-11-2024,16:16:56,Industrial Area,3,No
+124,Cheating,Chennai,13.111595,80.279089,27-03-2023,15:40:18,Industrial Area,2,Yes
+125,Sexual Harassment,Chennai,13.071036,80.262759,28-06-2024,04:21:23,Industrial Area,5,Yes
+126,Cyber Crime,Chennai,13.069864,80.273894,31-08-2024,20:20:27,Residential Zone,3,No
+127,Drug Offenses,Chennai,13.074593,80.28883,06-03-2024,02:37:33,Market Area,4,Yes
+128,Cyber Crime,Chennai,13.073591,80.287954,27-01-2024,18:33:02,Residential Zone,3,No
+129,Cheating,Chennai,13.056863,80.265179,13-02-2023,09:17:46,Suburb,1,No
+130,Drug Offenses,Chennai,13.082737,80.29076,08-07-2024,14:29:07,Residential Zone,4,No
+131,Theft,Chennai,13.064534,80.254512,12-07-2023,11:59:07,Downtown,2,Yes
+132,Arson,Chennai,13.089017,80.253062,01-11-2024,20:54:52,Downtown,4,Yes
+133,Criminal Breach of Trust,Chennai,13.089426,80.263202,04-11-2024,23:36:25,Market Area,2,No
+134,Criminal Breach of Trust,Chennai,13.064014,80.288402,22-01-2024,03:33:34,Residential Zone,2,Yes
+135,Arson,Chennai,13.109194,80.271483,07-03-2023,00:43:33,Industrial Area,4,Yes
+136,Theft,Chennai,13.103058,80.254324,16-01-2024,19:43:24,Market Area,2,No
+137,Auto Theft,Chennai,13.066014,80.281485,10-01-2023,19:26:29,Downtown,2,No
+138,POCSO Cases,Chennai,13.111712,80.249538,22-07-2024,07:58:39,Industrial Area,5,Yes
+139,Gambling,Coimbatore,10.993268,76.943747,09-11-2024,12:07:34,Municipal Area,1,No
+140,Auto Theft,Coimbatore,11.018257,76.943153,12-12-2024,06:22:11,Municipal Area,3,Yes
+141,Cheating,Coimbatore,11.031158,76.967847,28-03-2023,22:52:16,Town Center,1,No
+142,Sexual Harassment,Coimbatore,11.006753,76.941719,22-10-2023,05:48:15,Municipal Area,5,Yes
+143,Sexual Harassment,Coimbatore,10.999689,76.979973,08-02-2023,08:31:28,Municipal Area,3,No
+144,Drug Offenses,Delhi City,28.685895,77.112772,04-06-2023,23:01:17,Downtown,5,Yes
+145,POCSO Cases,Delhi City,28.694526,77.109214,22-01-2023,20:58:27,Industrial Area,4,Yes
+146,Drug Offenses,Delhi City,28.704887,77.08746,27-06-2024,05:43:46,Residential Zone,5,Yes
+147,Cheating,Delhi City,28.685056,77.129657,16-10-2023,03:36:41,Residential Zone,3,No
+148,Riots,Delhi City,28.710445,77.092488,30-01-2024,05:24:06,Residential Zone,5,Yes
+149,Riots,Delhi City,28.710421,77.124593,24-06-2023,14:41:54,Commercial District,5,No
+150,Burglary,Delhi City,28.727206,77.118703,01-06-2023,19:17:45,Industrial Area,3,No
+151,POCSO Cases,Delhi City,28.703594,77.097835,25-01-2023,15:11:42,Market Area,4,Yes
+152,Drug Offenses,Delhi City,28.700721,77.118719,27-01-2024,12:48:57,Downtown,4,Yes
+153,Arson,Delhi City,28.711866,77.07571,13-12-2023,21:44:40,Suburb,4,Yes
+154,Hurt,Delhi City,28.689122,77.128486,21-03-2024,17:11:59,Commercial District,3,No
+155,Drug Offenses,Delhi City,28.727209,77.094195,24-11-2023,15:32:11,Industrial Area,4,Yes
+156,Cheating,Delhi City,28.723519,77.092586,07-06-2023,16:34:33,Downtown,1,No
+157,Arson,Delhi City,28.720302,77.093269,13-03-2024,13:35:18,Industrial Area,4,Yes
+158,Counterfeiting,Delhi City,28.726552,77.122374,26-07-2024,06:36:45,Market Area,3,No
+159,Riots,Delhi City,28.69243,77.095659,23-08-2023,07:14:23,Downtown,4,Yes
+160,Riots,Delhi City,28.695836,77.109066,18-01-2023,00:55:39,Industrial Area,3,Yes
+161,Cyber Crime,Delhi City,28.679547,77.127322,27-04-2024,01:26:58,Commercial District,4,Yes
+162,Burglary,Delhi City,28.7201,77.108258,27-02-2023,15:06:35,Downtown,4,No
+163,Cyber Crime,Delhi City,28.705412,77.078914,25-04-2024,07:05:41,Residential Zone,2,No
+164,Riots,Delhi City,28.712948,77.085638,09-04-2023,19:36:55,Downtown,5,Yes
+165,Sexual Harassment,Delhi City,28.727804,77.128002,13-09-2023,14:17:55,Commercial District,4,No
+166,Criminal Breach of Trust,Delhi City,28.724255,77.112312,13-06-2023,23:44:32,Commercial District,2,Yes
+167,Riots,Delhi City,28.708429,77.105184,22-01-2024,06:55:43,Downtown,4,No
+168,Auto Theft,Delhi City,28.679693,77.077331,16-02-2024,20:19:30,Suburb,2,No
+169,Cyber Crime,Delhi City,28.696856,77.089928,21-09-2023,03:27:12,Suburb,2,Yes
+170,Gambling,Delhi City,28.728708,77.072595,03-06-2024,22:34:01,Market Area,1,No
+171,Arson,Delhi City,28.692647,77.114453,02-02-2023,00:01:23,Suburb,4,Yes
+172,Riots,Delhi City,28.699494,77.098384,12-07-2024,13:26:49,Residential Zone,3,No
+173,Auto Theft,Delhi City,28.683666,77.107801,08-06-2023,12:53:18,Downtown,4,Yes
+174,Drug Offenses,Delhi City,28.681656,77.080905,07-06-2023,04:26:00,Suburb,3,Yes
+175,Hurt,Delhi City,28.730313,77.086175,09-01-2024,06:00:04,Residential Zone,1,Yes
+176,Theft,Delhi City,28.70597,77.114455,29-08-2024,01:06:47,Suburb,2,No
+177,Cyber Crime,Delhi City,28.684941,77.112331,16-09-2023,18:08:10,Market Area,2,No
+178,Arson,Delhi City,28.719406,77.124403,07-03-2023,01:13:18,Industrial Area,5,No
+179,Arson,Delhi City,28.684331,77.113121,31-08-2024,08:27:54,Commercial District,4,No
+180,Theft,Delhi City,28.723707,77.089608,19-07-2023,13:34:05,Downtown,2,Yes
+181,Arson,Delhi City,28.687316,77.127328,30-07-2023,02:55:02,Downtown,3,Yes
+182,Criminal Breach of Trust,Delhi City,28.680784,77.090268,29-09-2024,15:45:49,Downtown,2,No
+183,Drug Offenses,Delhi City,28.726467,77.124763,03-10-2024,18:30:32,Residential Zone,5,Yes
+184,Criminal Breach of Trust,Delhi City,28.704343,77.12348,25-12-2024,08:32:18,Residential Zone,3,No
+185,Auto Theft,Delhi City,28.682238,77.113034,30-09-2023,01:29:01,Residential Zone,3,No
+186,Theft,Delhi City,28.719245,77.101337,15-09-2024,00:58:26,Commercial District,3,Yes
+187,Drug Offenses,Delhi City,28.691633,77.086958,20-08-2023,18:22:43,Market Area,4,Yes
+188,Gambling,Delhi City,28.69253,77.131106,20-10-2024,18:17:59,Residential Zone,1,Yes
+189,Counterfeiting,Delhi City,28.6952,77.106921,03-12-2023,23:51:14,Industrial Area,3,No
+190,Gambling,Delhi City,28.681392,77.111272,01-02-2023,22:47:45,Commercial District,2,No
+191,Cheating,Delhi City,28.726334,77.116323,26-12-2024,07:41:31,Industrial Area,3,No
+192,Burglary,Delhi City,28.677063,77.088302,24-04-2023,22:14:04,Market Area,4,Yes
+193,Criminal Breach of Trust,Delhi City,28.704886,77.12597,22-05-2023,14:33:57,Industrial Area,1,No
+194,Riots,Delhi City,28.719594,77.085661,16-06-2024,18:55:35,Market Area,3,Yes
+195,Sexual Harassment,Delhi City,28.711051,77.122109,23-05-2024,06:03:59,Residential Zone,4,No
+196,Theft,Delhi City,28.702033,77.114153,31-08-2024,04:14:35,Suburb,2,No
+197,Sexual Harassment,Delhi City,28.705344,77.074453,09-09-2023,14:20:45,Downtown,4,No
+198,POCSO Cases,Delhi City,28.708093,77.110412,17-08-2024,01:18:37,Suburb,5,Yes
+199,Auto Theft,Delhi City,28.704871,77.122947,22-05-2024,15:40:34,Commercial District,3,No
+200,Cyber Crime,Delhi City,28.688541,77.119273,03-11-2024,15:04:11,Commercial District,3,No
+201,Cyber Crime,Delhi City,28.7272,77.113113,25-02-2023,05:59:03,Industrial Area,3,No
+202,Criminal Breach of Trust,Delhi City,28.687402,77.081112,06-02-2024,07:14:23,Commercial District,3,Yes
+203,Drug Offenses,Delhi City,28.711307,77.076465,01-07-2024,04:08:53,Market Area,4,Yes
+204,Counterfeiting,Delhi City,28.711472,77.081615,27-09-2024,14:01:36,Residential Zone,4,No
+205,Gambling,Delhi City,28.699564,77.123214,29-12-2024,01:57:06,Downtown,1,Yes
+206,Gambling,Delhi City,28.678398,77.114023,12-01-2024,17:10:38,Suburb,1,No
+207,POCSO Cases,Delhi City,28.705353,77.098822,01-07-2023,21:45:36,Industrial Area,5,Yes
+208,Cyber Crime,Delhi City,28.686327,77.110602,27-03-2024,13:28:01,Residential Zone,3,Yes
+209,Counterfeiting,Delhi City,28.709691,77.117509,08-06-2024,12:05:15,Downtown,2,No
+210,Arson,Delhi City,28.684111,77.120303,31-12-2024,06:32:50,Downtown,3,No
+211,Counterfeiting,Delhi City,28.709948,77.08162,17-07-2024,15:10:20,Market Area,4,No
+212,Drug Offenses,Delhi City,28.707373,77.11931,14-05-2024,08:37:38,Commercial District,4,Yes
+213,Theft,Delhi City,28.687804,77.084686,29-01-2024,11:08:20,Industrial Area,2,No
+214,Criminal Breach of Trust,Delhi City,28.70112,77.129368,06-10-2023,21:38:55,Downtown,1,No
+215,Cyber Crime,Delhi City,28.7108,77.126968,27-04-2023,22:19:53,Commercial District,2,No
+216,Sexual Harassment,Delhi City,28.724649,77.087919,21-03-2023,13:33:31,Commercial District,5,No
+217,Riots,Delhi City,28.677226,77.089402,06-05-2024,15:55:21,Residential Zone,4,Yes
+218,Sexual Harassment,Delhi City,28.68187,77.082464,04-01-2023,06:33:32,Suburb,3,No
+219,Burglary,Delhi City,28.704657,77.096802,05-02-2023,17:12:45,Market Area,3,Yes
+220,Hurt,Delhi City,28.699383,77.101861,31-01-2024,01:09:33,Suburb,3,No
+221,Hurt,Delhi City,28.69533,77.120498,02-09-2024,02:52:55,Downtown,2,No
+222,Theft,Delhi City,28.713119,77.099026,05-07-2023,16:44:12,Suburb,1,No
+223,Sexual Harassment,Delhi City,28.693856,77.079282,09-10-2023,11:37:53,Market Area,3,Yes
+224,Gambling,Delhi City,28.684156,77.095238,23-11-2023,23:08:59,Residential Zone,1,Yes
+225,Arson,Delhi City,28.720973,77.105349,15-10-2024,14:23:01,Downtown,3,No
+226,Counterfeiting,Delhi City,28.677935,77.114074,07-09-2024,14:46:28,Commercial District,3,No
+227,Cheating,Delhi City,28.708031,77.090637,18-05-2024,00:31:44,Suburb,3,No
+228,Riots,Delhi City,28.719165,77.130492,07-06-2023,20:03:27,Residential Zone,4,Yes
+229,Cyber Crime,Delhi City,28.68823,77.090661,17-12-2024,02:05:52,Suburb,3,No
+230,Theft,Delhi City,28.728461,77.074907,22-07-2024,18:24:01,Suburb,2,No
+231,Sexual Harassment,Delhi City,28.711313,77.122537,09-10-2023,10:03:24,Residential Zone,4,No
+232,Sexual Harassment,Delhi City,28.733932,77.0981,02-02-2024,23:56:40,Market Area,3,No
+233,Cyber Crime,Delhi City,28.719655,77.077694,09-09-2024,17:59:59,Residential Zone,3,No
+234,Auto Theft,Delhi City,28.698873,77.093914,10-09-2023,12:44:49,Industrial Area,4,No
+235,Counterfeiting,Delhi City,28.705925,77.102774,05-11-2023,07:23:36,Commercial District,3,No
+236,Cyber Crime,Delhi City,28.679643,77.107682,01-06-2024,15:07:26,Downtown,3,No
+237,Drug Offenses,Delhi City,28.695847,77.100251,03-01-2023,11:47:30,Commercial District,4,Yes
+238,Cheating,Delhi City,28.716317,77.092983,06-04-2023,03:28:15,Market Area,2,No
+239,Counterfeiting,Delhi City,28.732009,77.125417,06-01-2024,05:19:40,Suburb,4,No
+240,Sexual Harassment,Delhi City,28.706307,77.098455,18-03-2023,13:59:03,Commercial District,5,No
+241,Arson,Delhi City,28.733754,77.07621,09-09-2024,01:34:00,Residential Zone,4,No
+242,Drug Offenses,Delhi City,28.726179,77.121379,14-08-2024,11:42:15,Downtown,4,Yes
+243,Theft,Delhi City,28.700259,77.087304,23-03-2023,15:06:54,Market Area,2,No
+244,POCSO Cases,Delhi City,28.691845,77.123527,25-04-2024,15:43:47,Industrial Area,4,Yes
+245,Hurt,Delhi City,28.717367,77.097217,24-02-2023,21:41:50,Market Area,2,No
+246,POCSO Cases,Delhi City,28.680843,77.076365,24-06-2024,22:46:15,Industrial Area,5,Yes
+247,Burglary,Delhi City,28.7155,77.088529,23-07-2023,09:31:53,Industrial Area,3,No
+248,Gambling,Delhi City,28.684124,77.107462,22-04-2023,20:02:48,Market Area,2,Yes
+249,Sexual Harassment,Delhi City,28.710643,77.107432,25-02-2023,13:04:31,Market Area,4,No
+250,Criminal Breach of Trust,Delhi City,28.726221,77.088377,11-05-2024,06:55:43,Industrial Area,3,No
+251,Sexual Harassment,Delhi City,28.685129,77.11383,16-06-2023,19:17:46,Commercial District,3,No
+252,Counterfeiting,Delhi City,28.694164,77.127642,17-10-2023,08:16:21,Commercial District,3,No
+253,Hurt,Delhi City,28.693406,77.125419,10-12-2024,16:05:34,Residential Zone,1,No
+254,POCSO Cases,Delhi City,28.680607,77.080118,02-12-2024,18:31:50,Suburb,5,Yes
+255,Riots,Delhi City,28.708881,77.130164,16-02-2023,14:46:47,Residential Zone,5,No
+256,Criminal Breach of Trust,Delhi City,28.679611,77.081611,11-02-2023,11:18:29,Market Area,2,No
+257,Cheating,Delhi City,28.67571,77.107176,24-10-2023,09:04:43,Residential Zone,2,No
+258,Riots,Delhi City,28.709369,77.086486,02-03-2023,03:01:22,Commercial District,4,Yes
+259,Criminal Breach of Trust,Delhi City,28.729221,77.107681,29-06-2024,22:37:43,Industrial Area,1,No
+260,Riots,Delhi City,28.732242,77.113796,07-11-2023,16:36:39,Downtown,4,No
+261,Riots,Delhi City,28.681268,77.123664,26-08-2024,06:28:49,Market Area,4,Yes
+262,Hurt,Delhi City,28.708382,77.1247,19-07-2023,20:49:21,Industrial Area,1,No
+263,Criminal Breach of Trust,Delhi City,28.71006,77.072918,30-04-2023,23:19:48,Residential Zone,3,No
+264,Riots,Delhi City,28.721327,77.087509,26-06-2024,19:07:32,Commercial District,5,Yes
+265,Cheating,Delhi City,28.72897,77.097114,07-02-2024,07:22:18,Market Area,2,No
+266,Cheating,Delhi City,28.729892,77.094656,28-09-2023,15:23:33,Suburb,1,No
+267,Criminal Breach of Trust,Delhi City,28.680504,77.122416,09-03-2024,12:41:19,Market Area,1,No
+268,Riots,Delhi City,28.69896,77.108719,17-02-2023,06:36:03,Commercial District,3,No
+269,Drug Offenses,Delhi City,28.697769,77.081682,21-02-2023,06:14:09,Commercial District,4,Yes
+270,POCSO Cases,Delhi City,28.714143,77.131769,09-03-2023,19:40:42,Market Area,4,Yes
+271,Counterfeiting,Delhi City,28.698114,77.076429,09-08-2024,10:12:53,Residential Zone,3,No
+272,Sexual Harassment,Delhi City,28.702519,77.109027,20-10-2024,04:26:24,Industrial Area,5,Yes
+273,Burglary,Delhi City,28.675497,77.097337,06-06-2023,08:05:44,Industrial Area,3,No
+274,Hurt,Delhi City,28.704302,77.126585,24-05-2023,13:46:27,Residential Zone,1,No
+275,Counterfeiting,Delhi City,28.700791,77.088064,12-02-2024,09:50:30,Suburb,3,No
+276,Theft,Delhi City,28.726075,77.129352,22-03-2024,16:26:28,Market Area,1,No
+277,Counterfeiting,Delhi City,28.677547,77.098844,05-04-2023,11:05:32,Residential Zone,2,No
+278,Riots,Delhi City,28.70042,77.101562,31-03-2024,21:39:55,Downtown,4,Yes
+279,Riots,Delhi City,28.678093,77.116775,07-09-2023,09:37:53,Commercial District,3,No
+280,Criminal Breach of Trust,Delhi City,28.703009,77.120508,03-04-2024,09:53:55,Market Area,3,Yes
+281,Hurt,Delhi City,28.707287,77.084283,27-11-2023,16:45:08,Industrial Area,2,No
+282,Cyber Crime,Delhi City,28.723577,77.105023,12-10-2024,14:22:26,Residential Zone,2,No
+283,Theft,Delhi City,28.717857,77.08824,22-01-2024,20:13:47,Residential Zone,3,No
+284,Arson,Delhi City,28.698822,77.077633,04-07-2024,00:21:27,Market Area,4,No
+285,Cheating,Delhi City,28.689456,77.129812,05-01-2023,01:43:14,Industrial Area,2,Yes
+286,Cheating,Delhi City,28.721514,77.093234,05-03-2024,07:21:14,Market Area,2,No
+287,Hurt,Delhi City,28.686619,77.089795,14-04-2023,15:00:58,Commercial District,2,No
+288,Riots,Delhi City,28.704995,77.121161,03-03-2024,08:40:35,Market Area,4,No
+289,Counterfeiting,Delhi City,28.709981,77.121277,21-04-2023,22:14:20,Commercial District,4,No
+290,Drug Offenses,Delhi City,28.679135,77.115302,23-01-2023,11:16:11,Commercial District,4,Yes
+291,POCSO Cases,Delhi City,28.681963,77.118814,09-08-2024,14:40:10,Suburb,4,Yes
+292,POCSO Cases,Delhi City,28.675204,77.105854,04-05-2024,22:20:54,Suburb,5,Yes
+293,Counterfeiting,Delhi City,28.696902,77.132419,03-01-2023,16:15:21,Downtown,3,Yes
+294,Arson,Delhi City,28.705598,77.08821,23-07-2024,16:55:49,Market Area,3,Yes
+295,Cheating,Delhi City,28.702749,77.113178,26-08-2023,09:29:27,Residential Zone,2,No
+296,Riots,Delhi City,28.718495,77.126902,02-04-2023,10:28:50,Suburb,4,Yes
+297,Cyber Crime,Delhi City,28.694778,77.107421,03-09-2023,23:50:06,Market Area,3,Yes
+298,Burglary,Delhi City,28.674655,77.076292,28-02-2023,07:49:22,Commercial District,3,No
+299,Hurt,Delhi City,28.69444,77.0912,04-06-2024,06:05:18,Suburb,2,Yes
+300,Hurt,Delhi City,28.677659,77.105275,07-02-2023,17:48:50,Downtown,1,Yes
+301,Sexual Harassment,Delhi City,28.717462,77.096874,04-01-2024,22:21:32,Commercial District,3,Yes
+302,Cyber Crime,Delhi City,28.708629,77.106376,01-10-2023,19:34:50,Downtown,3,No
+303,Riots,Delhi City,28.700303,77.123253,03-03-2023,21:31:50,Suburb,4,Yes
+304,Counterfeiting,Delhi City,28.705788,77.11893,11-08-2024,11:07:38,Residential Zone,3,No
+305,Gambling,Delhi City,28.728037,77.081751,19-05-2023,18:06:54,Commercial District,1,No
+306,Hurt,Delhi City,28.729104,77.11422,07-02-2023,22:55:36,Suburb,2,Yes
+307,Sexual Harassment,Delhi City,28.68968,77.113868,18-07-2024,03:27:57,Downtown,5,Yes
+308,Auto Theft,Delhi City,28.724225,77.07807,24-09-2023,01:29:50,Market Area,2,No
+309,Sexual Harassment,Delhi City,28.705068,77.123292,24-02-2024,12:57:36,Market Area,4,No
+310,Sexual Harassment,Delhi City,28.694392,77.119501,17-10-2023,00:16:15,Suburb,3,Yes
+311,Cyber Crime,Delhi City,28.6851,77.127878,27-06-2023,22:29:31,Residential Zone,3,No
+312,Arson,Delhi City,28.706673,77.09559,02-01-2024,04:54:39,Downtown,4,No
+313,Sexual Harassment,Delhi City,28.699967,77.112084,20-02-2023,10:49:23,Commercial District,5,No
+314,Riots,Delhi City,28.701874,77.078677,03-03-2024,18:53:31,Downtown,3,No
+315,Hurt,Delhi City,28.71217,77.099096,05-10-2023,15:00:49,Suburb,1,Yes
+316,Cheating,Delhi City,28.680524,77.102343,21-10-2024,19:55:57,Residential Zone,1,No
+317,Cyber Crime,Delhi City,28.691806,77.102763,09-11-2024,17:13:37,Downtown,3,No
+318,Theft,Delhi City,28.699216,77.132035,28-09-2024,01:00:44,Downtown,2,No
+319,POCSO Cases,Delhi City,28.733256,77.094101,22-07-2024,15:16:58,Residential Zone,4,Yes
+320,Auto Theft,Delhi City,28.689851,77.094606,11-03-2024,06:05:11,Market Area,3,No
+321,Theft,Delhi City,28.701295,77.116935,03-01-2024,12:50:45,Market Area,2,No
+322,Drug Offenses,Delhi City,28.683714,77.120122,22-09-2024,02:47:01,Residential Zone,4,Yes
+323,Arson,Delhi City,28.68524,77.107592,16-04-2023,04:18:02,Industrial Area,4,No
+324,Criminal Breach of Trust,Delhi City,28.683289,77.111233,05-02-2024,15:25:46,Downtown,2,No
+325,Gambling,Delhi City,28.716731,77.080404,10-06-2024,16:59:17,Commercial District,1,No
+326,Auto Theft,Delhi City,28.71681,77.118721,10-08-2023,07:42:06,Downtown,3,No
+327,POCSO Cases,Delhi City,28.687147,77.10505,28-01-2023,04:20:29,Industrial Area,5,Yes
+328,Gambling,Delhi City,28.674294,77.093404,05-04-2023,07:04:43,Downtown,1,No
+329,Counterfeiting,Delhi City,28.698089,77.125114,01-04-2024,20:08:24,Industrial Area,4,No
+330,POCSO Cases,Delhi City,28.725995,77.102961,02-09-2023,21:46:09,Commercial District,5,Yes
+331,Arson,Delhi City,28.683494,77.11654,08-10-2023,10:48:47,Industrial Area,4,Yes
+332,Cyber Crime,Delhi City,28.679207,77.100226,02-11-2024,07:35:47,Suburb,2,No
+333,Gambling,Delhi City,28.685346,77.087051,10-05-2023,08:40:38,Downtown,1,No
+334,Sexual Harassment,Delhi City,28.731048,77.098135,27-04-2023,13:49:06,Downtown,3,No
+335,Drug Offenses,Delhi City,28.695378,77.095896,21-12-2023,07:21:18,Downtown,4,Yes
+336,Sexual Harassment,Delhi City,28.720774,77.082291,02-11-2024,01:48:44,Suburb,4,No
+337,Riots,Delhi City,28.676608,77.082967,15-12-2024,18:50:11,Industrial Area,4,Yes
+338,Criminal Breach of Trust,Delhi City,28.68555,77.105256,30-11-2024,17:56:03,Downtown,2,No
+339,Burglary,Delhi City,28.679906,77.08129,02-02-2024,05:43:27,Market Area,3,No
+340,Burglary,Delhi City,28.698187,77.083725,04-01-2023,08:12:00,Residential Zone,4,Yes
+341,Counterfeiting,Delhi City,28.67656,77.074174,17-04-2023,17:19:36,Downtown,3,No
+342,Cyber Crime,Delhi City,28.731358,77.100165,08-01-2023,18:00:31,Suburb,2,No
+343,Criminal Breach of Trust,Delhi City,28.675385,77.091612,30-10-2024,10:40:52,Suburb,2,Yes
+344,Criminal Breach of Trust,Delhi City,28.720796,77.0863,07-02-2024,14:54:07,Industrial Area,1,No
+345,Theft,Delhi City,28.678514,77.08189,06-02-2024,20:58:59,Residential Zone,2,No
+346,Cyber Crime,Delhi City,28.677389,77.080611,02-03-2024,10:31:07,Commercial District,2,No
+347,Theft,Delhi City,28.68516,77.09738,11-10-2024,20:49:32,Suburb,3,No
+348,POCSO Cases,Delhi City,28.729223,77.072787,15-05-2024,22:09:17,Downtown,5,Yes
+349,Sexual Harassment,Delhi City,28.707239,77.12917,24-09-2023,09:48:53,Downtown,4,Yes
+350,Cheating,Delhi City,28.707583,77.091552,14-01-2023,04:23:37,Market Area,1,No
+351,Gambling,Delhi City,28.713342,77.081213,03-05-2024,03:48:08,Suburb,1,No
+352,Drug Offenses,Delhi City,28.733164,77.115361,05-02-2023,05:28:20,Suburb,4,Yes
+353,Auto Theft,Delhi City,28.703069,77.082215,15-11-2023,15:12:15,Downtown,3,Yes
+354,Theft,Delhi City,28.695263,77.098441,01-02-2023,05:11:07,Residential Zone,1,No
+355,Auto Theft,Delhi City,28.710325,77.107543,17-03-2023,01:23:12,Downtown,4,No
+356,Sexual Harassment,Delhi City,28.725765,77.084928,15-10-2023,02:39:18,Industrial Area,4,Yes
+357,POCSO Cases,Delhi City,28.679748,77.084884,17-04-2023,19:08:49,Residential Zone,5,Yes
+358,Cheating,Delhi City,28.722202,77.104709,10-05-2024,06:50:55,Market Area,2,Yes
+359,Burglary,Delhi City,28.699612,77.12628,18-10-2023,17:11:32,Commercial District,3,Yes
+360,Arson,Delhi City,28.685337,77.079445,28-06-2023,02:29:50,Industrial Area,3,Yes
+361,POCSO Cases,Delhi City,28.71213,77.073715,27-04-2024,21:03:53,Market Area,5,Yes
+362,Cheating,Delhi City,28.705676,77.0983,17-01-2024,19:29:12,Commercial District,2,No
+363,Hurt,Delhi City,28.693491,77.099175,27-12-2023,18:33:58,Industrial Area,1,No
+364,Sexual Harassment,Delhi City,28.72134,77.100361,06-02-2023,05:25:57,Market Area,4,No
+365,POCSO Cases,Delhi City,28.73227,77.092718,22-08-2024,02:16:21,Residential Zone,4,Yes
+366,Hurt,Delhi City,28.706778,77.075047,15-11-2024,04:40:52,Commercial District,3,Yes
+367,Hurt,Delhi City,28.732383,77.114928,13-08-2023,14:16:36,Commercial District,3,No
+368,Cheating,Delhi City,28.688154,77.116009,11-01-2024,00:58:11,Industrial Area,2,No
+369,Criminal Breach of Trust,Delhi City,28.680895,77.116442,13-03-2023,03:24:09,Residential Zone,3,Yes
+370,Theft,Delhi City,28.692822,77.101629,10-01-2024,01:13:25,Industrial Area,2,No
+371,Cyber Crime,Delhi City,28.717894,77.079544,13-08-2023,13:11:42,Suburb,3,Yes
+372,Gambling,Delhi City,28.707576,77.087245,22-12-2024,15:53:49,Residential Zone,1,No
+373,Riots,Delhi City,28.70572,77.081638,14-08-2024,16:41:39,Commercial District,5,Yes
+374,Counterfeiting,Delhi City,28.682383,77.119261,10-09-2024,08:02:27,Market Area,3,No
+375,Theft,Delhi City,28.709913,77.112355,08-02-2023,03:32:14,Market Area,3,No
+376,Auto Theft,Delhi City,28.697608,77.129011,29-08-2024,11:51:53,Suburb,4,Yes
+377,Cyber Crime,Delhi City,28.687072,77.090232,08-11-2023,05:00:16,Commercial District,4,No
+378,Burglary,Delhi City,28.712117,77.103131,19-06-2023,21:34:20,Residential Zone,2,No
+379,Sexual Harassment,Delhi City,28.720394,77.11331,22-10-2024,16:10:35,Industrial Area,3,No
+380,Burglary,Delhi City,28.702396,77.121946,29-02-2024,05:43:01,Industrial Area,2,No
+381,Burglary,Delhi City,28.712213,77.126588,08-06-2023,20:09:26,Industrial Area,3,Yes
+382,Drug Offenses,Delhi City,28.701676,77.123689,04-05-2024,21:08:23,Market Area,5,Yes
+383,POCSO Cases,Delhi City,28.691512,77.1152,09-03-2024,18:15:26,Market Area,5,Yes
+384,Sexual Harassment,Delhi City,28.701629,77.081716,25-07-2023,04:07:45,Suburb,4,No
+385,Counterfeiting,Delhi City,28.701639,77.086948,17-06-2023,05:39:22,Industrial Area,3,No
+386,Auto Theft,Delhi City,28.707293,77.076498,27-12-2023,09:59:36,Industrial Area,3,No
+387,Sexual Harassment,Delhi City,28.695642,77.089344,14-06-2024,17:05:03,Suburb,4,Yes
+388,Burglary,Delhi City,28.701367,77.092663,17-12-2024,03:59:24,Industrial Area,3,Yes
+389,Gambling,Delhi City,28.719932,77.119709,13-07-2023,18:32:41,Industrial Area,1,No
+390,Burglary,Delhi City,28.720294,77.097622,12-08-2023,00:43:55,Downtown,4,No
+391,Arson,Delhi City,28.715275,77.105029,27-10-2023,09:41:49,Downtown,4,No
+392,Riots,Delhi City,28.704336,77.091407,02-09-2023,20:04:29,Downtown,4,Yes
+393,Hurt,Delhi City,28.688158,77.129748,16-03-2024,17:29:44,Industrial Area,1,No
+394,Criminal Breach of Trust,Delhi City,28.70945,77.090828,09-10-2023,19:22:02,Industrial Area,2,No
+395,Gambling,Delhi City,28.698725,77.101887,26-11-2023,14:21:31,Downtown,1,No
+396,Hurt,Delhi City,28.686563,77.115147,26-02-2023,08:19:41,Downtown,3,No
+397,Counterfeiting,Delhi City,28.675054,77.11013,22-09-2023,18:31:42,Downtown,4,No
+398,Criminal Breach of Trust,Delhi City,28.67991,77.098707,20-03-2024,08:14:20,Residential Zone,2,Yes
+399,Burglary,Delhi City,28.716071,77.112712,18-06-2024,05:36:34,Industrial Area,3,Yes
+400,Burglary,Delhi City,28.719106,77.124987,01-01-2023,14:10:30,Downtown,3,No
+401,Theft,Delhi City,28.723657,77.076735,20-02-2024,03:42:15,Downtown,3,Yes
+402,Sexual Harassment,Delhi City,28.727204,77.094888,04-10-2024,10:17:54,Market Area,4,Yes
+403,Auto Theft,Delhi City,28.728593,77.083849,11-12-2023,08:57:16,Downtown,2,No
+404,Arson,Delhi City,28.691257,77.072834,12-08-2023,22:18:37,Market Area,5,Yes
+405,Drug Offenses,Delhi City,28.723772,77.114132,20-11-2024,20:15:00,Industrial Area,4,Yes
+406,Auto Theft,Delhi City,28.723671,77.12456,24-10-2024,03:07:54,Downtown,3,No
+407,Auto Theft,Delhi City,28.692682,77.098494,01-07-2023,00:31:00,Industrial Area,4,No
+408,POCSO Cases,Delhi City,28.676247,77.107765,14-06-2023,02:51:14,Residential Zone,4,Yes
+409,Auto Theft,Delhi City,28.701683,77.088769,05-02-2023,04:31:51,Residential Zone,3,Yes
+410,Gambling,Delhi City,28.699579,77.102635,24-06-2024,02:39:45,Commercial District,1,No
+411,Sexual Harassment,Delhi City,28.720646,77.102113,19-02-2023,01:50:51,Market Area,4,Yes
+412,POCSO Cases,Delhi City,28.697994,77.111231,19-12-2024,17:23:13,Commercial District,5,Yes
+413,Auto Theft,Delhi City,28.676944,77.07332,06-06-2024,18:09:19,Commercial District,3,No
+414,Sexual Harassment,Delhi City,28.714668,77.124505,03-05-2024,00:29:51,Residential Zone,3,No
+415,Auto Theft,Delhi City,28.686685,77.106693,15-03-2024,15:01:47,Commercial District,2,No
+416,Counterfeiting,Delhi City,28.697494,77.126725,23-01-2023,08:06:24,Suburb,3,No
+417,Criminal Breach of Trust,Delhi City,28.713368,77.09925,24-03-2024,15:16:27,Downtown,1,No
+418,Sexual Harassment,Delhi City,28.693957,77.126491,29-06-2024,15:15:29,Suburb,4,Yes
+419,Burglary,Delhi City,28.68368,77.117795,21-03-2023,12:08:46,Industrial Area,2,No
+420,Auto Theft,Delhi City,28.687035,77.117254,03-06-2023,06:48:06,Industrial Area,2,No
+421,Sexual Harassment,Delhi City,28.679287,77.10944,17-04-2024,15:16:01,Commercial District,4,No
+422,Criminal Breach of Trust,Delhi City,28.710615,77.099347,22-07-2024,11:02:23,Market Area,3,Yes
+423,Counterfeiting,Delhi City,28.731756,77.124787,21-01-2024,08:10:51,Market Area,4,No
+424,POCSO Cases,Delhi City,28.697201,77.08226,15-10-2023,20:11:23,Commercial District,5,Yes
+425,Gambling,Delhi City,28.676668,77.077835,09-06-2024,09:20:58,Downtown,1,No
+426,Arson,Delhi City,28.703237,77.086354,31-10-2023,12:56:06,Suburb,3,No
+427,Theft,Delhi City,28.697569,77.121811,09-09-2023,19:10:13,Commercial District,3,Yes
+428,Burglary,Delhi City,28.720026,77.09855,08-12-2023,20:21:58,Commercial District,3,Yes
+429,POCSO Cases,Delhi City,28.684353,77.119323,14-05-2023,07:42:18,Commercial District,5,Yes
+430,Sexual Harassment,Delhi City,28.695958,77.087611,31-10-2024,12:32:42,Market Area,4,No
+431,Hurt,Delhi City,28.706359,77.105452,18-07-2023,08:07:05,Residential Zone,3,No
+432,Burglary,Delhi City,28.706765,77.089062,18-06-2023,15:43:41,Residential Zone,3,No
+433,Cheating,Delhi City,28.704927,77.083292,02-09-2023,15:28:32,Industrial Area,2,Yes
+434,Sexual Harassment,Delhi City,28.688386,77.080892,20-11-2024,16:59:20,Commercial District,3,No
+435,Theft,Delhi City,28.687986,77.085351,04-10-2023,04:27:36,Industrial Area,2,No
+436,Criminal Breach of Trust,Delhi City,28.679116,77.121695,15-10-2024,11:21:12,Commercial District,1,No
+437,Drug Offenses,Delhi City,28.733006,77.104643,18-02-2024,04:48:48,Residential Zone,4,Yes
+438,Sexual Harassment,Delhi City,28.68111,77.121959,19-09-2023,22:34:40,Industrial Area,4,No
+439,Theft,Delhi City,28.730859,77.083869,13-10-2024,03:39:31,Suburb,3,No
+440,Theft,Delhi City,28.709833,77.130066,30-03-2023,01:26:11,Suburb,3,Yes
+441,Drug Offenses,Delhi City,28.680166,77.117115,18-09-2024,01:29:21,Residential Zone,4,Yes
+442,Riots,Delhi City,28.72955,77.100455,13-03-2023,20:59:24,Commercial District,4,Yes
+443,Gambling,Delhi City,28.705758,77.080074,11-09-2023,01:02:31,Downtown,1,Yes
+444,Riots,Delhi City,28.679943,77.117896,31-10-2024,11:35:51,Suburb,4,Yes
+445,Cyber Crime,Delhi City,28.676166,77.091742,20-10-2024,04:19:20,Industrial Area,2,No
+446,Sexual Harassment,Delhi City,28.705841,77.127068,22-10-2023,02:07:18,Market Area,3,Yes
+447,Arson,Delhi City,28.701705,77.082746,23-05-2023,05:56:51,Suburb,4,No
+448,Riots,Delhi City,28.729357,77.075089,04-03-2023,19:37:31,Residential Zone,5,Yes
+449,Drug Offenses,Delhi City,28.721304,77.079679,26-08-2024,14:00:57,Suburb,3,Yes
+450,POCSO Cases,Delhi City,28.715874,77.125551,18-06-2024,22:14:29,Residential Zone,4,No
+451,Criminal Breach of Trust,Delhi City,28.709768,77.081706,23-04-2024,01:04:25,Residential Zone,3,Yes
+452,Criminal Breach of Trust,Delhi City,28.706241,77.104656,16-09-2024,18:41:40,Industrial Area,2,No
+453,Criminal Breach of Trust,Delhi City,28.710997,77.107425,27-01-2023,12:28:26,Suburb,3,No
+454,Counterfeiting,Delhi City,28.705101,77.115959,06-12-2024,16:37:03,Suburb,3,No
+455,POCSO Cases,Delhi City,28.718902,77.07618,17-02-2023,07:00:40,Industrial Area,5,No
+456,Hurt,Delhi City,28.684429,77.103322,17-04-2024,11:41:28,Residential Zone,2,No
+457,POCSO Cases,Delhi City,28.692701,77.118729,24-09-2024,01:43:35,Commercial District,5,Yes
+458,Gambling,Delhi City,28.727228,77.113279,18-06-2023,04:00:44,Residential Zone,1,No
+459,Hurt,Delhi City,28.717361,77.073522,03-12-2023,23:10:15,Residential Zone,3,No
+460,Arson,Delhi City,28.680082,77.104958,01-02-2024,21:28:48,Market Area,3,Yes
+461,Cheating,Delhi City,28.708621,77.086413,15-10-2024,17:31:33,Commercial District,2,No
+462,Drug Offenses,Delhi City,28.713123,77.106424,22-02-2023,14:44:06,Suburb,5,No
+463,Counterfeiting,Delhi City,28.716676,77.10201,17-06-2023,08:33:37,Market Area,3,No
+464,Riots,Delhi City,28.716547,77.083954,04-01-2023,06:59:02,Downtown,3,Yes
+465,Burglary,Delhi City,28.72399,77.120123,21-11-2024,13:36:07,Market Area,3,No
+466,Burglary,Delhi City,28.706704,77.087783,11-11-2023,08:53:26,Commercial District,4,Yes
+467,Theft,Delhi City,28.707568,77.098226,24-10-2023,04:55:34,Suburb,1,No
+468,Riots,Delhi City,28.709011,77.112723,19-04-2023,23:15:05,Commercial District,5,Yes
+469,Hurt,Delhi City,28.686467,77.073524,04-06-2023,08:59:58,Suburb,2,No
+470,Riots,Delhi City,28.72537,77.093965,29-10-2024,16:18:55,Suburb,5,Yes
+471,Drug Offenses,Delhi City,28.689009,77.089556,02-07-2023,15:58:11,Downtown,4,Yes
+472,Gambling,Delhi City,28.730421,77.077873,20-03-2024,16:30:41,Commercial District,1,No
+473,Burglary,Delhi City,28.708662,77.120839,15-08-2024,20:51:01,Downtown,4,No
+474,Riots,Delhi City,28.724553,77.122262,01-07-2023,13:46:47,Suburb,4,No
+475,POCSO Cases,Delhi City,28.677638,77.082819,04-08-2023,18:09:05,Industrial Area,5,Yes
+476,Robbery,Delhi City,28.682879,77.099962,26-08-2024,22:41:10,Industrial Area,3,No
+477,Arson,Delhi City,28.701643,77.130004,14-03-2023,07:54:54,Market Area,4,Yes
+478,Counterfeiting,Delhi City,28.680924,77.075457,26-07-2023,02:54:42,Suburb,2,No
+479,Burglary,Delhi City,28.691038,77.118129,12-04-2023,08:17:15,Market Area,3,Yes
+480,Criminal Breach of Trust,Delhi City,28.733087,77.109496,15-01-2023,17:31:50,Industrial Area,2,Yes
+481,Cheating,Delhi City,28.721332,77.085922,24-05-2024,23:07:30,Commercial District,3,No
+482,Counterfeiting,Delhi City,28.718415,77.126306,29-11-2023,15:08:31,Commercial District,3,No
+483,Arson,Delhi City,28.714482,77.085071,03-09-2024,15:48:13,Commercial District,3,Yes
+484,Burglary,Delhi City,28.678731,77.093227,05-07-2023,22:19:00,Suburb,3,No
+485,Cheating,Delhi City,28.717446,77.102045,05-11-2024,00:03:06,Suburb,2,No
+486,Drug Offenses,Delhi City,28.725274,77.088427,07-08-2024,13:46:26,Industrial Area,4,Yes
+487,Hurt,Delhi City,28.69402,77.07783,05-11-2023,14:14:50,Industrial Area,2,No
+488,Riots,Delhi City,28.726114,77.075278,23-04-2024,13:06:10,Downtown,5,Yes
+489,Counterfeiting,Delhi City,28.690118,77.079978,11-10-2024,21:57:40,Residential Zone,3,No
+490,Arson,Delhi City,28.718323,77.096857,29-01-2023,11:28:26,Market Area,4,No
+491,Sexual Harassment,Delhi City,28.717456,77.111393,18-12-2023,05:17:50,Suburb,5,No
+492,Hurt,Delhi City,28.677472,77.079424,23-01-2024,22:32:41,Commercial District,1,No
+493,Drug Offenses,Delhi City,28.694715,77.083832,07-10-2024,13:55:07,Downtown,4,Yes
+494,Burglary,Delhi City,28.685292,77.081328,29-09-2024,00:08:55,Suburb,3,No
+495,Criminal Breach of Trust,Delhi City,28.698717,77.105474,17-03-2024,14:12:46,Suburb,2,No
+496,Auto Theft,Delhi City,28.700841,77.114645,18-07-2024,05:35:26,Industrial Area,3,Yes
+497,Sexual Harassment,Delhi City,28.700988,77.085775,08-04-2024,18:43:41,Downtown,5,Yes
+498,Sexual Harassment,Delhi City,28.714949,77.091985,27-05-2024,22:43:43,Downtown,4,No
+499,Sexual Harassment,Delhi City,28.720198,77.080888,07-09-2023,02:50:17,Commercial District,4,Yes
+500,Drug Offenses,Delhi City,28.703878,77.119975,27-10-2023,01:57:11,Market Area,4,No
+501,Sexual Harassment,Delhi City,28.732076,77.107555,09-09-2023,10:15:50,Residential Zone,4,No
+502,Hurt,Delhi City,28.711765,77.101808,11-02-2024,05:49:52,Market Area,2,Yes
+503,Criminal Breach of Trust,Delhi City,28.723485,77.130295,05-07-2023,02:22:00,Suburb,2,No
+504,Drug Offenses,Delhi City,28.68574,77.079644,29-05-2024,17:42:42,Market Area,4,Yes
+505,Drug Offenses,Delhi City,28.700299,77.127687,04-11-2024,02:15:06,Industrial Area,4,No
+506,Auto Theft,Delhi City,28.691617,77.077785,08-02-2023,00:28:54,Residential Zone,4,No
+507,Hurt,Delhi City,28.733129,77.107178,24-10-2024,19:38:38,Residential Zone,2,No
+508,Riots,Delhi City,28.684724,77.12614,18-09-2024,02:24:16,Downtown,5,Yes
+509,Riots,Delhi City,28.69065,77.131646,18-02-2024,06:54:08,Suburb,4,Yes
+510,Hurt,Dhanbad,23.775081,86.435137,17-07-2023,19:09:38,Peripheral Zone,2,No
+511,Cyber Crime,Dhanbad,23.797092,86.453704,19-09-2024,11:17:59,Municipal Area,3,No
+512,Cyber Crime,Durg-Bhilainagar,21.204804,81.348251,28-05-2023,10:58:28,Peripheral Zone,3,No
+513,Cheating,Durg-Bhilainagar,21.215909,81.368087,13-08-2024,06:41:59,Town Center,1,No
+514,Auto Theft,Durg-Bhilainagar,21.200678,81.354348,09-05-2023,01:52:29,Town Center,3,No
+515,Riots,Durg-Bhilainagar,21.211586,81.329042,08-11-2024,03:09:40,Town Center,3,Yes
+516,POCSO Cases,Durg-Bhilainagar,21.18037,81.345151,30-07-2024,09:44:06,Town Center,5,Yes
+517,Theft,Faridabad,28.384598,77.296727,06-01-2023,19:26:46,Peripheral Zone,2,Yes
+518,Burglary,Faridabad,28.405082,77.318373,28-01-2024,04:38:10,Town Center,3,No
+519,Cheating,Faridabad,28.42042,77.293833,02-09-2023,12:11:38,Peripheral Zone,2,Yes
+520,Cyber Crime,Faridabad,28.400961,77.297493,20-03-2024,14:40:47,Town Center,3,No
+521,Drug Offenses,Faridabad,28.419108,77.325535,01-02-2024,03:26:51,Town Center,5,Yes
+522,Hurt,Faridabad,28.392467,77.319509,14-07-2024,06:34:42,Town Center,2,No
+523,Drug Offenses,Faridabad,28.39024,77.300587,13-01-2023,12:26:28,Municipal Area,3,No
+524,Theft,Faridabad,28.432677,77.341292,04-09-2024,01:24:58,Municipal Area,2,No
+525,Theft,Faridabad,28.423755,77.337385,30-03-2023,01:36:26,Municipal Area,2,No
+526,Counterfeiting,Faridabad,28.428988,77.308933,05-02-2023,22:59:24,Town Center,3,No
+527,Counterfeiting,Faridabad,28.400754,77.302197,26-09-2024,14:33:29,Peripheral Zone,3,No
+528,Drug Offenses,Ghaziabad,28.650755,77.459999,25-01-2023,16:53:43,Peripheral Zone,3,Yes
+529,Riots,Ghaziabad,28.655568,77.423816,09-05-2023,11:08:47,Municipal Area,3,No
+530,Hurt,Ghaziabad,28.648606,77.448536,02-10-2023,19:01:51,Town Center,2,Yes
+531,Auto Theft,Ghaziabad,28.642331,77.438602,12-08-2024,01:00:06,Municipal Area,3,Yes
+532,Sexual Harassment,Ghaziabad,28.645888,77.468216,02-09-2024,19:10:31,Town Center,5,No
+533,Hurt,Ghaziabad,28.675564,77.434467,15-05-2023,19:48:43,Town Center,1,No
+534,Riots,Ghaziabad,28.650043,77.429432,08-01-2024,11:08:52,Peripheral Zone,4,Yes
+535,Counterfeiting,Ghaziabad,28.649677,77.43075,14-10-2024,15:46:06,Town Center,4,No
+536,Drug Offenses,Ghaziabad,28.673809,77.443911,08-12-2024,13:24:48,Peripheral Zone,4,Yes
+537,Theft,Ghaziabad,28.686965,77.429883,01-01-2024,04:00:38,Municipal Area,2,No
+538,Arson,Gwalior,26.214727,78.186976,16-08-2024,03:31:21,Peripheral Zone,4,Yes
+539,Criminal Breach of Trust,Gwalior,26.214769,78.16826,19-12-2023,09:19:10,Municipal Area,2,Yes
+540,Auto Theft,Gwalior,26.204012,78.195193,29-01-2024,09:24:51,Municipal Area,2,No
+541,Auto Theft,Gwalior,26.204035,78.176178,17-12-2024,20:59:37,Town Center,4,Yes
+542,Criminal Breach of Trust,Gwalior,26.226281,78.153856,04-01-2024,22:07:26,Municipal Area,2,Yes
+543,POCSO Cases,Gwalior,26.239828,78.16572,11-04-2024,21:36:28,Town Center,5,Yes
+544,Cyber Crime,Gwalior,26.206307,78.210242,18-01-2023,20:09:36,Municipal Area,4,No
+545,POCSO Cases,Gwalior,26.214377,78.191695,29-01-2023,20:00:34,Municipal Area,4,Yes
+546,Theft,Gwalior,26.213363,78.203746,28-11-2023,06:07:44,Peripheral Zone,1,No
+547,Cheating,Gwalior,26.196749,78.185935,11-04-2024,05:41:54,Peripheral Zone,2,No
+548,Arson,Hyderabad,17.412617,78.470829,27-08-2023,05:28:21,Town Center,4,Yes
+549,Gambling,Hyderabad,17.372649,78.51498,06-04-2024,04:06:50,Peripheral Zone,2,No
+550,Cheating,Hyderabad,17.383741,78.509726,31-03-2024,17:09:51,Municipal Area,2,Yes
+551,Gambling,Hyderabad,17.369207,78.508596,12-05-2023,02:14:26,Municipal Area,2,No
+552,Theft,Hyderabad,17.373992,78.515655,16-10-2023,12:00:31,Municipal Area,2,No
+553,Arson,Hyderabad,17.363388,78.457892,14-06-2024,15:58:38,Peripheral Zone,4,No
+554,Theft,Hyderabad,17.360259,78.478284,03-07-2023,05:23:22,Municipal Area,2,No
+555,Cheating,Hyderabad,17.404319,78.468089,30-09-2023,07:18:22,Town Center,1,No
+556,Riots,Hyderabad,17.402063,78.491902,30-08-2024,12:34:52,Peripheral Zone,3,No
+557,Criminal Breach of Trust,Hyderabad,17.395489,78.488021,03-04-2024,23:42:17,Municipal Area,1,No
+558,Counterfeiting,Hyderabad,17.365105,78.494509,07-03-2023,21:28:11,Municipal Area,4,Yes
+559,Drug Offenses,Hyderabad,17.408831,78.497099,05-08-2023,21:16:39,Town Center,4,Yes
+560,Cheating,Hyderabad,17.402132,78.505783,01-11-2023,09:40:27,Municipal Area,2,No
+561,Counterfeiting,Hyderabad,17.388159,78.496231,18-04-2024,15:21:48,Town Center,2,No
+562,Hurt,Hyderabad,17.383748,78.481326,18-06-2023,01:06:56,Peripheral Zone,2,No
+563,Cheating,Hyderabad,17.374018,78.47518,01-03-2024,00:25:05,Peripheral Zone,1,No
+564,POCSO Cases,Hyderabad,17.389074,78.508571,17-04-2024,18:01:53,Municipal Area,5,Yes
+565,Attempt to Murder,Hyderabad,17.389797,78.47881,11-07-2024,19:11:55,Town Center,3,No
+566,Gambling,Hyderabad,17.394456,78.502316,20-01-2024,12:10:21,Town Center,2,No
+567,Sexual Harassment,Hyderabad,17.391202,78.476496,24-08-2023,17:10:30,Town Center,5,Yes
+568,Cheating,Hyderabad,17.386694,78.473213,10-08-2023,02:56:40,Municipal Area,2,No
+569,Riots,Hyderabad,17.397989,78.493773,17-11-2024,12:30:58,Town Center,5,Yes
+570,Cyber Crime,Hyderabad,17.365113,78.481511,14-01-2024,16:48:51,Town Center,3,Yes
+571,Arson,Hyderabad,17.377249,78.503422,16-06-2024,13:14:51,Town Center,4,No
+572,Auto Theft,Indore,22.714741,75.863016,21-04-2024,01:23:48,Peripheral Zone,2,No
+573,Auto Theft,Indore,22.74186,75.884534,04-12-2024,20:02:49,Peripheral Zone,3,No
+574,Arson,Indore,22.724559,75.874005,20-06-2024,17:23:58,Municipal Area,4,No
+575,Drug Offenses,Indore,22.742155,75.881179,16-08-2023,22:46:36,Town Center,3,Yes
+576,Criminal Breach of Trust,Indore,22.720727,75.83793,20-06-2023,21:53:19,Peripheral Zone,2,No
+577,Sexual Harassment,Indore,22.727643,75.86439,13-08-2023,08:06:08,Town Center,3,Yes
+578,Counterfeiting,Indore,22.701927,75.865328,29-12-2023,22:34:40,Peripheral Zone,3,No
+579,Burglary,Indore,22.706713,75.843077,01-07-2023,16:50:25,Town Center,3,Yes
+580,Drug Offenses,Indore,22.708118,75.885165,09-01-2024,23:07:29,Peripheral Zone,3,Yes
+581,Gambling,Indore,22.693565,75.851223,31-03-2024,23:20:20,Peripheral Zone,1,No
+582,Burglary,Indore,22.74503,75.853367,20-06-2024,12:22:27,Peripheral Zone,3,No
+583,Hurt,Indore,22.712794,75.844516,05-06-2024,21:36:25,Peripheral Zone,3,No
+584,Riots,Indore,22.693673,75.84048,01-08-2024,08:39:54,Municipal Area,4,Yes
+585,Riots,Indore,22.710055,75.840315,08-12-2024,19:57:07,Town Center,3,Yes
+586,Auto Theft,Indore,22.723221,75.870265,16-12-2023,06:34:45,Municipal Area,3,No
+587,Sexual Harassment,Indore,22.693626,75.886989,28-06-2024,06:20:54,Peripheral Zone,5,No
+588,Sexual Harassment,Indore,22.737014,75.843017,31-10-2024,02:52:43,Peripheral Zone,3,Yes
+589,Cheating,Indore,22.70803,75.83958,10-01-2023,05:11:35,Peripheral Zone,3,No
+590,Sexual Harassment,Indore,22.730402,75.858935,03-05-2024,14:20:38,Municipal Area,4,Yes
+591,Criminal Breach of Trust,Indore,22.719079,75.853507,06-10-2024,23:19:26,Town Center,2,No
+592,Cheating,Jabalpur,23.1918,79.958835,01-07-2024,14:39:59,Municipal Area,1,No
+593,POCSO Cases,Jabalpur,23.154464,79.949337,29-10-2024,14:22:24,Town Center,4,Yes
+594,Arson,Jabalpur,23.149268,79.912775,24-08-2024,01:22:06,Town Center,4,Yes
+595,Burglary,Jabalpur,23.161363,79.90741,14-07-2023,01:16:40,Municipal Area,3,No
+596,Drug Offenses,Jabalpur,23.171396,79.93015,17-12-2023,06:37:54,Municipal Area,4,No
+597,Sexual Harassment,Jabalpur,23.18971,79.923651,20-09-2023,20:37:07,Municipal Area,5,Yes
+598,Auto Theft,Jabalpur,23.166281,79.926658,28-01-2023,23:46:11,Municipal Area,4,Yes
+599,Auto Theft,Jabalpur,23.141052,79.909325,13-10-2023,03:36:02,Peripheral Zone,3,No
+600,Theft,Jabalpur,23.190627,79.923142,02-03-2024,20:30:21,Peripheral Zone,2,No
+601,Hurt,Jaipur,26.925256,75.760112,27-04-2024,13:30:18,Bus Stand Area,2,No
+602,Arson,Jaipur,26.894093,75.758473,29-01-2024,23:31:57,New Township,3,No
+603,Counterfeiting,Jaipur,26.90066,75.779275,09-11-2023,00:25:31,Railway Colony,3,No
+604,Criminal Breach of Trust,Jaipur,26.932111,75.784225,14-04-2023,09:02:32,Old City,3,No
+605,Murder,Jaipur,26.941874,75.779963,31-05-2023,09:01:30,New Township,5,Yes
+606,Drug Offenses,Jaipur,26.937671,75.800634,30-01-2023,08:41:54,Railway Colony,5,Yes
+607,POCSO Cases,Jaipur,26.915502,75.784818,12-07-2024,18:14:43,Bus Stand Area,5,Yes
+608,Kidnapping,Jaipur,26.927595,75.809203,21-06-2024,09:29:42,New Township,4,No
+609,Sexual Harassment,Jaipur,26.926183,75.773007,05-12-2023,11:40:13,New Township,4,No
+610,Auto Theft,Jaipur,26.90663,75.797317,05-06-2024,12:35:23,Railway Colony,2,Yes
+611,Theft,Jaipur,26.909859,75.813683,01-12-2023,09:03:41,Bus Stand Area,2,No
+612,Drug Offenses,Jaipur,26.931455,75.772666,02-01-2023,14:46:59,City Center,5,Yes
+613,Burglary,Jaipur,26.908145,75.772615,31-10-2024,15:39:31,City Center,3,No
+614,Robbery,Jaipur,26.884689,75.783261,08-07-2024,16:27:56,Old City,3,No
+615,Murder,Jaipur,26.929223,75.768816,06-12-2023,02:18:04,Bus Stand Area,4,Yes
+616,Burglary,Jaipur,26.909389,75.78554,08-08-2023,03:12:42,City Center,4,No
+617,Murder,Jaipur,26.91506,75.78858,15-06-2023,01:51:40,New Township,5,Yes
+618,Arson,Jaipur,26.88395,75.780011,17-04-2023,18:31:58,Bus Stand Area,5,Yes
+619,Robbery,Jaipur,26.8985,75.791952,05-03-2024,02:24:05,Railway Colony,4,Yes
+620,Murder,Jaipur,26.910837,75.776444,30-01-2023,12:34:23,New Township,4,Yes
+621,Murder,Jaipur,26.940969,75.785927,19-01-2024,14:24:53,City Center,4,Yes
+622,POCSO Cases,Jaipur,26.911588,75.803227,24-04-2023,10:56:21,Old City,5,Yes
+623,Criminal Breach of Trust,Jaipur,26.903962,75.773737,08-07-2023,22:15:26,Bus Stand Area,2,Yes
+624,POCSO Cases,Jaipur,26.888433,75.801085,23-07-2023,15:44:46,Old City,5,Yes
+625,Murder,Jaipur,26.899898,75.76011,18-04-2023,13:18:48,Railway Colony,5,Yes
+626,Arson,Jaipur,26.910168,75.766614,31-05-2024,03:57:12,Old City,4,No
+627,Attempt to Murder,Jaipur,26.888776,75.769604,17-08-2023,19:40:06,Old City,4,Yes
+628,Kidnapping,Jaipur,26.90967,75.804726,20-03-2024,00:46:56,City Center,4,Yes
+629,Riots,Jaipur,26.902272,75.76319,07-10-2023,18:28:42,Bus Stand Area,4,No
+630,Theft,Jaipur,26.884281,75.758296,04-01-2024,07:44:14,New Township,3,No
+631,Riots,Jaipur,26.94143,75.757981,05-07-2023,07:12:32,Old City,5,Yes
+632,Cyber Crime,Jaipur,26.917614,75.777268,15-09-2023,11:01:11,New Township,3,Yes
+633,Attempt to Murder,Jaipur,26.929941,75.807418,09-01-2023,19:26:10,City Center,3,No
+634,POCSO Cases,Jamshedpur,22.782603,86.199104,07-05-2023,04:13:03,Municipal Area,5,Yes
+635,Gambling,Jamshedpur,22.804802,86.211679,06-05-2024,11:02:41,Peripheral Zone,1,No
+636,Theft,Jodhpur,26.260109,73.031666,09-02-2023,14:14:49,Town Center,2,No
+637,Counterfeiting,Jodhpur,26.267081,72.998352,13-12-2023,20:18:31,Peripheral Zone,3,No
+638,Robbery,Jodhpur,26.256876,73.032946,17-04-2023,21:12:46,Town Center,5,Yes
+639,Burglary,Jodhpur,26.252841,73.045572,05-06-2023,12:41:33,Municipal Area,3,No
+640,Arson,Jodhpur,26.253758,73.011608,17-04-2023,12:56:55,Peripheral Zone,4,No
+641,Riots,Jodhpur,26.253086,73.025181,10-04-2024,01:01:05,Municipal Area,5,Yes
+642,Sexual Harassment,Jodhpur,26.235608,73.019415,04-08-2024,14:07:33,Peripheral Zone,4,No
+643,Gambling,Jodhpur,26.238948,73.010109,24-05-2023,08:06:01,Peripheral Zone,1,No
+644,Theft,Kannur,11.887505,75.377942,04-01-2023,00:14:16,Town Center,1,No
+645,Drug Offenses,Kannur,11.898695,75.399098,25-08-2023,08:50:36,Town Center,4,No
+646,Counterfeiting,Kannur,11.865161,75.363121,28-06-2023,14:48:13,Municipal Area,3,No
+647,Arson,Kannur,11.884279,75.359646,26-09-2024,22:47:25,Town Center,4,Yes
+648,Arson,Kanpur,26.471592,80.303411,07-05-2023,20:55:21,Municipal Area,4,No
+649,Burglary,Kanpur,26.440864,80.348665,07-08-2023,15:47:17,Town Center,2,Yes
+650,Hurt,Kanpur,26.460211,80.305988,02-03-2024,09:09:58,Municipal Area,3,No
+651,Burglary,Kanpur,26.448141,80.335537,13-02-2024,19:34:51,Town Center,3,No
+652,Counterfeiting,Kanpur,26.421404,80.345001,29-03-2024,16:03:50,Town Center,3,No
+653,Cyber Crime,Kanpur,26.434006,80.354468,05-05-2024,15:20:12,Peripheral Zone,3,Yes
+654,Robbery,Kanpur,26.455089,80.344507,29-08-2024,11:17:20,Town Center,3,No
+655,Sexual Harassment,Kanpur,26.478058,80.357406,20-12-2024,23:58:11,Town Center,5,Yes
+656,Criminal Breach of Trust,Kanpur,26.448821,80.340654,30-05-2023,07:29:52,Municipal Area,1,No
+657,Gambling,Kanpur,26.424293,80.320724,14-04-2023,17:42:23,Municipal Area,1,No
+658,POCSO Cases,Kanpur,26.439663,80.342131,01-04-2023,15:20:55,Peripheral Zone,5,Yes
+659,Murder,Kanpur,26.456204,80.346958,06-03-2023,14:46:36,Peripheral Zone,5,Yes
+660,Arson,Kochi,9.955426,76.276457,28-02-2023,06:25:02,Town Center,3,Yes
+661,Counterfeiting,Kochi,9.949485,76.258695,25-07-2024,07:34:48,Municipal Area,2,No
+662,Riots,Kochi,9.910209,76.253265,03-11-2024,03:25:08,Town Center,4,No
+663,Burglary,Kochi,9.948103,76.28253,31-01-2024,04:03:10,Town Center,3,Yes
+664,Burglary,Kochi,9.902023,76.245529,17-09-2023,11:53:17,Peripheral Zone,4,Yes
+665,Criminal Breach of Trust,Kochi,9.934997,76.277573,03-11-2024,04:41:07,Town Center,2,No
+666,Theft,Kochi,9.921877,76.255715,12-11-2023,13:16:43,Peripheral Zone,2,No
+667,Theft,Kochi,9.947995,76.272018,22-05-2023,23:41:32,Municipal Area,2,No
+668,Riots,Kochi,9.909413,76.287653,12-05-2023,02:01:14,Municipal Area,3,Yes
+669,Gambling,Kochi,9.906363,76.27699,13-02-2023,01:08:04,Town Center,1,No
+670,Criminal Breach of Trust,Kochi,9.921132,76.237327,11-01-2023,21:09:19,Town Center,2,Yes
+671,POCSO Cases,Kochi,9.904746,76.276684,10-02-2024,17:42:09,Peripheral Zone,5,Yes
+672,Burglary,Kochi,9.95812,76.271504,11-10-2024,23:50:24,Municipal Area,2,No
+673,Arson,Kochi,9.914064,76.290822,05-09-2023,01:15:22,Town Center,3,Yes
+674,Drug Offenses,Kochi,9.91057,76.255587,06-04-2023,08:12:12,Peripheral Zone,3,Yes
+675,Criminal Breach of Trust,Kochi,9.911415,76.280839,26-02-2024,12:32:53,Municipal Area,2,No
+676,Cheating,Kochi,9.940148,76.263921,18-12-2023,12:24:23,Peripheral Zone,2,Yes
+677,Burglary,Kochi,9.910542,76.295399,20-02-2023,07:51:12,Municipal Area,4,Yes
+678,Riots,Kochi,9.936411,76.255241,23-09-2024,02:41:54,Peripheral Zone,5,Yes
+679,Burglary,Kochi,9.906983,76.26372,22-09-2023,08:29:12,Peripheral Zone,4,No
+680,POCSO Cases,Kochi,9.943166,76.245934,10-05-2024,08:15:06,Town Center,5,No
+681,Counterfeiting,Kochi,9.920081,76.256725,04-06-2023,16:21:07,Town Center,3,No
+682,Criminal Breach of Trust,Kochi,9.921979,76.251894,30-10-2023,04:08:53,Municipal Area,2,No
+683,Counterfeiting,Kochi,9.956522,76.294761,10-12-2024,12:34:44,Town Center,4,No
+684,Counterfeiting,Kochi,9.905527,76.269864,16-11-2024,18:05:52,Municipal Area,3,No
+685,POCSO Cases,Kochi,9.948535,76.258507,05-05-2023,13:43:45,Town Center,4,Yes
+686,Theft,Kochi,9.919987,76.263753,21-01-2024,04:57:12,Town Center,2,No
+687,Arson,Kochi,9.94093,76.284853,27-04-2024,23:41:17,Town Center,4,Yes
+688,Gambling,Kolkata,22.559368,88.389216,25-04-2024,07:02:50,Downtown,1,No
+689,Counterfeiting,Kolkata,22.601743,88.354302,30-04-2023,08:16:22,Commercial District,2,No
+690,Burglary,Kolkata,22.581214,88.349367,08-03-2024,22:28:57,Commercial District,4,Yes
+691,POCSO Cases,Kolkata,22.597898,88.338463,25-09-2023,10:48:55,Downtown,5,Yes
+692,POCSO Cases,Kolkata,22.556528,88.358346,24-09-2024,22:08:17,Downtown,4,Yes
+693,Counterfeiting,Kolkata,22.551115,88.354155,07-09-2024,11:21:32,Suburb,2,Yes
+694,Counterfeiting,Kolkata,22.567357,88.377985,21-01-2024,05:04:33,Residential Zone,2,No
+695,Drug Offenses,Kolkata,22.577476,88.359056,24-06-2023,15:30:09,Suburb,4,Yes
+696,Cheating,Kolkata,22.578548,88.372842,17-06-2023,01:17:20,Residential Zone,1,No
+697,Counterfeiting,Kolkata,22.553531,88.372135,01-02-2024,16:20:23,Commercial District,4,Yes
+698,Riots,Kolkata,22.600907,88.363372,07-04-2024,12:09:49,Suburb,3,No
+699,POCSO Cases,Kolkata,22.591222,88.341317,08-07-2024,05:49:05,Industrial Area,4,Yes
+700,Counterfeiting,Kollam,8.907638,76.616728,26-05-2024,17:18:13,Peripheral Zone,3,No
+701,Gambling,Kollam,8.888704,76.622733,26-01-2024,16:20:08,Town Center,2,No
+702,Hurt,Kollam,8.874075,76.608857,01-06-2024,05:29:56,Peripheral Zone,3,No
+703,POCSO Cases,Kollam,8.910078,76.593438,03-08-2024,09:53:28,Peripheral Zone,5,Yes
+704,Theft,Kollam,8.86991,76.643422,06-12-2023,19:24:30,Town Center,3,Yes
+705,Riots,Kollam,8.916538,76.640571,27-09-2023,11:48:05,Town Center,3,No
+706,Burglary,Kollam,8.896347,76.590707,18-08-2023,03:30:38,Town Center,3,Yes
+707,Cyber Crime,Kollam,8.870601,76.603529,16-05-2023,05:55:59,Town Center,4,Yes
+708,Theft,Kollam,8.886671,76.587899,24-01-2023,13:11:25,Municipal Area,3,Yes
+709,Hurt,Kollam,8.870834,76.587144,11-09-2023,21:37:53,Municipal Area,3,No
+710,Hurt,Kollam,8.911953,76.606438,18-12-2023,21:40:30,Town Center,1,No
+711,Cheating,Kollam,8.867091,76.610816,29-01-2023,12:56:17,Peripheral Zone,3,No
+712,Murder,Kota,25.207053,75.863839,08-04-2023,19:33:07,Peripheral Zone,5,Yes
+713,Sexual Harassment,Kota,25.193632,75.84631,10-10-2023,03:49:35,Municipal Area,4,No
+714,Riots,Kota,25.201495,75.889835,04-04-2023,09:37:29,Town Center,4,Yes
+715,Counterfeiting,Kota,25.206891,75.889988,26-07-2024,14:52:54,Peripheral Zone,3,No
+716,Hurt,Kota,25.226129,75.842206,02-09-2024,02:37:46,Municipal Area,2,No
+717,Attempt to Murder,Kota,25.243292,75.839849,14-03-2023,12:26:18,Town Center,5,Yes
+718,Riots,Kozhikode,11.253256,75.763645,24-08-2023,01:41:58,Peripheral Zone,5,Yes
+719,Sexual Harassment,Kozhikode,11.245261,75.798624,13-10-2024,03:36:39,Town Center,4,No
+720,Cheating,Kozhikode,11.283904,75.808766,05-11-2024,02:30:43,Peripheral Zone,2,No
+721,Hurt,Kozhikode,11.27492,75.789575,29-06-2024,16:39:17,Peripheral Zone,2,Yes
+722,Gambling,Kozhikode,11.234349,75.785411,11-09-2023,06:19:23,Municipal Area,1,No
+723,Drug Offenses,Kozhikode,11.282738,75.795749,24-11-2023,02:56:07,Town Center,5,Yes
+724,Counterfeiting,Kozhikode,11.278264,75.774017,19-07-2023,10:01:30,Peripheral Zone,3,Yes
+725,Auto Theft,Kozhikode,11.238711,75.780778,12-10-2024,20:37:46,Town Center,2,No
+726,Cheating,Kozhikode,11.253819,75.808901,09-05-2023,17:57:58,Peripheral Zone,1,No
+727,Theft,Kozhikode,11.254168,75.772779,08-01-2023,23:15:47,Town Center,2,No
+728,Riots,Kozhikode,11.287149,75.752573,31-07-2023,11:31:05,Peripheral Zone,3,No
+729,Cyber Crime,Kozhikode,11.247903,75.753061,25-09-2023,01:35:13,Peripheral Zone,3,No
+730,Riots,Lucknow,26.862709,80.923665,24-11-2024,12:41:37,New Township,5,Yes
+731,Gambling,Lucknow,26.867998,80.922931,17-04-2023,17:38:05,Railway Colony,2,Yes
+732,Sexual Harassment,Lucknow,26.820474,80.923169,08-09-2024,01:06:04,Old City,4,Yes
+733,Counterfeiting,Lucknow,26.875298,80.957617,19-10-2023,07:51:14,City Center,3,No
+734,Auto Theft,Lucknow,26.858862,80.922501,02-07-2023,07:39:29,City Center,4,No
+735,Auto Theft,Lucknow,26.861132,80.920707,30-12-2024,02:45:18,Old City,3,No
+736,Counterfeiting,Lucknow,26.846613,80.934281,01-02-2023,03:41:06,New Township,3,No
+737,Cheating,Lucknow,26.843656,80.969989,07-04-2023,02:46:52,Old City,2,Yes
+738,Auto Theft,Lucknow,26.821488,80.951668,23-12-2024,23:24:52,New Township,3,Yes
+739,Hurt,Lucknow,26.821244,80.948365,20-01-2023,13:32:39,Bus Stand Area,1,No
+740,Arson,Lucknow,26.822134,80.927781,19-12-2024,13:44:57,Old City,4,Yes
+741,Counterfeiting,Lucknow,26.830073,80.929158,16-06-2024,10:12:53,Bus Stand Area,2,No
+742,Burglary,Lucknow,26.827885,80.963162,27-09-2023,12:33:00,Old City,4,No
+743,Auto Theft,Lucknow,26.841287,80.969338,15-06-2023,22:10:31,Railway Colony,3,No
+744,Sexual Harassment,Lucknow,26.85444,80.96456,30-11-2024,11:42:16,Old City,4,No
+745,Burglary,Lucknow,26.868433,80.929365,23-04-2023,00:55:54,Railway Colony,2,No
+746,Burglary,Lucknow,26.838281,80.930191,07-01-2024,21:35:47,Bus Stand Area,4,Yes
+747,Counterfeiting,Lucknow,26.833702,80.930364,18-10-2024,01:17:26,Railway Colony,3,No
+748,Auto Theft,Ludhiana,30.915352,75.876776,13-10-2024,01:47:41,Peripheral Zone,3,Yes
+749,Hurt,Ludhiana,30.903042,75.86191,15-11-2023,05:53:41,Municipal Area,2,Yes
+750,Gambling,Ludhiana,30.926716,75.846808,31-10-2024,15:56:39,Municipal Area,1,Yes
+751,Counterfeiting,Ludhiana,30.894795,75.884314,10-05-2024,21:33:00,Municipal Area,3,No
+752,Auto Theft,Madurai,9.940503,78.092726,07-04-2024,02:32:23,Municipal Area,3,No
+753,Burglary,Madurai,9.895488,78.12426,01-01-2023,03:34:30,Peripheral Zone,2,Yes
+754,Theft,Madurai,9.935162,78.110319,29-10-2024,06:42:11,Peripheral Zone,2,No
+755,Hurt,Madurai,9.943094,78.130256,13-05-2023,17:44:04,Peripheral Zone,2,No
+756,Counterfeiting,Malappuram,11.051303,76.054645,24-08-2024,00:01:14,Peripheral Zone,3,No
+757,Criminal Breach of Trust,Malappuram,11.067295,76.077182,28-04-2023,03:23:19,Municipal Area,2,No
+758,Cyber Crime,Malappuram,11.062232,76.08027,23-05-2024,14:23:47,Municipal Area,3,No
+759,Hurt,Malappuram,11.077508,76.056521,11-07-2023,23:35:01,Town Center,2,Yes
+760,Theft,Malappuram,11.052343,76.056934,26-11-2024,09:31:48,Municipal Area,2,No
+761,POCSO Cases,Malappuram,11.053039,76.077926,25-10-2023,19:11:46,Municipal Area,5,Yes
+762,Cyber Crime,Meerut,28.957326,77.713603,08-11-2023,02:42:59,Town Center,3,No
+763,Gambling,Meerut,28.993627,77.695053,30-05-2023,11:02:13,Peripheral Zone,2,No
+764,Cheating,Meerut,28.957451,77.687891,23-09-2024,11:53:56,Municipal Area,2,Yes
+765,Sexual Harassment,Meerut,28.959135,77.699751,23-03-2023,00:47:10,Peripheral Zone,3,No
+766,Riots,Meerut,29.013231,77.709036,15-11-2023,12:58:06,Town Center,3,No
+767,Riots,Mumbai,19.061968,72.86032,08-09-2024,10:51:04,Market Area,4,Yes
+768,Arson,Mumbai,19.07406,72.900626,23-11-2024,17:38:50,Commercial District,4,Yes
+769,Arson,Mumbai,19.083709,72.854495,06-04-2023,17:33:40,Downtown,4,Yes
+770,Hurt,Mumbai,19.075715,72.880299,14-08-2024,07:14:22,Commercial District,2,Yes
+771,Hurt,Mumbai,19.084135,72.904837,31-08-2024,07:57:32,Market Area,3,No
+772,POCSO Cases,Mumbai,19.054214,72.905969,27-10-2023,08:32:38,Commercial District,5,Yes
+773,Counterfeiting,Mumbai,19.085774,72.888897,09-01-2023,13:04:16,Market Area,3,No
+774,Criminal Breach of Trust,Mumbai,19.10422,72.899081,24-12-2023,17:25:12,Residential Zone,2,No
+775,Auto Theft,Mumbai,19.059121,72.904724,26-08-2023,21:24:40,Market Area,2,No
+776,Riots,Mumbai,19.063155,72.867132,30-07-2024,04:22:00,Industrial Area,3,No
+777,Criminal Breach of Trust,Mumbai,19.10408,72.899708,09-05-2023,01:34:46,Residential Zone,3,Yes
+778,Gambling,Mumbai,19.052929,72.875288,23-04-2023,12:32:53,Commercial District,1,No
+779,Riots,Mumbai,19.098738,72.854281,18-10-2024,14:51:29,Commercial District,4,Yes
+780,Gambling,Mumbai,19.058371,72.877355,10-11-2024,11:15:26,Suburb,2,No
+781,Gambling,Mumbai,19.066405,72.856351,09-12-2023,17:12:12,Market Area,1,No
+782,Hurt,Mumbai,19.04918,72.887116,09-02-2023,07:54:59,Market Area,2,No
+783,Cheating,Mumbai,19.105943,72.875482,24-05-2024,21:33:45,Suburb,2,No
+784,Sexual Harassment,Mumbai,19.092865,72.906587,31-01-2023,01:48:48,Residential Zone,5,Yes
+785,Arson,Mumbai,19.082347,72.896408,03-08-2023,00:59:57,Industrial Area,4,No
+786,POCSO Cases,Mumbai,19.054466,72.865825,08-01-2023,11:33:57,Downtown,5,Yes
+787,Hurt,Mumbai,19.080205,72.859343,24-04-2024,11:52:19,Downtown,2,No
+788,Arson,Mumbai,19.056478,72.884826,24-09-2024,14:10:29,Residential Zone,3,No
+789,Gambling,Mumbai,19.098394,72.879579,14-01-2024,16:35:51,Commercial District,1,No
+790,Drug Offenses,Mumbai,19.050698,72.896443,25-10-2024,11:51:38,Commercial District,4,No
+791,Sexual Harassment,Mumbai,19.099223,72.886056,15-09-2023,19:12:06,Residential Zone,3,Yes
+792,Auto Theft,Mumbai,19.082658,72.891547,13-09-2024,08:58:44,Commercial District,4,Yes
+793,Counterfeiting,Mumbai,19.092538,72.861851,29-09-2023,07:09:15,Residential Zone,3,No
+794,Cyber Crime,Mumbai,19.077583,72.887142,07-08-2024,14:42:18,Downtown,3,No
+795,Gambling,Mumbai,19.070699,72.875018,17-02-2023,12:35:18,Market Area,1,No
+796,Sexual Harassment,Mumbai,19.071363,72.857675,14-01-2024,20:07:06,Residential Zone,5,Yes
+797,Auto Theft,Mumbai,19.103845,72.888403,05-11-2023,02:49:26,Suburb,4,Yes
+798,Auto Theft,Mumbai,19.082894,72.856728,02-04-2023,23:50:38,Industrial Area,3,No
+799,Cheating,Mumbai,19.079396,72.856135,19-01-2024,03:44:31,Market Area,1,Yes
+800,Hurt,Mumbai,19.104952,72.878474,11-06-2023,19:28:04,Commercial District,2,No
+801,Gambling,Mumbai,19.100599,72.859488,10-03-2023,03:54:58,Industrial Area,1,Yes
+802,POCSO Cases,Mumbai,19.098125,72.85247,10-04-2023,07:08:28,Industrial Area,4,Yes
+803,Gambling,Mumbai,19.062717,72.880181,16-04-2024,15:16:57,Downtown,1,No
+804,Burglary,Mumbai,19.055204,72.894116,13-07-2024,12:44:40,Industrial Area,3,Yes
+805,Hurt,Mumbai,19.073845,72.865399,01-12-2024,01:58:22,Market Area,2,No
+806,Counterfeiting,Mumbai,19.092564,72.868025,02-07-2023,03:43:28,Market Area,3,No
+807,Riots,Mumbai,19.05616,72.903758,07-01-2024,03:09:06,Industrial Area,4,No
+808,Auto Theft,Mumbai,19.066282,72.873499,26-01-2023,21:41:11,Market Area,3,Yes
+809,Criminal Breach of Trust,Mumbai,19.072508,72.857639,23-02-2023,17:50:27,Market Area,1,No
+810,Riots,Mumbai,19.072016,72.86211,05-04-2024,15:24:46,Industrial Area,4,No
+811,Riots,Mumbai,19.099077,72.881706,26-02-2023,07:00:20,Industrial Area,4,Yes
+812,Cyber Crime,Mumbai,19.052526,72.88589,01-01-2023,14:07:46,Residential Zone,3,No
+813,Auto Theft,Mumbai,19.064351,72.875942,07-02-2024,22:55:17,Industrial Area,3,Yes
+814,Auto Theft,Mumbai,19.056254,72.861244,11-02-2023,05:04:42,Industrial Area,4,No
+815,Gambling,Mumbai,19.098378,72.87433,10-05-2024,13:49:54,Downtown,2,No
+816,Cyber Crime,Mumbai,19.085835,72.892231,16-01-2024,15:46:06,Downtown,3,No
+817,Cyber Crime,Nagpur,21.119236,79.115917,21-03-2023,09:08:59,Municipal Area,3,No
+818,Arson,Nagpur,21.153573,79.066522,15-05-2024,18:09:24,Municipal Area,5,Yes
+819,Auto Theft,Nagpur,21.156628,79.104366,30-09-2023,14:01:25,Municipal Area,3,Yes
+820,Sexual Harassment,Nagpur,21.118856,79.077892,20-02-2023,15:22:04,Peripheral Zone,4,Yes
+821,Riots,Nagpur,21.145977,79.062244,04-03-2024,16:48:23,Municipal Area,5,No
+822,Arson,Nagpur,21.123306,79.080749,02-07-2023,20:50:55,Peripheral Zone,4,No
+823,Gambling,Nagpur,21.168482,79.096731,29-04-2023,03:42:45,Peripheral Zone,1,No
+824,Criminal Breach of Trust,Nagpur,21.146438,79.07457,28-04-2023,17:54:01,Municipal Area,1,No
+825,Auto Theft,Nagpur,21.168271,79.065807,05-01-2023,17:14:45,Municipal Area,4,Yes
+826,Cyber Crime,Nagpur,21.167645,79.082338,02-07-2024,23:44:18,Peripheral Zone,3,No
+827,Drug Offenses,Nagpur,21.142217,79.097163,11-12-2024,05:00:44,Municipal Area,4,Yes
+828,Theft,Nagpur,21.153852,79.05979,22-11-2024,04:55:51,Municipal Area,3,No
+829,Sexual Harassment,Nagpur,21.116061,79.102399,03-06-2024,04:42:56,Town Center,5,No
+830,Riots,Nagpur,21.150023,79.116568,23-02-2023,12:47:57,Town Center,5,No
+831,Gambling,Nagpur,21.16448,79.112767,03-01-2024,22:35:40,Town Center,2,No
+832,POCSO Cases,Nagpur,21.137613,79.085541,22-04-2023,17:40:12,Town Center,4,Yes
+833,Burglary,Nagpur,21.121015,79.109047,24-07-2024,13:16:13,Peripheral Zone,3,Yes
+834,Drug Offenses,Nagpur,21.167256,79.086087,24-06-2023,19:45:00,Municipal Area,4,No
+835,Cheating,Nagpur,21.121272,79.081102,16-03-2024,12:52:07,Municipal Area,2,No
+836,Hurt,Nasik,20.00891,73.787639,27-09-2023,21:39:33,Municipal Area,2,No
+837,Theft,Nasik,20.023694,73.777959,04-09-2023,03:43:39,Peripheral Zone,3,No
+838,Sexual Harassment,Nasik,19.983759,73.786838,16-10-2023,11:00:52,Municipal Area,4,Yes
+839,Gambling,Nasik,20.005928,73.796312,25-01-2024,12:54:00,Town Center,1,No
+840,Gambling,Nasik,20.022896,73.809387,21-03-2023,11:22:26,Peripheral Zone,1,No
+841,Drug Offenses,Patna,25.581894,85.12922,13-02-2024,05:11:26,City Center,5,Yes
+842,Auto Theft,Patna,25.581981,85.150999,07-04-2024,08:29:01,New Township,2,No
+843,Cyber Crime,Patna,25.623065,85.135493,07-05-2024,11:32:56,New Township,2,No
+844,Criminal Breach of Trust,Patna,25.591279,85.138409,10-05-2023,20:18:03,City Center,3,No
+845,Criminal Breach of Trust,Patna,25.57832,85.154395,05-12-2024,01:44:31,Old City,2,No
+846,Gambling,Patna,25.564562,85.108826,22-04-2023,16:43:44,City Center,1,No
+847,Cheating,Patna,25.611497,85.128216,09-01-2024,07:49:33,Old City,1,No
+848,Auto Theft,Patna,25.59194,85.160564,14-03-2024,07:33:46,Bus Stand Area,4,No
+849,Criminal Breach of Trust,Patna,25.568198,85.148387,07-09-2024,16:59:35,City Center,3,No
+850,Cheating,Patna,25.604131,85.128916,12-09-2023,05:31:09,City Center,3,No
+851,Cyber Crime,Patna,25.580586,85.146786,17-11-2024,18:58:06,City Center,3,No
+852,POCSO Cases,Patna,25.578661,85.145428,25-02-2023,16:09:58,New Township,5,Yes
+853,Arson,Patna,25.61754,85.130228,01-08-2023,12:57:06,Bus Stand Area,4,No
+854,Cheating,Patna,25.574525,85.138064,05-03-2024,08:20:50,Railway Colony,1,No
+855,Sexual Harassment,Patna,25.588915,85.144018,28-09-2024,10:55:04,Bus Stand Area,4,No
+856,Gambling,Patna,25.576534,85.157892,15-07-2023,05:23:56,Railway Colony,1,No
+857,Sexual Harassment,Prayagraj,25.415179,81.853845,30-06-2023,02:10:21,Peripheral Zone,4,No
+858,Theft,Prayagraj,25.433169,81.817973,28-09-2023,04:19:02,Peripheral Zone,1,No
+859,Attempt to Murder,Prayagraj,25.434364,81.870297,16-01-2024,23:42:57,Municipal Area,4,Yes
+860,Hurt,Prayagraj,25.420767,81.845852,17-04-2023,21:28:29,Town Center,2,No
+861,Drug Offenses,Pune,18.545563,73.842284,14-11-2024,15:59:39,Municipal Area,4,Yes
+862,Cyber Crime,Pune,18.532507,73.86929,04-01-2024,06:28:31,Municipal Area,4,No
+863,Arson,Pune,18.547125,73.87462,29-01-2024,00:11:06,Municipal Area,4,No
+864,Gambling,Pune,18.527674,73.858885,22-09-2024,08:22:53,Peripheral Zone,1,No
+865,POCSO Cases,Pune,18.536662,73.85904,03-06-2024,16:02:02,Town Center,5,Yes
+866,Arson,Pune,18.495686,73.859303,25-09-2023,19:37:49,Municipal Area,3,No
+867,Sexual Harassment,Pune,18.528434,73.842908,24-03-2024,05:46:21,Peripheral Zone,4,Yes
+868,Burglary,Pune,18.504818,73.872594,10-10-2024,06:45:01,Municipal Area,2,No
+869,Cyber Crime,Pune,18.526084,73.848714,25-06-2023,11:54:08,Town Center,3,No
+870,POCSO Cases,Pune,18.510936,73.845936,28-03-2023,22:06:38,Peripheral Zone,5,Yes
+871,Counterfeiting,Pune,18.522121,73.839865,07-03-2024,12:49:31,Town Center,4,No
+872,Burglary,Pune,18.547981,73.879172,24-12-2023,10:49:20,Peripheral Zone,3,No
+873,Burglary,Pune,18.547407,73.882239,05-03-2023,03:24:22,Peripheral Zone,4,No
+874,Cheating,Pune,18.541095,73.842174,14-10-2024,11:13:30,Peripheral Zone,2,No
+875,Counterfeiting,Raipur,21.243076,81.638822,14-10-2024,02:16:34,Municipal Area,2,No
+876,Counterfeiting,Raipur,21.261154,81.627772,19-08-2024,20:52:41,Town Center,2,Yes
+877,Riots,Raipur,21.235446,81.65353,27-07-2023,03:59:03,Town Center,3,Yes
+878,Burglary,Raipur,21.244186,81.650358,13-02-2023,09:02:38,Peripheral Zone,3,No
+879,Cyber Crime,Raipur,21.261319,81.639497,16-12-2024,06:41:10,Municipal Area,3,No
+880,Hurt,Raipur,21.240676,81.653753,18-10-2024,04:35:14,Town Center,2,No
+881,Riots,Rajkot,22.331792,70.777662,02-08-2024,18:35:15,Peripheral Zone,4,No
+882,Auto Theft,Rajkot,22.275025,70.811892,29-07-2024,21:59:23,Peripheral Zone,4,Yes
+883,Cheating,Rajkot,22.329672,70.799274,12-02-2023,12:31:04,Municipal Area,1,No
+884,Riots,Rajkot,22.291272,70.776315,18-08-2023,22:43:35,Town Center,4,Yes
+885,Gambling,Rajkot,22.324675,70.778578,06-10-2024,19:48:30,Town Center,1,No
+886,Sexual Harassment,Rajkot,22.312303,70.810327,02-08-2023,21:25:38,Peripheral Zone,4,Yes
+887,Auto Theft,Ranchi,23.325549,85.331441,16-01-2023,11:12:06,Peripheral Zone,3,No
+888,Hurt,Ranchi,23.372562,85.293688,16-08-2023,19:13:05,Municipal Area,3,No
+889,Gambling,Ranchi,23.360292,85.285989,23-06-2024,05:27:29,Peripheral Zone,2,No
+890,Sexual Harassment,Ranchi,23.363796,85.310972,20-03-2024,05:05:36,Municipal Area,4,Yes
+891,Gambling,Ranchi,23.341795,85.286074,26-10-2023,05:14:08,Peripheral Zone,1,No
+892,Counterfeiting,Srinagar,34.092784,74.778678,13-05-2024,17:49:53,Municipal Area,3,No
+893,Gambling,Srinagar,34.05697,74.804548,24-08-2024,19:20:04,Municipal Area,1,Yes
+894,Hurt,Surat,21.159941,72.802501,18-01-2024,19:02:19,Municipal Area,2,Yes
+895,Counterfeiting,Surat,21.162197,72.807088,14-08-2024,16:57:25,Town Center,4,No
+896,Arson,Surat,21.147561,72.802107,21-07-2024,20:44:58,Town Center,5,Yes
+897,POCSO Cases,Surat,21.174662,72.833743,06-10-2023,16:10:01,Municipal Area,5,Yes
+898,Criminal Breach of Trust,Surat,21.173221,72.856365,22-07-2023,06:12:46,Town Center,1,Yes
+899,Theft,Surat,21.168935,72.829358,08-03-2023,08:59:59,Municipal Area,3,No
+900,Counterfeiting,Surat,21.198539,72.801129,11-03-2023,03:09:51,Peripheral Zone,4,Yes
+901,Murder,Surat,21.148764,72.844467,27-03-2024,04:52:42,Town Center,5,Yes
+902,POCSO Cases,Surat,21.147495,72.810325,07-07-2024,14:32:47,Town Center,4,Yes
+903,Cheating,Surat,21.144165,72.819988,09-06-2023,10:48:58,Peripheral Zone,2,Yes
+904,Theft,Surat,21.144361,72.850857,17-07-2024,08:03:38,Municipal Area,2,No
+905,Drug Offenses,Surat,21.191379,72.815294,15-12-2023,18:55:52,Peripheral Zone,3,Yes
+906,POCSO Cases,Thiruvananthapuram,8.521949,76.940676,15-03-2023,09:52:30,Municipal Area,5,Yes
+907,Theft,Thiruvananthapuram,8.528598,76.94425,08-04-2023,04:34:00,Peripheral Zone,2,No
+908,POCSO Cases,Thiruvananthapuram,8.508523,76.960248,18-06-2024,12:51:31,Peripheral Zone,5,No
+909,Counterfeiting,Thiruvananthapuram,8.508225,76.957202,16-01-2024,04:36:37,Municipal Area,4,Yes
+910,Auto Theft,Thiruvananthapuram,8.548254,76.958513,27-12-2024,06:57:09,Town Center,3,No
+911,Theft,Thiruvananthapuram,8.495176,76.921383,20-03-2023,14:35:21,Municipal Area,2,No
+912,Drug Offenses,Thiruvananthapuram,8.537005,76.958212,03-01-2023,17:34:11,Municipal Area,4,Yes
+913,Drug Offenses,Thiruvananthapuram,8.539315,76.948597,30-08-2024,20:36:17,Peripheral Zone,4,Yes
+914,Theft,Thiruvananthapuram,8.547571,76.940368,25-02-2024,10:22:26,Peripheral Zone,2,No
+915,Auto Theft,Thiruvananthapuram,8.497844,76.907823,02-01-2023,19:38:26,Municipal Area,2,No
+916,Burglary,Thiruvananthapuram,8.521133,76.952452,02-11-2024,03:23:21,Municipal Area,4,Yes
+917,Theft,Thiruvananthapuram,8.539444,76.919025,24-07-2023,15:05:14,Municipal Area,2,No
+918,Hurt,Thiruvananthapuram,8.500914,76.912567,09-08-2023,17:02:19,Town Center,1,No
+919,Drug Offenses,Thiruvananthapuram,8.495436,76.948964,17-05-2024,21:29:52,Town Center,4,No
+920,Gambling,Thiruvananthapuram,8.5271,76.920476,12-03-2023,02:55:44,Town Center,1,No
+921,Theft,Thiruvananthapuram,8.521942,76.962203,27-11-2023,16:15:17,Town Center,3,Yes
+922,Cyber Crime,Thiruvananthapuram,8.499006,76.954295,09-07-2023,18:43:38,Municipal Area,3,No
+923,Gambling,Thiruvananthapuram,8.501271,76.947735,19-05-2023,00:05:58,Municipal Area,1,No
+924,Riots,Thiruvananthapuram,8.494635,76.921138,11-06-2024,07:29:10,Peripheral Zone,4,No
+925,Cyber Crime,Thiruvananthapuram,8.518495,76.944717,01-08-2024,20:41:57,Town Center,3,No
+926,Auto Theft,Thiruvananthapuram,8.546748,76.91089,07-04-2024,16:37:06,Peripheral Zone,4,Yes
+927,Auto Theft,Thiruvananthapuram,8.519415,76.958586,18-07-2024,17:29:30,Peripheral Zone,3,No
+928,Riots,Thrissur,10.525335,76.242434,16-07-2024,23:45:21,Town Center,5,Yes
+929,Theft,Thrissur,10.512381,76.199316,09-07-2024,21:34:11,Municipal Area,2,Yes
+930,Counterfeiting,Thrissur,10.533366,76.235187,29-07-2024,01:02:51,Town Center,3,No
+931,Theft,Thrissur,10.517692,76.243464,04-04-2023,01:01:25,Peripheral Zone,2,No
+932,Drug Offenses,Thrissur,10.53595,76.224072,01-09-2023,21:27:01,Town Center,4,Yes
+933,Cyber Crime,Thrissur,10.510929,76.194058,19-01-2023,02:08:12,Town Center,2,No
+934,Riots,Thrissur,10.524127,76.195265,03-07-2023,03:00:23,Municipal Area,4,Yes
+935,Murder,Thrissur,10.517834,76.205025,02-01-2024,20:44:44,Municipal Area,5,Yes
+936,Theft,Thrissur,10.554546,76.189866,06-08-2023,21:34:54,Municipal Area,2,Yes
+937,Burglary,Thrissur,10.538592,76.20844,08-05-2024,19:09:35,Town Center,2,No
+938,Cyber Crime,Thrissur,10.520709,76.207772,22-11-2024,10:24:22,Peripheral Zone,4,No
+939,Arson,Tiruchirapalli,10.800719,78.719417,15-02-2024,04:11:44,Municipal Area,5,Yes
+940,Auto Theft,Tiruchirapalli,10.797962,78.699324,09-02-2024,16:00:05,Peripheral Zone,3,No
+941,Cheating,Vadodara,22.280127,73.155711,04-10-2023,00:50:03,Municipal Area,2,No
+942,Auto Theft,Vadodara,22.321791,73.192606,24-06-2023,16:11:03,Peripheral Zone,3,No
+943,Arson,Vadodara,22.280534,73.206087,03-11-2023,17:53:26,Municipal Area,4,No
+944,Hurt,Vadodara,22.288768,73.199209,04-02-2024,06:31:11,Municipal Area,1,No
+945,Riots,Varanasi,25.32709,83.000461,21-12-2023,23:02:21,New Township,4,Yes
+946,Attempt to Murder,Varanasi,25.31819,82.979796,13-06-2023,21:43:07,Old City,4,Yes
+947,Drug Offenses,Varanasi,25.343196,82.945823,27-04-2023,20:56:43,Bus Stand Area,5,Yes
+948,Criminal Breach of Trust,Varanasi,25.29472,82.991889,18-06-2024,08:37:51,City Center,2,No
+949,Drug Offenses,Varanasi,25.307415,82.96042,13-10-2024,17:59:04,New Township,4,Yes
+950,Drug Offenses,Vasai Virar,19.363827,72.82174,02-10-2023,06:02:05,Town Center,5,Yes
+951,Arson,Vasai Virar,19.390847,72.837552,09-02-2024,08:44:30,Town Center,4,Yes
+952,Theft,Vasai Virar,19.397926,72.820549,19-02-2024,01:06:48,Peripheral Zone,2,Yes
+953,Counterfeiting,Vasai Virar,19.388968,72.824552,17-11-2023,11:43:34,Peripheral Zone,4,No
+954,Riots,Vasai Virar,19.390798,72.816316,15-10-2023,20:05:57,Town Center,3,No
+955,Arson,Vasai Virar,19.388824,72.839132,20-01-2024,20:34:38,Town Center,3,Yes
+956,Riots,Vijayawada,16.51754,80.677431,13-04-2023,14:53:16,Town Center,4,Yes
+957,Hurt,Vijayawada,16.486252,80.644157,07-08-2023,01:18:45,Municipal Area,2,No
+958,Counterfeiting,Vijayawada,16.507409,80.658097,13-12-2023,18:18:22,Municipal Area,2,No
+959,Gambling,Vijayawada,16.48462,80.651759,08-06-2024,09:48:05,Municipal Area,2,No
+960,Theft,Vijayawada,16.520869,80.67219,20-04-2024,14:22:39,Peripheral Zone,3,No
+961,Drug Offenses,Vijayawada,16.478719,80.666684,16-02-2024,09:09:22,Municipal Area,4,No
+962,Counterfeiting,Vijayawada,16.492397,80.658788,18-12-2024,19:43:06,Municipal Area,3,No
+963,POCSO Cases,Vijayawada,16.501478,80.623054,30-07-2023,23:30:53,Town Center,5,Yes
+964,Auto Theft,Vijayawada,16.499447,80.67579,26-05-2023,21:50:59,Town Center,3,Yes
+965,Arson,Vijayawada,16.477686,80.674816,29-05-2023,23:28:16,Municipal Area,3,No
+966,Gambling,Vijayawada,16.510301,80.656176,10-12-2024,07:09:15,Peripheral Zone,1,No
+967,Cyber Crime,Vijayawada,16.516851,80.618463,12-04-2024,14:09:23,Peripheral Zone,3,Yes
+968,Criminal Breach of Trust,Vishakhapatnam,17.666008,83.220511,21-05-2024,16:59:23,Peripheral Zone,2,No
+969,Hurt,Vishakhapatnam,17.693339,83.23513,14-07-2024,10:45:07,Municipal Area,2,No
+970,Cheating,Vishakhapatnam,17.685139,83.226389,31-05-2024,20:35:01,Peripheral Zone,1,No
+971,Gambling,Vishakhapatnam,17.661671,83.217821,02-06-2023,11:19:47,Municipal Area,2,No
+972,Sexual Harassment,Vishakhapatnam,17.689122,83.227088,19-09-2023,10:15:11,Town Center,4,No
+973,Cyber Crime,Agra,27.187598,78.008716,06-06-2024,21:12:23,City Center,3,No
+974,Arson,Agra,27.16471,78.000674,22-02-2024,09:14:51,City Center,5,Yes
+975,Riots,Agra,27.163073,77.984926,12-07-2024,13:04:55,New Township,4,No
+976,Cheating,Agra,27.193405,78.034389,14-12-2023,07:48:16,Railway Colony,2,No
+977,Burglary,Agra,27.177686,78.006107,04-11-2023,01:35:45,New Township,3,Yes
+978,Riots,Agra,27.191445,78.014853,30-04-2024,16:08:28,City Center,5,Yes
+979,Cyber Crime,Agra,27.172967,78.007958,10-10-2024,19:50:50,Bus Stand Area,3,No
+980,Theft,Ahmedabad,23.025644,72.597616,25-09-2023,07:06:20,Peripheral Zone,2,No
+981,Counterfeiting,Ahmedabad,23.004232,72.550964,26-10-2023,18:34:22,Peripheral Zone,4,Yes
+982,Gambling,Ahmedabad,23.048327,72.583659,29-09-2024,16:34:30,Peripheral Zone,1,No
+983,Cyber Crime,Ahmedabad,22.993664,72.591492,13-07-2024,12:02:53,Municipal Area,3,No
+984,Drug Offenses,Ahmedabad,23.050581,72.567936,25-08-2023,09:34:59,Town Center,4,Yes
+985,Arson,Ahmedabad,23.047214,72.596992,19-08-2024,12:15:36,Municipal Area,3,Yes
+986,Auto Theft,Ahmedabad,22.997163,72.595771,18-10-2023,03:39:28,Peripheral Zone,2,No
+987,Cyber Crime,Ahmedabad,23.02368,72.543246,20-05-2023,02:25:12,Peripheral Zone,3,No
+988,Theft,Ahmedabad,23.03619,72.552987,18-10-2023,01:27:48,Peripheral Zone,2,No
+989,Cheating,Ahmedabad,23.000706,72.550825,07-09-2024,15:52:13,Town Center,3,Yes
+990,Gambling,Ahmedabad,23.022578,72.553223,25-10-2024,13:02:50,Municipal Area,1,No
+991,Gambling,Ahmedabad,23.000205,72.566883,02-02-2023,02:08:57,Town Center,1,No
+992,Cyber Crime,Ahmedabad,22.996444,72.590201,06-12-2024,10:09:28,Town Center,3,No
+993,Auto Theft,Ahmedabad,23.038358,72.572132,17-02-2023,12:34:45,Town Center,3,Yes
+994,POCSO Cases,Ahmedabad,23.038072,72.580706,16-12-2023,07:28:53,Peripheral Zone,5,Yes
+995,Criminal Breach of Trust,Ahmedabad,23.028761,72.594919,31-08-2024,08:03:58,Town Center,3,No
+996,Criminal Breach of Trust,Ahmedabad,23.042466,72.574667,15-03-2024,14:15:51,Municipal Area,2,No
+997,Gambling,Ahmedabad,23.040149,72.552036,24-08-2024,12:52:15,Town Center,1,No
+998,Gambling,Ahmedabad,23.044947,72.561005,11-12-2024,16:49:05,Municipal Area,1,No
+999,Riots,Ahmedabad,23.050632,72.595533,06-11-2023,15:18:43,Town Center,4,Yes
+1000,Counterfeiting,Ahmedabad,23.02291,72.591133,13-08-2024,16:49:13,Municipal Area,3,No
+1001,Gambling,Ahmedabad,22.993568,72.597493,16-04-2024,22:36:49,Municipal Area,1,No
+1002,Criminal Breach of Trust,Ahmedabad,23.035446,72.578827,08-04-2024,12:39:47,Municipal Area,3,No
+1003,POCSO Cases,Ahmedabad,23.031028,72.600447,17-02-2023,21:59:23,Town Center,4,Yes
+1004,Theft,Ahmedabad,22.995494,72.595793,15-11-2023,00:19:23,Peripheral Zone,1,No
+1005,Criminal Breach of Trust,Ahmedabad,23.03207,72.577437,04-10-2023,16:50:51,Town Center,2,No
+1006,Sexual Harassment,Ahmedabad,22.993046,72.544851,02-07-2023,14:57:56,Peripheral Zone,3,No
+1007,Drug Offenses,Ahmedabad,23.039524,72.579975,07-08-2024,02:55:39,Peripheral Zone,4,Yes
+1008,Riots,Ahmedabad,23.050555,72.546445,11-02-2024,16:40:48,Peripheral Zone,4,Yes
+1009,Auto Theft,Ahmedabad,23.01488,72.577671,24-11-2023,22:02:54,Peripheral Zone,3,Yes
+1010,Hurt,Ahmedabad,23.040901,72.54904,07-01-2024,14:38:12,Town Center,3,No
+1011,Criminal Breach of Trust,Ahmedabad,23.010563,72.546234,03-10-2024,07:21:13,Municipal Area,1,No
+1012,Theft,Ahmedabad,23.00774,72.552249,27-06-2023,06:15:28,Municipal Area,1,No
+1013,Auto Theft,Amritsar,31.615494,74.890798,28-10-2023,02:47:12,Peripheral Zone,2,No
+1014,POCSO Cases,Amritsar,31.638086,74.880979,28-08-2024,23:57:53,Municipal Area,5,Yes
+1015,Counterfeiting,Amritsar,31.646321,74.896084,07-01-2024,02:13:37,Municipal Area,3,Yes
+1016,Murder,Asansol,23.665827,86.995078,19-02-2023,15:08:13,Town Center,5,Yes
+1017,Cheating,Asansol,23.693343,87.004347,25-07-2024,05:24:30,Town Center,3,No
+1018,Auto Theft,Asansol,23.71141,86.999272,28-07-2024,16:40:44,Town Center,3,Yes
+1019,Robbery,Asansol,23.653471,86.967648,27-03-2024,13:35:42,Municipal Area,4,No
+1020,Murder,Asansol,23.710985,86.958164,27-10-2024,18:21:29,Municipal Area,5,Yes
+1021,Sexual Harassment,Aurangabad,19.862693,75.313534,21-02-2024,16:49:02,Municipal Area,3,Yes
+1022,Cheating,Aurangabad,19.89616,75.333115,09-01-2024,14:28:59,Town Center,1,No
+1023,Hurt,Aurangabad,19.903983,75.349231,11-02-2023,21:43:49,Town Center,2,No
+1024,Cyber Crime,Aurangabad,19.848592,75.364876,03-11-2024,03:45:28,Peripheral Zone,4,No
+1025,Drug Offenses,Aurangabad,19.847214,75.345055,20-05-2023,04:18:59,Peripheral Zone,3,No
+1026,Riots,Aurangabad,19.905949,75.341857,12-01-2023,14:47:27,Town Center,5,Yes
+1027,Riots,Bengaluru,12.948617,77.610097,27-04-2024,07:02:24,Suburb,5,No
+1028,Cyber Crime,Bengaluru,12.960835,77.589318,27-09-2023,03:15:34,Market Area,3,No
+1029,Burglary,Bengaluru,12.978867,77.589803,07-10-2023,10:35:10,Suburb,2,No
+1030,POCSO Cases,Bengaluru,12.969677,77.622544,20-11-2024,16:48:30,Industrial Area,5,Yes
+1031,Auto Theft,Bengaluru,12.947459,77.587966,05-02-2023,03:50:38,Suburb,3,No
+1032,Gambling,Bengaluru,12.988708,77.619329,18-04-2023,14:50:35,Suburb,1,No
+1033,Drug Offenses,Bengaluru,12.979745,77.618785,20-05-2024,15:14:44,Market Area,4,No
+1034,Hurt,Bengaluru,12.948946,77.567943,27-05-2024,00:05:41,Residential Zone,2,No
+1035,Gambling,Bengaluru,12.945744,77.567759,29-05-2024,18:24:17,Industrial Area,2,Yes
+1036,Counterfeiting,Bengaluru,12.951612,77.59465,14-06-2024,11:18:27,Industrial Area,3,No
+1037,Criminal Breach of Trust,Bengaluru,12.950894,77.576921,15-09-2023,17:49:03,Market Area,2,No
+1038,Sexual Harassment,Bengaluru,12.96179,77.603564,20-04-2023,14:44:28,Commercial District,4,No
+1039,Riots,Bengaluru,12.989671,77.56525,24-08-2024,19:10:58,Industrial Area,4,Yes
+1040,Drug Offenses,Bengaluru,12.995786,77.621919,01-06-2023,00:46:06,Commercial District,4,Yes
+1041,Riots,Bengaluru,12.967984,77.592908,29-06-2024,11:10:16,Downtown,4,No
+1042,Auto Theft,Bengaluru,12.986341,77.603745,28-05-2024,22:36:14,Industrial Area,3,No
+1043,Cyber Crime,Bengaluru,12.962323,77.585866,09-03-2023,12:21:08,Downtown,3,No
+1044,Auto Theft,Bengaluru,12.948358,77.598823,23-05-2023,14:23:49,Downtown,3,No
+1045,Sexual Harassment,Bengaluru,12.983768,77.574618,24-11-2023,14:19:42,Residential Zone,4,Yes
+1046,Sexual Harassment,Bengaluru,12.988089,77.568591,11-08-2023,19:59:41,Downtown,4,No
+1047,Sexual Harassment,Bengaluru,12.947929,77.583852,25-07-2024,08:08:35,Residential Zone,5,Yes
+1048,Criminal Breach of Trust,Bengaluru,12.958222,77.624419,17-11-2023,08:03:48,Residential Zone,2,No
+1049,Arson,Bengaluru,12.959227,77.582969,19-07-2024,04:10:51,Downtown,4,No
+1050,Attempt to Murder,Bengaluru,12.947868,77.608408,04-07-2023,15:00:52,Residential Zone,5,No
+1051,Auto Theft,Bengaluru,12.962398,77.607409,10-12-2024,12:12:44,Market Area,3,No
+1052,Sexual Harassment,Bengaluru,12.985881,77.622308,16-01-2024,15:05:30,Residential Zone,3,Yes
+1053,Arson,Bengaluru,12.970502,77.579624,08-06-2024,15:19:38,Residential Zone,4,Yes
+1054,Counterfeiting,Bengaluru,12.957738,77.620821,18-05-2024,10:50:10,Residential Zone,4,No
+1055,Drug Offenses,Bengaluru,12.952428,77.60143,12-08-2023,07:46:15,Market Area,3,Yes
+1056,POCSO Cases,Bengaluru,12.943953,77.566143,10-09-2024,19:18:14,Commercial District,5,Yes
+1057,POCSO Cases,Bengaluru,12.957994,77.621003,28-03-2024,20:12:22,Market Area,5,Yes
+1058,Riots,Bengaluru,12.994289,77.567368,08-10-2023,10:10:46,Downtown,4,Yes
+1059,Riots,Bengaluru,12.946613,77.565347,18-07-2024,07:32:23,Downtown,3,No
+1060,Auto Theft,Bengaluru,12.996839,77.572566,04-03-2024,08:53:31,Industrial Area,4,No
+1061,Auto Theft,Bengaluru,12.997701,77.623477,06-01-2024,02:22:49,Downtown,2,No
+1062,Auto Theft,Bengaluru,12.964789,77.577809,10-10-2024,16:19:37,Market Area,4,Yes
+1063,Arson,Bengaluru,12.948901,77.579482,26-07-2023,15:15:50,Industrial Area,4,No
+1064,POCSO Cases,Bengaluru,12.966717,77.58494,16-10-2024,02:04:29,Downtown,4,Yes
+1065,Kidnapping,Bengaluru,12.951945,77.608027,06-09-2024,16:24:28,Suburb,4,No
+1066,Hurt,Bengaluru,12.986967,77.611317,01-08-2023,00:27:26,Industrial Area,3,Yes
+1067,Drug Offenses,Bengaluru,12.957635,77.619599,12-04-2024,13:38:01,Downtown,4,Yes
+1068,Cyber Crime,Bengaluru,12.968442,77.621976,13-11-2023,04:11:17,Commercial District,2,No
+1069,POCSO Cases,Bengaluru,12.97215,77.582229,23-11-2024,10:47:03,Suburb,5,Yes
+1070,Arson,Bengaluru,12.947212,77.570857,05-04-2023,21:23:35,Commercial District,3,Yes
+1071,Hurt,Bengaluru,12.987022,77.578716,15-09-2024,16:28:11,Industrial Area,1,No
+1072,Counterfeiting,Bengaluru,12.979505,77.623608,24-11-2024,13:43:35,Residential Zone,2,No
+1073,Gambling,Bengaluru,12.971662,77.618355,15-03-2023,23:04:48,Commercial District,1,Yes
+1074,Arson,Bhopal,23.246599,77.43658,25-12-2023,06:49:34,Town Center,4,No
+1075,Sexual Harassment,Bhopal,23.241003,77.405558,14-12-2024,04:18:32,Municipal Area,3,Yes
+1076,Hurt,Bhopal,23.233261,77.416571,02-09-2024,15:17:40,Municipal Area,2,No
+1077,Gambling,Bhopal,23.243025,77.40464,21-07-2024,14:28:00,Municipal Area,1,No
+1078,POCSO Cases,Bhopal,23.273817,77.384846,06-02-2024,16:19:13,Town Center,4,Yes
+1079,Drug Offenses,Bhopal,23.275632,77.419934,09-01-2024,04:41:38,Town Center,4,No
+1080,Theft,Bhopal,23.24971,77.426427,02-02-2023,23:01:35,Peripheral Zone,1,No
+1081,Counterfeiting,Bhopal,23.261087,77.398578,29-07-2023,07:47:27,Municipal Area,3,No
+1082,Gambling,Bhopal,23.234669,77.414805,11-10-2023,02:30:04,Municipal Area,1,No
+1083,Criminal Breach of Trust,Bhopal,23.245362,77.435423,14-07-2023,20:41:04,Peripheral Zone,2,No
+1084,Hurt,Bhopal,23.275093,77.396621,13-12-2023,03:09:27,Municipal Area,1,Yes
+1085,Riots,Bhopal,23.25433,77.391761,24-11-2023,02:40:30,Town Center,3,No
+1086,Riots,Bhopal,23.273363,77.395858,16-01-2024,13:49:35,Town Center,4,No
+1087,Cyber Crime,Bhopal,23.231872,77.428327,04-07-2024,20:52:42,Municipal Area,3,No
+1088,Theft,Bhopal,23.240896,77.406526,20-04-2023,09:57:37,Municipal Area,2,No
+1089,Cyber Crime,Bhopal,23.250063,77.43667,16-06-2023,11:55:54,Town Center,3,No
+1090,Cheating,Bhopal,23.250743,77.430561,23-06-2024,20:58:54,Town Center,1,No
+1091,Arson,Chandigarh City,30.755935,76.759774,31-01-2023,06:03:21,Peripheral Zone,4,No
+1092,Auto Theft,Chandigarh City,30.752221,76.75841,02-12-2024,01:08:42,Municipal Area,3,Yes
+1093,Arson,Chandigarh City,30.760336,76.789983,18-11-2023,22:02:30,Town Center,4,Yes
+1094,Counterfeiting,Chennai,13.108102,80.248159,06-02-2024,09:46:19,Industrial Area,3,No
+1095,Hurt,Chennai,13.099457,80.273948,16-03-2024,23:37:26,Suburb,2,No
+1096,Riots,Chennai,13.08847,80.2515,15-11-2023,00:40:01,Commercial District,3,Yes
+1097,Auto Theft,Chennai,13.084911,80.281765,15-12-2023,22:06:07,Industrial Area,3,No
+1098,Counterfeiting,Chennai,13.067543,80.251856,27-09-2023,01:33:22,Market Area,3,No
+1099,Sexual Harassment,Chennai,13.07022,80.257231,15-12-2024,17:22:03,Commercial District,3,No
+1100,POCSO Cases,Chennai,13.087488,80.250299,14-11-2023,06:33:38,Commercial District,5,Yes
+1101,Arson,Chennai,13.057451,80.282416,13-12-2024,08:23:16,Market Area,5,Yes
+1102,Riots,Chennai,13.108293,80.298814,13-08-2024,18:30:07,Downtown,5,No
+1103,Riots,Chennai,13.076535,80.257966,07-10-2023,23:18:51,Downtown,4,Yes
+1104,Riots,Chennai,13.05727,80.299752,28-08-2023,08:32:23,Residential Zone,4,Yes
+1105,Auto Theft,Chennai,13.096473,80.259118,28-04-2024,11:39:17,Industrial Area,3,No
+1106,Cheating,Chennai,13.07113,80.277725,26-01-2024,22:05:40,Suburb,2,No
+1107,POCSO Cases,Chennai,13.090443,80.270051,06-09-2023,08:54:07,Residential Zone,5,Yes
+1108,Gambling,Chennai,13.085676,80.250226,09-03-2024,09:30:29,Market Area,1,No
+1109,Drug Offenses,Chennai,13.058051,80.298565,02-04-2023,13:38:47,Downtown,5,Yes
+1110,POCSO Cases,Chennai,13.099415,80.248331,05-11-2023,09:20:25,Suburb,5,Yes
+1111,Criminal Breach of Trust,Coimbatore,10.987276,76.978879,11-06-2023,05:00:57,Peripheral Zone,1,No
+1112,POCSO Cases,Coimbatore,11.015133,76.974193,17-08-2024,23:27:41,Municipal Area,5,Yes
+1113,Arson,Coimbatore,11.036025,76.967233,03-04-2023,08:45:22,Municipal Area,3,No
+1114,Cheating,Coimbatore,11.034325,76.926576,04-06-2023,23:47:17,Peripheral Zone,2,No
+1115,Burglary,Coimbatore,11.0162,76.948131,21-02-2023,10:08:59,Municipal Area,4,No
+1116,Riots,Delhi City,28.726023,77.100548,27-01-2024,19:38:53,Suburb,4,Yes
+1117,POCSO Cases,Delhi City,28.700288,77.122432,23-01-2023,07:37:45,Downtown,5,Yes
+1118,Sexual Harassment,Delhi City,28.676297,77.093127,14-02-2023,07:23:14,Industrial Area,3,No
+1119,Cheating,Delhi City,28.675484,77.084404,24-04-2023,11:55:14,Suburb,1,No
+1120,Counterfeiting,Delhi City,28.731139,77.109492,28-12-2024,11:11:13,Downtown,3,No
+1121,Counterfeiting,Delhi City,28.723419,77.117145,02-12-2024,09:00:24,Industrial Area,3,No
+1122,Burglary,Delhi City,28.71597,77.077528,29-04-2023,19:55:11,Commercial District,4,No
+1123,Hurt,Delhi City,28.677661,77.111816,14-09-2024,07:32:51,Suburb,2,No
+1124,Burglary,Delhi City,28.716816,77.092241,12-12-2023,22:13:59,Commercial District,4,Yes
+1125,Riots,Delhi City,28.731475,77.127521,20-08-2024,20:23:29,Commercial District,5,No
+1126,Gambling,Delhi City,28.704615,77.0756,05-05-2024,23:12:20,Commercial District,1,No
+1127,Auto Theft,Delhi City,28.67898,77.110969,08-12-2024,18:02:51,Residential Zone,2,No
+1128,Sexual Harassment,Delhi City,28.686476,77.085577,09-09-2023,00:40:57,Downtown,5,No
+1129,Gambling,Delhi City,28.724909,77.089696,05-02-2023,23:40:45,Commercial District,2,No
+1130,Sexual Harassment,Delhi City,28.722955,77.132245,15-07-2024,11:48:29,Market Area,3,Yes
+1131,Burglary,Delhi City,28.707825,77.074631,04-02-2024,14:33:49,Suburb,3,No
+1132,POCSO Cases,Delhi City,28.703907,77.128299,07-05-2023,04:31:14,Industrial Area,5,Yes
+1133,Riots,Delhi City,28.697384,77.080813,11-04-2024,07:47:27,Commercial District,4,No
+1134,Counterfeiting,Delhi City,28.690826,77.117192,30-08-2023,11:14:59,Suburb,3,No
+1135,Theft,Delhi City,28.682349,77.11526,17-01-2023,14:02:42,Market Area,1,No
+1136,Riots,Delhi City,28.705698,77.130051,25-02-2023,20:45:22,Industrial Area,5,No
+1137,Auto Theft,Delhi City,28.717031,77.079226,28-04-2024,12:26:15,Downtown,3,No
+1138,Cyber Crime,Delhi City,28.693019,77.124272,23-07-2023,21:24:46,Suburb,2,No
+1139,Hurt,Delhi City,28.728168,77.085758,08-01-2024,06:23:38,Downtown,2,No
+1140,Gambling,Delhi City,28.689705,77.126718,17-12-2023,22:34:34,Commercial District,2,No
+1141,Riots,Delhi City,28.693877,77.074403,22-08-2023,23:46:56,Downtown,4,Yes
+1142,Arson,Delhi City,28.699023,77.129718,22-10-2023,15:02:20,Industrial Area,4,No
+1143,Sexual Harassment,Delhi City,28.67926,77.110024,30-11-2024,02:16:19,Suburb,4,Yes
+1144,Cheating,Delhi City,28.687975,77.131246,26-12-2024,05:52:58,Industrial Area,3,No
+1145,Criminal Breach of Trust,Delhi City,28.708637,77.075162,28-09-2023,07:08:19,Downtown,2,No
+1146,POCSO Cases,Delhi City,28.72293,77.080841,01-09-2023,18:09:14,Downtown,5,Yes
+1147,Gambling,Delhi City,28.699049,77.116894,06-05-2023,16:38:20,Residential Zone,1,Yes
+1148,POCSO Cases,Delhi City,28.716172,77.116436,20-01-2023,21:48:29,Industrial Area,5,Yes
+1149,Gambling,Delhi City,28.684566,77.075373,29-03-2023,04:49:24,Industrial Area,2,No
+1150,Drug Offenses,Delhi City,28.690774,77.115696,16-06-2024,00:46:26,Market Area,3,Yes
+1151,Criminal Breach of Trust,Delhi City,28.710875,77.10944,06-08-2023,17:50:46,Market Area,2,No
+1152,Arson,Delhi City,28.679618,77.082257,20-11-2023,04:45:53,Downtown,5,Yes
+1153,Burglary,Delhi City,28.70205,77.118083,06-06-2023,03:39:27,Commercial District,4,No
+1154,Auto Theft,Delhi City,28.698332,77.126422,06-04-2024,00:15:04,Residential Zone,3,No
+1155,Burglary,Delhi City,28.687322,77.093019,26-12-2024,19:13:05,Market Area,3,No
+1156,Cheating,Delhi City,28.682196,77.072765,13-04-2024,12:38:26,Downtown,2,No
+1157,Auto Theft,Delhi City,28.720544,77.081149,21-12-2023,14:55:29,Suburb,3,Yes
+1158,Criminal Breach of Trust,Delhi City,28.684682,77.116102,19-06-2023,19:46:35,Downtown,2,No
+1159,Drug Offenses,Delhi City,28.714632,77.083221,14-05-2023,00:38:39,Downtown,4,No
+1160,Criminal Breach of Trust,Delhi City,28.706129,77.121946,04-10-2023,21:19:12,Downtown,2,No
+1161,Theft,Delhi City,28.708038,77.107863,21-11-2024,01:07:03,Industrial Area,2,No
+1162,Gambling,Delhi City,28.73022,77.128261,03-04-2024,19:45:36,Residential Zone,1,No
+1163,Riots,Delhi City,28.696452,77.108643,31-01-2024,14:28:49,Downtown,4,No
+1164,Cyber Crime,Delhi City,28.720721,77.072904,20-09-2023,11:39:38,Industrial Area,3,No
+1165,Cheating,Delhi City,28.713448,77.126538,21-02-2023,23:33:56,Downtown,2,No
+1166,Sexual Harassment,Delhi City,28.697999,77.072619,19-02-2024,19:20:46,Industrial Area,3,Yes
+1167,Riots,Delhi City,28.729432,77.083274,10-08-2023,13:17:40,Residential Zone,4,No
+1168,POCSO Cases,Delhi City,28.709033,77.085454,19-04-2023,09:13:34,Market Area,5,Yes
+1169,Hurt,Delhi City,28.708781,77.125003,08-12-2023,12:35:23,Commercial District,2,No
+1170,Drug Offenses,Delhi City,28.721192,77.094854,05-04-2023,17:51:08,Residential Zone,4,No
+1171,Counterfeiting,Delhi City,28.733424,77.122883,19-07-2023,14:30:15,Downtown,4,No
+1172,Burglary,Delhi City,28.73245,77.119146,24-08-2023,04:30:56,Downtown,3,No
+1173,Burglary,Delhi City,28.71083,77.101226,28-10-2023,01:20:15,Commercial District,3,No
+1174,POCSO Cases,Delhi City,28.714321,77.077579,06-11-2023,04:36:18,Downtown,5,Yes
+1175,Counterfeiting,Delhi City,28.680101,77.094535,29-06-2023,10:19:07,Industrial Area,3,No
+1176,Theft,Delhi City,28.70171,77.082797,05-07-2023,23:51:21,Market Area,2,No
+1177,POCSO Cases,Delhi City,28.711172,77.127018,28-02-2023,16:05:50,Commercial District,5,Yes
+1178,Criminal Breach of Trust,Delhi City,28.690185,77.102245,09-08-2024,17:37:52,Commercial District,2,No
+1179,Criminal Breach of Trust,Delhi City,28.688547,77.106847,21-06-2023,05:17:58,Suburb,2,Yes
+1180,Drug Offenses,Delhi City,28.700352,77.119743,04-10-2024,16:23:36,Market Area,4,Yes
+1181,Riots,Delhi City,28.707774,77.090326,15-01-2024,15:37:18,Industrial Area,4,Yes
+1182,Criminal Breach of Trust,Delhi City,28.727468,77.118733,06-10-2024,05:06:14,Industrial Area,2,Yes
+1183,Cyber Crime,Delhi City,28.6973,77.123604,19-12-2023,10:59:08,Industrial Area,3,No
+1184,Hurt,Delhi City,28.722902,77.079771,13-01-2023,13:41:04,Market Area,1,No
+1185,Drug Offenses,Delhi City,28.690762,77.120402,09-01-2024,08:53:29,Commercial District,4,Yes
+1186,Theft,Delhi City,28.693854,77.09155,29-05-2024,09:41:21,Downtown,2,No
+1187,Arson,Delhi City,28.731518,77.132492,28-08-2024,12:43:43,Suburb,4,Yes
+1188,Counterfeiting,Delhi City,28.726277,77.109047,24-09-2023,22:15:40,Commercial District,3,No
+1189,Cyber Crime,Delhi City,28.721871,77.087424,29-09-2023,11:04:13,Downtown,3,No
+1190,Arson,Delhi City,28.716823,77.073968,13-12-2023,02:44:13,Industrial Area,3,Yes
+1191,Cheating,Delhi City,28.698578,77.116861,13-10-2024,11:35:04,Residential Zone,2,Yes
+1192,Drug Offenses,Delhi City,28.677519,77.126411,29-06-2024,17:11:34,Residential Zone,4,Yes
+1193,POCSO Cases,Delhi City,28.691781,77.117009,09-03-2024,01:58:37,Suburb,5,Yes
+1194,Counterfeiting,Delhi City,28.679954,77.105383,16-12-2024,01:51:10,Commercial District,3,Yes
+1195,Auto Theft,Delhi City,28.686622,77.073497,08-05-2023,02:42:10,Suburb,3,No
+1196,Burglary,Delhi City,28.728117,77.127701,09-06-2024,12:13:06,Industrial Area,3,No
+1197,Sexual Harassment,Delhi City,28.676619,77.129678,08-06-2023,16:26:23,Suburb,4,Yes
+1198,Criminal Breach of Trust,Delhi City,28.706767,77.110404,22-09-2024,11:08:16,Suburb,2,No
+1199,Cyber Crime,Delhi City,28.70697,77.096202,29-04-2024,02:44:55,Market Area,2,No
+1200,Drug Offenses,Delhi City,28.723834,77.078499,23-12-2024,16:27:42,Downtown,3,No
+1201,Theft,Delhi City,28.679452,77.099637,01-03-2023,23:23:26,Residential Zone,2,No
+1202,Arson,Delhi City,28.689507,77.076397,14-07-2024,01:16:27,Market Area,5,Yes
+1203,Counterfeiting,Delhi City,28.717168,77.074541,17-05-2023,23:48:36,Industrial Area,4,Yes
+1204,Gambling,Delhi City,28.678644,77.098819,23-09-2024,06:31:05,Downtown,2,No
+1205,Burglary,Delhi City,28.72901,77.075878,01-12-2023,21:38:58,Suburb,4,Yes
+1206,Burglary,Delhi City,28.733792,77.088215,27-02-2024,04:08:07,Commercial District,3,No
+1207,Counterfeiting,Delhi City,28.675016,77.089006,03-08-2024,14:37:26,Commercial District,3,No
+1208,Counterfeiting,Delhi City,28.708748,77.110525,25-12-2024,07:37:50,Market Area,2,Yes
+1209,Arson,Delhi City,28.678237,77.120126,27-05-2023,14:35:12,Industrial Area,4,Yes
+1210,Riots,Delhi City,28.728966,77.100637,02-04-2024,22:51:49,Commercial District,3,Yes
+1211,Theft,Delhi City,28.732438,77.097223,12-11-2023,06:04:13,Commercial District,2,No
+1212,Criminal Breach of Trust,Delhi City,28.707665,77.120642,07-10-2024,19:01:48,Market Area,2,Yes
+1213,Auto Theft,Delhi City,28.731701,77.125039,09-11-2023,11:38:23,Suburb,3,No
+1214,POCSO Cases,Delhi City,28.693299,77.089045,14-04-2024,13:59:58,Commercial District,5,Yes
+1215,Cyber Crime,Delhi City,28.691598,77.091042,15-01-2023,19:26:17,Suburb,2,No
+1216,Hurt,Delhi City,28.71054,77.10434,26-04-2023,22:40:26,Downtown,2,No
+1217,Hurt,Delhi City,28.682377,77.0799,19-12-2024,06:51:18,Residential Zone,3,Yes
+1218,Gambling,Delhi City,28.711963,77.08837,18-04-2023,08:47:04,Industrial Area,2,No
+1219,Burglary,Delhi City,28.676936,77.097286,26-08-2024,15:13:42,Residential Zone,3,No
+1220,POCSO Cases,Delhi City,28.703608,77.125845,15-04-2024,20:16:58,Suburb,5,Yes
+1221,Criminal Breach of Trust,Delhi City,28.702784,77.075535,27-09-2024,00:53:58,Suburb,3,Yes
+1222,Auto Theft,Delhi City,28.686412,77.0869,11-03-2024,22:41:24,Residential Zone,2,No
+1223,Drug Offenses,Delhi City,28.731007,77.089735,10-03-2023,20:56:23,Market Area,4,Yes
+1224,Arson,Delhi City,28.675078,77.119753,10-08-2023,22:01:04,Commercial District,5,Yes
+1225,Burglary,Delhi City,28.704316,77.083305,27-09-2023,10:09:57,Suburb,3,No
+1226,Cyber Crime,Delhi City,28.698199,77.081674,10-12-2024,12:03:27,Downtown,2,No
+1227,Theft,Delhi City,28.681677,77.076817,30-03-2023,20:25:32,Downtown,3,No
+1228,Hurt,Delhi City,28.725951,77.127527,07-05-2024,12:19:45,Industrial Area,2,No
+1229,Drug Offenses,Delhi City,28.693034,77.080095,10-03-2024,08:00:06,Residential Zone,4,No
+1230,Riots,Delhi City,28.70123,77.126778,07-05-2024,04:10:46,Residential Zone,4,Yes
+1231,Criminal Breach of Trust,Delhi City,28.690169,77.102724,22-09-2024,18:33:54,Residential Zone,2,No
+1232,Cyber Crime,Delhi City,28.674457,77.113038,20-07-2024,12:02:53,Market Area,3,No
+1233,Auto Theft,Delhi City,28.6814,77.102763,19-06-2024,23:55:35,Commercial District,3,Yes
+1234,Burglary,Delhi City,28.685301,77.128566,14-12-2023,07:20:04,Downtown,3,Yes
+1235,Theft,Delhi City,28.722112,77.11184,15-08-2023,04:00:17,Downtown,2,Yes
+1236,Arson,Delhi City,28.686425,77.130436,09-10-2023,17:21:27,Downtown,3,No
+1237,Auto Theft,Delhi City,28.712019,77.08358,09-01-2023,11:51:22,Commercial District,3,No
+1238,Criminal Breach of Trust,Delhi City,28.71475,77.116018,13-10-2024,01:42:45,Suburb,1,No
+1239,Riots,Delhi City,28.684068,77.100627,10-08-2023,23:23:49,Residential Zone,4,No
+1240,Cyber Crime,Delhi City,28.689643,77.109424,01-04-2023,20:07:24,Commercial District,3,Yes
+1241,Cheating,Delhi City,28.678308,77.11427,28-10-2024,00:20:20,Downtown,2,No
+1242,Arson,Delhi City,28.677213,77.076683,31-07-2024,01:59:37,Industrial Area,4,No
+1243,Gambling,Delhi City,28.731857,77.08523,26-01-2023,15:39:15,Industrial Area,1,No
+1244,Sexual Harassment,Delhi City,28.730655,77.094382,25-10-2023,13:24:18,Downtown,3,Yes
+1245,Burglary,Delhi City,28.682422,77.121116,07-04-2024,10:01:13,Downtown,3,No
+1246,Arson,Delhi City,28.698528,77.074449,14-07-2024,07:39:53,Commercial District,4,Yes
+1247,Auto Theft,Delhi City,28.692365,77.094709,28-02-2024,22:31:47,Suburb,3,Yes
+1248,Gambling,Delhi City,28.717599,77.115958,01-07-2023,11:57:11,Industrial Area,1,No
+1249,Riots,Delhi City,28.688785,77.113684,11-01-2024,09:00:25,Industrial Area,4,No
+1250,Criminal Breach of Trust,Delhi City,28.730719,77.079357,08-03-2024,03:26:12,Residential Zone,2,No
+1251,Cyber Crime,Delhi City,28.733502,77.091227,16-03-2023,22:09:36,Commercial District,3,No
+1252,Cheating,Delhi City,28.70078,77.072625,30-05-2023,22:20:00,Suburb,2,No
+1253,Criminal Breach of Trust,Delhi City,28.727422,77.086192,10-08-2024,16:51:51,Residential Zone,2,No
+1254,Riots,Delhi City,28.712685,77.128668,13-03-2024,00:27:22,Residential Zone,3,Yes
+1255,POCSO Cases,Delhi City,28.682736,77.083778,15-01-2024,02:23:09,Suburb,5,Yes
+1256,Sexual Harassment,Delhi City,28.677018,77.096797,19-06-2023,21:01:56,Market Area,5,Yes
+1257,Gambling,Delhi City,28.678449,77.104533,02-03-2024,06:35:59,Suburb,2,No
+1258,Gambling,Delhi City,28.716251,77.123237,08-09-2023,02:56:02,Downtown,1,No
+1259,Arson,Delhi City,28.692437,77.130473,28-05-2024,05:29:10,Residential Zone,3,Yes
+1260,Cyber Crime,Delhi City,28.698287,77.082904,23-05-2023,04:36:57,Downtown,3,Yes
+1261,Attempt to Murder,Delhi City,28.683403,77.103397,20-05-2024,23:01:17,Commercial District,5,Yes
+1262,Burglary,Delhi City,28.703086,77.109502,12-12-2024,23:29:08,Downtown,3,Yes
+1263,Hurt,Delhi City,28.695791,77.115591,14-05-2023,02:13:39,Suburb,2,No
+1264,Drug Offenses,Delhi City,28.728662,77.078938,14-06-2023,19:59:25,Residential Zone,5,Yes
+1265,Theft,Delhi City,28.70151,77.105753,15-03-2023,13:12:43,Residential Zone,2,No
+1266,Drug Offenses,Delhi City,28.70255,77.103741,25-06-2024,04:54:23,Commercial District,5,Yes
+1267,Arson,Delhi City,28.700465,77.112918,17-05-2023,20:04:37,Industrial Area,4,No
+1268,Arson,Delhi City,28.692858,77.079676,27-11-2024,15:48:36,Residential Zone,3,Yes
+1269,Gambling,Delhi City,28.703405,77.106308,20-10-2024,12:19:22,Suburb,1,No
+1270,Counterfeiting,Delhi City,28.675289,77.079869,11-10-2024,18:24:39,Suburb,4,No
+1271,Cheating,Delhi City,28.685454,77.127484,12-01-2023,09:49:40,Residential Zone,3,No
+1272,Riots,Delhi City,28.708249,77.078306,28-02-2024,23:06:10,Commercial District,3,No
+1273,Cheating,Delhi City,28.71376,77.122308,15-07-2023,02:42:00,Market Area,2,No
+1274,Hurt,Delhi City,28.691295,77.123596,22-09-2023,16:54:47,Downtown,3,No
+1275,Cheating,Delhi City,28.697236,77.121367,28-06-2023,08:20:20,Commercial District,2,No
+1276,POCSO Cases,Delhi City,28.707811,77.100999,28-12-2024,10:42:44,Industrial Area,5,Yes
+1277,Sexual Harassment,Delhi City,28.732172,77.127567,06-10-2024,23:34:13,Industrial Area,4,Yes
+1278,Counterfeiting,Delhi City,28.674627,77.078393,26-03-2023,22:46:52,Commercial District,3,No
+1279,Auto Theft,Delhi City,28.685869,77.074166,06-12-2023,16:53:59,Suburb,2,No
+1280,POCSO Cases,Delhi City,28.704139,77.116417,08-11-2023,18:10:40,Downtown,5,Yes
+1281,POCSO Cases,Delhi City,28.709461,77.115957,14-10-2024,10:17:51,Residential Zone,5,Yes
+1282,Burglary,Delhi City,28.726754,77.082802,10-04-2023,17:44:50,Suburb,4,No
+1283,Auto Theft,Delhi City,28.700115,77.097854,19-05-2024,21:13:42,Commercial District,3,No
+1284,Cheating,Delhi City,28.706797,77.120474,21-11-2024,18:00:46,Market Area,1,No
+1285,Sexual Harassment,Delhi City,28.69011,77.10526,16-08-2023,08:20:41,Suburb,4,Yes
+1286,Gambling,Delhi City,28.712808,77.106199,16-12-2023,15:54:41,Market Area,1,Yes
+1287,Sexual Harassment,Delhi City,28.723953,77.092234,03-02-2024,23:40:11,Downtown,4,Yes
+1288,Burglary,Delhi City,28.718568,77.125601,17-03-2023,06:30:17,Market Area,2,No
+1289,Burglary,Delhi City,28.716184,77.081782,03-11-2024,19:06:43,Downtown,2,Yes
+1290,Auto Theft,Delhi City,28.726598,77.114053,14-10-2024,16:15:07,Suburb,3,No
+1291,Burglary,Delhi City,28.699745,77.100593,25-07-2023,21:57:03,Commercial District,3,Yes
+1292,Auto Theft,Delhi City,28.708971,77.082492,29-05-2024,05:38:04,Downtown,3,No
+1293,Cyber Crime,Delhi City,28.675135,77.09761,01-05-2024,08:50:28,Residential Zone,3,No
+1294,Criminal Breach of Trust,Delhi City,28.707856,77.073004,06-05-2024,02:45:35,Residential Zone,2,No
+1295,Cheating,Delhi City,28.731338,77.081165,20-05-2024,19:58:06,Industrial Area,2,No
+1296,POCSO Cases,Delhi City,28.722882,77.108622,05-11-2024,06:50:07,Commercial District,5,Yes
+1297,Hurt,Delhi City,28.724936,77.075474,14-09-2024,01:21:20,Downtown,2,No
+1298,POCSO Cases,Delhi City,28.698511,77.110322,16-04-2023,18:18:01,Industrial Area,5,Yes
+1299,POCSO Cases,Delhi City,28.702633,77.123806,29-08-2023,05:23:26,Downtown,5,Yes
+1300,Cyber Crime,Delhi City,28.727432,77.10933,21-02-2024,21:25:43,Downtown,3,No
+1301,Auto Theft,Delhi City,28.731076,77.083304,31-10-2023,19:30:13,Industrial Area,3,No
+1302,Arson,Delhi City,28.689913,77.102085,19-11-2024,15:50:25,Suburb,5,Yes
+1303,Criminal Breach of Trust,Delhi City,28.733959,77.074219,21-10-2024,13:03:45,Downtown,2,Yes
+1304,Theft,Delhi City,28.717548,77.113493,12-11-2024,18:10:26,Suburb,2,Yes
+1305,Theft,Delhi City,28.70559,77.091862,09-02-2024,16:16:49,Industrial Area,2,No
+1306,Gambling,Delhi City,28.679028,77.100352,17-12-2023,21:15:11,Suburb,1,No
+1307,Cheating,Delhi City,28.714858,77.131884,05-09-2023,19:37:08,Suburb,3,No
+1308,Cyber Crime,Delhi City,28.696453,77.121871,07-11-2024,02:56:28,Market Area,3,Yes
+1309,Drug Offenses,Delhi City,28.675332,77.091593,06-09-2023,02:40:07,Industrial Area,3,Yes
+1310,Sexual Harassment,Delhi City,28.709903,77.116782,05-02-2023,14:56:03,Suburb,4,No
+1311,Criminal Breach of Trust,Delhi City,28.682802,77.09442,08-01-2024,09:28:17,Commercial District,3,No
+1312,Counterfeiting,Delhi City,28.680316,77.100166,05-08-2024,23:11:05,Commercial District,4,No
+1313,Theft,Delhi City,28.677464,77.082957,03-01-2024,13:44:47,Industrial Area,3,No
+1314,Theft,Delhi City,28.703491,77.126566,17-09-2023,23:53:54,Suburb,2,No
+1315,Hurt,Delhi City,28.728084,77.076674,17-10-2023,23:09:32,Commercial District,3,No
+1316,Theft,Delhi City,28.699199,77.105413,17-03-2023,02:27:17,Suburb,2,No
+1317,Theft,Delhi City,28.692066,77.115438,13-03-2023,19:29:29,Market Area,3,No
+1318,Arson,Delhi City,28.687121,77.11366,29-02-2024,11:12:51,Industrial Area,3,Yes
+1319,Burglary,Delhi City,28.719717,77.115429,30-07-2023,17:58:49,Downtown,3,Yes
+1320,Cyber Crime,Delhi City,28.718194,77.117746,30-03-2024,15:28:58,Downtown,3,No
+1321,Sexual Harassment,Delhi City,28.73053,77.078943,09-11-2023,19:52:31,Suburb,5,Yes
+1322,Auto Theft,Delhi City,28.700126,77.114892,24-11-2023,23:42:35,Residential Zone,4,Yes
+1323,Theft,Delhi City,28.715945,77.124691,26-02-2023,17:44:28,Suburb,3,No
+1324,Cheating,Delhi City,28.688672,77.107283,27-12-2024,13:57:30,Downtown,1,No
+1325,Drug Offenses,Delhi City,28.706821,77.102624,27-10-2024,09:55:20,Market Area,3,Yes
+1326,Cheating,Delhi City,28.707703,77.08728,26-04-2024,19:36:05,Suburb,2,Yes
+1327,POCSO Cases,Delhi City,28.679902,77.07555,30-05-2024,22:20:54,Downtown,4,Yes
+1328,Arson,Delhi City,28.688388,77.118438,08-01-2024,07:48:58,Industrial Area,4,Yes
+1329,Hurt,Delhi City,28.677007,77.082458,12-09-2023,20:15:23,Suburb,2,No
+1330,Auto Theft,Delhi City,28.675445,77.106241,07-03-2023,16:55:08,Downtown,3,Yes
+1331,Burglary,Delhi City,28.707282,77.116068,17-04-2023,23:25:50,Commercial District,4,No
+1332,Auto Theft,Delhi City,28.726666,77.082887,16-04-2024,18:37:54,Downtown,4,Yes
+1333,Arson,Delhi City,28.70421,77.132057,22-07-2023,07:41:52,Residential Zone,4,Yes
+1334,Counterfeiting,Delhi City,28.682616,77.098003,27-06-2023,23:07:47,Commercial District,3,No
+1335,Sexual Harassment,Delhi City,28.681698,77.112147,25-08-2023,18:28:38,Suburb,3,Yes
+1336,Counterfeiting,Delhi City,28.685649,77.090738,10-09-2023,13:22:42,Residential Zone,4,No
+1337,Burglary,Delhi City,28.718055,77.108119,18-08-2024,05:09:14,Commercial District,4,No
+1338,Burglary,Delhi City,28.677173,77.119194,22-09-2024,20:50:30,Suburb,3,Yes
+1339,Burglary,Delhi City,28.732262,77.111563,30-06-2023,18:37:58,Commercial District,3,Yes
+1340,Hurt,Delhi City,28.696348,77.086908,12-01-2024,23:18:56,Commercial District,2,Yes
+1341,Cyber Crime,Delhi City,28.674958,77.077296,12-07-2024,21:33:49,Suburb,3,No
+1342,Criminal Breach of Trust,Delhi City,28.714954,77.11273,02-11-2024,14:47:23,Suburb,1,No
+1343,Sexual Harassment,Delhi City,28.684865,77.086493,15-01-2023,00:08:49,Commercial District,4,No
+1344,Auto Theft,Delhi City,28.67661,77.121607,28-05-2024,14:41:25,Market Area,3,No
+1345,Arson,Delhi City,28.688797,77.099118,23-10-2023,11:47:25,Commercial District,4,Yes
+1346,Drug Offenses,Delhi City,28.716383,77.077587,18-02-2023,23:46:52,Residential Zone,3,Yes
+1347,Auto Theft,Delhi City,28.678519,77.111137,31-08-2023,14:19:43,Market Area,3,Yes
+1348,Drug Offenses,Delhi City,28.690349,77.10455,20-08-2023,21:52:26,Suburb,3,Yes
+1349,Theft,Delhi City,28.704286,77.115093,03-04-2023,06:05:59,Downtown,1,No
+1350,Theft,Delhi City,28.721819,77.13235,01-08-2023,16:22:00,Suburb,2,No
+1351,Drug Offenses,Delhi City,28.729209,77.074727,26-01-2024,06:15:20,Residential Zone,4,Yes
+1352,Sexual Harassment,Delhi City,28.679876,77.084807,27-10-2024,04:07:37,Industrial Area,5,Yes
+1353,Hurt,Delhi City,28.732271,77.082904,03-06-2023,08:52:24,Industrial Area,2,No
+1354,Counterfeiting,Delhi City,28.693424,77.091498,10-01-2023,04:35:38,Residential Zone,2,No
+1355,Gambling,Delhi City,28.730157,77.073724,19-06-2023,19:55:20,Market Area,1,No
+1356,Riots,Delhi City,28.694616,77.098127,04-07-2024,02:03:42,Suburb,3,No
+1357,Sexual Harassment,Delhi City,28.719948,77.1036,02-02-2024,06:09:17,Residential Zone,3,Yes
+1358,Riots,Delhi City,28.722493,77.104533,29-06-2024,07:36:44,Residential Zone,4,No
+1359,Counterfeiting,Delhi City,28.705239,77.080305,20-05-2024,15:47:48,Residential Zone,3,No
+1360,Gambling,Delhi City,28.70424,77.077067,12-05-2024,02:28:12,Residential Zone,2,No
+1361,Sexual Harassment,Delhi City,28.695791,77.120818,02-12-2024,09:53:55,Commercial District,4,Yes
+1362,Arson,Delhi City,28.715389,77.085595,27-12-2023,06:49:05,Market Area,4,Yes
+1363,POCSO Cases,Delhi City,28.690801,77.080947,31-08-2023,17:38:16,Industrial Area,4,Yes
+1364,Criminal Breach of Trust,Delhi City,28.728533,77.091467,29-04-2024,22:17:26,Market Area,2,Yes
+1365,Drug Offenses,Delhi City,28.703034,77.125101,17-07-2023,19:56:45,Industrial Area,3,Yes
+1366,Theft,Delhi City,28.727018,77.120076,31-03-2023,00:21:49,Residential Zone,2,No
+1367,Sexual Harassment,Delhi City,28.704544,77.115555,03-02-2024,05:06:28,Suburb,4,No
+1368,Burglary,Delhi City,28.70099,77.094412,26-06-2023,20:11:26,Industrial Area,3,No
+1369,POCSO Cases,Delhi City,28.733773,77.088256,24-10-2023,23:15:05,Residential Zone,5,Yes
+1370,Counterfeiting,Delhi City,28.688605,77.107183,28-10-2023,01:55:12,Suburb,3,No
+1371,Auto Theft,Delhi City,28.690757,77.087279,27-04-2023,05:50:32,Downtown,3,Yes
+1372,Cyber Crime,Delhi City,28.675258,77.122108,02-04-2024,08:03:15,Market Area,4,No
+1373,POCSO Cases,Delhi City,28.718986,77.122985,17-04-2024,21:26:17,Industrial Area,4,Yes
+1374,Riots,Delhi City,28.707087,77.081438,01-10-2024,12:09:13,Commercial District,3,No
+1375,Counterfeiting,Delhi City,28.713659,77.124397,03-10-2023,05:38:33,Residential Zone,4,Yes
+1376,Burglary,Delhi City,28.728719,77.108345,06-01-2024,13:44:31,Suburb,4,Yes
+1377,Criminal Breach of Trust,Delhi City,28.709965,77.077966,17-10-2023,02:08:55,Industrial Area,2,No
+1378,Riots,Delhi City,28.725403,77.110822,14-05-2023,14:58:32,Residential Zone,4,No
+1379,Criminal Breach of Trust,Delhi City,28.692301,77.119521,18-07-2024,11:18:08,Commercial District,2,No
+1380,Auto Theft,Delhi City,28.722856,77.111946,18-07-2023,19:33:39,Downtown,3,No
+1381,Arson,Delhi City,28.695891,77.074983,04-07-2023,15:21:44,Industrial Area,4,No
+1382,Cheating,Delhi City,28.703607,77.128375,14-06-2023,10:13:04,Residential Zone,3,No
+1383,Drug Offenses,Delhi City,28.723412,77.105259,13-05-2023,12:25:09,Suburb,4,No
+1384,Drug Offenses,Delhi City,28.71601,77.130054,30-04-2024,16:54:09,Industrial Area,3,No
+1385,Burglary,Delhi City,28.679428,77.125185,07-06-2023,22:52:40,Downtown,2,Yes
+1386,Sexual Harassment,Delhi City,28.697909,77.076401,14-10-2024,03:45:55,Market Area,4,No
+1387,Cyber Crime,Delhi City,28.725394,77.081699,06-07-2024,14:17:51,Market Area,3,No
+1388,Riots,Delhi City,28.721571,77.085246,23-01-2023,03:37:57,Suburb,4,Yes
+1389,POCSO Cases,Delhi City,28.689984,77.098053,19-12-2023,09:14:00,Commercial District,5,Yes
+1390,Counterfeiting,Delhi City,28.70597,77.090623,28-03-2024,00:07:14,Industrial Area,2,No
+1391,Arson,Delhi City,28.685937,77.085244,28-04-2024,06:32:54,Suburb,4,No
+1392,Cheating,Delhi City,28.689517,77.092845,26-10-2024,18:35:08,Suburb,3,No
+1393,POCSO Cases,Delhi City,28.722182,77.094368,07-06-2024,21:46:07,Residential Zone,4,Yes
+1394,Counterfeiting,Delhi City,28.702611,77.081864,20-03-2024,10:48:56,Residential Zone,3,No
+1395,Arson,Delhi City,28.688623,77.088781,26-05-2023,18:31:39,Commercial District,4,Yes
+1396,Arson,Delhi City,28.702933,77.095421,08-02-2023,20:11:51,Downtown,3,No
+1397,Arson,Delhi City,28.683505,77.115945,22-05-2023,02:28:51,Residential Zone,4,Yes
+1398,Burglary,Delhi City,28.682551,77.130393,03-12-2023,01:37:57,Market Area,2,Yes
+1399,Counterfeiting,Delhi City,28.697128,77.104182,26-10-2024,12:52:01,Industrial Area,3,No
+1400,Burglary,Delhi City,28.682367,77.094944,06-08-2023,20:42:21,Residential Zone,3,Yes
+1401,Criminal Breach of Trust,Delhi City,28.708368,77.092599,30-08-2023,17:10:33,Commercial District,2,Yes
+1402,Sexual Harassment,Delhi City,28.678153,77.088581,20-02-2024,22:42:14,Commercial District,3,Yes
+1403,Gambling,Delhi City,28.700006,77.122972,06-09-2024,20:18:39,Commercial District,2,No
+1404,Sexual Harassment,Delhi City,28.70632,77.117022,29-12-2024,18:23:47,Market Area,3,Yes
+1405,Arson,Delhi City,28.676338,77.114901,19-06-2024,03:38:58,Suburb,4,No
+1406,Cheating,Delhi City,28.695271,77.105059,02-12-2024,20:57:06,Downtown,2,Yes
+1407,Drug Offenses,Delhi City,28.725079,77.089792,30-06-2024,00:24:59,Downtown,4,Yes
+1408,Arson,Delhi City,28.693534,77.11862,19-05-2023,12:12:55,Suburb,3,Yes
+1409,Theft,Delhi City,28.710314,77.127242,03-10-2024,13:06:17,Commercial District,2,Yes
+1410,Burglary,Delhi City,28.676565,77.109827,21-01-2024,16:06:22,Suburb,3,No
+1411,Drug Offenses,Delhi City,28.729915,77.130274,18-07-2023,08:40:39,Industrial Area,4,Yes
+1412,Burglary,Delhi City,28.702264,77.102666,14-02-2023,23:53:20,Residential Zone,3,Yes
+1413,POCSO Cases,Delhi City,28.722598,77.107448,29-09-2024,01:41:13,Market Area,4,Yes
+1414,Counterfeiting,Delhi City,28.690568,77.105836,18-10-2023,22:17:07,Residential Zone,3,No
+1415,Hurt,Delhi City,28.680922,77.095064,13-10-2024,06:55:00,Industrial Area,2,No
+1416,Drug Offenses,Delhi City,28.702868,77.106566,13-06-2023,19:14:26,Industrial Area,5,Yes
+1417,Theft,Delhi City,28.680511,77.102467,03-08-2023,09:57:37,Downtown,2,No
+1418,Theft,Delhi City,28.693792,77.072634,29-10-2023,02:54:59,Commercial District,2,No
+1419,Cheating,Delhi City,28.693181,77.092254,13-10-2023,06:14:03,Industrial Area,1,No
+1420,Sexual Harassment,Delhi City,28.723149,77.085157,06-04-2023,16:44:26,Residential Zone,4,No
+1421,Riots,Delhi City,28.71653,77.074841,15-08-2023,07:54:42,Industrial Area,4,Yes
+1422,Criminal Breach of Trust,Delhi City,28.691826,77.117753,04-09-2024,06:07:50,Residential Zone,2,No
+1423,Arson,Delhi City,28.699352,77.126834,25-07-2023,19:31:43,Industrial Area,4,No
+1424,Arson,Delhi City,28.715078,77.092851,13-01-2024,05:10:08,Downtown,4,Yes
+1425,Gambling,Delhi City,28.692876,77.115499,13-02-2024,19:55:53,Residential Zone,1,No
+1426,Hurt,Delhi City,28.72919,77.094662,26-08-2023,21:22:59,Commercial District,3,Yes
+1427,Burglary,Delhi City,28.69197,77.109209,18-05-2023,04:31:21,Downtown,3,No
+1428,Drug Offenses,Delhi City,28.713785,77.090758,16-01-2023,02:09:18,Market Area,4,No
+1429,Riots,Delhi City,28.729486,77.118227,11-02-2024,08:25:06,Industrial Area,4,No
+1430,Criminal Breach of Trust,Delhi City,28.719471,77.116712,21-05-2023,22:08:35,Residential Zone,2,Yes
+1431,Hurt,Delhi City,28.677951,77.082705,15-05-2023,20:06:32,Industrial Area,3,No
+1432,Auto Theft,Delhi City,28.677645,77.130241,23-01-2024,22:55:27,Downtown,3,No
+1433,Arson,Delhi City,28.731385,77.124239,02-12-2023,01:15:37,Downtown,4,Yes
+1434,Drug Offenses,Delhi City,28.713614,77.078797,05-12-2023,07:42:17,Residential Zone,4,Yes
+1435,Counterfeiting,Delhi City,28.68202,77.129447,02-06-2024,14:25:07,Industrial Area,2,No
+1436,Criminal Breach of Trust,Delhi City,28.705253,77.124863,15-05-2023,02:48:45,Market Area,2,Yes
+1437,Cyber Crime,Delhi City,28.726163,77.132343,17-07-2024,13:23:53,Suburb,4,No
+1438,POCSO Cases,Delhi City,28.708088,77.074384,29-10-2024,04:07:54,Commercial District,5,Yes
+1439,Arson,Delhi City,28.733696,77.089347,08-11-2024,18:49:54,Suburb,4,Yes
+1440,Riots,Delhi City,28.722893,77.107415,24-09-2023,04:41:19,Suburb,4,Yes
+1441,Cyber Crime,Delhi City,28.728657,77.112184,26-11-2024,17:09:57,Residential Zone,4,Yes
+1442,Drug Offenses,Delhi City,28.719028,77.107581,28-06-2023,17:43:13,Downtown,4,Yes
+1443,Arson,Delhi City,28.690134,77.095714,09-09-2024,17:45:48,Commercial District,4,Yes
+1444,Arson,Delhi City,28.686145,77.130962,26-11-2024,19:18:32,Suburb,4,Yes
+1445,Counterfeiting,Delhi City,28.674706,77.08643,18-09-2024,01:32:01,Commercial District,3,No
+1446,Burglary,Delhi City,28.730402,77.092719,04-12-2024,03:40:30,Industrial Area,2,No
+1447,Cheating,Delhi City,28.722145,77.085359,28-07-2024,14:22:43,Commercial District,2,No
+1448,Criminal Breach of Trust,Delhi City,28.679215,77.106065,17-12-2024,17:09:43,Residential Zone,2,No
+1449,Gambling,Delhi City,28.729061,77.116343,16-08-2023,14:42:20,Industrial Area,2,Yes
+1450,Arson,Delhi City,28.724184,77.088642,26-10-2023,02:37:00,Downtown,4,Yes
+1451,Sexual Harassment,Delhi City,28.708818,77.094453,26-07-2024,16:04:15,Suburb,3,No
+1452,Theft,Delhi City,28.679186,77.116733,28-07-2024,10:23:58,Residential Zone,1,No
+1453,Arson,Delhi City,28.710572,77.112209,02-07-2024,20:16:19,Downtown,4,No
+1454,Criminal Breach of Trust,Delhi City,28.728896,77.075097,02-11-2023,22:29:21,Residential Zone,2,Yes
+1455,Cheating,Delhi City,28.674579,77.080458,16-12-2024,03:09:46,Industrial Area,2,No
+1456,Riots,Delhi City,28.688553,77.079351,20-12-2023,23:47:11,Residential Zone,4,No
+1457,Auto Theft,Delhi City,28.677331,77.076373,12-12-2023,16:02:51,Residential Zone,2,No
+1458,Theft,Delhi City,28.699702,77.095304,03-03-2023,12:49:59,Downtown,2,No
+1459,Arson,Delhi City,28.698537,77.107435,16-03-2023,08:21:22,Market Area,4,No
+1460,Drug Offenses,Delhi City,28.697864,77.079415,11-04-2024,21:55:44,Market Area,4,Yes
+1461,Sexual Harassment,Delhi City,28.701971,77.120326,24-10-2023,16:54:49,Suburb,4,No
+1462,Gambling,Delhi City,28.715237,77.099602,05-10-2023,12:53:25,Residential Zone,1,No
+1463,Gambling,Delhi City,28.702298,77.125101,31-03-2023,17:48:45,Downtown,1,No
+1464,Sexual Harassment,Delhi City,28.691729,77.074009,26-02-2023,15:53:53,Market Area,4,Yes
+1465,Hurt,Delhi City,28.693196,77.121323,25-06-2023,18:25:38,Residential Zone,2,Yes
+1466,Theft,Delhi City,28.697421,77.122725,20-11-2023,13:40:42,Suburb,2,No
+1467,Gambling,Delhi City,28.681227,77.120512,30-04-2024,11:30:21,Industrial Area,1,No
+1468,Riots,Delhi City,28.713045,77.093023,03-12-2024,20:06:33,Residential Zone,4,Yes
+1469,Criminal Breach of Trust,Delhi City,28.675579,77.116302,04-05-2024,02:25:34,Market Area,2,No
+1470,POCSO Cases,Delhi City,28.710687,77.129603,10-12-2024,00:26:50,Residential Zone,5,Yes
+1471,Cyber Crime,Delhi City,28.72832,77.073702,19-12-2024,08:32:58,Residential Zone,3,Yes
+1472,Cheating,Delhi City,28.704749,77.10093,14-04-2023,02:41:07,Industrial Area,2,No
+1473,Counterfeiting,Delhi City,28.712686,77.096218,13-12-2024,23:03:58,Industrial Area,3,Yes
+1474,Cheating,Delhi City,28.713449,77.076164,17-11-2024,06:12:48,Market Area,2,Yes
+1475,Hurt,Delhi City,28.684974,77.081862,15-04-2023,19:38:02,Downtown,2,Yes
+1476,Auto Theft,Delhi City,28.725592,77.090258,07-03-2023,08:52:00,Residential Zone,3,Yes
+1477,Gambling,Delhi City,28.678623,77.075333,05-02-2024,03:05:04,Downtown,1,No
+1478,Counterfeiting,Delhi City,28.695195,77.103684,01-12-2024,13:35:35,Suburb,2,No
+1479,Riots,Delhi City,28.725887,77.125524,05-07-2023,10:52:56,Downtown,4,Yes
+1480,POCSO Cases,Delhi City,28.706127,77.12035,24-05-2023,13:48:08,Commercial District,5,Yes
+1481,Theft,Delhi City,28.680359,77.104849,07-04-2023,06:06:14,Industrial Area,1,No
+1482,POCSO Cases,Dhanbad,23.798658,86.412442,16-12-2023,14:45:59,Peripheral Zone,4,No
+1483,Cheating,Dhanbad,23.766825,86.418022,08-09-2024,14:55:01,Municipal Area,1,No
+1484,Counterfeiting,Durg-Bhilainagar,21.207474,81.3564,05-05-2024,19:06:01,Town Center,3,No
+1485,Drug Offenses,Durg-Bhilainagar,21.203914,81.326057,01-07-2024,03:57:29,Town Center,4,No
+1486,Auto Theft,Durg-Bhilainagar,21.218913,81.368882,01-06-2024,16:48:52,Municipal Area,3,No
+1487,Theft,Durg-Bhilainagar,21.171113,81.330865,29-05-2023,07:16:37,Municipal Area,2,No
+1488,Gambling,Durg-Bhilainagar,21.176488,81.348681,17-03-2023,07:46:38,Municipal Area,1,No
+1489,Cheating,Faridabad,28.382049,77.319715,16-12-2023,08:43:40,Peripheral Zone,1,No
+1490,Cheating,Faridabad,28.406495,77.332259,01-05-2024,16:16:25,Town Center,1,No
+1491,Drug Offenses,Faridabad,28.43533,77.329719,08-12-2024,02:35:05,Peripheral Zone,3,Yes
+1492,Drug Offenses,Faridabad,28.419252,77.332803,25-02-2023,08:56:25,Town Center,4,No
+1493,Cyber Crime,Faridabad,28.398913,77.318077,24-11-2024,21:54:47,Municipal Area,3,Yes
+1494,Drug Offenses,Faridabad,28.401598,77.344817,02-07-2023,16:58:43,Town Center,4,No
+1495,POCSO Cases,Faridabad,28.424446,77.301215,30-07-2024,17:19:21,Town Center,5,Yes
+1496,Auto Theft,Faridabad,28.427281,77.304732,17-09-2024,21:41:08,Municipal Area,3,Yes
+1497,Drug Offenses,Faridabad,28.398999,77.34572,30-05-2024,02:19:22,Peripheral Zone,5,Yes
+1498,Gambling,Faridabad,28.416407,77.325825,20-02-2023,15:04:50,Town Center,2,No
+1499,Criminal Breach of Trust,Faridabad,28.407811,77.338822,17-04-2023,09:21:44,Town Center,1,No
+1500,Drug Offenses,Ghaziabad,28.697653,77.44817,07-02-2024,05:27:53,Peripheral Zone,4,Yes
+1501,Arson,Ghaziabad,28.687362,77.460584,31-05-2024,06:30:44,Municipal Area,4,Yes
+1502,POCSO Cases,Ghaziabad,28.650923,77.479846,14-01-2024,19:32:31,Municipal Area,5,Yes
+1503,Gambling,Ghaziabad,28.643109,77.459093,13-05-2023,23:31:30,Municipal Area,2,No
+1504,Drug Offenses,Ghaziabad,28.65116,77.476159,23-08-2023,19:21:34,Town Center,4,Yes
+1505,Theft,Ghaziabad,28.660507,77.439268,24-02-2024,18:14:55,Municipal Area,2,Yes
+1506,Arson,Ghaziabad,28.684052,77.463621,26-02-2024,21:23:38,Town Center,5,Yes
+1507,Drug Offenses,Ghaziabad,28.648047,77.433425,19-04-2024,04:00:23,Town Center,3,No
+1508,Arson,Ghaziabad,28.644051,77.478485,24-12-2024,09:40:42,Town Center,5,Yes
+1509,Cyber Crime,Ghaziabad,28.683408,77.454595,02-07-2023,17:43:04,Peripheral Zone,3,No
+1510,Drug Offenses,Gwalior,26.235803,78.196831,17-11-2023,20:02:58,Peripheral Zone,4,Yes
+1511,Arson,Gwalior,26.218715,78.196226,25-12-2023,00:03:50,Municipal Area,5,No
+1512,POCSO Cases,Gwalior,26.222943,78.179602,26-12-2023,20:12:33,Municipal Area,5,Yes
+1513,POCSO Cases,Gwalior,26.245987,78.176706,22-03-2023,04:34:57,Peripheral Zone,5,Yes
+1514,Cyber Crime,Gwalior,26.205411,78.177147,20-06-2024,15:00:19,Town Center,3,No
+1515,Cheating,Gwalior,26.207127,78.166649,24-03-2024,12:02:22,Town Center,3,No
+1516,Criminal Breach of Trust,Gwalior,26.206989,78.17115,24-10-2023,14:36:26,Municipal Area,1,No
+1517,Riots,Gwalior,26.208446,78.175971,25-05-2024,12:25:05,Town Center,4,Yes
+1518,Auto Theft,Gwalior,26.225625,78.206224,12-02-2024,21:37:21,Municipal Area,4,Yes
+1519,Hurt,Gwalior,26.21782,78.153032,30-06-2024,00:17:23,Municipal Area,1,No
+1520,Hurt,Hyderabad,17.365988,78.491247,12-10-2023,01:26:28,Municipal Area,3,No
+1521,Auto Theft,Hyderabad,17.405608,78.472201,26-05-2024,15:13:12,Town Center,3,Yes
+1522,Counterfeiting,Hyderabad,17.365997,78.485659,04-07-2023,02:02:45,Town Center,3,No
+1523,Criminal Breach of Trust,Hyderabad,17.359815,78.51047,17-11-2024,21:28:30,Municipal Area,1,No
+1524,Drug Offenses,Hyderabad,17.379911,78.493221,07-01-2023,15:53:08,Peripheral Zone,3,Yes
+1525,Murder,Hyderabad,17.396073,78.470789,11-07-2023,20:51:20,Peripheral Zone,5,Yes
+1526,Sexual Harassment,Hyderabad,17.393442,78.491027,20-11-2023,11:35:23,Peripheral Zone,4,No
+1527,Hurt,Hyderabad,17.358368,78.512766,17-09-2023,10:28:15,Peripheral Zone,1,No
+1528,Drug Offenses,Hyderabad,17.36107,78.459165,24-03-2024,11:14:49,Town Center,4,Yes
+1529,POCSO Cases,Hyderabad,17.36827,78.5026,08-08-2023,09:54:41,Peripheral Zone,5,Yes
+1530,Arson,Hyderabad,17.412297,78.461874,10-10-2024,10:59:19,Peripheral Zone,4,Yes
+1531,Counterfeiting,Hyderabad,17.411705,78.477542,18-09-2023,16:44:00,Peripheral Zone,2,No
+1532,Theft,Hyderabad,17.410438,78.493916,21-02-2023,16:50:24,Town Center,3,No
+1533,Sexual Harassment,Hyderabad,17.365994,78.50449,21-09-2023,00:54:48,Peripheral Zone,3,Yes
+1534,Auto Theft,Hyderabad,17.378063,78.512539,07-08-2024,22:33:55,Town Center,2,No
+1535,Riots,Hyderabad,17.364458,78.458068,02-08-2024,06:41:32,Peripheral Zone,5,Yes
+1536,Sexual Harassment,Hyderabad,17.365632,78.498107,19-05-2023,23:45:10,Town Center,4,Yes
+1537,Riots,Hyderabad,17.397155,78.494676,01-04-2024,08:58:18,Municipal Area,4,Yes
+1538,Sexual Harassment,Hyderabad,17.361432,78.475742,15-02-2024,11:53:25,Town Center,4,Yes
+1539,POCSO Cases,Hyderabad,17.373619,78.484991,20-04-2024,06:56:55,Town Center,5,Yes
+1540,POCSO Cases,Hyderabad,17.396357,78.479237,19-04-2024,09:44:28,Town Center,4,Yes
+1541,Burglary,Hyderabad,17.372001,78.49481,01-07-2023,19:26:34,Peripheral Zone,3,No
+1542,Theft,Hyderabad,17.384371,78.456886,01-12-2024,05:35:30,Municipal Area,2,No
+1543,Riots,Hyderabad,17.41218,78.487657,16-12-2023,02:19:32,Municipal Area,4,Yes
+1544,Hurt,Indore,22.740592,75.845736,10-09-2024,03:01:02,Peripheral Zone,2,No
+1545,POCSO Cases,Indore,22.701882,75.867379,22-02-2024,18:08:14,Town Center,4,Yes
+1546,Arson,Indore,22.702621,75.838566,10-07-2024,04:14:40,Peripheral Zone,5,Yes
+1547,Counterfeiting,Indore,22.692241,75.861487,02-05-2023,12:30:34,Town Center,2,Yes
+1548,Arson,Indore,22.706566,75.839196,13-07-2024,03:42:06,Peripheral Zone,4,Yes
+1549,Sexual Harassment,Indore,22.694461,75.860776,20-05-2023,22:25:29,Peripheral Zone,4,No
+1550,Auto Theft,Indore,22.740845,75.846377,23-07-2023,05:24:03,Town Center,3,No
+1551,Theft,Indore,22.727773,75.884932,15-02-2024,15:09:27,Town Center,2,No
+1552,Counterfeiting,Indore,22.69142,75.85896,27-01-2024,03:51:56,Municipal Area,3,No
+1553,Sexual Harassment,Indore,22.733755,75.842003,04-12-2023,10:30:15,Town Center,4,Yes
+1554,Hurt,Indore,22.734735,75.835912,13-01-2024,22:14:41,Municipal Area,2,No
+1555,Hurt,Indore,22.744029,75.84438,06-03-2023,03:10:32,Municipal Area,2,Yes
+1556,Criminal Breach of Trust,Indore,22.729407,75.887657,02-06-2024,07:50:23,Municipal Area,1,No
+1557,Criminal Breach of Trust,Indore,22.71222,75.863959,29-12-2023,21:50:46,Peripheral Zone,3,No
+1558,Drug Offenses,Indore,22.747373,75.84663,09-04-2023,21:52:24,Municipal Area,3,Yes
+1559,Cheating,Indore,22.721858,75.875887,23-10-2024,06:32:36,Peripheral Zone,1,Yes
+1560,Cyber Crime,Indore,22.709416,75.840148,18-03-2023,08:51:08,Municipal Area,4,Yes
+1561,Riots,Indore,22.714523,75.869542,17-07-2024,16:31:25,Municipal Area,4,No
+1562,Hurt,Indore,22.71074,75.828007,08-05-2023,03:48:36,Peripheral Zone,3,Yes
+1563,Arson,Indore,22.730634,75.847423,05-06-2023,01:22:28,Town Center,5,Yes
+1564,POCSO Cases,Jabalpur,23.157807,79.91952,01-04-2024,05:38:13,Town Center,5,Yes
+1565,Gambling,Jabalpur,23.174423,79.952907,11-09-2024,15:44:15,Peripheral Zone,1,Yes
+1566,Theft,Jabalpur,23.143714,79.947801,17-03-2023,13:49:08,Town Center,2,No
+1567,Criminal Breach of Trust,Jabalpur,23.162386,79.917837,09-03-2023,18:58:31,Peripheral Zone,2,No
+1568,Hurt,Jabalpur,23.142524,79.954332,18-12-2023,07:48:02,Town Center,3,No
+1569,Sexual Harassment,Jabalpur,23.17538,79.913031,11-01-2024,23:29:48,Municipal Area,4,No
+1570,POCSO Cases,Jabalpur,23.148986,79.903978,01-02-2023,08:56:33,Town Center,4,Yes
+1571,Riots,Jabalpur,23.189235,79.912542,28-01-2024,13:07:22,Peripheral Zone,3,No
+1572,Theft,Jabalpur,23.178729,79.922123,10-06-2023,13:33:48,Town Center,2,No
+1573,Drug Offenses,Jaipur,26.917307,75.812936,10-05-2024,16:45:52,Bus Stand Area,4,Yes
+1574,Sexual Harassment,Jaipur,26.937038,75.806076,10-05-2024,19:34:10,Bus Stand Area,4,Yes
+1575,Attempt to Murder,Jaipur,26.931656,75.813472,06-01-2024,12:41:02,Old City,4,No
+1576,Arson,Jaipur,26.924958,75.765806,11-09-2024,08:12:57,Old City,4,No
+1577,Drug Offenses,Jaipur,26.91013,75.797368,02-05-2023,23:51:54,Old City,4,Yes
+1578,Cyber Crime,Jaipur,26.915747,75.777342,04-06-2023,04:13:33,New Township,3,No
+1579,Criminal Breach of Trust,Jaipur,26.93952,75.786054,14-11-2023,11:16:36,Railway Colony,2,No
+1580,Attempt to Murder,Jaipur,26.910444,75.806732,02-01-2023,05:23:10,Old City,4,Yes
+1581,Attempt to Murder,Jaipur,26.896393,75.795808,30-10-2023,11:12:17,Bus Stand Area,5,Yes
+1582,Burglary,Jaipur,26.919503,75.75879,26-01-2024,15:37:58,Old City,3,No
+1583,Riots,Jaipur,26.92688,75.775314,16-02-2024,20:36:21,Bus Stand Area,5,Yes
+1584,Arson,Jaipur,26.914141,75.795865,08-02-2023,19:33:08,Railway Colony,4,Yes
+1585,Cyber Crime,Jaipur,26.887104,75.80356,09-12-2024,13:07:39,Bus Stand Area,4,No
+1586,Drug Offenses,Jaipur,26.905069,75.786951,18-09-2024,15:57:08,New Township,4,Yes
+1587,Sexual Harassment,Jaipur,26.883479,75.80274,28-03-2024,23:44:53,Railway Colony,4,No
+1588,Gambling,Jaipur,26.905346,75.815668,13-01-2023,16:50:45,City Center,2,No
+1589,Arson,Jaipur,26.903165,75.815013,18-04-2024,13:45:02,Bus Stand Area,5,Yes
+1590,Hurt,Jaipur,26.891043,75.763951,12-03-2024,12:49:25,New Township,1,No
+1591,Cyber Crime,Jaipur,26.910174,75.78923,27-02-2023,22:58:12,New Township,3,Yes
+1592,Criminal Breach of Trust,Jaipur,26.929522,75.780202,26-06-2023,00:10:21,Bus Stand Area,1,No
+1593,Burglary,Jaipur,26.888571,75.776369,16-11-2024,09:53:54,Railway Colony,3,No
+1594,Auto Theft,Jaipur,26.938688,75.764567,25-04-2024,15:05:14,New Township,4,No
+1595,Hurt,Jaipur,26.934737,75.777006,27-01-2023,08:05:53,New Township,1,No
+1596,Robbery,Jaipur,26.913513,75.795049,08-03-2024,10:02:26,City Center,3,No
+1597,Robbery,Jaipur,26.884097,75.790479,24-11-2023,20:59:50,New Township,4,Yes
+1598,Sexual Harassment,Jaipur,26.936892,75.763141,09-02-2024,02:59:23,Old City,4,Yes
+1599,Gambling,Jaipur,26.919612,75.803631,03-01-2024,20:42:41,New Township,1,No
+1600,Criminal Breach of Trust,Jaipur,26.905751,75.816091,06-12-2023,17:03:51,Old City,3,Yes
+1601,Gambling,Jaipur,26.913437,75.814065,02-03-2023,09:12:07,Bus Stand Area,2,No
+1602,Auto Theft,Jaipur,26.8928,75.797814,09-10-2023,19:26:26,Bus Stand Area,2,No
+1603,Sexual Harassment,Jaipur,26.905523,75.808104,11-02-2024,19:48:51,New Township,3,No
+1604,Drug Offenses,Jaipur,26.898167,75.758607,02-09-2023,11:11:47,Railway Colony,4,Yes
+1605,Auto Theft,Jaipur,26.901058,75.811981,12-07-2023,05:25:27,Railway Colony,3,No
+1606,Kidnapping,Jamshedpur,22.830171,86.19577,10-06-2023,01:40:10,Municipal Area,5,Yes
+1607,Drug Offenses,Jamshedpur,22.775022,86.181295,22-04-2024,04:44:13,Town Center,4,Yes
+1608,Counterfeiting,Jodhpur,26.226785,73.023835,04-02-2023,16:37:34,Municipal Area,3,No
+1609,Hurt,Jodhpur,26.215347,73.014313,23-02-2023,23:53:38,Municipal Area,1,No
+1610,Gambling,Jodhpur,26.226664,72.998499,20-08-2024,15:53:27,Peripheral Zone,1,No
+1611,POCSO Cases,Jodhpur,26.217154,73.003681,24-05-2024,08:50:21,Peripheral Zone,5,Yes
+1612,Criminal Breach of Trust,Jodhpur,26.21937,73.0447,13-11-2024,22:55:14,Municipal Area,2,No
+1613,Kidnapping,Jodhpur,26.258558,73.024009,18-12-2024,13:37:23,Town Center,4,Yes
+1614,Murder,Jodhpur,26.23418,73.043681,18-06-2024,07:50:17,Peripheral Zone,4,Yes
+1615,Gambling,Jodhpur,26.253746,73.000264,07-06-2023,15:17:45,Peripheral Zone,1,No
+1616,Theft,Kannur,11.864494,75.371186,14-02-2024,17:51:05,Peripheral Zone,1,No
+1617,Cyber Crime,Kannur,11.894479,75.388023,07-11-2023,03:02:19,Municipal Area,4,No
+1618,Cyber Crime,Kannur,11.901397,75.386636,06-07-2023,14:14:57,Peripheral Zone,3,No
+1619,Cyber Crime,Kannur,11.883356,75.391125,10-08-2024,20:46:32,Peripheral Zone,3,No
+1620,Arson,Kanpur,26.447149,80.305317,05-12-2023,12:41:01,Town Center,4,No
+1621,Drug Offenses,Kanpur,26.430161,80.321805,06-11-2023,06:28:37,Town Center,4,Yes
+1622,Gambling,Kanpur,26.460217,80.306208,17-11-2023,03:03:23,Peripheral Zone,1,No
+1623,Hurt,Kanpur,26.451077,80.323883,23-09-2023,08:52:50,Peripheral Zone,3,No
+1624,Burglary,Kanpur,26.440509,80.312948,11-04-2024,02:26:49,Municipal Area,3,No
+1625,POCSO Cases,Kanpur,26.444028,80.320853,08-06-2024,18:26:28,Peripheral Zone,5,Yes
+1626,Cyber Crime,Kanpur,26.462658,80.313846,11-11-2024,16:56:21,Town Center,3,No
+1627,POCSO Cases,Kanpur,26.427609,80.30469,26-04-2024,16:44:09,Town Center,5,Yes
+1628,POCSO Cases,Kanpur,26.453121,80.358909,28-08-2023,08:01:38,Peripheral Zone,5,Yes
+1629,Auto Theft,Kanpur,26.446796,80.347823,23-04-2024,07:07:40,Peripheral Zone,3,No
+1630,Hurt,Kanpur,26.442847,80.311943,06-07-2024,14:29:11,Town Center,2,No
+1631,Auto Theft,Kanpur,26.445904,80.307799,24-10-2024,03:24:45,Town Center,2,No
+1632,Cheating,Kochi,9.929159,76.248917,19-11-2023,02:24:00,Town Center,2,No
+1633,Criminal Breach of Trust,Kochi,9.953634,76.27992,07-07-2024,07:59:25,Town Center,2,No
+1634,Gambling,Kochi,9.938525,76.273796,11-04-2024,07:02:24,Municipal Area,1,No
+1635,Criminal Breach of Trust,Kochi,9.931293,76.280733,27-05-2024,07:27:44,Municipal Area,1,No
+1636,Drug Offenses,Kochi,9.940475,76.259343,28-11-2023,21:37:47,Town Center,4,Yes
+1637,Sexual Harassment,Kochi,9.901721,76.26817,30-01-2024,03:07:15,Town Center,5,Yes
+1638,Criminal Breach of Trust,Kochi,9.920929,76.244276,26-01-2023,21:12:11,Municipal Area,2,No
+1639,Burglary,Kochi,9.903217,76.281257,10-03-2023,06:16:06,Peripheral Zone,4,Yes
+1640,Burglary,Kochi,9.919258,76.258866,10-03-2023,04:44:43,Peripheral Zone,3,No
+1641,Arson,Kochi,9.949733,76.286118,30-05-2023,16:46:41,Peripheral Zone,3,No
+1642,Hurt,Kochi,9.931105,76.255751,13-04-2024,03:48:38,Peripheral Zone,2,Yes
+1643,Criminal Breach of Trust,Kochi,9.953046,76.238265,16-08-2023,22:06:53,Municipal Area,2,No
+1644,Sexual Harassment,Kochi,9.904458,76.282907,21-06-2023,19:19:37,Municipal Area,4,Yes
+1645,Sexual Harassment,Kochi,9.909568,76.248152,20-06-2023,11:31:45,Peripheral Zone,4,Yes
+1646,Hurt,Kochi,9.910529,76.286793,12-10-2024,21:18:53,Municipal Area,1,Yes
+1647,Drug Offenses,Kochi,9.959279,76.278923,17-08-2024,09:36:19,Municipal Area,4,Yes
+1648,Cyber Crime,Kochi,9.942667,76.263917,26-04-2023,03:20:57,Town Center,4,Yes
+1649,Auto Theft,Kochi,9.936434,76.277468,23-01-2023,13:43:25,Municipal Area,2,No
+1650,Cyber Crime,Kochi,9.908899,76.244083,03-10-2023,20:52:36,Town Center,4,No
+1651,Criminal Breach of Trust,Kochi,9.92723,76.278987,01-03-2024,04:33:41,Town Center,1,No
+1652,Burglary,Kochi,9.901485,76.253821,04-04-2024,12:04:23,Town Center,3,No
+1653,Theft,Kochi,9.908071,76.275909,22-09-2024,07:01:02,Town Center,2,No
+1654,Counterfeiting,Kochi,9.92237,76.264723,29-04-2023,18:26:11,Municipal Area,3,No
+1655,POCSO Cases,Kochi,9.929378,76.273228,23-10-2023,16:41:50,Municipal Area,5,Yes
+1656,Criminal Breach of Trust,Kochi,9.948438,76.281765,05-05-2024,05:17:24,Town Center,3,No
+1657,Criminal Breach of Trust,Kochi,9.927472,76.237516,21-11-2024,07:30:33,Town Center,2,No
+1658,Counterfeiting,Kochi,9.954326,76.281903,25-04-2024,23:09:32,Peripheral Zone,3,No
+1659,Sexual Harassment,Kochi,9.943104,76.269683,22-12-2024,20:21:31,Town Center,4,Yes
+1660,Cheating,Kolkata,22.569317,88.382044,30-11-2024,00:59:54,Market Area,1,No
+1661,Cyber Crime,Kolkata,22.556299,88.390122,11-06-2023,09:01:12,Downtown,3,No
+1662,Criminal Breach of Trust,Kolkata,22.58213,88.341053,19-02-2024,11:08:21,Suburb,2,Yes
+1663,Arson,Kolkata,22.565834,88.371035,20-05-2023,07:48:11,Market Area,3,Yes
+1664,Criminal Breach of Trust,Kolkata,22.588765,88.376619,22-05-2024,07:47:59,Commercial District,2,Yes
+1665,Gambling,Kolkata,22.58483,88.348927,20-04-2023,04:33:28,Suburb,1,No
+1666,Drug Offenses,Kolkata,22.584561,88.386366,18-12-2023,17:54:01,Commercial District,5,Yes
+1667,Gambling,Kolkata,22.584672,88.381428,06-01-2024,15:11:31,Downtown,1,No
+1668,Riots,Kolkata,22.550578,88.348945,16-08-2023,01:30:20,Commercial District,3,Yes
+1669,Riots,Kolkata,22.56907,88.336124,11-11-2024,15:37:39,Downtown,5,Yes
+1670,Theft,Kolkata,22.57052,88.353054,11-01-2024,05:21:52,Commercial District,2,No
+1671,Cheating,Kolkata,22.557816,88.347357,07-05-2024,05:22:06,Suburb,2,Yes
+1672,Cyber Crime,Kollam,8.903596,76.639534,03-10-2023,01:20:41,Town Center,3,No
+1673,Riots,Kollam,8.89355,76.625438,17-11-2024,14:23:38,Town Center,3,No
+1674,Hurt,Kollam,8.885511,76.614385,01-03-2023,18:51:51,Town Center,2,Yes
+1675,Hurt,Kollam,8.890006,76.62689,30-10-2024,22:06:59,Municipal Area,2,No
+1676,Hurt,Kollam,8.872577,76.642119,10-06-2024,09:38:37,Municipal Area,2,No
+1677,Arson,Kollam,8.871893,76.643516,27-01-2024,13:28:18,Municipal Area,4,No
+1678,Drug Offenses,Kollam,8.90208,76.5875,18-12-2023,05:14:01,Municipal Area,4,No
+1679,Auto Theft,Kollam,8.87035,76.606537,12-06-2023,20:34:28,Town Center,4,Yes
+1680,Theft,Kollam,8.867016,76.616802,19-06-2024,18:57:47,Peripheral Zone,1,No
+1681,POCSO Cases,Kollam,8.904226,76.601768,08-11-2023,13:13:55,Municipal Area,5,Yes
+1682,Arson,Kollam,8.891046,76.634424,26-07-2024,15:55:09,Town Center,4,Yes
+1683,Cheating,Kollam,8.910734,76.642228,30-04-2024,22:44:11,Town Center,2,Yes
+1684,POCSO Cases,Kota,25.187567,75.836773,13-09-2024,15:00:06,Town Center,4,Yes
+1685,Hurt,Kota,25.196746,75.867484,02-06-2024,09:49:44,Municipal Area,2,No
+1686,Burglary,Kota,25.224199,75.849482,12-08-2024,19:48:34,Peripheral Zone,3,No
+1687,Arson,Kota,25.222016,75.862446,12-12-2023,11:23:43,Peripheral Zone,4,Yes
+1688,Arson,Kota,25.23066,75.865373,30-04-2024,00:23:21,Peripheral Zone,4,Yes
+1689,Arson,Kota,25.23925,75.881028,28-05-2024,04:16:14,Town Center,4,Yes
+1690,Cheating,Kozhikode,11.238372,75.772492,15-06-2023,20:35:09,Town Center,1,No
+1691,Sexual Harassment,Kozhikode,11.252586,75.766135,23-05-2024,04:43:33,Town Center,4,No
+1692,Riots,Kozhikode,11.24888,75.795875,18-09-2023,00:02:52,Municipal Area,4,No
+1693,Arson,Kozhikode,11.27547,75.769716,03-01-2024,05:00:12,Municipal Area,3,No
+1694,Auto Theft,Kozhikode,11.257386,75.789463,15-09-2024,02:27:58,Town Center,3,No
+1695,Cyber Crime,Kozhikode,11.254011,75.75096,18-01-2023,00:54:59,Peripheral Zone,3,No
+1696,Criminal Breach of Trust,Kozhikode,11.263168,75.795733,18-08-2024,23:38:55,Peripheral Zone,2,No
+1697,Counterfeiting,Kozhikode,11.2393,75.795656,22-04-2023,21:43:57,Town Center,2,No
+1698,Cheating,Kozhikode,11.276983,75.76954,02-02-2024,14:34:48,Peripheral Zone,2,Yes
+1699,Gambling,Kozhikode,11.267873,75.756366,18-09-2024,14:40:42,Town Center,1,Yes
+1700,Cyber Crime,Kozhikode,11.280273,75.75937,25-04-2024,18:41:05,Town Center,3,Yes
+1701,Sexual Harassment,Kozhikode,11.247358,75.799245,15-10-2024,03:00:47,Peripheral Zone,5,No
+1702,Burglary,Lucknow,26.845959,80.934604,17-10-2023,14:37:34,New Township,3,Yes
+1703,Cheating,Lucknow,26.876101,80.965664,01-04-2023,22:16:08,Railway Colony,3,No
+1704,Counterfeiting,Lucknow,26.863983,80.918276,05-07-2024,12:58:46,City Center,3,No
+1705,Counterfeiting,Lucknow,26.834353,80.929029,18-04-2023,22:59:39,Old City,3,No
+1706,Auto Theft,Lucknow,26.828049,80.975083,15-08-2024,12:47:10,Railway Colony,2,No
+1707,Riots,Lucknow,26.831304,80.922589,14-07-2023,15:19:39,City Center,5,Yes
+1708,Theft,Lucknow,26.868797,80.93104,15-12-2023,01:03:15,City Center,3,No
+1709,POCSO Cases,Lucknow,26.822775,80.948411,10-05-2023,11:18:36,Railway Colony,5,Yes
+1710,Burglary,Lucknow,26.832355,80.92508,28-06-2024,17:35:29,New Township,4,No
+1711,Sexual Harassment,Lucknow,26.828949,80.926213,17-05-2024,17:46:54,New Township,5,Yes
+1712,Cheating,Lucknow,26.835652,80.933747,30-11-2024,20:13:14,City Center,3,No
+1713,Hurt,Lucknow,26.831898,80.942863,02-11-2024,05:05:24,Railway Colony,3,No
+1714,Auto Theft,Lucknow,26.859287,80.972694,02-12-2024,14:01:57,Old City,3,No
+1715,Hurt,Lucknow,26.867609,80.928571,15-11-2024,13:45:10,Bus Stand Area,1,No
+1716,Theft,Lucknow,26.828224,80.921277,14-07-2024,17:25:58,New Township,3,No
+1717,Gambling,Lucknow,26.818177,80.923952,03-12-2023,04:57:05,New Township,1,No
+1718,Criminal Breach of Trust,Lucknow,26.840249,80.925014,15-10-2024,00:32:01,City Center,1,No
+1719,Cheating,Lucknow,26.839561,80.947594,10-02-2024,05:53:38,Old City,2,No
+1720,Criminal Breach of Trust,Ludhiana,30.902461,75.845532,24-12-2024,11:47:08,Peripheral Zone,3,Yes
+1721,Burglary,Ludhiana,30.909778,75.852053,18-04-2023,17:06:12,Peripheral Zone,3,No
+1722,Riots,Ludhiana,30.900518,75.862293,16-03-2023,06:37:20,Town Center,5,No
+1723,Auto Theft,Ludhiana,30.878554,75.853413,18-05-2024,08:56:37,Town Center,2,No
+1724,Cyber Crime,Madurai,9.949712,78.140224,25-02-2024,11:05:35,Municipal Area,3,No
+1725,Riots,Madurai,9.923168,78.13567,08-11-2024,09:28:24,Peripheral Zone,4,Yes
+1726,Riots,Madurai,9.927428,78.127644,25-12-2024,22:21:33,Peripheral Zone,5,No
+1727,Cyber Crime,Madurai,9.940913,78.143816,12-06-2024,11:15:27,Peripheral Zone,3,No
+1728,Riots,Malappuram,11.039766,76.080218,15-08-2023,20:49:34,Municipal Area,4,No
+1729,Gambling,Malappuram,11.050151,76.06458,24-03-2024,22:47:07,Peripheral Zone,1,No
+1730,Sexual Harassment,Malappuram,11.069548,76.07255,15-11-2024,07:28:21,Municipal Area,3,No
+1731,Criminal Breach of Trust,Malappuram,11.059587,76.090828,04-09-2023,04:36:55,Municipal Area,2,No
+1732,Counterfeiting,Malappuram,11.045165,76.063601,20-01-2024,07:23:14,Peripheral Zone,2,No
+1733,Auto Theft,Malappuram,11.059909,76.082165,29-03-2023,09:40:19,Peripheral Zone,4,No
+1734,Theft,Meerut,29.003136,77.707297,21-12-2024,10:25:21,Town Center,2,No
+1735,Criminal Breach of Trust,Meerut,28.955144,77.703819,17-07-2024,01:53:38,Municipal Area,3,Yes
+1736,Counterfeiting,Meerut,28.982853,77.714957,25-10-2024,04:31:39,Peripheral Zone,4,Yes
+1737,POCSO Cases,Meerut,28.970861,77.688606,12-11-2024,01:38:14,Peripheral Zone,5,Yes
+1738,Auto Theft,Meerut,28.981782,77.729212,04-11-2024,12:15:12,Peripheral Zone,3,No
+1739,Drug Offenses,Mumbai,19.081021,72.865905,05-11-2024,02:16:52,Residential Zone,5,Yes
+1740,Arson,Mumbai,19.046968,72.886623,03-08-2024,15:36:34,Industrial Area,3,Yes
+1741,POCSO Cases,Mumbai,19.096428,72.901539,15-04-2024,06:06:41,Industrial Area,5,Yes
+1742,Arson,Mumbai,19.060753,72.870997,06-11-2024,09:21:07,Downtown,4,Yes
+1743,Criminal Breach of Trust,Mumbai,19.101696,72.905343,27-02-2024,17:07:31,Residential Zone,2,No
+1744,Auto Theft,Mumbai,19.066015,72.852209,30-10-2024,12:40:25,Downtown,3,Yes
+1745,POCSO Cases,Mumbai,19.054622,72.907229,22-06-2023,15:54:23,Suburb,5,Yes
+1746,Cyber Crime,Mumbai,19.07622,72.863482,11-12-2023,15:19:34,Market Area,2,No
+1747,Arson,Mumbai,19.06324,72.869161,11-05-2024,01:55:34,Commercial District,4,Yes
+1748,Counterfeiting,Mumbai,19.08918,72.847761,17-08-2024,11:55:36,Market Area,3,Yes
+1749,Sexual Harassment,Mumbai,19.081151,72.872685,14-12-2023,19:34:37,Industrial Area,4,No
+1750,Auto Theft,Mumbai,19.096662,72.888171,08-04-2023,09:35:03,Residential Zone,4,No
+1751,Arson,Mumbai,19.069025,72.9035,29-07-2024,01:05:22,Market Area,3,Yes
+1752,Drug Offenses,Mumbai,19.084083,72.892135,10-04-2024,21:04:30,Residential Zone,5,No
+1753,Counterfeiting,Mumbai,19.095708,72.8796,20-08-2023,18:00:07,Market Area,4,No
+1754,Cyber Crime,Mumbai,19.047489,72.891148,07-09-2023,16:21:44,Market Area,2,No
+1755,Gambling,Mumbai,19.083611,72.866011,28-04-2024,03:28:57,Industrial Area,1,No
+1756,Burglary,Mumbai,19.084875,72.849132,18-02-2023,05:05:56,Suburb,3,No
+1757,Counterfeiting,Mumbai,19.065698,72.880336,20-04-2023,01:04:20,Downtown,4,No
+1758,Auto Theft,Mumbai,19.086248,72.851381,10-09-2024,11:47:34,Industrial Area,2,Yes
+1759,Hurt,Mumbai,19.054486,72.889097,14-07-2024,03:20:56,Industrial Area,3,No
+1760,Auto Theft,Mumbai,19.097623,72.850954,23-03-2024,13:21:47,Downtown,3,No
+1761,Auto Theft,Mumbai,19.064243,72.867315,28-08-2023,03:46:09,Residential Zone,2,No
+1762,Gambling,Mumbai,19.10288,72.889838,04-08-2024,19:43:59,Downtown,2,No
+1763,Cyber Crime,Mumbai,19.093627,72.861814,29-12-2024,11:27:39,Industrial Area,3,No
+1764,Cyber Crime,Mumbai,19.10593,72.893249,02-08-2024,01:43:18,Commercial District,3,No
+1765,Theft,Mumbai,19.064325,72.901832,28-06-2024,04:45:38,Industrial Area,3,Yes
+1766,Drug Offenses,Mumbai,19.075995,72.853094,05-06-2023,09:07:10,Market Area,4,Yes
+1767,Gambling,Mumbai,19.062692,72.892223,09-02-2024,02:44:06,Suburb,1,No
+1768,Theft,Mumbai,19.054072,72.872502,25-04-2023,13:41:47,Industrial Area,1,No
+1769,Theft,Mumbai,19.079135,72.869152,28-01-2024,16:51:19,Residential Zone,2,No
+1770,Gambling,Mumbai,19.08758,72.858233,12-05-2024,09:54:23,Suburb,1,No
+1771,Hurt,Mumbai,19.074631,72.893243,07-12-2023,11:14:20,Market Area,2,No
+1772,Sexual Harassment,Mumbai,19.102659,72.853159,18-12-2023,03:35:54,Suburb,4,No
+1773,Gambling,Mumbai,19.099422,72.869521,21-03-2023,23:48:48,Downtown,1,No
+1774,Burglary,Mumbai,19.063006,72.891601,21-04-2023,03:03:02,Downtown,4,Yes
+1775,Hurt,Mumbai,19.063487,72.849415,21-08-2023,05:30:41,Commercial District,3,No
+1776,Drug Offenses,Mumbai,19.066048,72.848502,19-06-2024,11:46:31,Downtown,4,Yes
+1777,Riots,Mumbai,19.047977,72.891224,02-06-2024,17:39:43,Commercial District,4,Yes
+1778,Sexual Harassment,Mumbai,19.088559,72.887067,20-05-2024,21:52:49,Market Area,3,Yes
+1779,Drug Offenses,Mumbai,19.054042,72.902902,05-01-2023,22:38:04,Market Area,4,No
+1780,Burglary,Mumbai,19.048151,72.900851,23-04-2024,13:24:30,Industrial Area,2,No
+1781,Hurt,Mumbai,19.09257,72.852797,27-05-2024,10:11:54,Downtown,1,Yes
+1782,Riots,Mumbai,19.084237,72.849531,21-12-2024,01:33:38,Suburb,5,Yes
+1783,Burglary,Mumbai,19.098546,72.871039,16-12-2024,01:51:53,Commercial District,4,Yes
+1784,Cyber Crime,Mumbai,19.05028,72.903433,26-07-2023,10:45:46,Commercial District,3,No
+1785,Counterfeiting,Mumbai,19.076345,72.902893,07-10-2024,10:58:14,Suburb,3,Yes
+1786,Hurt,Mumbai,19.086767,72.855509,11-03-2023,15:30:26,Industrial Area,2,No
+1787,Gambling,Mumbai,19.095148,72.872394,19-02-2024,14:35:36,Industrial Area,1,No
+1788,Burglary,Mumbai,19.090039,72.9007,10-11-2024,08:32:54,Suburb,3,No
+1789,Criminal Breach of Trust,Nagpur,21.156894,79.083133,14-04-2023,07:45:50,Town Center,2,No
+1790,Auto Theft,Nagpur,21.124741,79.068736,04-12-2023,04:49:19,Peripheral Zone,4,Yes
+1791,Criminal Breach of Trust,Nagpur,21.161206,79.070479,24-11-2023,19:09:19,Municipal Area,2,No
+1792,Criminal Breach of Trust,Nagpur,21.11733,79.111397,06-10-2024,01:52:36,Peripheral Zone,2,Yes
+1793,Hurt,Nagpur,21.157723,79.078659,11-04-2023,21:15:05,Municipal Area,3,No
+1794,Theft,Nagpur,21.124446,79.07466,16-04-2024,10:11:43,Peripheral Zone,1,No
+1795,POCSO Cases,Nagpur,21.146813,79.088635,04-02-2023,08:22:42,Peripheral Zone,5,Yes
+1796,Theft,Nagpur,21.159534,79.068882,04-01-2024,09:51:28,Peripheral Zone,1,No
+1797,Auto Theft,Nagpur,21.1396,79.105364,04-01-2023,16:17:28,Peripheral Zone,3,No
+1798,Cyber Crime,Nagpur,21.146015,79.094219,30-07-2024,05:45:12,Peripheral Zone,3,No
+1799,Riots,Nagpur,21.171125,79.082197,05-05-2024,12:53:50,Peripheral Zone,3,No
+1800,Drug Offenses,Nagpur,21.15291,79.086699,10-09-2023,13:43:29,Peripheral Zone,4,No
+1801,Gambling,Nagpur,21.138675,79.086407,12-04-2024,03:04:16,Peripheral Zone,1,Yes
+1802,POCSO Cases,Nagpur,21.166583,79.103228,13-05-2023,23:25:44,Peripheral Zone,5,Yes
+1803,Criminal Breach of Trust,Nagpur,21.137123,79.107681,05-11-2024,09:50:16,Town Center,3,Yes
+1804,Burglary,Nagpur,21.174507,79.073915,23-10-2023,06:04:54,Municipal Area,3,No
+1805,Auto Theft,Nagpur,21.142084,79.116889,21-01-2023,09:16:46,Peripheral Zone,3,No
+1806,Counterfeiting,Nagpur,21.132166,79.072878,24-03-2024,06:17:22,Peripheral Zone,2,No
+1807,Auto Theft,Nagpur,21.123961,79.084476,07-07-2023,17:02:10,Peripheral Zone,3,No
+1808,Gambling,Nasik,19.9702,73.771062,04-10-2023,15:03:18,Municipal Area,1,No
+1809,Gambling,Nasik,20.007164,73.778949,31-08-2023,09:21:50,Town Center,1,No
+1810,Burglary,Nasik,19.970787,73.814656,22-07-2024,20:24:42,Town Center,3,Yes
+1811,Gambling,Nasik,20.022911,73.812885,14-04-2024,07:10:21,Municipal Area,1,No
+1812,Cheating,Nasik,20.026452,73.812369,17-02-2024,18:00:42,Town Center,2,No
+1813,Counterfeiting,Patna,25.593319,85.110347,16-11-2023,12:27:39,Old City,4,Yes
+1814,Arson,Patna,25.621394,85.163773,22-09-2023,08:23:00,Railway Colony,3,No
+1815,Auto Theft,Patna,25.565397,85.117348,20-10-2024,17:11:07,City Center,3,Yes
+1816,Cyber Crime,Patna,25.567155,85.158683,08-11-2024,00:39:08,New Township,3,No
+1817,Drug Offenses,Patna,25.592199,85.156144,11-09-2023,07:09:36,Railway Colony,4,Yes
+1818,POCSO Cases,Patna,25.581345,85.163316,11-05-2023,13:08:39,New Township,4,Yes
+1819,Gambling,Patna,25.568059,85.150035,09-03-2023,19:33:43,Old City,2,Yes
+1820,Sexual Harassment,Patna,25.60971,85.137584,17-02-2023,16:20:47,Bus Stand Area,4,No
+1821,Drug Offenses,Patna,25.564177,85.157342,19-09-2024,16:26:55,New Township,4,Yes
+1822,Arson,Patna,25.589358,85.143666,08-04-2024,07:11:15,Bus Stand Area,4,No
+1823,Arson,Patna,25.598749,85.132732,21-12-2023,20:38:08,Railway Colony,4,No
+1824,Cheating,Patna,25.591539,85.10878,16-09-2024,12:58:21,City Center,1,No
+1825,Arson,Patna,25.597212,85.158764,21-08-2024,21:39:40,City Center,3,Yes
+1826,Burglary,Patna,25.581024,85.153316,04-11-2024,15:15:52,New Township,3,No
+1827,Riots,Patna,25.611534,85.156074,12-08-2024,14:41:22,Railway Colony,5,No
+1828,Counterfeiting,Patna,25.581711,85.128369,13-06-2023,04:51:41,Railway Colony,3,No
+1829,Gambling,Prayagraj,25.455508,81.838449,18-11-2023,14:53:23,Town Center,1,No
+1830,Hurt,Prayagraj,25.425245,81.823049,21-03-2024,01:43:04,Peripheral Zone,1,No
+1831,Sexual Harassment,Prayagraj,25.407689,81.870282,14-08-2023,19:17:43,Peripheral Zone,3,Yes
+1832,Drug Offenses,Prayagraj,25.441091,81.870875,15-01-2024,23:13:09,Peripheral Zone,4,Yes
+1833,Criminal Breach of Trust,Pune,18.545372,73.879181,29-02-2024,16:55:23,Municipal Area,3,No
+1834,Drug Offenses,Pune,18.501686,73.885753,17-07-2023,17:56:30,Municipal Area,4,Yes
+1835,Gambling,Pune,18.518246,73.868378,30-10-2023,05:19:59,Town Center,1,No
+1836,Counterfeiting,Pune,18.539655,73.849151,10-11-2024,01:26:45,Town Center,2,No
+1837,Sexual Harassment,Pune,18.530682,73.851472,29-08-2023,17:00:09,Peripheral Zone,4,Yes
+1838,POCSO Cases,Pune,18.530305,73.883666,07-06-2024,06:20:08,Municipal Area,4,Yes
+1839,Counterfeiting,Pune,18.524264,73.835529,10-12-2023,23:56:44,Town Center,3,No
+1840,Hurt,Pune,18.548221,73.858127,11-02-2024,14:19:09,Town Center,2,No
+1841,Riots,Pune,18.543774,73.864857,27-08-2024,01:43:13,Town Center,5,No
+1842,Theft,Pune,18.54232,73.880982,28-05-2023,17:14:09,Town Center,2,No
+1843,Burglary,Pune,18.503759,73.835506,01-08-2023,20:16:10,Peripheral Zone,2,Yes
+1844,Burglary,Pune,18.507774,73.856382,12-10-2023,11:03:57,Municipal Area,3,Yes
+1845,POCSO Cases,Pune,18.514111,73.864555,05-09-2024,19:06:42,Peripheral Zone,5,Yes
+1846,Drug Offenses,Pune,18.527388,73.861178,28-01-2024,19:38:16,Municipal Area,4,No
+1847,Arson,Raipur,21.262521,81.607452,08-08-2024,07:15:33,Municipal Area,4,No
+1848,Drug Offenses,Raipur,21.226886,81.617655,19-09-2024,23:52:53,Municipal Area,5,No
+1849,Cheating,Raipur,21.242236,81.62618,07-05-2024,06:59:20,Town Center,2,No
+1850,Riots,Raipur,21.275435,81.648949,05-09-2024,21:31:07,Municipal Area,4,Yes
+1851,Cheating,Raipur,21.277365,81.61335,02-12-2024,06:00:58,Town Center,1,No
+1852,Sexual Harassment,Raipur,21.227803,81.653619,23-05-2023,13:03:18,Peripheral Zone,4,Yes
+1853,POCSO Cases,Rajkot,22.280145,70.827904,11-01-2024,14:34:17,Peripheral Zone,5,Yes
+1854,Burglary,Rajkot,22.286719,70.820068,26-04-2023,21:55:05,Municipal Area,2,Yes
+1855,Gambling,Rajkot,22.300784,70.780158,30-10-2023,15:28:42,Town Center,1,Yes
+1856,Gambling,Rajkot,22.332076,70.826918,27-05-2023,04:04:50,Town Center,1,No
+1857,Arson,Rajkot,22.283362,70.792578,14-09-2024,01:44:35,Municipal Area,5,Yes
+1858,Gambling,Rajkot,22.298465,70.786193,10-12-2024,09:44:59,Town Center,1,No
+1859,Counterfeiting,Ranchi,23.366552,85.319825,25-09-2023,15:49:48,Peripheral Zone,2,No
+1860,Drug Offenses,Ranchi,23.327617,85.28587,29-04-2023,16:53:15,Peripheral Zone,5,Yes
+1861,Counterfeiting,Ranchi,23.369757,85.299054,11-12-2024,05:22:43,Peripheral Zone,4,No
+1862,Theft,Ranchi,23.355415,85.334372,31-10-2023,08:07:17,Municipal Area,2,Yes
+1863,Theft,Ranchi,23.348717,85.29338,16-11-2023,10:05:26,Peripheral Zone,3,No
+1864,POCSO Cases,Srinagar,34.06998,74.82114,19-12-2023,16:37:36,Town Center,5,Yes
+1865,Drug Offenses,Srinagar,34.089597,74.77671,07-01-2023,01:29:01,Town Center,5,Yes
+1866,Riots,Surat,21.189037,72.836682,09-04-2024,08:48:52,Peripheral Zone,4,Yes
+1867,Drug Offenses,Surat,21.192916,72.840803,13-01-2024,05:06:04,Municipal Area,3,Yes
+1868,Auto Theft,Surat,21.153336,72.819402,24-07-2024,08:32:07,Town Center,3,Yes
+1869,Theft,Surat,21.1728,72.837083,06-03-2023,02:29:49,Town Center,3,No
+1870,Counterfeiting,Surat,21.184154,72.825478,29-01-2024,05:48:29,Peripheral Zone,3,No
+1871,POCSO Cases,Surat,21.156817,72.856367,06-10-2023,00:34:03,Town Center,5,Yes
+1872,Hurt,Surat,21.162147,72.812587,26-01-2024,11:15:41,Town Center,2,No
+1873,Sexual Harassment,Surat,21.153586,72.802148,07-06-2023,03:47:11,Town Center,4,Yes
+1874,Cyber Crime,Surat,21.162397,72.827672,08-01-2024,09:00:57,Town Center,3,Yes
+1875,POCSO Cases,Surat,21.148696,72.853117,10-11-2023,01:13:01,Municipal Area,5,Yes
+1876,Hurt,Surat,21.188224,72.831806,11-06-2023,02:43:07,Municipal Area,2,No
+1877,Counterfeiting,Surat,21.198428,72.843834,03-06-2024,19:35:18,Town Center,4,No
+1878,Burglary,Thiruvananthapuram,8.518162,76.966128,02-12-2023,07:04:57,Municipal Area,2,No
+1879,Criminal Breach of Trust,Thiruvananthapuram,8.514112,76.914576,18-05-2024,09:25:58,Town Center,2,No
+1880,Sexual Harassment,Thiruvananthapuram,8.548126,76.913713,18-02-2023,13:29:57,Town Center,4,No
+1881,Criminal Breach of Trust,Thiruvananthapuram,8.507662,76.946488,24-01-2023,21:00:56,Municipal Area,3,Yes
+1882,POCSO Cases,Thiruvananthapuram,8.53399,76.952257,02-05-2023,02:18:46,Municipal Area,4,Yes
+1883,Riots,Thiruvananthapuram,8.505092,76.9664,03-06-2023,09:38:40,Municipal Area,3,No
+1884,Gambling,Thiruvananthapuram,8.520366,76.949467,11-10-2023,16:18:02,Town Center,2,No
+1885,Arson,Thiruvananthapuram,8.553274,76.925641,23-10-2023,02:23:04,Town Center,4,Yes
+1886,Counterfeiting,Thiruvananthapuram,8.507669,76.928728,19-11-2024,16:51:03,Municipal Area,3,No
+1887,Sexual Harassment,Thiruvananthapuram,8.537563,76.96493,05-07-2024,14:39:03,Peripheral Zone,3,No
+1888,Hurt,Thiruvananthapuram,8.542561,76.919133,10-08-2023,01:27:02,Town Center,2,No
+1889,Gambling,Thiruvananthapuram,8.521751,76.933779,06-12-2024,06:18:58,Municipal Area,1,No
+1890,Auto Theft,Thiruvananthapuram,8.501419,76.95704,24-02-2024,20:23:07,Town Center,3,No
+1891,Riots,Thiruvananthapuram,8.545164,76.937981,26-04-2024,19:49:53,Peripheral Zone,3,Yes
+1892,Cheating,Thiruvananthapuram,8.52823,76.935303,29-06-2023,04:30:38,Town Center,2,No
+1893,Cheating,Thiruvananthapuram,8.498211,76.960914,03-03-2024,18:47:49,Municipal Area,1,No
+1894,Burglary,Thiruvananthapuram,8.496237,76.940552,27-01-2024,11:07:58,Municipal Area,3,No
+1895,POCSO Cases,Thiruvananthapuram,8.521002,76.940126,20-02-2024,07:28:56,Municipal Area,4,Yes
+1896,Arson,Thiruvananthapuram,8.514477,76.963116,18-02-2023,15:22:57,Peripheral Zone,4,Yes
+1897,Hurt,Thiruvananthapuram,8.494588,76.913679,03-08-2024,05:32:42,Municipal Area,2,No
+1898,Criminal Breach of Trust,Thiruvananthapuram,8.494866,76.924267,31-12-2023,06:25:50,Peripheral Zone,3,Yes
+1899,POCSO Cases,Thiruvananthapuram,8.531657,76.951481,03-12-2024,12:06:29,Peripheral Zone,4,Yes
+1900,Arson,Thrissur,10.515795,76.214234,14-10-2023,21:47:21,Town Center,4,Yes
+1901,Drug Offenses,Thrissur,10.556168,76.233184,05-09-2024,12:02:43,Municipal Area,4,Yes
+1902,Gambling,Thrissur,10.538357,76.237593,12-05-2023,16:43:44,Peripheral Zone,1,No
+1903,Cyber Crime,Thrissur,10.504585,76.228193,01-11-2023,04:56:41,Municipal Area,3,No
+1904,Cheating,Thrissur,10.540178,76.187489,01-03-2024,11:05:33,Municipal Area,1,No
+1905,Auto Theft,Thrissur,10.515883,76.195076,08-08-2023,05:16:27,Peripheral Zone,2,No
+1906,Theft,Thrissur,10.553897,76.21776,28-02-2024,03:43:32,Municipal Area,2,Yes
+1907,Sexual Harassment,Thrissur,10.529723,76.186391,07-06-2024,07:08:38,Town Center,4,Yes
+1908,Auto Theft,Thrissur,10.52188,76.222351,10-01-2023,03:37:57,Municipal Area,2,No
+1909,Theft,Thrissur,10.529426,76.185149,24-03-2024,06:47:00,Town Center,3,No
+1910,Burglary,Thrissur,10.550032,76.211747,03-07-2024,06:19:51,Municipal Area,3,No
+1911,Gambling,Tiruchirapalli,10.770039,78.686563,10-12-2023,14:50:28,Town Center,1,No
+1912,Criminal Breach of Trust,Tiruchirapalli,10.805737,78.688039,20-01-2023,23:32:54,Peripheral Zone,2,No
+1913,Gambling,Vadodara,22.297871,73.210423,17-12-2024,09:13:41,Peripheral Zone,2,No
+1914,POCSO Cases,Vadodara,22.287045,73.181503,22-06-2023,15:51:38,Municipal Area,4,Yes
+1915,Cyber Crime,Vadodara,22.329049,73.181848,21-02-2024,12:54:22,Town Center,2,No
+1916,Theft,Vadodara,22.27807,73.188625,19-04-2023,05:42:11,Peripheral Zone,2,No
+1917,Sexual Harassment,Varanasi,25.345082,82.94637,09-10-2023,22:43:55,City Center,4,No
+1918,Drug Offenses,Varanasi,25.304863,82.97206,19-09-2024,09:44:17,Railway Colony,3,Yes
+1919,Burglary,Varanasi,25.314469,83.000658,08-10-2023,01:03:18,Old City,4,Yes
+1920,Riots,Varanasi,25.321483,82.956596,05-09-2024,23:34:56,Railway Colony,4,No
+1921,POCSO Cases,Varanasi,25.323846,82.947118,29-11-2024,05:32:37,Railway Colony,5,Yes
+1922,POCSO Cases,Vasai Virar,19.397023,72.839082,23-07-2024,12:52:10,Municipal Area,5,Yes
+1923,Cyber Crime,Vasai Virar,19.410388,72.821571,20-11-2023,02:34:50,Peripheral Zone,4,No
+1924,Burglary,Vasai Virar,19.380559,72.82614,15-07-2023,18:58:05,Peripheral Zone,4,No
+1925,Theft,Vasai Virar,19.382412,72.829675,28-12-2024,02:43:22,Town Center,2,No
+1926,Criminal Breach of Trust,Vasai Virar,19.41368,72.827553,27-02-2024,04:17:32,Peripheral Zone,1,No
+1927,Cyber Crime,Vasai Virar,19.410169,72.861398,08-02-2023,19:11:47,Peripheral Zone,2,No
+1928,Theft,Vijayawada,16.488407,80.644474,20-03-2023,11:22:29,Municipal Area,2,No
+1929,Arson,Vijayawada,16.497961,80.626787,21-12-2024,11:08:03,Town Center,4,No
+1930,Drug Offenses,Vijayawada,16.476806,80.658947,15-03-2023,02:08:51,Town Center,4,Yes
+1931,Cheating,Vijayawada,16.500237,80.655867,30-03-2023,21:11:11,Municipal Area,1,Yes
+1932,Burglary,Vijayawada,16.478689,80.661786,04-06-2024,23:37:45,Town Center,3,No
+1933,Cheating,Vijayawada,16.490253,80.676945,20-11-2023,00:35:47,Town Center,2,No
+1934,Auto Theft,Vijayawada,16.531845,80.61827,19-07-2024,00:04:00,Municipal Area,3,Yes
+1935,Drug Offenses,Vijayawada,16.527859,80.652423,29-11-2024,03:03:37,Peripheral Zone,5,Yes
+1936,Cheating,Vijayawada,16.514928,80.63837,08-06-2024,20:19:41,Peripheral Zone,3,Yes
+1937,Hurt,Vijayawada,16.506735,80.640835,04-12-2023,13:50:05,Municipal Area,1,No
+1938,Auto Theft,Vijayawada,16.512912,80.677512,24-03-2024,18:49:56,Peripheral Zone,3,No
+1939,POCSO Cases,Vijayawada,16.526861,80.677826,11-05-2023,07:45:12,Municipal Area,5,Yes
+1940,Counterfeiting,Vishakhapatnam,17.677279,83.235047,11-11-2023,06:45:07,Municipal Area,3,No
+1941,Riots,Vishakhapatnam,17.695766,83.200979,26-08-2023,03:39:10,Municipal Area,4,Yes
+1942,Counterfeiting,Vishakhapatnam,17.659193,83.227051,08-04-2023,12:44:49,Municipal Area,3,No
+1943,Drug Offenses,Vishakhapatnam,17.67269,83.210047,11-08-2023,17:56:38,Peripheral Zone,5,Yes
+1944,Criminal Breach of Trust,Vishakhapatnam,17.657116,83.211562,04-04-2024,02:44:20,Peripheral Zone,3,No
+1945,Cyber Crime,Agra,27.153079,78.026197,15-06-2024,21:53:27,Bus Stand Area,3,No
+1946,Kidnapping,Agra,27.175803,78.014034,12-02-2024,15:24:57,New Township,3,Yes
+1947,Riots,Agra,27.159487,78.024324,21-07-2023,10:20:18,Bus Stand Area,4,No
+1948,Burglary,Agra,27.186218,77.998468,03-01-2023,04:14:21,New Township,2,Yes
+1949,Gambling,Agra,27.201313,78.037483,30-10-2024,15:45:00,Bus Stand Area,1,Yes
+1950,Counterfeiting,Agra,27.200786,78.018311,19-04-2023,02:44:13,City Center,4,Yes
+1951,Cyber Crime,Agra,27.199326,77.990448,15-05-2023,09:25:07,Old City,3,Yes
+1952,Gambling,Ahmedabad,23.038254,72.594475,22-05-2024,01:11:24,Peripheral Zone,2,No
+1953,Gambling,Ahmedabad,23.018318,72.576203,28-06-2024,15:41:54,Municipal Area,1,No
+1954,Arson,Ahmedabad,22.994335,72.582876,26-05-2024,01:28:07,Peripheral Zone,3,No
+1955,Arson,Ahmedabad,23.007155,72.561898,21-09-2024,00:12:23,Municipal Area,4,No
+1956,Drug Offenses,Ahmedabad,23.00638,72.549088,31-07-2023,20:25:53,Town Center,3,Yes
+1957,POCSO Cases,Ahmedabad,23.038146,72.546489,20-02-2024,05:00:10,Peripheral Zone,5,Yes
+1958,Counterfeiting,Ahmedabad,23.038953,72.56711,08-05-2024,23:40:26,Municipal Area,3,No
+1959,Theft,Ahmedabad,23.011042,72.591602,31-10-2023,16:46:32,Municipal Area,2,No
+1960,Auto Theft,Ahmedabad,23.01459,72.590017,31-12-2023,14:42:50,Peripheral Zone,3,No
+1961,Theft,Ahmedabad,23.013216,72.55943,28-06-2024,01:17:15,Municipal Area,2,No
+1962,POCSO Cases,Ahmedabad,23.012838,72.545377,16-06-2024,20:54:19,Peripheral Zone,5,Yes
+1963,Auto Theft,Ahmedabad,22.992966,72.579054,11-02-2024,18:13:29,Peripheral Zone,3,No
+1964,Cyber Crime,Ahmedabad,22.993458,72.562719,18-05-2023,18:43:30,Peripheral Zone,3,No
+1965,Criminal Breach of Trust,Ahmedabad,23.000729,72.570019,14-11-2024,17:55:55,Peripheral Zone,2,Yes
+1966,POCSO Cases,Ahmedabad,23.003165,72.596873,26-05-2023,09:09:48,Peripheral Zone,4,Yes
+1967,POCSO Cases,Ahmedabad,23.023708,72.561335,27-09-2023,03:47:17,Peripheral Zone,5,Yes
+1968,Auto Theft,Ahmedabad,22.999958,72.564194,06-02-2024,18:35:43,Peripheral Zone,2,Yes
+1969,POCSO Cases,Ahmedabad,23.028567,72.561387,06-02-2024,18:49:45,Peripheral Zone,5,Yes
+1970,POCSO Cases,Ahmedabad,23.005855,72.580718,26-07-2024,15:11:57,Peripheral Zone,5,Yes
+1971,Auto Theft,Ahmedabad,23.007024,72.557416,13-07-2023,17:06:26,Peripheral Zone,2,No
+1972,Drug Offenses,Ahmedabad,23.018808,72.591677,24-07-2023,07:42:14,Town Center,3,Yes
+1973,Cheating,Ahmedabad,23.002226,72.562691,21-08-2023,13:00:25,Town Center,1,No
+1974,Auto Theft,Ahmedabad,22.996455,72.582503,07-12-2024,16:05:52,Peripheral Zone,3,Yes
+1975,Criminal Breach of Trust,Ahmedabad,23.025473,72.557322,16-03-2023,08:44:52,Peripheral Zone,1,Yes
+1976,Arson,Ahmedabad,23.023774,72.544186,19-11-2024,16:57:26,Municipal Area,3,No
+1977,Cheating,Ahmedabad,23.03986,72.593331,11-08-2023,19:07:04,Municipal Area,2,No
+1978,POCSO Cases,Ahmedabad,23.052111,72.592552,01-05-2023,07:00:08,Peripheral Zone,5,Yes
+1979,Burglary,Ahmedabad,23.049477,72.580841,25-02-2023,17:06:12,Municipal Area,3,No
+1980,Riots,Ahmedabad,22.99986,72.551629,04-09-2024,20:00:40,Peripheral Zone,3,Yes
+1981,Cheating,Ahmedabad,23.029879,72.571426,17-04-2023,18:18:06,Municipal Area,2,No
+1982,Arson,Ahmedabad,22.999113,72.596346,06-11-2024,14:50:37,Town Center,4,Yes
+1983,Auto Theft,Ahmedabad,23.045477,72.584025,28-09-2023,09:58:36,Town Center,2,No
+1984,Criminal Breach of Trust,Ahmedabad,23.000895,72.544442,15-08-2023,20:49:08,Municipal Area,1,No
+1985,Burglary,Amritsar,31.642272,74.873692,01-06-2023,17:47:34,Town Center,2,No
+1986,Auto Theft,Amritsar,31.65665,74.899279,13-11-2023,10:41:08,Town Center,3,Yes
+1987,Cheating,Amritsar,31.610179,74.852333,30-12-2024,13:25:22,Municipal Area,3,Yes
+1988,Gambling,Asansol,23.658435,86.967959,22-05-2023,04:08:26,Town Center,1,No
+1989,Riots,Asansol,23.659288,86.981576,26-03-2023,16:21:45,Municipal Area,4,No
+1990,Auto Theft,Asansol,23.707266,86.992001,31-10-2023,00:05:37,Peripheral Zone,2,No
+1991,POCSO Cases,Asansol,23.695283,87.007567,07-08-2023,09:22:18,Municipal Area,4,Yes
+1992,Counterfeiting,Asansol,23.671061,87.011164,11-08-2024,03:23:14,Peripheral Zone,4,Yes
+1993,Criminal Breach of Trust,Aurangabad,19.84638,75.347478,31-12-2024,07:26:40,Municipal Area,2,No
+1994,POCSO Cases,Aurangabad,19.901374,75.373243,30-11-2023,00:12:06,Town Center,5,Yes
+1995,Criminal Breach of Trust,Aurangabad,19.883434,75.334287,24-08-2024,11:40:45,Peripheral Zone,2,No
+1996,Auto Theft,Aurangabad,19.874586,75.36214,28-07-2024,01:54:43,Peripheral Zone,2,No
+1997,Burglary,Aurangabad,19.870517,75.330547,20-04-2024,10:25:46,Peripheral Zone,4,Yes
+1998,Burglary,Aurangabad,19.86134,75.322689,05-09-2024,16:32:55,Town Center,4,Yes
+1999,Theft,Bengaluru,12.954406,77.575421,27-10-2024,23:52:12,Downtown,1,No
+2000,Burglary,Bengaluru,12.964772,77.587031,10-03-2023,05:32:15,Market Area,3,No

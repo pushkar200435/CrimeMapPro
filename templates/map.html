@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block title %}Hotspot Map - CrimeMap Pro{% endblock %}
+
+{% block page_heading %}Interactive Hotspot Map{% endblock %}
+{% block page_subheading %}Detecting crime density clusters, spatial heatmaps, and local incident analysis{% endblock %}
+
+{% block content %}
+<div class="panel-card" style="padding: 1.25rem; margin-bottom: 2rem;">
+    <!-- Map Header details -->
+    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 1rem;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fa-solid fa-layer-group" style="color: var(--accent); font-size: 1.25rem;"></i>
+            <h3 style="font-family: var(--font-heading); font-size: 1.1rem; font-weight: 600;">Geospatial Cluster Visualization</h3>
+        </div>
+        <div style="display: flex; gap: 12px;">
+            <button onclick="refreshMap()" class="btn btn-secondary" style="padding: 6px 12px; font-size: 0.85rem;">
+                <i class="fa-solid fa-rotate"></i> Refresh Map
+            </button>
+        </div>
+    </div>
+
+    <!-- Map Info Pills -->
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 1.25rem; font-size: 0.85rem;">
+        <span style="background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); color: #f87171; padding: 4px 10px; border-radius: 20px;">
+            <i class="fa-solid fa-fire"></i> Heatmap: Crime Density
+        </span>
+        <span style="background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 4px 10px; border-radius: 20px;">
+            <i class="fa-solid fa-circle-dot"></i> Markers: Incident Locations
+        </span>
+        <span style="background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.2); color: #34d399; padding: 4px 10px; border-radius: 20px;">
+            <i class="fa-solid fa-magnifying-glass-location"></i> MarkerCluster: Interactive Groups
+        </span>
+    </div>
+
+    <!-- Iframe Container -->
+    <div class="map-panel">
+        <iframe id="map-frame" src="/map-raw" class="map-iframe"></iframe>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function refreshMap() {
+        const iframe = document.getElementById('map-frame');
+        iframe.src = iframe.src; // Reloads iframe
+        showToast('Geospatial intelligence map updated!', 'success');
+    }
+</script>
+{% endblock %}

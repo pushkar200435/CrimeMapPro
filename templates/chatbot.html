@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}AI Chatbot - CrimeMap Pro{% endblock %}
+
+{% block page_heading %}AI Crime Analyst Assistant{% endblock %}
+{% block page_subheading %}Ask questions about crime stats, safety advice, hotspots, and predictive model details{% endblock %}
+
+{% block content %}
+<div class="chat-container-box">
+    <!-- Chat Messages Window -->
+    <div class="chat-messages" id="chat-messages-container">
+        <!-- System Welcome Message -->
+        <div class="message message-bot">
+            <p><strong>Hello! I am your AI Crime Analyst Assistant.</strong></p>
+            <p style="margin-top: 5px;">I can query the database directly to give you live statistical reports and safety guidance. Here are some examples of what you can ask me:</p>
+            <ul style="margin-top: 8px; padding-left: 20px; display: flex; flex-direction: column; gap: 4px;">
+                <li><em>"Which area has the most crimes?"</em></li>
+                <li><em>"What is the safest district?"</em></li>
+                <li><em>"Show me safety tips for burglary"</em></li>
+                <li><em>"Show crime insights for Downtown"</em></li>
+                <li><em>"What is the system-wide arrest clearance rate?"</em></li>
+                <li><em>"Explain the ML prediction model accuracies"</em></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Message Input Bar -->
+    <form id="chat-form" class="chat-input-bar">
+        <input 
+            type="text" 
+            id="chat-input-field" 
+            placeholder="Ask me about crime patterns, dangerous areas, or safety tips..." 
+            autocomplete="off" 
+            required 
+        />
+        <button type="submit" class="btn btn-primary" style="padding: 12px 24px;">
+            <i class="fa-solid fa-paper-plane"></i> Send
+        </button>
+    </form>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<!-- Chat Logic JS -->
+<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+{% endblock %}

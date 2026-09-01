@@ -1,0 +1,210 @@
+{% extends 'base.html' %}
+
+{% block title %}Dashboard - CrimeMap Pro{% endblock %}
+
+{% block page_heading %}Operational Dashboard{% endblock %}
+{% block page_subheading %}Key crime metrics, trend analysis, and model performance metrics{% endblock %}
+
+{% block content %}
+<!-- Stats Grid -->
+<div class="stats-grid">
+    <div class="stat-card">
+        <div class="stat-icon icon-blue">
+            <i class="fa-solid fa-list-check"></i>
+        </div>
+        <div class="stat-details">
+            <h3>Total Crimes</h3>
+            <div class="stat-value">{{ summary.total_crimes }}</div>
+        </div>
+    </div>
+    
+    <div class="stat-card">
+        <div class="stat-icon icon-emerald">
+            <i class="fa-solid fa-handcuffs"></i>
+        </div>
+        <div class="stat-details">
+            <h3>Arrest Clearance</h3>
+            <div class="stat-value">{{ summary.arrest_rate }}%</div>
+        </div>
+    </div>
+    
+    <div class="stat-card">
+        <div class="stat-icon icon-orange">
+            <i class="fa-solid fa-triangle-exclamation"></i>
+        </div>
+        <div class="stat-details">
+            <h3>High Severity Rate</h3>
+            <div class="stat-value">{{ summary.high_severity_pct }}%</div>
+        </div>
+    </div>
+    
+    <div class="stat-card">
+        <div class="stat-icon icon-purple">
+            <i class="fa-solid fa-mask"></i>
+        </div>
+        <div class="stat-details">
+            <h3>Prevalent Crime</h3>
+            <div class="stat-value" style="font-size: 1.35rem;">
+                {% if summary.crime_types %}
+                    {{ summary.crime_types[0].name }}
+                {% else %}
+                    N/A
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Secondary Stats Grid for Safe Routing & Risks -->
+<div class="stats-grid" style="margin-bottom: 2.5rem;">
+    <div class="stat-card">
+        <div class="stat-icon" style="background: linear-gradient(135deg, #8b5cf6, #6366f1);">
+            <i class="fa-solid fa-route"></i>
+        </div>
+        <div class="stat-details">
+            <h3>Safe Routes Generated</h3>
+            <div class="stat-value">{{ summary.safe_routes_count }}</div>
+        </div>
+    </div>
+    
+    <div class="stat-card">
+        <div class="stat-icon" style="background: linear-gradient(135deg, #ef4444, #f43f5e);">
+            <i class="fa-solid fa-triangle-exclamation"></i>
+        </div>
+        <div class="stat-details">
+            <h3>High-Risk Hotspots</h3>
+            <div class="stat-value">{{ summary.high_risk_areas_count }}</div>
+        </div>
+    </div>
+    
+    <div class="stat-card">
+        <div class="stat-icon" style="background: linear-gradient(135deg, #06b6d4, #0891b2);">
+            <i class="fa-solid fa-location-crosshairs"></i>
+        </div>
+        <div class="stat-details">
+            <h3>Live Safety Checks</h3>
+            <div class="stat-value">{{ summary.live_checks_count }}</div>
+        </div>
+    </div>
+</div>
+
+<!-- Main Panels -->
+<div class="dashboard-grid">
+    <!-- Monthly Trend Chart -->
+    <div class="panel-card">
+        <div class="panel-header">
+            <h2><i class="fa-solid fa-timeline"></i> Crime Volume Trends</h2>
+            <span style="color: var(--text-muted); font-size: 0.85rem;">Monthly aggregations</span>
+        </div>
+        <div class="chart-container">
+            <canvas id="trendChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Categories Distribution -->
+    <div class="panel-card">
+        <div class="panel-header">
+            <h2><i class="fa-solid fa-chart-pie"></i> Crime Categories</h2>
+            <span style="color: var(--text-muted); font-size: 0.85rem;">Percentage share</span>
+        </div>
+        <div class="chart-container" style="min-height: 250px; display: flex; align-items: center; justify-content: center;">
+            <canvas id="categoryChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<div class="dashboard-grid">
+    <!-- Area Statistics -->
+    <div class="panel-card">
+        <div class="panel-header">
+            <h2><i class="fa-solid fa-map-pin"></i> District crime count</h2>
+            <span style="color: var(--text-muted); font-size: 0.85rem;">Area comparisons</span>
+        </div>
+        <div class="chart-container">
+            <canvas id="areaChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Data Import & SQLite seeding -->
+    <div class="panel-card" style="justify-content: space-between;">
+        <div class="panel-header">
+            <h2><i class="fa-solid fa-file-import"></i> Upload Crime Dataset</h2>
+        </div>
+        <div>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.5;">
+                Upload a crime log CSV file to retrain the intelligence models. Ensure columns match:
+                <code style="background: rgba(255,255,255,0.05); padding: 2px 4px; border-radius: 4px; font-size: 0.8rem;">
+                    Crime_ID, Crime_Type, Location, Latitude, Longitude, Date, Time, Area, Severity, Arrest_Made
+                </code>.
+            </p>
+            <div class="upload-container" id="upload-zone">
+                <input type="file" id="file-input" style="display: none;" accept=".csv" />
+                <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                <div class="upload-text">
+                    <strong>Click to upload</strong> or drag & drop CSV
+                </div>
+            </div>
+            <div id="upload-progress" style="display: none; margin-top: 1rem; text-align: center; color: var(--accent);">
+                <i class="fa-solid fa-circle-notch fa-spin"></i> Processing & Retraining...
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Machine Learning Model Performance Metrics -->
+<div class="panel-card" style="margin-bottom: 2rem;">
+    <div class="panel-header">
+        <h2><i class="fa-solid fa-square-poll-vertical"></i> Algorithm Accuracy Benchmarks</h2>
+        <span style="color: var(--text-muted); font-size: 0.85rem;">Evaluation on 20% validation split</span>
+    </div>
+    
+    <div style="overflow-x: auto;">
+        <table class="metrics-table">
+            <thead>
+                <tr>
+                    <th>Target Variable</th>
+                    <th>Model / Algorithm</th>
+                    <th>Accuracy</th>
+                    <th>Precision</th>
+                    <th>Recall</th>
+                    <th>F1 Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for target_name, algs in metrics.items() %}
+                    {% for alg_name, met in algs.items() %}
+                    <tr>
+                        {% if loop.first %}
+                            <td rowspan="3" style="font-weight: 600; border-right: 1px solid var(--border-color); vertical-align: middle;">
+                                {{ target_name.replace('_', ' ').capitalize() }}
+                            </td>
+                        {% endif %}
+                        <td>
+                            {% if alg_name == 'rf' %}Random Forest Classifier
+                            {% elif alg_name == 'dt' %}Decision Tree
+                            {% else %}Logistic Regression{% endif %}
+                        </td>
+                        <td style="font-weight: 600; color: var(--accent);">{{ (met.accuracy * 100)|round(2) }}%</td>
+                        <td>{{ met.precision }}</td>
+                        <td>{{ met.recall }}</td>
+                        <td>{{ met.f1_score }}</td>
+                    </tr>
+                    {% endfor %}
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<!-- ChartJS -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Embedded Data -->
+<script id="chart-data" type="application/json">
+    {{ summary|tojson }}
+</script>
+<!-- Dashboard JS -->
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+{% endblock %}

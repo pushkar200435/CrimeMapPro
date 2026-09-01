@@ -1,0 +1,195 @@
+{% extends 'base.html' %}
+
+{% block title %}Safe Routing - CrimeMap Pro{% endblock %}
+
+{% block page_heading %}Safe Route Planner{% endblock %}
+{% block page_subheading %}Determine the safest path between districts based on physical distance and machine learning crime predictions{% endblock %}
+
+{% block content %}
+<div class="predict-grid" style="margin-bottom: 2rem;">
+    <!-- Left Panel: Inputs & Stats -->
+    <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+        <!-- Route Form Card -->
+        <div class="panel-card">
+            <div class="panel-header">
+                <h2><i class="fa-solid fa-route"></i> Route Parameters</h2>
+                <span style="color: var(--text-muted); font-size: 0.85rem;">Input configuration</span>
+            </div>
+            
+            <form id="routing-form" style="display: flex; flex-direction: column; gap: 0.85rem;">
+                <div class="form-group" style="margin-bottom: 0.75rem;">
+                    <label for="source"><i class="fa-solid fa-location-dot" style="color: var(--accent);"></i> Source Location</label>
+                    <select id="source" class="form-control" required>
+                        <option value="" disabled selected>Select Source Location</option>
+                        {% for loc in locations %}
+                            <option value="{{ loc }}">{{ loc }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                
+                <div class="form-group" style="margin-bottom: 0.75rem;">
+                    <label for="destination"><i class="fa-solid fa-flag-checkered" style="color: var(--success);"></i> Destination Location</label>
+                    <select id="destination" class="form-control" required>
+                        <option value="" disabled selected>Select Destination Location</option>
+                        {% for loc in locations %}
+                            <option value="{{ loc }}">{{ loc }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                    <div class="form-group" style="margin-bottom: 0.75rem;">
+                        <label for="route-date">Date</label>
+                        <input type="date" id="route-date" class="form-control" required />
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 0.75rem;">
+                        <label for="route-time">Time</label>
+                        <input type="time" id="route-time" class="form-control" required />
+                    </div>
+                </div>
+                
+                <div class="form-group" style="margin-bottom: 0.75rem;">
+                    <label for="route-model"><i class="fa-solid fa-microchip"></i> ML Prediction Classifier</label>
+                    <select id="route-model" class="form-control" required>
+                        <option value="rf" selected>Random Forest Classifier</option>
+                        <option value="dt">Decision Tree Classifier</option>
+                        <option value="lr">Logistic Regression</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="btn btn-primary" style="margin-top: 0.5rem; justify-content: center; padding: 12px;">
+                    <i class="fa-solid fa-route"></i> Calculate Safest Path
+                </button>
+            </form>
+        </div>
+        
+        <!-- Live Location Safety Check Card -->
+        <div class="panel-card">
+            <div class="panel-header">
+                <h2><i class="fa-solid fa-location-crosshairs"></i> Current Location Safety Check</h2>
+            </div>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem;">
+                Instantly check risk thresholds and clearance clearances for a specific location and hour.
+            </p>
+            <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
+                <select id="check-location" class="form-control" style="flex-grow: 1; padding: 8px 12px; font-size: 0.9rem;">
+                    <option value="" disabled selected>Select Location</option>
+                    {% for loc in locations %}
+                        <option value="{{ loc }}">{{ loc }}</option>
+                    {% endfor %}
+                </select>
+                <button onclick="runSafetyCheck()" class="btn btn-secondary" style="padding: 10px 14px; font-size: 0.85rem;">
+                    <i class="fa-solid fa-magnifying-glass"></i> Check
+                </button>
+            </div>
+            
+            <!-- Safety Check Output (Hidden by default) -->
+            <div id="check-output" style="display: none; background: rgba(255,255,255,0.03); border: 1px solid var(--border-color); border-radius: 8px; padding: 12px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                    <span id="check-title" style="font-weight: 600; font-size: 0.95rem;">Downtown</span>
+                    <span id="check-badge" style="font-size: 0.8rem; padding: 2px 8px; border-radius: 20px; font-weight: 600;">High Risk</span>
+                </div>
+                <div style="font-size: 0.85rem; margin-bottom: 10px; display: flex; justify-content: space-between;">
+                    <span style="color: var(--text-muted);">Safety Index:</span>
+                    <strong id="check-score">82%</strong>
+                </div>
+                <div id="check-tips" style="font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border-color); padding-top: 8px;">
+                    <!-- Appended tips -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Panel: Map & Route Options Comparisons -->
+    <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+        <!-- Route Map Card -->
+        <div class="panel-card" style="padding: 1.25rem;">
+            <div class="panel-header" style="margin-bottom: 1rem;">
+                <h2><i class="fa-solid fa-map"></i> Safe route overlay</h2>
+                <span id="route-status" style="color: var(--text-muted); font-size: 0.85rem;">Please select start/end nodes</span>
+            </div>
+            
+            <div class="map-panel" style="height: 400px; position: relative;">
+                <!-- Loading Screen overlay -->
+                <div id="map-loading" style="display: none; position: absolute; top:0; left:0; width:100%; height:100%; background: rgba(11,15,25,0.8); z-index:10; justify-content:center; align-items:center; flex-direction:column; gap:12px;">
+                    <i class="fa-solid fa-circle-notch fa-spin" style="font-size: 2.5rem; color: var(--accent);"></i>
+                    <p style="color: white; font-size: 0.95rem;">Rendering color-coded route overlays...</p>
+                </div>
+                <iframe id="route-map-frame" src="/map-route-raw" class="map-iframe"></iframe>
+            </div>
+        </div>
+        
+        <!-- Route Details Comparison Table Card -->
+        <div id="route-details-card" class="panel-card" style="display: none;">
+            <div class="panel-header">
+                <h2><i class="fa-solid fa-network-wired"></i> Route Options Comparison</h2>
+            </div>
+            
+            <!-- Cards listing safest, shortest, balanced options -->
+            <div style="display: flex; flex-direction: column; gap: 10px;">
+                <!-- SAFEST -->
+                <div style="border: 1px solid rgba(16, 185, 129, 0.2); background: rgba(16, 185, 129, 0.04); border-radius: 8px; padding: 12px; display: flex; justify-content: space-between; align-items: center;">
+                    <div>
+                        <div style="font-weight: 600; color: #10b981; font-size: 0.95rem; margin-bottom: 4px;">
+                            <i class="fa-solid fa-shield-heart"></i> Safest Path (Green Overlay)
+                        </div>
+                        <div id="safest-nodes" style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">
+                            Downtown → Uptown → Suburbs
+                        </div>
+                        <div style="font-size: 0.85rem;">
+                            Distance: <strong id="safest-dist">8.5 km</strong> &nbsp;|&nbsp; Est. Time: <strong id="safest-time">18 mins</strong>
+                        </div>
+                    </div>
+                    <div style="text-align: right;">
+                        <span style="font-size: 0.75rem; color: var(--text-muted); display: block; margin-bottom: 2px;">Safety Index</span>
+                        <strong id="safest-score" style="font-size: 1.5rem; color: #10b981; font-family: var(--font-heading);">85%</strong>
+                    </div>
+                </div>
+
+                <!-- BALANCED -->
+                <div style="border: 1px solid rgba(245, 158, 11, 0.2); background: rgba(245, 158, 11, 0.04); border-radius: 8px; padding: 12px; display: flex; justify-content: space-between; align-items: center;">
+                    <div>
+                        <div style="font-weight: 600; color: #f59e0b; font-size: 0.95rem; margin-bottom: 4px;">
+                            <i class="fa-solid fa-scale-balanced"></i> Balanced Path (Yellow Overlay)
+                        </div>
+                        <div id="balanced-nodes" style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">
+                            Downtown → Uptown → Suburbs
+                        </div>
+                        <div style="font-size: 0.85rem;">
+                            Distance: <strong id="balanced-dist">8.5 km</strong> &nbsp;|&nbsp; Est. Time: <strong id="balanced-time">18 mins</strong>
+                        </div>
+                    </div>
+                    <div style="text-align: right;">
+                        <span style="font-size: 0.75rem; color: var(--text-muted); display: block; margin-bottom: 2px;">Safety Index</span>
+                        <strong id="balanced-score" style="font-size: 1.5rem; color: #f59e0b; font-family: var(--font-heading);">85%</strong>
+                    </div>
+                </div>
+
+                <!-- SHORTEST -->
+                <div style="border: 1px solid rgba(239, 68, 68, 0.2); background: rgba(239, 68, 68, 0.04); border-radius: 8px; padding: 12px; display: flex; justify-content: space-between; align-items: center;">
+                    <div>
+                        <div style="font-weight: 600; color: #ef4444; font-size: 0.95rem; margin-bottom: 4px;">
+                            <i class="fa-solid fa-gauge-simple-high"></i> Shortest Path (Red Dashed Overlay)
+                        </div>
+                        <div id="shortest-nodes" style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">
+                            Downtown → Uptown → Suburbs
+                        </div>
+                        <div style="font-size: 0.85rem;">
+                            Distance: <strong id="shortest-dist">8.5 km</strong> &nbsp;|&nbsp; Est. Time: <strong id="shortest-time">18 mins</strong>
+                        </div>
+                    </div>
+                    <div style="text-align: right;">
+                        <span style="font-size: 0.75rem; color: var(--text-muted); display: block; margin-bottom: 2px;">Safety Index</span>
+                        <strong id="shortest-score" style="font-size: 1.5rem; color: #ef4444; font-family: var(--font-heading);">85%</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/routes.js') }}"></script>
+{% endblock %}
